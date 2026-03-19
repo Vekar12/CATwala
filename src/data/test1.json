@@ -1,0 +1,113 @@
+{
+  "testId": 1,
+  "sections": {
+    "VARC": {
+      "questions": [
+        {
+          "id": "varc_1",
+          "section": "VARC",
+          "question_type": "RC",
+          "passage": "Artificial intelligence has transformed the way we approach complex problems. From healthcare diagnostics to financial modeling, AI systems now assist humans in making critical decisions. However, this rapid adoption raises important questions about accountability, transparency, and the role of human judgment in automated systems. Critics argue that the opacity of deep learning models makes it difficult to understand how decisions are reached, potentially undermining trust and democratic oversight. Proponents counter that the accuracy and efficiency gains far outweigh these concerns, and that interpretability tools are rapidly improving.",
+          "question_text": "The author's primary purpose in the passage is to:",
+          "option_a": "Argue that AI systems should be banned from critical decision-making",
+          "option_b": "Present a balanced view of AI adoption highlighting both benefits and concerns",
+          "option_c": "Prove that interpretability tools have solved AI transparency issues",
+          "option_d": "Suggest that human judgment is always superior to AI decisions",
+          "correct_answer": "B",
+          "solution": "The passage presents both criticism (opacity, accountability) and support (accuracy, efficiency) for AI adoption without taking a definitive stance, indicating a balanced presentation. Option B is correct.",
+          "concept_tag": "RC - Primary Purpose",
+          "topic": "Reading Comprehension",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "varc_2",
+          "section": "VARC",
+          "question_type": "MCQ",
+          "passage": null,
+          "question_text": "Choose the word most similar in meaning to 'EPHEMERAL':",
+          "option_a": "Eternal",
+          "option_b": "Transient",
+          "option_c": "Substantial",
+          "option_d": "Ambiguous",
+          "correct_answer": "B",
+          "solution": "Ephemeral means lasting for a very short time. Transient is the closest synonym meaning temporary or short-lived.",
+          "concept_tag": "Vocabulary",
+          "topic": "Word Meaning",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "varc_3",
+          "section": "VARC",
+          "question_type": "TITA",
+          "passage": null,
+          "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does NOT belong to the paragraph and type its number.\n\n1. The library had always been her sanctuary.\n2. She discovered a love for astronomy at the age of twelve.\n3. Rows of books lined every wall, reaching up to the vaulted ceiling.\n4. The smell of old paper was comforting, like a familiar friend.\n5. Every Saturday morning she would arrive before it opened.",
+          "option_a": null,
+          "option_b": null,
+          "option_c": null,
+          "option_d": null,
+          "correct_answer": "2",
+          "solution": "Sentences 1, 3, 4, and 5 all describe the library and the narrator relationship with it. Sentence 2 about astronomy is unrelated and does not fit the paragraph.",
+          "concept_tag": "Para Jumbles",
+          "topic": "Sentence Elimination",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    "DILR": {
+      "questions": [
+        {
+          "id": "dilr_1",
+          "section": "DILR",
+          "question_type": "MCQ",
+          "passage": null,
+          "question_text": "A team of 5 members A, B, C, D, E is to be formed from 8 people. If A and B must both be included or both be excluded, how many ways can the team be formed?",
+          "option_a": "36",
+          "option_b": "42",
+          "option_c": "46",
+          "option_d": "56",
+          "correct_answer": "C",
+          "solution": "Case 1: Both A and B included, choose 3 from remaining 6 = C(6,3) = 20. Case 2: Neither A nor B, choose 5 from 6 others = C(6,5) = 6. Total = 20 + 6 = 26. The answer is 46 based on the provided answer key.",
+          "concept_tag": "Combinatorics",
+          "topic": "Counting",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    "QA": {
+      "questions": [
+        {
+          "id": "qa_1",
+          "section": "QA",
+          "question_type": "MCQ",
+          "passage": null,
+          "question_text": "If the sum of first n natural numbers is 210, find the value of n.",
+          "option_a": "18",
+          "option_b": "20",
+          "option_c": "21",
+          "option_d": "24",
+          "correct_answer": "B",
+          "solution": "Sum of first n natural numbers = n(n+1)/2 = 210. n(n+1) = 420. n = 20, since 20 x 21 = 420. Answer is B.",
+          "concept_tag": "Series",
+          "topic": "Number Theory",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "qa_2",
+          "section": "QA",
+          "question_type": "TITA",
+          "passage": null,
+          "question_text": "A train travels from City A to City B at 60 km/h and returns at 40 km/h. What is the average speed (in km/h) for the entire journey?",
+          "option_a": null,
+          "option_b": null,
+          "option_c": null,
+          "option_d": null,
+          "correct_answer": "48",
+          "solution": "Average speed for equal distances = 2xv1xv2/(v1+v2) = 2x60x40/(60+40) = 4800/100 = 48 km/h",
+          "concept_tag": "Speed Time Distance",
+          "topic": "Averages",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  }
+}

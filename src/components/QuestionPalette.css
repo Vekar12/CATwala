@@ -1,0 +1,105 @@
+.palette {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #fafafa;
+  border-left: 1px solid var(--gray-300);
+  overflow-y: auto;
+}
+
+.palette-header {
+  background: var(--navy);
+  color: var(--white);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.palette-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.palette-section {
+  font-size: 0.78rem;
+  opacity: 0.8;
+}
+
+.palette-counts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--gray-300);
+  flex-shrink: 0;
+}
+
+.palette-count-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78rem;
+  color: var(--text-medium);
+}
+
+.palette-count-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.palette-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+  padding: 12px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.palette-btn {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: none;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: transform 0.1s, box-shadow 0.1s;
+  min-width: 0;
+}
+
+.palette-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.palette-btn-active {
+  outline: 3px solid var(--navy);
+  outline-offset: 2px;
+}
+
+.btn-submit-section {
+  margin: 12px;
+  padding: 12px;
+  background: var(--navy);
+  color: var(--white);
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background 0.2s;
+  flex-shrink: 0;
+}
+
+.btn-submit-section:hover {
+  background: var(--orange);
+}
+
+.btn-submit-urgent {
+  background: var(--red);
+  animation: pulse 1s infinite;
+}

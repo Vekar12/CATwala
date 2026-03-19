@@ -1,0 +1,180 @@
+.home {
+  min-height: 100vh;
+  background: var(--gray-100);
+}
+
+.home-header {
+  background: var(--navy);
+  color: var(--white);
+  padding: 24px 48px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.home-logo {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.logo-cat {
+  color: var(--orange);
+}
+
+.logo-wala {
+  color: var(--white);
+}
+
+.home-tagline {
+  color: rgba(255,255,255,0.75);
+  font-size: 0.95rem;
+  border-left: 2px solid rgba(255,255,255,0.3);
+  padding-left: 24px;
+}
+
+.home-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+.home-section-title {
+  font-size: 1.5rem;
+  color: var(--navy);
+  margin-bottom: 24px;
+  font-weight: 700;
+}
+
+.test-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.test-card {
+  background: var(--white);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border: 1px solid var(--gray-300);
+  transition: box-shadow 0.2s, transform 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.test-card:not(.locked):hover {
+  box-shadow: 0 6px 20px rgba(26,35,126,0.15);
+  transform: translateY(-2px);
+}
+
+.test-card.locked {
+  opacity: 0.6;
+  background: var(--gray-200);
+}
+
+.test-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.test-card-header h3 {
+  font-size: 1.1rem;
+  color: var(--navy);
+  font-weight: 700;
+}
+
+.lock-icon {
+  font-size: 1.1rem;
+}
+
+.status-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.available-badge {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.completed-badge {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.test-card-meta {
+  display: flex;
+  gap: 8px;
+  color: var(--text-light);
+  font-size: 0.875rem;
+}
+
+.locked-hint {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  font-style: italic;
+}
+
+.btn-start {
+  background: var(--navy);
+  color: var(--white);
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  width: 100%;
+  transition: background 0.2s;
+  margin-top: auto;
+}
+
+.btn-start:hover {
+  background: var(--orange);
+}
+
+.card-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: auto;
+}
+
+.btn-results {
+  flex: 1;
+  background: var(--navy);
+  color: var(--white);
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+
+.btn-results:hover {
+  background: var(--navy-light);
+}
+
+.btn-retake {
+  flex: 1;
+  background: transparent;
+  color: var(--navy);
+  border: 2px solid var(--navy);
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.btn-retake:hover {
+  background: var(--navy);
+  color: var(--white);
+}
