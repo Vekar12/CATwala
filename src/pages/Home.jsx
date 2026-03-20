@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../hooks/useAuth'
 import { getUnlocks, getTests, getCompletedTests } from '../utils/storage'
 import './Home.css'
@@ -44,6 +44,10 @@ export default function Home() {
         <p className="home-tagline">India's most realistic CAT mock test</p>
         <div style={{ position: 'absolute', top: 16, right: 16, display: 'flex', alignItems: 'center', gap: 12 }}>
           <span style={{ fontSize: '0.85rem', color: '#666' }}>{user?.email}</span>
+          <Link to="/analytics" style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', fontWeight: 500 }}>Analytics</Link>
+          <button onClick={() => navigate('/profile')} style={{ padding: '6px 14px', borderRadius: 6, border: '1px solid #ddd', background: '#fff', cursor: 'pointer' }}>
+            Profile
+          </button>
           <button onClick={signOut} style={{ padding: '6px 14px', borderRadius: 6, border: '1px solid #ddd', background: '#fff', cursor: 'pointer' }}>
             Logout
           </button>

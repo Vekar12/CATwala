@@ -208,3 +208,61 @@ export async function getTests() {
 export function markTestComplete() {
   // no-op: handled server-side
 }
+
+// --- Profile ---
+
+export async function getProfile() {
+  const { data: { user } } = await supabase.auth.getUser()
+  if (!user) return null
+
+  const { data } = await supabase
+    .from('profiles')
+    .select('*')
+    .eq('id', user.id)
+    .single()
+
+  return data
+}
+
+export async function updateProfile(updates) {
+  const { data: { user } } = await supabase.auth.getUser()
+  if (!user) return null
+
+  const { data, error } = await supabase
+    .from('profiles')
+    .update({ ...updates, updated_at: new Date().toISOString() })
+    .eq('id', user.id)
+    .select()
+    .single()
+
+  if (error) {
+    console.error('updateProfile error:', error.message)
+    return null
+  }
+  return data
+}
+
+// --- Syllabus ---
+
+export async function getSyllabusTopics() {
+  const { data } = await supabase
+    .from('syllabus_topics')
+    .select('*')
+    .order('sort_order')
+
+  return data || []
+}
+
+// --- Analytics ---
+
+export async function getUserAnalytics() {
+  const { data: { user } } = await supabase.auth.getUser()
+  if (!user) return null
+
+  const { data } = await supabase
+    .from('question_analytics')
+    .select('*')
+    .eq('user_id', user.id)
+
+  return data || []
+}

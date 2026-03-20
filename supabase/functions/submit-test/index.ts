@@ -153,6 +153,46 @@ serve(async (req) => {
       estimated_percentile: percentile,
     })
 
+    // Save per-question analytics
+    const analyticsRows = (questions || []).map(q => {
+      const resp = responseMap.get(q.id)
+      const userAnswer = resp?.selected_option?.trim().toLowerCase()
+      const isAttempted = !!userAnswer && userAnswer !== ''
+      const isCorrect = isAttempted ? userAnswer === q.correct_answer.trim().toLowerCase() : null
+
+      return {
+        user_id: user.id,
+        attempt_id: attemptId,
+        question_id: q.id,
+        test_id: attempt.test_id,
+        section: q.section,
+        topic: null,  // will be populated from questions table
+        concept_tag: null,
+        difficulty: null,
+        time_spent_seconds: 0,
+        is_correct: isCorrect,
+        is_attempted: isAttempted,
+      }
+    })
+
+    // Fetch topic/concept/difficulty for each question
+    const { data: questionDetails } = await supabase
+      .from('questions')
+      .select('id, topic, concept_tag, difficulty')
+      .eq('test_id', attempt.test_id)
+
+    const detailMap = new Map((questionDetails || []).map(q => [q.id, q]))
+    for (const row of analyticsRows) {
+      const detail = detailMap.get(row.question_id)
+      if (detail) {
+        row.topic = detail.topic
+        row.concept_tag = detail.concept_tag
+        row.difficulty = detail.difficulty
+      }
+    }
+
+    await supabase.from('question_analytics').upsert(analyticsRows, { onConflict: 'user_id,attempt_id,question_id' })
+
     // Mark attempt as submitted
     const now = new Date().toISOString()
     await supabase
