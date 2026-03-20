@@ -26,6 +26,7 @@ export default function Test() {
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const [pageLoading, setPageLoading] = useState(true)
   const timerRef = useRef(null)
+  const autoSaveRef = useRef(null)
   const saveRef = useRef(null)
   const questionSectionsRef = useRef({})
 
@@ -33,6 +34,10 @@ export default function Test() {
   useEffect(() => {
     async function init() {
       const { data: { session: authSession } } = await supabase.auth.getSession()
+      if (!authSession) {
+        navigate('/login')
+        return
+      }
       const resp = await supabase.functions.invoke('get-questions', {
         body: { testId: Number(testId) },
         headers: { Authorization: `Bearer ${authSession.access_token}` },
@@ -79,11 +84,21 @@ export default function Test() {
   // Auto-save every 10 seconds
   useEffect(() => {
     if (!session) return
-    const interval = setInterval(() => {
+    autoSaveRef.current = setInterval(() => {
       if (saveRef.current) saveSession(testId, saveRef.current)
     }, 10000)
-    return () => clearInterval(interval)
+    return () => clearInterval(autoSaveRef.current)
   }, [testId, session?.attemptId])
+
+  // Warn before closing tab
+  useEffect(() => {
+    const handler = (e) => {
+      e.preventDefault()
+      e.returnValue = ''
+    }
+    window.addEventListener('beforeunload', handler)
+    return () => window.removeEventListener('beforeunload', handler)
+  }, [])
 
   // Tick timer every second
   useEffect(() => {
@@ -215,6 +230,7 @@ export default function Test() {
 
   async function handleSubmitTest() {
     clearInterval(timerRef.current)
+    clearInterval(autoSaveRef.current)
 
     // Save final state first
     if (saveRef.current) {
@@ -223,6 +239,10 @@ export default function Test() {
 
     // Call submit-test Edge Function
     const { data: { session: authSession } } = await supabase.auth.getSession()
+    if (!authSession) {
+      navigate('/login')
+      return
+    }
     const { error } = await supabase.functions.invoke('submit-test', {
       body: { attemptId: saveRef.current.attemptId },
       headers: { Authorization: `Bearer ${authSession.access_token}` },

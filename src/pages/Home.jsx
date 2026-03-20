@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../hooks/useAuth'
-import { getUnlocks, getTests } from '../utils/storage'
+import { getUnlocks, getTests, getCompletedTests } from '../utils/storage'
 import './Home.css'
 
 export default function Home() {
@@ -9,22 +9,25 @@ export default function Home() {
   const { user, signOut } = useAuth()
   const [tests, setTests] = useState([])
   const [unlocks, setUnlocks] = useState([])
+  const [completed, setCompleted] = useState([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     async function load() {
-      const [testList, unlockList] = await Promise.all([
+      const [testList, unlockList, completedList] = await Promise.all([
         getTests(),
         getUnlocks(),
+        getCompletedTests(),
       ])
       setTests(testList)
       setUnlocks(unlockList)
+      setCompleted(completedList)
       setLoading(false)
     }
     load()
   }, [])
 
-  const isCompleted = (n) => unlocks.includes(n)
+  const isCompleted = (n) => completed.includes(n)
   const isUnlocked = (n) => n === 1 || unlocks.includes(n - 1)
 
   if (loading) {

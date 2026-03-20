@@ -108,9 +108,7 @@ serve(async (req) => {
       const section = q.section
       const isTITA = q.question_type === 'TITA'
 
-      const userAnswer = isTITA
-        ? resp?.tita_answer?.trim().toLowerCase()
-        : resp?.selected_option?.trim().toLowerCase()
+      const userAnswer = resp?.selected_option?.trim().toLowerCase()
 
       if (!userAnswer || userAnswer === '') {
         sectionStats[section].unattempted += 1

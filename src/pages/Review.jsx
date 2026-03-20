@@ -25,6 +25,10 @@ export default function Review() {
       }
 
       const { data: { session } } = await supabase.auth.getSession()
+      if (!session) {
+        navigate('/login')
+        return
+      }
       const { data, error } = await supabase.functions.invoke('get-review', {
         body: { attemptId: result.attemptId },
         headers: { Authorization: `Bearer ${session.access_token}` },
