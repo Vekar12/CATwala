@@ -1,6 +1,7 @@
-import { useState, useEffect } from 'react'
+import { useEffect } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
-import { loadResult } from '../utils/storage'
+import { loadResult, markTestComplete } from '../utils/storage'
+import { getPercentile } from '../utils/percentile'
 import './Results.css'
 
 function fmtTime(seconds) {
@@ -12,21 +13,13 @@ function fmtTime(seconds) {
 export default function Results() {
   const { testId } = useParams()
   const navigate = useNavigate()
-  const [result, setResult] = useState(null)
-  const [loading, setLoading] = useState(true)
+  const result = loadResult(testId)
 
   useEffect(() => {
-    async function load() {
-      const r = await loadResult(testId)
-      setResult(r)
-      setLoading(false)
+    if (result) {
+      markTestComplete(testId)
     }
-    load()
-  }, [testId])
-
-  if (loading) {
-    return <div className="results-empty"><p>Loading results...</p></div>
-  }
+  }, [testId, result])
 
   if (!result) {
     return (
@@ -37,12 +30,28 @@ export default function Results() {
     )
   }
 
-  const { score, percentile, timings } = result
+  const { score, timings } = result
+  const percentile = getPercentile(score.total)
 
   const sections = [
-    { name: 'VARC', score: score.varc, stats: score.varcStats, time: timings?.varc || 0 },
-    { name: 'DILR', score: score.dilr, stats: score.dilrStats, time: timings?.dilr || 0 },
-    { name: 'QA', score: score.qa, stats: score.qaStats, time: timings?.qa || 0 },
+    {
+      name: 'VARC',
+      score: score.varc,
+      stats: score.varcStats,
+      time: timings?.varc || 0,
+    },
+    {
+      name: 'DILR',
+      score: score.dilr,
+      stats: score.dilrStats,
+      time: timings?.dilr || 0,
+    },
+    {
+      name: 'QA',
+      score: score.qa,
+      stats: score.qaStats,
+      time: timings?.qa || 0,
+    },
   ]
 
   const totalAttempted = score.correct + score.wrong
@@ -79,26 +88,57 @@ export default function Results() {
               <div className="sec-name">{sec.name}</div>
               <div className="sec-score">{sec.score} pts</div>
               <div className="sec-stats">
-                <div className="stat-row"><span>Correct</span><span className="stat-val correct">{sec.stats?.correct || 0}</span></div>
-                <div className="stat-row"><span>Wrong</span><span className="stat-val wrong">{sec.stats?.wrong || 0}</span></div>
-                <div className="stat-row"><span>Unattempted</span><span className="stat-val">{sec.stats?.unattempted || 0}</span></div>
-                <div className="stat-row"><span>Time Used</span><span className="stat-val">{fmtTime(sec.time)}</span></div>
+                <div className="stat-row">
+                  <span>Correct</span>
+                  <span className="stat-val correct">{sec.stats?.correct || 0}</span>
+                </div>
+                <div className="stat-row">
+                  <span>Wrong</span>
+                  <span className="stat-val wrong">{sec.stats?.wrong || 0}</span>
+                </div>
+                <div className="stat-row">
+                  <span>Unattempted</span>
+                  <span className="stat-val">{sec.stats?.unattempted || 0}</span>
+                </div>
+                <div className="stat-row">
+                  <span>Time Used</span>
+                  <span className="stat-val">{fmtTime(sec.time)}</span>
+                </div>
               </div>
             </div>
           ))}
         </div>
 
         <div className="overall-stats">
-          <div className="stat-box"><div className="stat-box-val">{totalAttempted}</div><div className="stat-box-label">Total Attempted</div></div>
-          <div className="stat-box"><div className="stat-box-val correct">{score.correct}</div><div className="stat-box-label">Correct</div></div>
-          <div className="stat-box"><div className="stat-box-val wrong">{score.wrong}</div><div className="stat-box-label">Wrong</div></div>
-          <div className="stat-box"><div className="stat-box-val">{score.unattempted}</div><div className="stat-box-label">Unattempted</div></div>
-          <div className="stat-box"><div className="stat-box-val">{accuracy}%</div><div className="stat-box-label">Accuracy</div></div>
+          <div className="stat-box">
+            <div className="stat-box-val">{totalAttempted}</div>
+            <div className="stat-box-label">Total Attempted</div>
+          </div>
+          <div className="stat-box">
+            <div className="stat-box-val correct">{score.correct}</div>
+            <div className="stat-box-label">Correct</div>
+          </div>
+          <div className="stat-box">
+            <div className="stat-box-val wrong">{score.wrong}</div>
+            <div className="stat-box-label">Wrong</div>
+          </div>
+          <div className="stat-box">
+            <div className="stat-box-val">{score.unattempted}</div>
+            <div className="stat-box-label">Unattempted</div>
+          </div>
+          <div className="stat-box">
+            <div className="stat-box-val">{accuracy}%</div>
+            <div className="stat-box-label">Accuracy</div>
+          </div>
         </div>
 
         <div className="results-actions">
-          <button className="btn-review" onClick={() => navigate(`/review/${testId}`)}>Review Answers</button>
-          <button className="btn-home" onClick={() => navigate('/')}>Back to Home</button>
+          <button className="btn-review" onClick={() => navigate(`/review/${testId}`)}>
+            Review Answers
+          </button>
+          <button className="btn-home" onClick={() => navigate('/')}>
+            Back to Home
+          </button>
         </div>
       </div>
     </div>

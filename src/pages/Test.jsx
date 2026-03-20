@@ -5,113 +5,86 @@ import QuestionPalette from '../components/QuestionPalette'
 import SectionTabs from '../components/SectionTabs'
 import Timer from '../components/Timer'
 import Calculator from '../components/Calculator'
-import { loadSession, saveSession } from '../utils/storage'
-import { supabase } from '../lib/supabase'
+import { loadSession, saveSession, saveResult } from '../utils/storage'
+import { calculateScore } from '../utils/scoring'
+import testData from '../data/test1.json'
 import './Test.css'
 
 const SECTIONS = ['VARC', 'DILR', 'QA']
-const SECTION_TIME = 2400
+const SECTION_TIME = 2400 // 40 minutes in seconds
 
-function getSectionQuestions(testData, section) {
-  return testData?.sections?.[section]?.questions || []
+function getAllQuestions(data) {
+  const all = []
+  SECTIONS.forEach((s) => {
+    const qs = data.sections[s]?.questions || []
+    all.push(...qs)
+  })
+  return all
+}
+
+function getSectionQuestions(data, section) {
+  return data.sections[section]?.questions || []
 }
 
 export default function Test() {
   const { testId } = useParams()
   const navigate = useNavigate()
 
-  const [testData, setTestData] = useState(null)
-  const [session, setSession] = useState(null)
+  const [session, setSession] = useState(() => {
+    const saved = loadSession(testId)
+    return saved || {
+      testId: Number(testId),
+      currentSection: 'VARC',
+      currentQuestionIndex: 0,
+      varc_time_remaining: SECTION_TIME,
+      dilr_time_remaining: SECTION_TIME,
+      qa_time_remaining: SECTION_TIME,
+      answers: {},
+    }
+  })
+
   const [showCalc, setShowCalc] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
-  const [pageLoading, setPageLoading] = useState(true)
   const timerRef = useRef(null)
-  const saveRef = useRef(null)
-  const questionSectionsRef = useRef({})
 
-  // Load test data and session on mount
+  const currentSection = session.currentSection
+  const currentIndex = session.currentQuestionIndex
+  const answers = session.answers
+
+  const sectionQuestions = getSectionQuestions(testData, currentSection)
+  const currentQuestion = sectionQuestions[currentIndex]
+
+  const timeKey = `${currentSection.toLowerCase()}_time_remaining`
+  const timeLeft = session[timeKey] ?? SECTION_TIME
+
+  const completedSections = SECTIONS.filter((s) => {
+    const idx = SECTIONS.indexOf(s)
+    const curIdx = SECTIONS.indexOf(currentSection)
+    return idx < curIdx
+  })
+
+  // Save session to localStorage periodically
+  const saveRef = useRef(session)
+  saveRef.current = session
+
   useEffect(() => {
-    async function init() {
-      const { data: { session: authSession } } = await supabase.auth.getSession()
-      const resp = await supabase.functions.invoke('get-questions', {
-        body: { testId: Number(testId) },
-        headers: { Authorization: `Bearer ${authSession.access_token}` },
-      })
-
-      if (resp.error) {
-        console.error('Failed to load questions:', resp.error)
-        navigate('/')
-        return
-      }
-
-      setTestData(resp.data)
-
-      // Build question -> section lookup
-      const qSections = {}
-      for (const sec of SECTIONS) {
-        const qs = resp.data?.sections?.[sec]?.questions || []
-        for (const q of qs) {
-          qSections[q.id] = sec
-        }
-      }
-      questionSectionsRef.current = qSections
-
-      const saved = await loadSession(testId)
-      if (saved) {
-        setSession(saved)
-      } else {
-        navigate(`/instructions/${testId}`)
-        return
-      }
-
-      setPageLoading(false)
-    }
-    init()
-  }, [testId, navigate])
-
-  // Keep saveRef in sync
-  useEffect(() => {
-    if (session) {
-      saveRef.current = { ...session, _questionSections: questionSectionsRef.current }
-    }
-  }, [session])
-
-  // Auto-save every 10 seconds
-  useEffect(() => {
-    if (!session) return
     const interval = setInterval(() => {
-      if (saveRef.current) saveSession(testId, saveRef.current)
+      saveSession(testId, saveRef.current)
     }, 10000)
     return () => clearInterval(interval)
-  }, [testId, session?.attemptId])
+  }, [testId])
 
   // Tick timer every second
   useEffect(() => {
-    if (!session) return
     timerRef.current = setInterval(() => {
       setSession((prev) => {
-        if (!prev) return prev
         const key = `${prev.currentSection.toLowerCase()}_time_remaining`
         const newTime = Math.max(0, (prev[key] ?? SECTION_TIME) - 1)
         return { ...prev, [key]: newTime }
       })
     }, 1000)
     return () => clearInterval(timerRef.current)
-  }, [session?.attemptId])
-
-  const currentSection = session?.currentSection || 'VARC'
-  const currentIndex = session?.currentQuestionIndex || 0
-  const answers = session?.answers || {}
-
-  const sectionQuestions = getSectionQuestions(testData, currentSection)
-  const currentQuestion = sectionQuestions[currentIndex]
-
-  const timeKey = `${currentSection.toLowerCase()}_time_remaining`
-  const timeLeft = session?.[timeKey] ?? SECTION_TIME
-
-  const completedSections = SECTIONS.filter((s) => {
-    return SECTIONS.indexOf(s) < SECTIONS.indexOf(currentSection)
-  })
+  }, [])
 
   const handleSectionExpire = useCallback(() => {
     const curIdx = SECTIONS.indexOf(currentSection)
@@ -119,7 +92,7 @@ export default function Test() {
       const nextSection = SECTIONS[curIdx + 1]
       setSession((prev) => {
         const updated = { ...prev, currentSection: nextSection, currentQuestionIndex: 0 }
-        saveSession(testId, { ...updated, _questionSections: questionSectionsRef.current })
+        saveSession(testId, updated)
         return updated
       })
     } else {
@@ -128,7 +101,10 @@ export default function Test() {
   }, [currentSection, testId])
 
   function updateSession(updates) {
-    setSession((prev) => ({ ...prev, ...updates }))
+    setSession((prev) => {
+      const updated = { ...prev, ...updates }
+      return updated
+    })
   }
 
   function handleAnswerChange(value) {
@@ -204,7 +180,7 @@ export default function Test() {
       const nextSection = SECTIONS[curIdx + 1]
       setSession((prev) => {
         const updated = { ...prev, currentSection: nextSection, currentQuestionIndex: 0 }
-        saveSession(testId, { ...updated, _questionSections: questionSectionsRef.current })
+        saveSession(testId, updated)
         return updated
       })
       setConfirmSubmit(false)
@@ -213,36 +189,33 @@ export default function Test() {
     }
   }
 
-  async function handleSubmitTest() {
+  function handleSubmitTest() {
     clearInterval(timerRef.current)
-
-    // Save final state first
-    if (saveRef.current) {
-      await saveSession(testId, saveRef.current)
+    const allQuestions = getAllQuestions(testData)
+    const finalSession = saveRef.current
+    const score = calculateScore(finalSession.answers, allQuestions)
+    const result = {
+      testId: Number(testId),
+      submittedAt: Date.now(),
+      score,
+      answers: finalSession.answers,
+      timings: {
+        varc: SECTION_TIME - (finalSession.varc_time_remaining ?? 0),
+        dilr: SECTION_TIME - (finalSession.dilr_time_remaining ?? 0),
+        qa: SECTION_TIME - (finalSession.qa_time_remaining ?? 0),
+      },
     }
-
-    // Call submit-test Edge Function
-    const { data: { session: authSession } } = await supabase.auth.getSession()
-    const { error } = await supabase.functions.invoke('submit-test', {
-      body: { attemptId: saveRef.current.attemptId },
-      headers: { Authorization: `Bearer ${authSession.access_token}` },
-    })
-
-    if (error) {
-      console.error('Submit error:', error)
-      alert('Failed to submit test. Please try again.')
-      return
-    }
-
+    saveResult(testId, result)
     navigate(`/results/${testId}`)
   }
 
-  if (pageLoading || !currentQuestion) {
+  if (!currentQuestion) {
     return <div className="test-loading">Loading test...</div>
   }
 
   return (
     <div className="test-page">
+      {/* Top bar */}
       <div className="test-topbar">
         <div className="topbar-logo">
           <span className="logo-cat">CAT</span>
@@ -257,6 +230,7 @@ export default function Test() {
         </div>
       </div>
 
+      {/* Main content */}
       <div className="test-main">
         <div className="test-left">
           <QuestionCard
