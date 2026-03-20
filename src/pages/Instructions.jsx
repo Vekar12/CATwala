@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
-import { saveSession } from '../utils/storage'
+import { createAttempt } from '../utils/storage'
 import './Instructions.css'
 
 export default function Instructions() {
@@ -8,20 +8,17 @@ export default function Instructions() {
   const navigate = useNavigate()
   const [step, setStep] = useState(1)
   const [agreed, setAgreed] = useState(false)
+  const [loading, setLoading] = useState(false)
 
-  function handleBegin() {
-    const session = {
-      testId: Number(testId),
-      currentSection: 'VARC',
-      currentQuestionIndex: 0,
-      varc_time_remaining: 2400,
-      dilr_time_remaining: 2400,
-      qa_time_remaining: 2400,
-      answers: {},
-      startedAt: Date.now(),
+  async function handleBegin() {
+    setLoading(true)
+    const session = await createAttempt(testId)
+    if (session) {
+      navigate(`/test/${testId}`)
+    } else {
+      setLoading(false)
+      alert('Failed to create test attempt. Please try again.')
     }
-    saveSession(testId, session)
-    navigate(`/test/${testId}`)
   }
 
   return (
@@ -64,38 +61,23 @@ export default function Instructions() {
             <div className="legend-list">
               <div className="legend-item">
                 <div className="legend-circle gray" />
-                <div>
-                  <strong>Not Visited</strong>
-                  <p>You have not visited this question yet</p>
-                </div>
+                <div><strong>Not Visited</strong><p>You have not visited this question yet</p></div>
               </div>
               <div className="legend-item">
                 <div className="legend-circle red" />
-                <div>
-                  <strong>Not Answered</strong>
-                  <p>You visited but did not answer</p>
-                </div>
+                <div><strong>Not Answered</strong><p>You visited but did not answer</p></div>
               </div>
               <div className="legend-item">
                 <div className="legend-circle green" />
-                <div>
-                  <strong>Answered</strong>
-                  <p>You have saved an answer</p>
-                </div>
+                <div><strong>Answered</strong><p>You have saved an answer</p></div>
               </div>
               <div className="legend-item">
                 <div className="legend-circle purple" />
-                <div>
-                  <strong>Marked for Review</strong>
-                  <p>Marked but not answered</p>
-                </div>
+                <div><strong>Marked for Review</strong><p>Marked but not answered</p></div>
               </div>
               <div className="legend-item">
                 <div className="legend-circle orange" />
-                <div>
-                  <strong>Answered &amp; Marked for Review</strong>
-                  <p>Answered and flagged for review</p>
-                </div>
+                <div><strong>Answered &amp; Marked for Review</strong><p>Answered and flagged for review</p></div>
               </div>
             </div>
           </div>
@@ -120,22 +102,14 @@ export default function Instructions() {
 
         <div className="inst-actions">
           {step > 1 && (
-            <button className="btn-prev" onClick={() => setStep(step - 1)}>
-              Previous
-            </button>
+            <button className="btn-prev" onClick={() => setStep(step - 1)}>Previous</button>
           )}
           {step < 3 && (
-            <button className="btn-next" onClick={() => setStep(step + 1)}>
-              Next
-            </button>
+            <button className="btn-next" onClick={() => setStep(step + 1)}>Next</button>
           )}
           {step === 3 && (
-            <button
-              className="btn-begin"
-              disabled={!agreed}
-              onClick={handleBegin}
-            >
-              I am ready to begin
+            <button className="btn-begin" disabled={!agreed || loading} onClick={handleBegin}>
+              {loading ? 'Starting...' : 'I am ready to begin'}
             </button>
           )}
         </div>
