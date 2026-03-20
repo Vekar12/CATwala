@@ -1,16 +1,28 @@
 import { useState, useEffect } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
-import { loadResult } from '../utils/storage'
+import { loadResult, getUserAnalytics } from '../utils/storage'
 import { supabase } from '../lib/supabase'
 import './Review.css'
 
 const SECTIONS = ['VARC', 'DILR', 'QA']
+
+// Ideal time per question by difficulty (seconds)
+const IDEAL_TIME = { Easy: 90, Medium: 150, Hard: 210 }
+
+function fmtTime(seconds) {
+  if (!seconds || seconds === 0) return '—'
+  const m = Math.floor(seconds / 60)
+  const s = seconds % 60
+  if (m > 0) return `${m}m ${s}s`
+  return `${s}s`
+}
 
 export default function Review() {
   const { testId } = useParams()
   const navigate = useNavigate()
 
   const [questions, setQuestions] = useState([])
+  const [analytics, setAnalytics] = useState({})
   const [loading, setLoading] = useState(true)
   const [sectionFilter, setSectionFilter] = useState('All')
   const [statusFilter, setStatusFilter] = useState('All')
@@ -29,18 +41,30 @@ export default function Review() {
         navigate('/login')
         return
       }
-      const { data, error } = await supabase.functions.invoke('get-review', {
-        body: { attemptId: result.attemptId },
-        headers: { Authorization: `Bearer ${session.access_token}` },
-      })
+      const [reviewResp, analyticsData] = await Promise.all([
+        supabase.functions.invoke('get-review', {
+          body: { attemptId: result.attemptId },
+          headers: { Authorization: `Bearer ${session.access_token}` },
+        }),
+        getUserAnalytics(),
+      ])
 
-      if (error) {
-        console.error('Failed to load review:', error)
+      if (reviewResp.error) {
+        console.error('Failed to load review:', reviewResp.error)
         setLoading(false)
         return
       }
 
-      setQuestions(data.questions || [])
+      setQuestions(reviewResp.data.questions || [])
+
+      // Build analytics lookup by question_id (filter to this test's attempt)
+      const analyticsMap = {}
+      for (const a of (analyticsData || [])) {
+        if (a.attempt_id === result.attemptId) {
+          analyticsMap[a.question_id] = a
+        }
+      }
+      setAnalytics(analyticsMap)
       setLoading(false)
     }
     load()
@@ -174,6 +198,44 @@ export default function Review() {
                   </div>
                 </div>
               )}
+
+              {/* Per-question analytics bar */}
+              {(() => {
+                const a = analytics[q.id]
+                const idealSec = IDEAL_TIME[q.difficulty] || IDEAL_TIME.Medium
+                const timeSpent = a?.time_spent_seconds || 0
+                const timeRatio = timeSpent > 0 ? timeSpent / idealSec : 0
+                const timeStatus = timeSpent === 0 ? 'none' : timeRatio <= 1 ? 'fast' : timeRatio <= 1.5 ? 'ok' : 'slow'
+
+                return (
+                  <div className="qa-analytics-bar">
+                    <div className="qa-analytics-item">
+                      <span className="qa-analytics-label">Time Spent</span>
+                      <span className={`qa-analytics-value ${timeStatus}`}>{fmtTime(timeSpent)}</span>
+                    </div>
+                    <div className="qa-analytics-divider" />
+                    <div className="qa-analytics-item">
+                      <span className="qa-analytics-label">Ideal Time</span>
+                      <span className="qa-analytics-value ideal">{fmtTime(idealSec)}</span>
+                    </div>
+                    <div className="qa-analytics-divider" />
+                    <div className="qa-analytics-item">
+                      <span className="qa-analytics-label">Difficulty</span>
+                      <span className={`qa-analytics-value diff-${(q.difficulty || 'Medium').toLowerCase()}`}>{q.difficulty || 'Medium'}</span>
+                    </div>
+                    <div className="qa-analytics-divider" />
+                    <div className="qa-analytics-item">
+                      <span className="qa-analytics-label">Marks</span>
+                      <span className={`qa-analytics-value ${status === 'Correct' ? 'fast' : status === 'Wrong' ? 'slow' : 'none'}`}>
+                        {status === 'Correct' ? '+3' : status === 'Wrong' ? (q.question_type === 'TITA' ? '0' : '-1') : '0'}
+                      </span>
+                    </div>
+                    {timeSpent > 0 && timeRatio > 1.5 && (
+                      <div className="qa-analytics-tip">You spent {Math.round((timeRatio - 1) * 100)}% more time than ideal. Practice similar questions to improve speed.</div>
+                    )}
+                  </div>
+                )
+              })()}
 
               <button className="btn-solution-toggle" onClick={() => toggleSolution(q.id)}>
                 {expandedSolutions[q.id] ? '▲ Hide Solution' : '▼ View Solution'}
