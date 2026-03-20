@@ -1,31 +1,40 @@
+/* ============================================
+   Timer — CAT Exam Style
+   Countdown in header
+   ============================================ */
+
 .timer {
   display: flex;
   align-items: center;
   gap: 8px;
-  background: rgba(255,255,255,0.1);
-  padding: 6px 14px;
-  border-radius: 6px;
-  color: var(--white);
+  background: rgba(255,255,255,0.08);
+  padding: 6px 16px;
+  border-radius: 4px;
+  color: white;
+  border: 1px solid rgba(255,255,255,0.12);
 }
 
 .timer-warning {
   background: rgba(244, 67, 54, 0.3);
-  animation: pulse 1s infinite;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.7; }
+  border-color: rgba(244, 67, 54, 0.5);
+  animation: timer-pulse 1s infinite;
 }
 
 .timer-label {
-  font-size: 0.8rem;
-  opacity: 0.8;
+  font-size: 0.78rem;
+  opacity: 0.7;
+  font-weight: 500;
 }
 
 .timer-value {
   font-size: 1.1rem;
   font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
   font-variant-numeric: tabular-nums;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
+}
+
+@keyframes timer-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
 }
