@@ -177,6 +177,21 @@ export async function getUnlocks() {
   return (data || []).map(r => r.test_id)
 }
 
+// --- Completed tests ---
+
+export async function getCompletedTests() {
+  const { data: { user } } = await supabase.auth.getUser()
+  if (!user) return []
+
+  const { data } = await supabase
+    .from('test_attempts')
+    .select('test_id')
+    .eq('user_id', user.id)
+    .in('status', ['submitted', 'reviewed'])
+
+  return [...new Set((data || []).map(r => r.test_id))]
+}
+
 // --- Tests list ---
 
 export async function getTests() {
