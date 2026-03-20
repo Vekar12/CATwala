@@ -25,7 +25,7 @@ export default function Login() {
 
     if (mode === 'forgot') {
       const { error: resetError } = await supabase.auth.resetPasswordForEmail(email, {
-        redirectTo: window.location.origin + '/CATwala/login',
+        redirectTo: window.location.origin + '/login',
       })
       setLoading(false)
       if (resetError) {
