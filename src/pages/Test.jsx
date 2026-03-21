@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from 'react'
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import QuestionCard from '../components/QuestionCard'
 import QuestionPalette from '../components/QuestionPalette'
@@ -10,10 +10,26 @@ import './Test.css'
 const SECTIONS = ['VARC', 'DILR', 'QA']
 const SECTION_TIME = 2400
 
+// IIM logo data: abbreviation + representative brand color
 const IIM_LOGOS = [
-  'IIM-A', 'IIM-B', 'IIM-C', 'IIM-L', 'IIM-K', 'IIM-I', 'IIM-Ko',
-  'IIM-S', 'IIM-T', 'IIM-R', 'IIM-U', 'IIM-V', 'IIM-Bo', 'IIM-J',
-  'IIM-N', 'IIM-Am', 'IIM-Si', 'IIM-Sc',
+  { name: 'A',   color: '#8B0000' },  // IIM-A: deep red/maroon
+  { name: 'B',   color: '#003580' },  // IIM-B: dark blue
+  { name: 'C',   color: '#1a3a6a' },  // IIM-C: navy
+  { name: 'L',   color: '#003580' },  // IIM-L: blue
+  { name: 'K',   color: '#5a1a8a' },  // IIM-K: purple-blue
+  { name: 'I',   color: '#c07000' },  // IIM-I: gold/amber
+  { name: 'Ko',  color: '#006060' },  // IIM-Kozhikode: teal
+  { name: 'S',   color: '#8B0000' },  // IIM-Shillong
+  { name: 'T',   color: '#003580' },  // IIM-Trichy: blue
+  { name: 'R',   color: '#4a1a1a' },  // IIM-Rohtak
+  { name: 'U',   color: '#2a6a2a' },  // IIM-Udaipur: green
+  { name: 'V',   color: '#6a1a6a' },  // IIM-Visakhapatnam
+  { name: 'Bo',  color: '#1a3a6a' },  // IIM-Bodh Gaya
+  { name: 'J',   color: '#8B4500' },  // IIM-Jammu: brown
+  { name: 'N',   color: '#003580' },  // IIM-Nagpur
+  { name: 'Am',  color: '#006a6a' },  // IIM-Amritsar
+  { name: 'Si',  color: '#4a4a00' },  // IIM-Sirmaur
+  { name: 'Sc',  color: '#8B0040' },  // IIM-Sambalpur
 ]
 
 const PALETTE_BASE = {
@@ -451,6 +467,23 @@ export default function Test() {
   const sectionQuestions = getSectionQuestions(testData, currentSection)
   const currentQuestion = sectionQuestions[currentIndex]
 
+  // Build a passage_id → passage_text map from ALL sections so any question
+  // with a passage_id can retrieve its passage even if its own passage field is null.
+  const passageIdMap = useMemo(() => {
+    if (!testData) return {}
+    const map = {}
+    for (const sec of SECTIONS) {
+      for (const q of (testData?.sections?.[sec]?.questions || [])) {
+        if (q.passage_id && q.passage) map[q.passage_id] = q.passage
+      }
+    }
+    return map
+  }, [testData])
+
+  const resolvedPassage = currentQuestion
+    ? (currentQuestion.passage || (currentQuestion.passage_id ? passageIdMap[currentQuestion.passage_id] : null) || null)
+    : null
+
   const timeKey = `${currentSection.toLowerCase()}_time_remaining`
   const timeLeft = session?.[timeKey] ?? SECTION_TIME
 
@@ -601,10 +634,13 @@ export default function Test() {
         <div className="test-brand-text">{testData?.name || 'CATwala Mock CAT'}</div>
       </div>
 
-      {/* ── IIM logos strip ── */}
+      {/* ── IIM logos strip — circular colored logo badges ── */}
       <div className="test-logos-strip">
-        {IIM_LOGOS.map((logo) => (
-          <span key={logo} className="test-logo-badge">{logo}</span>
+        {IIM_LOGOS.map((iim) => (
+          <span key={iim.name} className="test-logo-circle" style={{ background: iim.color }}>
+            <span className="test-logo-iim">IIM</span>
+            <span className="test-logo-abbr">{iim.name}</span>
+          </span>
         ))}
       </div>
 
@@ -681,7 +717,7 @@ export default function Test() {
         <div className="test-left">
           <div className="test-question-area">
             <QuestionCard
-              question={currentQuestion}
+              question={{ ...currentQuestion, passage: resolvedPassage }}
               questionNumber={currentIndex + 1}
               selectedOption={pendingAnswer}
               onAnswerChange={handleAnswerChange}
