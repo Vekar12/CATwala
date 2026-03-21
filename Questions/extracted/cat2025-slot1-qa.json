@@ -1,0 +1,205 @@
+{
+  "source": "CAT 2025 Solved Paper (Slot-1)",
+  "section": "QA",
+  "total_questions": 22,
+  "questions": [
+    {
+      "id": "cat2025s1_qa_01",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "In a class, there were more than 10 boys and a certain number of girls. After 40% of the girls and 60% of the boys left the class, the remaining number of girls was 8 more than the remaining number of boys. Then, the minimum possible number of students initially in the class was",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Arithmetic", "concept_tag": "Ratio and Proportion", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_02",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "The number of distinct integers n for which log(1/4)(n^2 - 7n + 11) > 0, is",
+      "option_a": "0", "option_b": "infinite", "option_c": "1", "option_d": "2",
+      "correct_answer": "D",
+      "topic": "Algebra", "concept_tag": "Logarithms", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_03",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "Shruti travels a distance of 224 km in four parts for a total travel time of 3 hours. Her speeds in these four parts follow an arithmetic progression, and the corresponding time taken to cover these four parts follow another arithmetic progression. If she travels at a speed of 960 meters per minute for 30 minutes to cover the first part, then the distance, in meters, she travels in the fourth part is",
+      "option_a": "112000", "option_b": "76800", "option_c": "96000", "option_d": "86400",
+      "correct_answer": "D",
+      "topic": "Arithmetic", "concept_tag": "Time, Speed and Distance", "difficulty": "Hard"
+    },
+    {
+      "id": "cat2025s1_qa_04",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "The (x, y) coordinates of vertices P, Q and R of a parallelogram PQRS are (-3, -2), (1, -5) and (9, 1), respectively. If the diagonal SQ intersects the x-axis at (a, 0), then the value of a is",
+      "option_a": "29/9", "option_b": "13/4", "option_c": "27/7", "option_d": "10/3",
+      "correct_answer": "A",
+      "topic": "Geometry", "concept_tag": "Coordinate Geometry", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_05",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "In a circle with center C and radius 6√2 cm, PQ and SR are two parallel chords separated by one of the diameters. If angle PQC = 45°, and the ratio of the perpendicular distance of PQ and SR from C is 3:2, then the area, in sq. cm, of the quadrilateral PQRS is",
+      "option_a": "4(3√2 + √7)", "option_b": "20(3 + √14)", "option_c": "4(3 + √14)", "option_d": "20(3√2 + √7)",
+      "correct_answer": "B",
+      "topic": "Geometry", "concept_tag": "Circles", "difficulty": "Hard"
+    },
+    {
+      "id": "cat2025s1_qa_06",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "Stocks A, B and C are priced at rupees 120, 90 and 150 per share, respectively. A trader holds a portfolio consisting of 10 shares of stock A, and 20 shares of stocks B and C put together. If the total value of her portfolio is rupees 3300, then the number of shares of stock B that she holds, is",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Arithmetic", "concept_tag": "Linear Equations", "difficulty": "Easy"
+    },
+    {
+      "id": "cat2025s1_qa_07",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "For any natural number k, let a_k = 3^k. The smallest natural number m for which {(a_1)^1 × (a_2)^2 × ... × (a_20)^20} < {a_21 × a_22 × ... × a_(20+m)}, is",
+      "option_a": "56", "option_b": "57", "option_c": "58", "option_d": "59",
+      "correct_answer": "C",
+      "topic": "Algebra", "concept_tag": "Sequences and Series", "difficulty": "Hard"
+    },
+    {
+      "id": "cat2025s1_qa_08",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "In the set of consecutive odd numbers {1, 3, 5, ..., 57}, there is a number k such that the sum of all the elements less than k is equal to the sum of all the elements greater than k. Then, k equals",
+      "option_a": "43", "option_b": "39", "option_c": "37", "option_d": "41",
+      "correct_answer": "D",
+      "topic": "Number System", "concept_tag": "Sequences and Series", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_09",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "Kamala divided her investment of Rs. 10,0000 between stocks, bonds, and gold. Her investment in bonds was 25% of her investment in gold. With annual returns of 10%, 6%, 8% on stocks, bonds, and gold, respectively, she gained a total amount of Rs. 8,200 in one year. The amount, in rupees, that she gained from the bonds, was",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Arithmetic", "concept_tag": "Percentages", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_10",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "If a - 6b + 6c = 4 and 6a + 3b - 3c = 50, where a, b and c are real numbers, the value of 2a + 3b - 3c is",
+      "option_a": "14", "option_b": "18", "option_c": "15", "option_d": "20",
+      "correct_answer": "B",
+      "topic": "Algebra", "concept_tag": "Linear Equations", "difficulty": "Easy"
+    },
+    {
+      "id": "cat2025s1_qa_11",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "A cafeteria offers 5 types of sandwiches. Moreover, for each type of sandwich, a customer can choose one of 4 breads and opt for either small or large sized sandwich. Optionally, the customer may also add up to 2 out of 6 available sauces. The number of different ways in which an order can be placed for a sandwich, is",
+      "option_a": "880", "option_b": "840", "option_c": "800", "option_d": "600",
+      "correct_answer": "A",
+      "topic": "Modern Math", "concept_tag": "Permutations and Combinations", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_12",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "A value of c for which the minimum value of f(x) = x^2 - 4cx + 8c is greater than the maximum value of g(x) = -x^2 + 3cx - 2c, is",
+      "option_a": "-2", "option_b": "-1/2", "option_c": "2", "option_d": "1/2",
+      "correct_answer": "D",
+      "topic": "Algebra", "concept_tag": "Quadratic Equations", "difficulty": "Hard"
+    },
+    {
+      "id": "cat2025s1_qa_13",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "Let 3 ≤ x ≤ 6 and [x^2] = [x]^2, where [x] is the greatest integer not exceeding x. If set S represents all feasible values of x, then a possible subset of S is",
+      "option_a": "(3, √10) ∪ [5, √26) ∪ {6}", "option_b": "(4, √18) ∪ [5, √27) ∪ {6}", "option_c": "[3, √10] ∪ [5, √26]", "option_d": "[3, √10] ∪ [4, √17] ∪ {6}",
+      "correct_answer": "A",
+      "topic": "Algebra", "concept_tag": "Functions", "difficulty": "Hard"
+    },
+    {
+      "id": "cat2025s1_qa_14",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "The number of distinct pairs of integers (x, y) satisfying the inequalities x > y ≥ 3 and x + y < 14 is",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Modern Math", "concept_tag": "Permutations and Combinations", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_15",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "At a certain simple rate of interest, a given sum amounts to Rs. 13,920 in 3 years, and to Rs. 18,960 in 6 years and 6 months. If the same given sum had been invested for 2 years at the same rate as before but with interest compounded every 6 months, then the total interest earned, in rupees, would have been nearest to",
+      "option_a": "3096", "option_b": "3221", "option_c": "3150", "option_d": "3180",
+      "correct_answer": "B",
+      "topic": "Arithmetic", "concept_tag": "Simple Interest and Compound Interest", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_16",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "A container holds 200 litres of a solution of acid and water, having 30% acid by volume. Atul replaces 20% of this solution with water, then replaces 10% of the resulting solution with acid, and finally replaces 15% of the solution thus obtained, with water. The percentage of acid by volume in the final solution obtained after these three replacements, is nearest to",
+      "option_a": "27", "option_b": "25", "option_c": "23", "option_d": "29",
+      "correct_answer": "A",
+      "topic": "Arithmetic", "concept_tag": "Mixtures and Alligation", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_17",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "The number of non-negative integer values of k for which the quadratic equation x^2 - 5x + k = 0 has only integer roots, is",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Algebra", "concept_tag": "Quadratic Equations", "difficulty": "Easy"
+    },
+    {
+      "id": "cat2025s1_qa_18",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "A shopkeeper offers a discount of 22% on the marked price of each chair, and gives 13 chairs to a customer for the discounted price of 12 chairs to earn a profit of 26% on the transaction. If the cost price of each chair is Rs. 100, then the marked price, in rupees, of each chair is",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Arithmetic", "concept_tag": "Profit, Loss and Discount", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_19",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "In a 3-digit number N, the digits are non-zero and distinct such that none of the digits is a perfect square, and only one of the digits is a prime number. Then, the number of factors of the minimum possible value of N is",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Number System", "concept_tag": "Factors and Multiples", "difficulty": "Hard"
+    },
+    {
+      "id": "cat2025s1_qa_20",
+      "section": "QA",
+      "question_type": "TITA",
+      "question_text": "If the length of a side of a rhombus is 36 cm and the area of the rhombus is 396 sq. cm, then the absolute value of the difference between the lengths, in cm, of the diagonals of the rhombus is",
+      "option_a": null, "option_b": null, "option_c": null, "option_d": null,
+      "correct_answer": "NA",
+      "topic": "Geometry", "concept_tag": "Mensuration", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_21",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "The ratio of the number of students in the morning shift and afternoon shift of a school was 13:9. After 21 students moved from the morning shift to the afternoon shift, this ratio became 19:14. Next, some new students joined the morning and afternoon shifts in the ratio 3:8 and then the ratio of the number of students in the morning shift and the afternoon shift became 5:4. The number of new students who joined is",
+      "option_a": "99", "option_b": "88", "option_c": "121", "option_d": "110",
+      "correct_answer": "A",
+      "topic": "Arithmetic", "concept_tag": "Ratio and Proportion", "difficulty": "Medium"
+    },
+    {
+      "id": "cat2025s1_qa_22",
+      "section": "QA",
+      "question_type": "MCQ",
+      "question_text": "Arun, Varun and Tarun, if working alone, can complete a task in 24, 21, and 15 days, respectively. They charge Rs. 2,160, Rs. 2,400, and Rs. 2,160 per day, respectively, even if they are employed for a partial day. On any given day, any of the workers may or may not be employed to work. If the task needs to be completed in 10 days or less, then the minimum possible amount, in rupees, required to be paid for the entire task is",
+      "option_a": "47040", "option_b": "34400", "option_c": "38880", "option_d": "38400",
+      "correct_answer": "D",
+      "topic": "Arithmetic", "concept_tag": "Time and Work", "difficulty": "Hard"
+    }
+  ]
+}
