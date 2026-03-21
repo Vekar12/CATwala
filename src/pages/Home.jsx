@@ -194,33 +194,43 @@ export default function Home() {
         )}
 
         {/* Section-wise Practice */}
-        {analytics.length > 0 && (
-          <div className="section-practice">
-            <h2 className="home-section-title">Section Performance</h2>
-            <div className="section-cards-row">
-              {SECTIONS.map(s => {
-                const st = sectionStats[s]
-                const pct = st.accuracy ?? 0
-                return (
-                  <div key={s} className="section-perf-card">
-                    <div className="section-perf-header">
-                      <span className="section-perf-name">{s}</span>
-                      <span className={`section-perf-pct ${pct >= 60 ? 'good' : pct >= 40 ? 'avg' : 'weak'}`}>{st.accuracy !== null ? `${pct}%` : '—'}</span>
-                    </div>
-                    <div className="section-perf-bar">
-                      <div className="section-perf-fill" style={{ width: `${pct}%`, background: pct >= 60 ? 'var(--green)' : pct >= 40 ? 'var(--amber)' : 'var(--red)' }} />
-                    </div>
-                    <div className="section-perf-meta">
-                      <span>{st.correct} correct</span>
-                      <span>{st.attempted} attempted</span>
-                      <span>{st.total} total</span>
-                    </div>
+        <div className="section-practice">
+          <h2 className="home-section-title">Section-wise Practice</h2>
+          <p className="section-practice-desc">Focus on one section at a time. Pick a section to practice.</p>
+          <div className="section-cards-row">
+            {[
+              { key: 'VARC', label: 'Verbal Ability & Reading Comprehension', icon: '📖', questions: '24 Questions', time: '40 Minutes', color: '#7c3aed' },
+              { key: 'DILR', label: 'Data Interpretation & Logical Reasoning', icon: '🧩', questions: '22 Questions', time: '40 Minutes', color: '#0891b2' },
+              { key: 'QA', label: 'Quantitative Ability', icon: '📐', questions: '22 Questions', time: '40 Minutes', color: '#d97706' },
+            ].map(sec => {
+              const st = sectionStats[sec.key]
+              const hasData = st && st.accuracy !== null
+              return (
+                <div key={sec.key} className="section-practice-card">
+                  <div className="section-practice-icon" style={{ background: sec.color + '15', color: sec.color }}>{sec.icon}</div>
+                  <h3 className="section-practice-name">{sec.key}</h3>
+                  <p className="section-practice-full">{sec.label}</p>
+                  <div className="section-practice-meta">
+                    <span>{sec.questions}</span>
+                    <span>·</span>
+                    <span>{sec.time}</span>
                   </div>
-                )
-              })}
-            </div>
+                  {hasData && (
+                    <div className="section-practice-accuracy">
+                      <div className="section-acc-bar">
+                        <div className="section-acc-fill" style={{ width: `${st.accuracy}%`, background: st.accuracy >= 60 ? 'var(--green)' : st.accuracy >= 40 ? 'var(--amber)' : 'var(--red)' }} />
+                      </div>
+                      <span className="section-acc-label">{st.accuracy}% accuracy</span>
+                    </div>
+                  )}
+                  <button className="btn-section-practice" style={{ borderColor: sec.color, color: sec.color }} onClick={() => navigate(`/instructions/${nextTest?.id || 1}`)}>
+                    Practice {sec.key}
+                  </button>
+                </div>
+              )
+            })}
           </div>
-        )}
+        </div>
 
         {/* Mock Tests */}
         <h2 className="home-section-title">Mock Tests</h2>
