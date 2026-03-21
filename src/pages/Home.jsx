@@ -196,17 +196,14 @@ export default function Home() {
         {/* Section-wise Practice */}
         <div className="section-practice">
           <h2 className="home-section-title">Section-wise Practice</h2>
-          <p className="section-practice-desc">Focus on one section at a time. Pick a section to practice.</p>
           <div className="section-cards-row">
             {[
               { key: 'VARC', label: 'Verbal Ability & Reading Comprehension', icon: '📖', questions: '24 Questions', time: '40 Minutes', color: '#7c3aed' },
               { key: 'DILR', label: 'Data Interpretation & Logical Reasoning', icon: '🧩', questions: '22 Questions', time: '40 Minutes', color: '#0891b2' },
               { key: 'QA', label: 'Quantitative Ability', icon: '📐', questions: '22 Questions', time: '40 Minutes', color: '#d97706' },
             ].map(sec => {
-              const st = sectionStats[sec.key]
-              const hasData = st && st.accuracy !== null
               return (
-                <div key={sec.key} className="section-practice-card">
+                <div key={sec.key} className="section-practice-card" style={{ borderTop: `4px solid ${sec.color}` }}>
                   <div className="section-practice-icon" style={{ background: sec.color + '15', color: sec.color }}>{sec.icon}</div>
                   <h3 className="section-practice-name">{sec.key}</h3>
                   <p className="section-practice-full">{sec.label}</p>
@@ -215,20 +212,38 @@ export default function Home() {
                     <span>·</span>
                     <span>{sec.time}</span>
                   </div>
-                  {hasData && (
-                    <div className="section-practice-accuracy">
-                      <div className="section-acc-bar">
-                        <div className="section-acc-fill" style={{ width: `${st.accuracy}%`, background: st.accuracy >= 60 ? 'var(--green)' : st.accuracy >= 40 ? 'var(--amber)' : 'var(--red)' }} />
-                      </div>
-                      <span className="section-acc-label">{st.accuracy}% accuracy</span>
-                    </div>
-                  )}
-                  <button className="btn-section-practice" style={{ borderColor: sec.color, color: sec.color }} onClick={() => navigate(`/instructions/${nextTest?.id || 1}`)}>
+                  <button className="btn-section-practice" style={{ background: sec.color, borderColor: sec.color, color: 'white' }} onClick={() => navigate(`/instructions/${nextTest?.id || 1}`)}>
                     Practice {sec.key}
                   </button>
                 </div>
               )
             })}
+          </div>
+        </div>
+
+        {/* Previous Year Papers */}
+        <div className="pyp-section">
+          <h2 className="home-section-title">Previous Year Papers</h2>
+          <div className="pyp-card">
+            <div className="pyp-top">
+              <p className="pyp-desc">Practice with actual CAT papers from previous years. Section-wise and full-length available.</p>
+              <select className="pyp-select" defaultValue="">
+                <option value="" disabled>Select Year</option>
+                <option value="2025">CAT 2025</option>
+                <option value="2024">CAT 2024</option>
+                <option value="2023">CAT 2023</option>
+                <option value="2022">CAT 2022</option>
+                <option value="2021">CAT 2021</option>
+                <option value="2020">CAT 2020</option>
+              </select>
+            </div>
+            <div className="pyp-options">
+              <button className="pyp-btn" disabled>Full Paper</button>
+              <button className="pyp-btn" disabled>VARC Only</button>
+              <button className="pyp-btn" disabled>DILR Only</button>
+              <button className="pyp-btn" disabled>QA Only</button>
+            </div>
+            <p className="pyp-coming">Coming soon — Previous year papers will be available shortly.</p>
           </div>
         </div>
 
@@ -277,6 +292,36 @@ export default function Home() {
               </div>
             )
           })}
+        </div>
+
+        {/* Test Schedule */}
+        <div className="schedule-section">
+          <h2 className="home-section-title">Test Schedule</h2>
+          <div className="schedule-card">
+            {tests.filter(t => isUnlocked(t.id) && !isCompleted(t.id)).length > 0 ? (
+              <>
+                <p className="schedule-desc">Plan your next tests. Schedule them and get reminders.</p>
+                <div className="schedule-list">
+                  {tests.filter(t => isUnlocked(t.id) && !isCompleted(t.id)).map(t => (
+                    <div key={t.id} className="schedule-row">
+                      <div className="schedule-test-info">
+                        <span className="schedule-test-name">{t.title}</span>
+                        <span className="schedule-test-meta">{t.total_questions} Questions · {t.duration_minutes} min</span>
+                      </div>
+                      <div className="schedule-actions">
+                        <input type="datetime-local" className="schedule-date-input" min={new Date().toISOString().slice(0, 16)} />
+                        <button className="btn-schedule" onClick={() => navigate(`/instructions/${t.id}`)}>
+                          Start Now
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </>
+            ) : (
+              <p className="schedule-empty">All available tests completed! New tests coming soon.</p>
+            )}
+          </div>
         </div>
 
         {/* No CAT date prompt */}
