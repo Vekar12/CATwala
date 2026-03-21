@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../hooks/useAuth'
-import { getUnlocks, getTests, getCompletedTests, getProfile, getUserAnalytics } from '../utils/storage'
+import { getUnlocks, getTests, getCompletedTests, getProfile, getUserAnalytics, generateRandomTest } from '../utils/storage'
 import './Home.css'
 
 const SECTIONS = ['VARC', 'DILR', 'QA']
@@ -244,6 +244,37 @@ export default function Home() {
               <button className="pyp-btn" disabled>QA Only</button>
             </div>
             <p className="pyp-coming">Coming soon — Previous year papers will be available shortly.</p>
+          </div>
+        </div>
+
+        {/* Generate Random Practice Test */}
+        <div className="random-test-section">
+          <h2 className="home-section-title">Practice Test Generator</h2>
+          <div className="random-test-card">
+            <div className="random-test-info">
+              <h3>Generate a Unique Practice Test</h3>
+              <p>Get a randomized test from our bank of {Math.max(0, 1440 - (analytics?.length || 0))} unseen questions. Each test is different — no repeats until you've seen them all.</p>
+            </div>
+            <div className="random-test-options">
+              <select id="random-difficulty" className="random-select" defaultValue="all">
+                <option value="all">All Difficulties</option>
+                <option value="Easy">Easy Only</option>
+                <option value="Medium">Medium Only</option>
+                <option value="Hard">Hard Only</option>
+              </select>
+              <button className="btn-generate" onClick={async () => {
+                const diff = document.getElementById('random-difficulty').value
+                const testData = await generateRandomTest(diff)
+                if (testData) {
+                  sessionStorage.setItem('randomTest', JSON.stringify(testData))
+                  navigate('/test/random')
+                } else {
+                  alert('Failed to generate test. Please try again.')
+                }
+              }}>
+                Generate & Start
+              </button>
+            </div>
           </div>
         </div>
 

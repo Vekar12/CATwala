@@ -380,6 +380,82 @@
 }
 
 /* ====== Previous Year Papers ====== */
+/* ====== Random Test Generator ====== */
+.random-test-section {
+  margin-bottom: 32px;
+}
+
+.random-test-card {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border-radius: var(--radius-lg);
+  padding: 28px 32px;
+  color: white;
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.random-test-info h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.random-test-info p {
+  font-size: 0.88rem;
+  opacity: 0.7;
+  line-height: 1.5;
+  max-width: 500px;
+}
+
+.random-test-options {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.random-select {
+  padding: 10px 16px;
+  border: 1.5px solid rgba(255,255,255,0.2);
+  border-radius: var(--radius-md);
+  background: rgba(255,255,255,0.08);
+  color: white;
+  font-size: 0.88rem;
+  font-family: inherit;
+  cursor: pointer;
+  outline: none;
+}
+
+.random-select:focus {
+  border-color: #60a5fa;
+}
+
+.random-select option {
+  background: #1e293b;
+  color: white;
+}
+
+.btn-generate {
+  padding: 12px 24px;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.btn-generate:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+}
+
 .pyp-section {
   margin-bottom: 32px;
 }

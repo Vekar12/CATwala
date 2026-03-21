@@ -38,28 +38,60 @@ export default function Test() {
         navigate('/login')
         return
       }
-      const resp = await supabase.functions.invoke('get-questions', {
-        body: { testId: Number(testId) },
-        headers: { Authorization: `Bearer ${authSession.access_token}` },
-      })
 
-      if (resp.error) {
-        console.error('Failed to load questions:', resp.error)
-        navigate('/')
-        return
+      let testDataResult
+
+      // Check if this is a random test
+      if (testId === 'random') {
+        const stored = sessionStorage.getItem('randomTest')
+        if (!stored) {
+          navigate('/')
+          return
+        }
+        testDataResult = JSON.parse(stored)
+      } else {
+        const resp = await supabase.functions.invoke('get-questions', {
+          body: { testId: Number(testId) },
+          headers: { Authorization: `Bearer ${authSession.access_token}` },
+        })
+
+        if (resp.error) {
+          console.error('Failed to load questions:', resp.error)
+          navigate('/')
+          return
+        }
+
+        testDataResult = resp.data
       }
 
-      setTestData(resp.data)
+      setTestData(testDataResult)
 
       // Build question -> section lookup
       const qSections = {}
       for (const sec of SECTIONS) {
-        const qs = resp.data?.sections?.[sec]?.questions || []
+        const qs = testDataResult?.sections?.[sec]?.questions || []
         for (const q of qs) {
           qSections[q.id] = sec
         }
       }
       questionSectionsRef.current = qSections
+
+      // For random tests, create a local session (no DB)
+      if (testId === 'random') {
+        setSession({
+          attemptId: 'random_' + Date.now(),
+          testId: 'random',
+          currentSection: 'VARC',
+          currentQuestionIndex: 0,
+          varc_time_remaining: 2400,
+          dilr_time_remaining: 2400,
+          qa_time_remaining: 2400,
+          answers: {},
+          isRandom: true,
+        })
+        setPageLoading(false)
+        return
+      }
 
       const saved = await loadSession(testId)
       if (saved) {
@@ -81,9 +113,9 @@ export default function Test() {
     }
   }, [session])
 
-  // Auto-save every 10 seconds
+  // Auto-save every 10 seconds (skip for random tests)
   useEffect(() => {
-    if (!session) return
+    if (!session || session.isRandom) return
     autoSaveRef.current = setInterval(() => {
       if (saveRef.current) saveSession(testId, saveRef.current)
     }, 10000)
@@ -231,6 +263,14 @@ export default function Test() {
   async function handleSubmitTest() {
     clearInterval(timerRef.current)
     clearInterval(autoSaveRef.current)
+
+    // For random tests, just go back to home (no DB submission)
+    if (saveRef.current?.isRandom) {
+      alert('Practice test completed! Your answers have been recorded locally.')
+      sessionStorage.removeItem('randomTest')
+      navigate('/')
+      return
+    }
 
     // Save final state first
     if (saveRef.current) {
