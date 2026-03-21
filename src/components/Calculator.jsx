@@ -22,8 +22,10 @@ export default function Calculator({ onClose }) {
       const el = dragRef.current
       const w = el ? el.offsetWidth : 260
       const h = el ? el.offsetHeight : 340
-      const nx = Math.min(Math.max(0, ev.clientX - startX), window.innerWidth - w)
-      const ny = Math.min(Math.max(0, ev.clientY - startY), window.innerHeight - h)
+      const maxX = Math.max(0, window.innerWidth - w)
+      const maxY = Math.max(0, window.innerHeight - h)
+      const nx = Math.min(Math.max(0, ev.clientX - startX), maxX)
+      const ny = Math.min(Math.max(0, ev.clientY - startY), maxY)
       posRef.current = { x: nx, y: ny }
       setPos({ x: nx, y: ny })
     }
@@ -98,8 +100,12 @@ export default function Calculator({ onClose }) {
 
   function handleBackspace() {
     if (readDisplay() === null) { setDisplay('0'); setWaitingForOperand(false); return }
-    if (display.length > 1) setDisplay(display.slice(0, -1))
-    else setDisplay('0')
+    if (display.length > 1) {
+      const next = display.slice(0, -1)
+      setDisplay(next === '-' ? '0' : next)
+    } else {
+      setDisplay('0')
+    }
   }
 
   function handleSign() {

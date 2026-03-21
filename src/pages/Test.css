@@ -902,16 +902,16 @@
   .test-avatar-large { display: none; }
   .test-tabs-name { font-size: 0.75rem; }
   .test-section-tab { padding: 0 10px; height: 34px; font-size: 0.72rem; }
-  .test-main { flex-direction: column; }
-  .test-left { flex: none; height: calc(100vh - 160px); }
-  .test-right { width: 100%; max-width: none; height: auto; max-height: 200px; border-left: none; border-top: 2px solid #bdbdbd; overflow-y: auto; }
+  .test-main { flex-direction: column; min-height: 0; }
+  .test-left { flex: 1 1 auto; min-height: 0; }
+  .test-right { width: 100%; max-width: none; flex: 0 0 auto; max-height: 200px; border-left: none; border-top: 2px solid #bdbdbd; overflow-y: auto; }
   .test-action-bar { padding: 8px 10px; flex-wrap: wrap; gap: 6px; }
   .btn-save-next, .btn-mark-review, .btn-clear-resp, .btn-previous, .btn-submit-section { padding: 7px 12px; font-size: 0.78rem; }
   .qcard-panels-rc { flex-direction: column; }
   .qcard-passage-panel { border-right: none; border-bottom: 2px solid #bdbdbd; max-height: 200px; }
   .modal-instructions { width: 95vw; }
   .modal-qpaper { width: 95vw; }
-  .calc-window { left: 50% !important; transform: translateX(-50%); }
+  .calc-window { left: 50%; transform: translateX(-50%); }
 }
 
 @media (max-width: 480px) {
