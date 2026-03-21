@@ -830,3 +830,36 @@
   font-weight: 600;
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+  .home-header { padding: 14px 20px; flex-wrap: wrap; gap: 10px; }
+  .home-tagline { display: none; }
+  .home-header-right { gap: 8px; }
+  .header-btn { padding: 5px 10px; font-size: 0.78rem; }
+  .home-main { padding: 20px 16px 40px; }
+  .greeting-section { flex-direction: column; align-items: flex-start; }
+  .greeting-name { font-size: 1.4rem; }
+  .countdown-card { align-self: stretch; }
+  .quick-stats { flex-wrap: wrap; }
+  .quick-stat-card { min-width: calc(50% - 8px); }
+  .section-cards-row { grid-template-columns: 1fr; }
+  .test-grid { grid-template-columns: 1fr; }
+  .random-test-card { flex-direction: column; text-align: center; }
+  .random-test-options { width: 100%; flex-direction: column; }
+  .random-select, .btn-generate { width: 100%; }
+  .pyp-top { flex-direction: column; }
+  .pyp-options { flex-wrap: wrap; }
+  .pyp-btn { min-width: calc(50% - 6px); }
+  .schedule-row { flex-direction: column; align-items: flex-start; }
+  .schedule-actions { width: 100%; }
+  .schedule-date-input { flex: 1; }
+  .study-plan-next { flex-direction: column; gap: 8px; }
+  .btn-start-small { width: 100%; }
+}
+
+@media (max-width: 480px) {
+  .home-logo { font-size: 1.4rem; }
+  .quick-stats { gap: 8px; }
+  .quick-stat-card { min-width: 100%; }
+  .greeting-name { font-size: 1.2rem; }
+}

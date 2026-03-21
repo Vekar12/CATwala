@@ -447,3 +447,14 @@
     padding: 20px;
   }
 }
+
+@media (max-width: 768px) {
+  .profile-header { padding: 14px 20px; }
+  .profile-main { padding: 20px 16px; }
+  .profile-page-title { font-size: 1.3rem; }
+  .profile-form-grid { grid-template-columns: 1fr; }
+  .profile-field.full-width { grid-column: 1; }
+  .toggle-group { flex-wrap: wrap; }
+  .syllabus-tabs { flex-wrap: wrap; }
+  .days-count { font-size: 2.5rem; }
+}
