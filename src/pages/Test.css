@@ -233,7 +233,7 @@
   .section-tab { padding: 0 12px; height: 36px; font-size: 0.7rem; }
   .test-main { flex-direction: column; }
   .test-left { flex: none; height: calc(100vh - 140px); }
-  .test-right { width: 100%; max-width: none; height: auto; max-height: 200px; border-left: none; border-top: 2px solid #bdbdbd; }
+  .test-right { width: 100%; max-width: none; height: auto; max-height: 200px; border-left: none; border-top: 2px solid #bdbdbd; overflow-y: auto; }
   .test-action-bar { padding: 8px 12px; flex-wrap: wrap; gap: 8px; }
   .btn-action { padding: 8px 14px; font-size: 0.78rem; }
   .question-content.rc-layout { grid-template-columns: 1fr; }
