@@ -18,6 +18,7 @@ export default function Analytics() {
   const [unlocks, setUnlocks] = useState([])
   const [completed, setCompleted] = useState([])
   const [loading, setLoading] = useState(true)
+  const [selectedTest, setSelectedTest] = useState('all')
 
   useEffect(() => {
     async function load() {
@@ -72,18 +73,23 @@ export default function Analytics() {
   // --- Compute analytics ---
   const sections = ['VARC', 'DILR', 'QA']
 
-  const totalAttempted = analytics.filter(r => r.is_attempted).length
-  const totalCorrect = analytics.filter(r => r.is_correct === true).length
-  const totalQuestions = analytics.length
+  // Filter by selected test
+  const filteredAnalytics = selectedTest === 'all'
+    ? analytics
+    : analytics.filter(r => r.test_id === Number(selectedTest))
+
+  const totalAttempted = filteredAnalytics.filter(r => r.is_attempted).length
+  const totalCorrect = filteredAnalytics.filter(r => r.is_correct === true).length
+  const totalQuestions = filteredAnalytics.length
   const overallAccuracy = totalAttempted > 0 ? Math.round((totalCorrect / totalAttempted) * 100) : 0
   const avgTimePerQ = totalAttempted > 0
-    ? Math.round(analytics.filter(r => r.is_attempted).reduce((s, r) => s + (r.time_spent_seconds || 0), 0) / totalAttempted)
+    ? Math.round(filteredAnalytics.filter(r => r.is_attempted).reduce((s, r) => s + (r.time_spent_seconds || 0), 0) / totalAttempted)
     : 0
 
   // Section-wise stats
   const sectionData = {}
   for (const sec of sections) {
-    const rows = analytics.filter(r => r.section === sec)
+    const rows = filteredAnalytics.filter(r => r.section === sec)
     const attempted = rows.filter(r => r.is_attempted).length
     const correct = rows.filter(r => r.is_correct === true).length
     const wrong = rows.filter(r => r.is_attempted && r.is_correct === false).length
@@ -102,7 +108,7 @@ export default function Analytics() {
 
   // Topic-wise stats
   const topicMap = {}
-  for (const row of analytics) {
+  for (const row of filteredAnalytics) {
     const topic = row.topic || 'General'
     if (!topicMap[topic]) {
       topicMap[topic] = { topic, section: row.section, attempted: 0, correct: 0, total: 0, timeSum: 0 }
@@ -149,8 +155,21 @@ export default function Analytics() {
       </header>
 
       <div className="analytics-main">
-        <h1 className="analytics-page-title">Performance Analytics</h1>
-        <p className="analytics-page-subtitle">Track your progress across sections and topics</p>
+        <div className="analytics-title-row">
+          <div>
+            <h1 className="analytics-page-title">Performance Analytics</h1>
+            <p className="analytics-page-subtitle">Track your progress across sections and topics</p>
+          </div>
+          <div className="analytics-filter">
+            <label className="analytics-filter-label">View:</label>
+            <select className="analytics-filter-select" value={selectedTest} onChange={e => setSelectedTest(e.target.value)}>
+              <option value="all">All Tests Combined</option>
+              {tests.filter(t => completed.includes(t.id)).map(t => (
+                <option key={t.id} value={t.id}>{t.title}</option>
+              ))}
+            </select>
+          </div>
+        </div>
 
         {/* Summary Cards */}
         <div className="analytics-summary">

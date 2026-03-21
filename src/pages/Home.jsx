@@ -280,13 +280,23 @@ export default function Home() {
                   </button>
                 )}
                 {done && (
-                  <div className="card-actions">
-                    <button className="btn-results" onClick={() => navigate(`/results/${n}`)}>
-                      View Results
-                    </button>
-                    <button className="btn-retake" onClick={() => navigate(`/instructions/${n}`)}>
-                      Retake
-                    </button>
+                  <div className="card-actions-col">
+                    <div className="card-actions">
+                      <button className="btn-results" onClick={() => navigate(`/results/${n}`)}>
+                        View Results
+                      </button>
+                      <button className="btn-retake" onClick={() => navigate(`/instructions/${n}`)}>
+                        Retake
+                      </button>
+                    </div>
+                    <div className="card-actions">
+                      <button className="btn-analytics" onClick={() => navigate(`/review/${n}`)}>
+                        Review Answers
+                      </button>
+                      <button className="btn-analytics" onClick={() => navigate('/analytics')}>
+                        Analytics
+                      </button>
+                    </div>
                   </div>
                 )}
               </div>
