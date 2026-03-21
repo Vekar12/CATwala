@@ -168,8 +168,7 @@ function InstructionsModal({ onClose }) {
 
 /* ─── Question Paper Modal ─── */
 function QuestionPaperModal({ testData, currentSection, onClose }) {
-  const [activeSection, setActiveSection] = useState(currentSection)
-  const questions = getSectionQuestions(testData, activeSection)
+  const questions = getSectionQuestions(testData, currentSection)
 
   // Group RC questions by passage
   const groups = []
@@ -199,17 +198,7 @@ function QuestionPaperModal({ testData, currentSection, onClose }) {
           <span>Question Paper</span>
           <button className="modal-close" onClick={onClose}>✕</button>
         </div>
-        <div className="qpaper-section-tabs">
-          {SECTIONS.map((s) => (
-            <button
-              key={s}
-              className={`qpaper-tab ${s === activeSection ? 'qpaper-tab-active' : ''}`}
-              onClick={() => setActiveSection(s)}
-            >
-              {s}
-            </button>
-          ))}
-        </div>
+        <div className="qpaper-section-header">{currentSection}</div>
         <div className="qpaper-body">
           {groups.map((group, gi) => {
             if (group.type === 'rc') {
@@ -530,13 +519,10 @@ export default function Test() {
     const qId = currentQuestion.id
     const existing = answers[qId] || {}
     const hasAnswer = pendingAnswer !== '' && pendingAnswer !== null && pendingAnswer !== undefined
-    const isMarked = existing.marked_for_review
-    const newStatus = hasAnswer
-      ? (isMarked ? 'answered_marked' : 'answered')
-      : 'not_answered'
+    const newStatus = hasAnswer ? 'answered' : 'not_answered'
     const newAnswers = {
       ...answers,
-      [qId]: { ...existing, selected: hasAnswer ? pendingAnswer : '', status: newStatus },
+      [qId]: { ...existing, selected: hasAnswer ? pendingAnswer : '', status: newStatus, marked_for_review: false },
     }
     const nextIndex = Math.min(currentIndex + 1, sectionQuestions.length - 1)
     const nextQId = sectionQuestions[nextIndex].id
