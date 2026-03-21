@@ -71,6 +71,7 @@ export default function Profile() {
     return diff >= 0 ? diff : 0
   }, [catDate])
 
+  // Group topics by section, then by sub_section
   const topicsBySection = useMemo(() => {
     const grouped = {}
     for (const s of SECTIONS) {
@@ -78,6 +79,21 @@ export default function Profile() {
     }
     return grouped
   }, [syllabusTopics])
+
+  const subSectionsBySection = useMemo(() => {
+    const result = {}
+    for (const s of SECTIONS) {
+      const topics = topicsBySection[s]
+      const subs = {}
+      for (const t of topics) {
+        const sub = t.sub_section || 'General'
+        if (!subs[sub]) subs[sub] = []
+        subs[sub].push(t)
+      }
+      result[s] = subs
+    }
+    return result
+  }, [topicsBySection])
 
   const sectionProgress = useMemo(() => {
     const progress = {}
@@ -87,7 +103,7 @@ export default function Profile() {
         progress[s] = 0
         continue
       }
-      const done = topics.filter(t => syllabusProgress[t.name]).length
+      const done = topics.filter(t => syllabusProgress[t.topic]).length
       progress[s] = Math.round((done / topics.length) * 100)
     }
     return progress
@@ -98,10 +114,10 @@ export default function Profile() {
     setTimeout(() => setToast(null), 3000)
   }
 
-  function toggleTopic(topicName) {
+  function toggleTopic(topicKey) {
     setSyllabusProgress(prev => ({
       ...prev,
-      [topicName]: !prev[topicName],
+      [topicKey]: !prev[topicKey],
     }))
   }
 
@@ -325,18 +341,28 @@ export default function Profile() {
             </div>
 
             <div className="syllabus-topic-list">
-              {topicsBySection[activeTab].map(topic => (
-                <div
-                  key={topic.id}
-                  className={`syllabus-topic-row ${syllabusProgress[topic.name] ? 'completed' : ''}`}
-                >
-                  <input
-                    type="checkbox"
-                    id={`topic-${topic.id}`}
-                    checked={!!syllabusProgress[topic.name]}
-                    onChange={() => toggleTopic(topic.name)}
-                  />
-                  <label htmlFor={`topic-${topic.id}`}>{topic.name}</label>
+              {Object.entries(subSectionsBySection[activeTab]).map(([subSection, topics]) => (
+                <div key={subSection} className="syllabus-sub-section">
+                  <div className="syllabus-sub-header">
+                    <span className="syllabus-sub-title">{subSection}</span>
+                    <span className="syllabus-sub-count">
+                      {topics.filter(t => syllabusProgress[t.topic]).length}/{topics.length} done
+                    </span>
+                  </div>
+                  {topics.map(topic => (
+                    <div
+                      key={topic.id}
+                      className={`syllabus-topic-row ${syllabusProgress[topic.topic] ? 'completed' : ''}`}
+                    >
+                      <input
+                        type="checkbox"
+                        id={`topic-${topic.id}`}
+                        checked={!!syllabusProgress[topic.topic]}
+                        onChange={() => toggleTopic(topic.topic)}
+                      />
+                      <label htmlFor={`topic-${topic.id}`}>{topic.topic}</label>
+                    </div>
+                  ))}
                 </div>
               ))}
               {topicsBySection[activeTab].length === 0 && (

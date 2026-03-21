@@ -287,11 +287,39 @@
   gap: 0;
 }
 
+/* Sub-section grouping */
+.syllabus-sub-section {
+  margin-bottom: 8px;
+}
+
+.syllabus-sub-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  margin-top: 8px;
+  border-bottom: 1.5px solid var(--border);
+}
+
+.syllabus-sub-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.syllabus-sub-count {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
 .syllabus-topic-row {
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 10px 12px;
+  padding: 10px 12px 10px 24px;
   border-radius: var(--radius-sm);
   transition: background 0.15s;
 }
