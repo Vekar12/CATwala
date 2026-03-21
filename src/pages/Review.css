@@ -470,3 +470,14 @@
   color: #92400e;
   line-height: 1.5;
 }
+
+@media (max-width: 768px) {
+  .review-header { padding: 12px 16px; flex-wrap: wrap; }
+  .review-filters { padding: 10px 16px; flex-direction: column; gap: 10px; }
+  .review-body { padding: 0 12px; }
+  .review-card { padding: 16px; }
+  .review-card-header { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .review-card-meta { flex-wrap: wrap; }
+  .qa-analytics-bar { flex-wrap: wrap; gap: 12px; }
+  .qa-analytics-divider { display: none; }
+}

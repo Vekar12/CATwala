@@ -177,3 +177,9 @@
 .btn-toggle-mode:hover {
   opacity: 0.8;
 }
+
+@media (max-width: 480px) {
+  .login-card { padding: 28px 20px; margin: 16px; }
+  .login-logo { font-size: 1.8rem; }
+  .form-row { flex-direction: column; gap: 12px; }
+}

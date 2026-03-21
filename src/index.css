@@ -86,3 +86,12 @@ a {
   font-size: 1rem;
   color: var(--text-muted);
 }
+
+/* ====== Responsive ====== */
+@media (max-width: 768px) {
+  html { font-size: 15px; }
+}
+
+@media (max-width: 480px) {
+  html { font-size: 14px; }
+}
