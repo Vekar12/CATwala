@@ -266,3 +266,21 @@ export async function getUserAnalytics() {
 
   return data || []
 }
+
+// --- Random Test Generation ---
+
+export async function generateRandomTest(difficulty = 'all') {
+  const { data: { session } } = await supabase.auth.getSession()
+  if (!session) return null
+
+  const { data, error } = await supabase.functions.invoke('generate-test', {
+    body: { difficulty },
+  })
+
+  if (error) {
+    console.error('generateRandomTest error:', error)
+    return null
+  }
+
+  return data
+}
