@@ -5,9 +5,24 @@ import { useAuth } from '../hooks/useAuth'
 import './Instructions.css'
 
 const IIM_LOGOS = [
-  'IIM-A', 'IIM-B', 'IIM-C', 'IIM-L', 'IIM-K', 'IIM-I', 'IIM-Ko',
-  'IIM-S', 'IIM-T', 'IIM-R', 'IIM-U', 'IIM-V', 'IIM-Bo', 'IIM-J',
-  'IIM-N', 'IIM-Am', 'IIM-Si', 'IIM-Sc',
+  { name: 'A',   color: '#8B0000' },
+  { name: 'B',   color: '#003580' },
+  { name: 'C',   color: '#1a3a6a' },
+  { name: 'L',   color: '#003580' },
+  { name: 'K',   color: '#5a1a8a' },
+  { name: 'I',   color: '#c07000' },
+  { name: 'Ko',  color: '#006060' },
+  { name: 'S',   color: '#8B0000' },
+  { name: 'T',   color: '#003580' },
+  { name: 'R',   color: '#4a1a1a' },
+  { name: 'U',   color: '#2a6a2a' },
+  { name: 'V',   color: '#6a1a6a' },
+  { name: 'Bo',  color: '#1a3a6a' },
+  { name: 'J',   color: '#8B4500' },
+  { name: 'N',   color: '#003580' },
+  { name: 'Am',  color: '#006a6a' },
+  { name: 'Si',  color: '#4a4a00' },
+  { name: 'Sc',  color: '#8B0040' },
 ]
 
 function PaletteSymbol({ type, number }) {
@@ -59,9 +74,7 @@ export default function Instructions() {
 
       {/* ── IIM logos strip ── */}
       <div className="inst-logos-strip">
-        {IIM_LOGOS.map((logo) => (
-          <span key={logo} className="inst-logo-badge">{logo}</span>
-        ))}
+        <img src="/iim-logos.png" alt="IIM Logos" className="inst-logos-img" />
       </div>
 
       {/* ── Main body ── */}

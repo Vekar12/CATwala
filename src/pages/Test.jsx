@@ -620,14 +620,9 @@ export default function Test() {
         <div className="test-brand-text">{testData?.name || 'CATwala Mock CAT'}</div>
       </div>
 
-      {/* ── IIM logos strip — circular colored logo badges ── */}
+      {/* ── IIM logos strip ── */}
       <div className="test-logos-strip">
-        {IIM_LOGOS.map((iim) => (
-          <span key={iim.name} className="test-logo-circle" style={{ background: iim.color }}>
-            <span className="test-logo-iim">IIM</span>
-            <span className="test-logo-abbr">{iim.name}</span>
-          </span>
-        ))}
+        <img src="/iim-logos.png" alt="IIM Logos" className="test-logos-img" />
       </div>
 
       {/* ── Dark info bar: test name LEFT | buttons RIGHT ── */}

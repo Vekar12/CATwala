@@ -1,11 +1,11 @@
 import './QuestionPalette.css'
 
 const STATUS = {
-  answered:        { bg: '#3a8a3a', shape: 'circle', label: 'Answered' },
-  not_answered:    { bg: '#d84040', shape: 'circle', label: 'Not Answered' },
-  not_visited:     { bg: '#999',    shape: 'square', label: 'Not Visited' },
-  marked:          { bg: '#7b3fa0', shape: 'circle', label: 'Marked for Review' },
-  answered_marked: { bg: '#7b3fa0', shape: 'circle', outline: '#e07b00', label: 'Answered & Marked for Review (will also be evaluated)' },
+  answered:        { bg: '#3a8a3a', shape: 'circle', color: '#fff', border: 'none',              label: 'Answered' },
+  not_answered:    { bg: '#d84040', shape: 'circle', color: '#fff', border: 'none',              label: 'Not Answered' },
+  not_visited:     { bg: '#fff',    shape: 'square', color: '#333', border: '1px solid #9aa0aa', label: 'Not Visited' },
+  marked:          { bg: '#7b3fa0', shape: 'circle', color: '#fff', border: 'none',              label: 'Marked for Review' },
+  answered_marked: { bg: '#7b3fa0', shape: 'circle', color: '#fff', border: '2px solid #e07b00', outline: '#e07b00', label: 'Answered & Marked for Review (will also be evaluated)' },
 }
 
 function getStatus(qId, answers) {
@@ -27,6 +27,7 @@ function StatusDot({ status, size = 20 }) {
         borderRadius: s.shape === 'circle' ? '50%' : '3px',
         width: size,
         height: size,
+        border: s.border,
         outline: s.outline ? `2px solid ${s.outline}` : 'none',
         outlineOffset: s.outline ? '1px' : '0',
       }}
@@ -100,11 +101,10 @@ export default function QuestionPalette({
               style={{
                 background: s.bg,
                 borderRadius: s.shape === 'circle' ? '50%' : '4px',
-                outline: isActive
-                  ? '3px solid #e0a000'
-                  : s.outline ? `2px solid ${s.outline}` : 'none',
-                outlineOffset: isActive ? '2px' : '1px',
-                color: '#fff',
+                border: isActive ? '2px solid #e0a000' : s.border,
+                outline: isActive ? '2px solid #e0a000' : 'none',
+                outlineOffset: isActive ? '2px' : '0',
+                color: s.color,
               }}
               onClick={() => onNavigate(i)}
               title={`Q${i + 1}: ${s.label}`}

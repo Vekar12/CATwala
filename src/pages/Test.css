@@ -38,28 +38,23 @@
   letter-spacing: 0.5px;
 }
 
-/* ── Row 2: IIM logos strip ── */
+/* ── Row 2: IIM logos strip — circular colored logos ── */
 .test-logos-strip {
   background: #fff;
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 5px;
-  padding: 4px 12px;
-  border-bottom: 2px solid #aaa;
+  padding: 2px 8px;
+  border-bottom: 1px solid #ccc;
   flex-shrink: 0;
+  overflow-x: auto;
 }
 
-.test-logo-badge {
-  font-size: 0.6rem;
-  font-weight: bold;
-  color: #333;
-  background: #f0f0f0;
-  border: 1px solid #bbb;
-  border-radius: 3px;
-  padding: 2px 4px;
-  white-space: nowrap;
+.test-logos-img {
+  height: 30px;
+  width: auto;
+  display: block;
+  object-fit: contain;
 }
 
 /* ── Row 3: Dark info bar — test name LEFT | buttons RIGHT ── */
@@ -809,30 +804,15 @@
   max-width: 95vw;
 }
 
-.qpaper-section-tabs {
-  display: flex;
-  gap: 4px;
-  padding: 8px 12px;
-  background: #e8e8e8;
-  border-bottom: 1px solid #ccc;
-  flex-shrink: 0;
-}
-
-.qpaper-tab {
-  padding: 5px 18px;
-  background: #c0c8d4;
-  border: 1px solid #9aa8b4;
-  border-radius: 3px;
-  font-size: 0.82rem;
-  font-weight: bold;
-  color: #333;
-  cursor: pointer;
-}
-
-.qpaper-tab-active {
+.qpaper-section-header {
+  padding: 8px 14px;
   background: #1a6fbd;
-  border-color: #1258a0;
   color: #fff;
+  font-size: 0.85rem;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  border-bottom: 1px solid #1258a0;
+  flex-shrink: 0;
 }
 
 .qpaper-body {

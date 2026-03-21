@@ -34,16 +34,53 @@
 
 /* ── IIM logos strip ── */
 .inst-logos-strip {
-  background: #d0d8e8;
-  border-top: 1px solid #b0b8c8;
-  border-bottom: 1px solid #b0b8c8;
-  padding: 4px 8px;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  padding: 2px 8px;
   display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
   align-items: center;
+  justify-content: center;
+  overflow-x: auto;
 }
 
+.inst-logos-img {
+  height: 30px;
+  width: auto;
+  display: block;
+  object-fit: contain;
+}
+
+.inst-logo-circle {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 2px solid rgba(255,255,255,0.3);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  line-height: 1;
+  gap: 1px;
+}
+
+.inst-logo-iim {
+  font-size: 0.42rem;
+  font-weight: bold;
+  color: rgba(255,255,255,0.85);
+  font-family: Arial, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.inst-logo-abbr {
+  font-size: 0.58rem;
+  font-weight: bold;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* keep old badge class harmless */
 .inst-logo-badge {
   background: #fff;
   border: 1px solid #aaa;
