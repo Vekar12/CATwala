@@ -1,123 +1,133 @@
-/* ============================================
-   QuestionPalette — CAT Exam Style
-   Numbered grid, color-coded, institutional
-   ============================================ */
+/* ── QuestionPalette — exact CAT DigiAlm replica ── */
 
 .palette {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background: #f5f5f5;
-  border-left: 2px solid #bdbdbd;
+  background: #f0f0f0;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
   overflow-y: auto;
+  border-left: 1px solid #bbb;
 }
 
-.palette-header {
-  background: var(--cat-header);
-  color: white;
-  padding: 12px 16px;
+/* Legend: 2-column grid */
+.pal-legend {
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  padding: 7px 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px 4px;
   flex-shrink: 0;
 }
 
-.palette-title {
-  font-size: 0.88rem;
-  font-weight: 700;
-}
-
-.palette-section {
-  font-size: 0.78rem;
-  opacity: 0.7;
-  margin-top: 2px;
-}
-
-/* Status counts legend */
-.palette-counts {
+.pal-legend-cell {
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  padding: 10px 14px;
-  border-bottom: 1px solid #d0d0d0;
-  background: #ffffff;
-  flex-shrink: 0;
-}
-
-.palette-count-item {
-  display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 4px;
   font-size: 0.72rem;
-  color: #555;
-  font-weight: 500;
+  color: #222;
+  line-height: 1.3;
+  min-width: 0;
 }
 
-.palette-count-dot {
-  width: 12px;
-  height: 12px;
-  border-radius: 2px;
+/* Answered & Marked spans both columns */
+.pal-legend-full {
+  grid-column: 1 / -1;
+}
+
+.pal-dot {
   display: inline-block;
+  flex-shrink: 0;
+  margin-top: 1px;
 }
 
-/* Question number grid */
-.palette-grid {
+.pal-count {
+  font-weight: bold;
+  flex-shrink: 0;
+  min-width: 14px;
+  text-align: right;
+  font-size: 0.72rem;
+}
+
+.pal-lbl {
+  color: #333;
+  font-size: 0.7rem;
+  line-height: 1.3;
+  overflow-wrap: break-word;
+  min-width: 0;
+}
+
+/* Blue section bar */
+.pal-section-bar {
+  background: #1a6fbd;
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.82rem;
+  padding: 5px 8px;
+  flex-shrink: 0;
+}
+
+/* "Choose a Question" */
+.pal-choose-label {
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #333;
+  background: #e8e8e8;
+  border-bottom: 1px solid #ccc;
+  flex-shrink: 0;
+}
+
+/* 4-column grid */
+.pal-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 6px;
-  padding: 12px;
-  overflow-y: auto;
-  flex: 1;
+  padding: 8px;
+  align-content: start;
 }
 
-.palette-btn {
+.pal-qbtn {
   width: 100%;
   aspect-ratio: 1;
-  border-radius: 4px;
   border: none;
-  color: white;
-  font-size: 0.78rem;
-  font-weight: 700;
+  font-size: 0.75rem;
+  font-weight: bold;
   cursor: pointer;
-  transition: all 0.1s;
-  min-width: 0;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: Arial, sans-serif;
 }
 
-.palette-btn:hover {
-  transform: scale(1.08);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+.pal-qbtn:hover {
+  opacity: 0.85;
 }
 
-.palette-btn-active {
-  outline: 3px solid #0d47a1;
-  outline-offset: 2px;
-}
-
-/* Submit Section button */
-.btn-submit-section {
-  margin: 10px 12px;
-  padding: 11px;
-  background: var(--cat-blue);
-  color: white;
+/* Submit button */
+.pal-submit {
+  margin: 8px;
+  padding: 8px;
+  background: #1a6fbd;
+  color: #fff;
   border: none;
-  border-radius: 4px;
-  font-size: 0.88rem;
-  font-weight: 700;
+  border-radius: 3px;
+  font-size: 0.82rem;
+  font-weight: bold;
   cursor: pointer;
-  transition: all 0.2s;
+  font-family: Arial, sans-serif;
   flex-shrink: 0;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
 }
 
-.btn-submit-section:hover {
-  background: var(--cat-blue-dark);
+.pal-submit:hover {
+  background: #1258a0;
 }
 
-.btn-submit-urgent {
-  background: var(--cat-red);
-  animation: pulse 1s infinite;
+.pal-submit-urgent {
+  background: #cc0000;
+  animation: pal-pulse 1s infinite;
 }
 
-@keyframes pulse {
+@keyframes pal-pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.7; }
 }

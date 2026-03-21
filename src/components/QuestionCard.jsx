@@ -1,81 +1,128 @@
+import { useRef } from 'react'
 import './QuestionCard.css'
+
+/* ── Numeric on-screen keypad for TITA ── */
+function TitaKeypad({ value, onChange }) {
+  function press(char) {
+    if (char === 'BS') {
+      onChange(value.slice(0, -1))
+    } else if (char === '.') {
+      if (!value.includes('.')) onChange(value + '.')
+    } else if (char === '-') {
+      onChange(value.startsWith('-') ? value.slice(1) : '-' + value)
+    } else {
+      onChange(value + char)
+    }
+  }
+  return (
+    <div className="tita-keypad">
+      <input
+        className="tita-display"
+        value={value}
+        readOnly
+        placeholder=""
+      />
+      <div className="tita-keypad-grid">
+        <button className="tk-btn tk-wide" onClick={() => press('BS')}>Backspace</button>
+        {['7','8','9','4','5','6','1','2','3','-','0','.'].map((k) => (
+          <button key={k} className="tk-btn" onClick={() => press(k)}>{k}</button>
+        ))}
+      </div>
+    </div>
+  )
+}
 
 export default function QuestionCard({
   question,
   questionNumber,
-  totalQuestions,
-  section,
-  answer,
+  selectedOption,
   onAnswerChange,
 }) {
   const isTITA = question.question_type === 'TITA'
-  const isRC = question.question_type === 'RC' && question.passage
+  const isRC = !!question.passage
+  const negMark = isTITA ? '0' : '1'
+
+  const qPanelRef = useRef(null)
+  const passPanelRef = useRef(null)
+
+  function scrollDown() {
+    if (qPanelRef.current) qPanelRef.current.scrollTop += 200
+    if (passPanelRef.current) passPanelRef.current.scrollTop += 200
+  }
+  function scrollUp() {
+    if (qPanelRef.current) qPanelRef.current.scrollTop -= 200
+    if (passPanelRef.current) passPanelRef.current.scrollTop -= 200
+  }
 
   const options = [
     { key: 'A', text: question.option_a },
     { key: 'B', text: question.option_b },
     { key: 'C', text: question.option_c },
     { key: 'D', text: question.option_d },
-  ]
+  ].filter((o) => o.text)
 
   return (
-    <div className="question-card">
-      <div className="question-meta">
-        <span className="question-num">Question {questionNumber} of {totalQuestions}</span>
-        <span className="question-section-label">{section}</span>
-        <span className={`question-type-badge ${isTITA ? 'tita-badge' : 'mcq-badge'}`}>
-          {isTITA ? 'TITA' : 'MCQ'}
+    <div className="qcard">
+      {/* Marks bar — full width, right aligned */}
+      <div className="qcard-marks-bar">
+        <span>
+          Marks for correct answer:{' '}
+          <span className="marks-pos">3</span>
+          {' | '}
+          Negative Marks:{' '}
+          <span className="marks-neg">{negMark}</span>
         </span>
-        {question.difficulty && (
-          <span className={`diff-badge diff-${question.difficulty.toLowerCase()}`}>
-            {question.difficulty}
-          </span>
-        )}
       </div>
 
-      <div className={`question-content ${isRC ? 'rc-layout' : ''}`}>
+      {/* Scroll buttons */}
+      <div className="qcard-scroll-btns">
+        <button className="scroll-arrow-btn" onClick={scrollUp} title="Scroll Up">▲</button>
+        <button className="scroll-arrow-btn" onClick={scrollDown} title="Scroll Down">▼</button>
+      </div>
+
+      {/* Content panels */}
+      <div className={`qcard-panels${isRC ? ' qcard-panels-rc' : ''}`}>
+
+        {/* Passage panel — RC only */}
         {isRC && (
-          <div className="rc-passage">
-            <div className="passage-label">Passage</div>
-            <div className="passage-text">{question.passage}</div>
+          <div className="qcard-passage-panel" ref={passPanelRef}>
+            <div className="passage-body">{question.passage}</div>
           </div>
         )}
 
-        <div className="question-right">
-          <div className="question-text">{question.question_text}</div>
+        {/* Question panel */}
+        <div className="qcard-q-panel" ref={qPanelRef}>
+          <div className="qnum-heading">Question No. {questionNumber}</div>
+          <div className="q-text">{question.question_text}</div>
 
+          {/* MCQ options */}
           {!isTITA && (
-            <div className="options-list">
+            <div className="q-options">
               {options.map(({ key, text }) => (
                 <label
                   key={key}
-                  className={`option-label ${answer?.selected === key ? 'option-selected' : ''}`}
+                  className={`q-option${selectedOption === key ? ' q-option-sel' : ''}`}
                 >
                   <input
                     type="radio"
                     name={`q_${question.id}`}
                     value={key}
-                    checked={answer?.selected === key}
+                    checked={selectedOption === key}
                     onChange={() => onAnswerChange(key)}
+                    className="q-radio"
                   />
-                  <span className="option-key">{key}</span>
-                  <span className="option-text">{text}</span>
+                  <span className="q-opt-text">{text}</span>
                 </label>
               ))}
             </div>
           )}
 
+          {/* TITA: on-screen numeric keypad */}
           {isTITA && (
-            <div className="tita-container">
-              <label className="tita-label">Type your answer:</label>
-              <input
-                type="text"
-                className="tita-input"
-                value={answer?.selected || ''}
-                onChange={(e) => onAnswerChange(e.target.value)}
-                placeholder="Enter your answer here"
-              />
-            </div>
+            <TitaKeypad
+              value={selectedOption || ''}
+              onChange={onAnswerChange}
+            />
           )}
         </div>
       </div>
