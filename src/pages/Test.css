@@ -226,3 +226,26 @@
 .btn-confirm:hover {
   background: var(--cat-blue-dark);
 }
+
+@media (max-width: 768px) {
+  .test-topbar { height: auto; padding: 8px 12px; flex-wrap: wrap; gap: 8px; }
+  .topbar-logo { font-size: 0.85rem; padding-right: 10px; }
+  .section-tab { padding: 0 12px; height: 36px; font-size: 0.7rem; }
+  .test-main { flex-direction: column; }
+  .test-left { flex: none; height: calc(100vh - 140px); }
+  .test-right { width: 100%; max-width: none; height: auto; max-height: 200px; border-left: none; border-top: 2px solid #bdbdbd; }
+  .test-action-bar { padding: 8px 12px; flex-wrap: wrap; gap: 8px; }
+  .btn-action { padding: 8px 14px; font-size: 0.78rem; }
+  .question-content.rc-layout { grid-template-columns: 1fr; }
+  .rc-passage { border-right: none; border-bottom: 2px solid #bdbdbd; padding: 16px; max-height: 200px; overflow-y: auto; }
+  .palette-grid { grid-template-columns: repeat(8, 1fr); gap: 4px; padding: 8px; }
+  .palette-btn { font-size: 0.7rem; }
+  .calc-overlay { padding: 10px; justify-content: center; align-items: center; }
+}
+
+@media (max-width: 480px) {
+  .topbar-right { gap: 6px; }
+  .calc-toggle { padding: 4px 8px; font-size: 0.75rem; }
+  .timer-value { font-size: 0.95rem; }
+  .palette-grid { grid-template-columns: repeat(6, 1fr); }
+}

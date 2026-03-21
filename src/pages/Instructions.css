@@ -223,3 +223,12 @@
   background: var(--border-strong);
   cursor: not-allowed;
 }
+
+@media (max-width: 768px) {
+  .instructions-header { padding: 14px 20px; flex-wrap: wrap; }
+  .instructions-header h2 { font-size: 1rem; }
+  .instructions-body { padding: 0 16px; margin: 20px auto; }
+  .inst-screen { padding: 24px 20px; }
+  .legend-item { gap: 14px; }
+  .legend-circle { width: 28px; height: 28px; }
+}

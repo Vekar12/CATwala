@@ -189,3 +189,12 @@
   border-color: var(--cat-blue);
   box-shadow: 0 0 0 2px rgba(21,101,192,0.15);
 }
+
+@media (max-width: 768px) {
+  .question-meta { padding: 8px 12px; flex-wrap: wrap; gap: 6px; }
+  .question-content { padding: 14px; }
+  .question-content.rc-layout { grid-template-columns: 1fr; gap: 0; }
+  .rc-passage { border-right: none; border-bottom: 2px solid #bdbdbd; padding: 14px; max-height: 180px; }
+  .question-right { padding: 14px; }
+  .option-label { padding: 10px 12px; font-size: 0.85rem; }
+}
