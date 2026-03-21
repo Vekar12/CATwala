@@ -1,117 +1,173 @@
-/* ============================================
-   Calculator — Clean overlay
-   ============================================ */
+/* ── Normal Calculator — CAT DigiAlm replica ── */
 
-.calc-overlay {
+.calc-window {
   position: fixed;
-  inset: 0;
-  z-index: 1000;
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start;
-  padding: 60px 24px 0;
-  pointer-events: none;
+  z-index: 4000;
+  width: 260px;
+  background: #f0f0f0;
+  border: 1px solid #888;
+  box-shadow: 4px 4px 12px rgba(0,0,0,0.35);
+  font-family: Arial, sans-serif;
+  user-select: none;
 }
 
-.calc-container {
-  background: #1c1c1e;
-  border-radius: 14px;
-  overflow: hidden;
-  width: 280px;
-  box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.1);
-  pointer-events: all;
-}
-
-.calc-header {
-  background: #2c2c2e;
-  padding: 10px 16px;
+/* Title bar */
+.calc-titlebar {
+  background: linear-gradient(180deg, #3a6ea8 0%, #1a4a80 100%);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: white;
-  font-size: 0.85rem;
-  font-weight: 600;
+  padding: 4px 6px;
+  cursor: move;
+  flex-shrink: 0;
 }
 
-.calc-close {
-  background: none;
-  border: none;
-  color: white;
-  font-size: 1.1rem;
-  opacity: 0.7;
+.calc-title-text {
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.calc-title-btns {
+  display: flex;
+  gap: 2px;
+}
+
+.calc-win-btn {
+  background: #c0c8d8;
+  border: 1px solid #8898b8;
+  color: #000;
+  font-size: 0.7rem;
+  padding: 1px 5px;
   cursor: pointer;
-  width: 28px;
-  height: 28px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  transition: all 0.15s;
+  border-radius: 2px;
+  line-height: 1.4;
+  font-weight: bold;
 }
 
-.calc-close:hover {
-  opacity: 1;
-  background: rgba(255,255,255,0.1);
+.calc-win-btn:hover {
+  background: #d8e0f0;
 }
 
+.calc-win-close {
+  background: #c04040;
+  border-color: #a03030;
+  color: #fff;
+}
+
+.calc-win-close:hover {
+  background: #d04040;
+}
+
+/* Display */
 .calc-display {
-  background: #1c1c1e;
-  color: white;
+  background: #fff;
+  border: 1px solid #aaa;
+  margin: 4px 6px;
+  padding: 4px 8px;
   text-align: right;
-  padding: 16px 20px;
-  font-size: 2rem;
-  font-weight: 300;
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 64px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-end;
+  font-size: 1.1rem;
+  font-family: 'Courier New', monospace;
+  color: #000;
+  min-height: 28px;
   word-break: break-all;
-  border-bottom: 1px solid #3a3a3c;
+  border-radius: 2px;
 }
 
+/* Button area */
 .calc-buttons {
-  padding: 8px;
+  padding: 4px 6px 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .calc-row {
   display: flex;
-  gap: 8px;
-  margin-bottom: 8px;
+  gap: 4px;
 }
 
 .calc-btn {
   flex: 1;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  border: none;
-  font-size: 1.1rem;
-  font-weight: 500;
-  background: #3a3a3c;
-  color: white;
+  padding: 5px 2px;
+  border-radius: 2px;
+  font-size: 0.8rem;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
   cursor: pointer;
-  transition: opacity 0.1s;
-  min-width: 56px;
-  min-height: 56px;
+  border: 1px solid #999;
+  color: #000;
+  min-width: 0;
+  text-align: center;
 }
 
-.calc-btn:hover { opacity: 0.8; }
-.calc-btn:active { opacity: 0.6; }
+.calc-btn:active {
+  transform: translateY(1px);
+}
 
-.calc-fn {
-  background: #636366;
+/* Num buttons: white */
+.calc-btn-num {
+  background: linear-gradient(180deg, #fff 0%, #e8e8e8 100%);
+  border-color: #999;
   color: #000;
 }
 
-.calc-op {
-  background: #ff9500;
-  color: white;
+.calc-btn-num:hover {
+  background: linear-gradient(180deg, #f0f8ff 0%, #d8e8f8 100%);
 }
 
-.calc-zero {
-  flex: 2.2;
-  aspect-ratio: auto;
-  border-radius: 28px;
-  text-align: left;
-  padding-left: 22px;
+/* Operator buttons: light blue */
+.calc-btn-op {
+  background: linear-gradient(180deg, #d8e8f8 0%, #b8ccde 100%);
+  border-color: #8899aa;
+  color: #000;
+}
+
+.calc-btn-op:hover {
+  background: linear-gradient(180deg, #c8d8e8 0%, #a8bcce 100%);
+}
+
+/* Function buttons: light gray */
+.calc-btn-fn {
+  background: linear-gradient(180deg, #e8e8e8 0%, #d0d0d0 100%);
+  border-color: #999;
+  color: #000;
+}
+
+.calc-btn-fn:hover {
+  background: linear-gradient(180deg, #dde8ee 0%, #c4d4dc 100%);
+}
+
+/* Memory buttons: slightly different gray */
+.calc-btn-mem {
+  background: linear-gradient(180deg, #dce4ec 0%, #c4ccd4 100%);
+  border-color: #9aaabb;
+  color: #000;
+  font-size: 0.72rem;
+}
+
+.calc-btn-mem:hover {
+  background: linear-gradient(180deg, #d0dae4 0%, #b8c4cc 100%);
+}
+
+/* = button: green */
+.calc-btn-eq {
+  background: linear-gradient(180deg, #5aaa5a 0%, #3a8a3a 100%);
+  border-color: #2a7a2a;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.calc-btn-eq:hover {
+  background: linear-gradient(180deg, #4a9a4a 0%, #2a7a2a 100%);
+}
+
+/* 0 button: wider */
+.calc-btn-zero {
+  flex: 2;
+}
+
+/* Spacer placeholder */
+.calc-spacer {
+  flex: 1;
 }

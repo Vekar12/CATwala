@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import './Calculator.css'
 
 export default function Calculator({ onClose }) {
@@ -6,6 +6,30 @@ export default function Calculator({ onClose }) {
   const [prev, setPrev] = useState(null)
   const [op, setOp] = useState(null)
   const [waitingForOperand, setWaitingForOperand] = useState(false)
+  const [memory, setMemory] = useState(0)
+
+  // Dragging support
+  const dragRef = useRef(null)
+  const posRef = useRef({ x: window.innerWidth - 260, y: 80 })
+  const [pos, setPos] = useState({ x: window.innerWidth - 260, y: 80 })
+
+  function startDrag(e) {
+    if (e.target.tagName === 'BUTTON') return
+    const startX = e.clientX - posRef.current.x
+    const startY = e.clientY - posRef.current.y
+    function onMove(ev) {
+      const nx = ev.clientX - startX
+      const ny = ev.clientY - startY
+      posRef.current = { x: nx, y: ny }
+      setPos({ x: nx, y: ny })
+    }
+    function onUp() {
+      document.removeEventListener('mousemove', onMove)
+      document.removeEventListener('mouseup', onUp)
+    }
+    document.addEventListener('mousemove', onMove)
+    document.addEventListener('mouseup', onUp)
+  }
 
   function handleDigit(d) {
     if (waitingForOperand) {
@@ -17,22 +41,17 @@ export default function Calculator({ onClose }) {
   }
 
   function handleDecimal() {
-    if (waitingForOperand) {
-      setDisplay('0.')
-      setWaitingForOperand(false)
-      return
-    }
-    if (!display.includes('.')) {
-      setDisplay(display + '.')
-    }
+    if (waitingForOperand) { setDisplay('0.'); setWaitingForOperand(false); return }
+    if (!display.includes('.')) setDisplay(display + '.')
   }
 
   function handleOperator(nextOp) {
     const val = parseFloat(display)
     if (prev !== null && !waitingForOperand) {
       const result = calculate(prev, val, op)
-      setDisplay(String(result))
-      setPrev(result)
+      const res = typeof result === 'number' && !isNaN(result) ? result : 'Error'
+      setDisplay(String(res))
+      setPrev(typeof res === 'number' ? res : null)
     } else {
       setPrev(val)
     }
@@ -44,7 +63,7 @@ export default function Calculator({ onClose }) {
     switch (o) {
       case '+': return a + b
       case '-': return a - b
-      case 'x': return a * b
+      case '*': return a * b
       case '/': return b !== 0 ? a / b : 'Error'
       default: return b
     }
@@ -54,7 +73,8 @@ export default function Calculator({ onClose }) {
     if (op === null || prev === null) return
     const val = parseFloat(display)
     const result = calculate(prev, val, op)
-    setDisplay(String(result))
+    const res = typeof result === 'number' && !isNaN(result) ? result : 'Error'
+    setDisplay(String(res))
     setPrev(null)
     setOp(null)
     setWaitingForOperand(true)
@@ -67,59 +87,116 @@ export default function Calculator({ onClose }) {
     setWaitingForOperand(false)
   }
 
+  function handleBackspace() {
+    if (display.length > 1) setDisplay(display.slice(0, -1))
+    else setDisplay('0')
+  }
+
   function handleSign() {
-    setDisplay(String(-parseFloat(display)))
+    const v = parseFloat(display)
+    if (!isNaN(v)) setDisplay(String(-v))
+  }
+
+  function handleSqrt() {
+    const v = parseFloat(display)
+    setDisplay(v >= 0 ? String(Math.sqrt(v)) : 'Error')
+    setWaitingForOperand(true)
   }
 
   function handlePercent() {
-    setDisplay(String(parseFloat(display) / 100))
+    const v = parseFloat(display)
+    setDisplay(String(v / 100))
+    setWaitingForOperand(true)
   }
 
-  const buttons = [
-    ['C', '+/-', '%', '/'],
-    ['7', '8', '9', 'x'],
-    ['4', '5', '6', '-'],
-    ['1', '2', '3', '+'],
-    ['0', '.', '='],
-  ]
+  function handleReciprocal() {
+    const v = parseFloat(display)
+    setDisplay(v !== 0 ? String(1 / v) : 'Error')
+    setWaitingForOperand(true)
+  }
+
+  // Memory functions
+  const mc  = () => setMemory(0)
+  const mr  = () => { setDisplay(String(memory)); setWaitingForOperand(false) }
+  const ms  = () => setMemory(parseFloat(display))
+  const mpl = () => setMemory(memory + parseFloat(display))
+  const mmi = () => setMemory(memory - parseFloat(display))
+
+  const btnClass = (type) => `calc-btn calc-btn-${type}`
 
   return (
-    <div className="calc-overlay" onClick={onClose}>
-      <div className="calc-container" onClick={(e) => e.stopPropagation()}>
-        <div className="calc-header">
-          <span>Calculator</span>
-          <button className="calc-close" onClick={onClose}>x</button>
+    <div
+      className="calc-window"
+      style={{ left: pos.x, top: pos.y }}
+      ref={dragRef}
+    >
+      {/* Title bar */}
+      <div className="calc-titlebar" onMouseDown={startDrag}>
+        <span className="calc-title-text">Normal Calculator</span>
+        <div className="calc-title-btns">
+          <button className="calc-win-btn" onClick={() => {}} title="Minimize">_</button>
+          <button className="calc-win-btn calc-win-close" onClick={onClose} title="Close">✕</button>
         </div>
-        <div className="calc-display">{display}</div>
-        <div className="calc-buttons">
-          {buttons.map((row, ri) => (
-            <div key={ri} className="calc-row">
-              {row.map((btn) => {
-                let cls = 'calc-btn'
-                if (['/', 'x', '-', '+', '='].includes(btn)) cls += ' calc-op'
-                if (['C', '+/-', '%'].includes(btn)) cls += ' calc-fn'
-                if (btn === '0') cls += ' calc-zero'
-                return (
-                  <button
-                    key={btn}
-                    className={cls}
-                    onClick={() => {
-                      if (btn === 'C') handleClear()
-                      else if (btn === '+/-') handleSign()
-                      else if (btn === '%') handlePercent()
-                      else if (btn === '=') handleEquals()
-                      else if (btn === '.') handleDecimal()
-                      else if (['+', '-', 'x', '/'].includes(btn)) handleOperator(btn)
-                      else handleDigit(btn)
-                    }}
-                  >
-                    {btn}
-                  </button>
-                )
-              })}
-            </div>
-          ))}
+      </div>
+
+      {/* Display */}
+      <div className="calc-display">{display}</div>
+
+      {/* Buttons */}
+      <div className="calc-buttons">
+
+        {/* Memory row */}
+        <div className="calc-row">
+          <button className={btnClass('mem')} onClick={mc}>MC</button>
+          <button className={btnClass('mem')} onClick={mr}>MR</button>
+          <button className={btnClass('mem')} onClick={ms}>MS</button>
+          <button className={btnClass('mem')} onClick={mpl}>M+</button>
+          <button className={btnClass('mem')} onClick={mmi}>M-</button>
         </div>
+
+        {/* Backspace / Clear / Sign / Sqrt */}
+        <div className="calc-row">
+          <button className={btnClass('fn')} onClick={handleBackspace}>⌫</button>
+          <button className={btnClass('fn')} onClick={handleClear}>C</button>
+          <button className={btnClass('fn')} onClick={handleSign}>±</button>
+          <button className={btnClass('fn')} onClick={handleSqrt}>√</button>
+        </div>
+
+        {/* Row 7 8 9 / % */}
+        <div className="calc-row">
+          <button className={btnClass('num')} onClick={() => handleDigit('7')}>7</button>
+          <button className={btnClass('num')} onClick={() => handleDigit('8')}>8</button>
+          <button className={btnClass('num')} onClick={() => handleDigit('9')}>9</button>
+          <button className={btnClass('op')} onClick={() => handleOperator('/')}>/</button>
+          <button className={btnClass('fn')} onClick={handlePercent}>%</button>
+        </div>
+
+        {/* Row 4 5 6 * 1/x */}
+        <div className="calc-row">
+          <button className={btnClass('num')} onClick={() => handleDigit('4')}>4</button>
+          <button className={btnClass('num')} onClick={() => handleDigit('5')}>5</button>
+          <button className={btnClass('num')} onClick={() => handleDigit('6')}>6</button>
+          <button className={btnClass('op')} onClick={() => handleOperator('*')}>*</button>
+          <button className={btnClass('fn')} onClick={handleReciprocal}>1/x</button>
+        </div>
+
+        {/* Row 1 2 3 - */}
+        <div className="calc-row">
+          <button className={btnClass('num')} onClick={() => handleDigit('1')}>1</button>
+          <button className={btnClass('num')} onClick={() => handleDigit('2')}>2</button>
+          <button className={btnClass('num')} onClick={() => handleDigit('3')}>3</button>
+          <button className={btnClass('op')} onClick={() => handleOperator('-')}>-</button>
+          <div className="calc-spacer" />
+        </div>
+
+        {/* Row 0 . + = */}
+        <div className="calc-row">
+          <button className={`${btnClass('num')} calc-btn-zero`} onClick={() => handleDigit('0')}>0</button>
+          <button className={btnClass('num')} onClick={handleDecimal}>.</button>
+          <button className={btnClass('op')} onClick={() => handleOperator('+')}>+</button>
+          <button className={`${btnClass('eq')}`} onClick={handleEquals}>=</button>
+        </div>
+
       </div>
     </div>
   )
