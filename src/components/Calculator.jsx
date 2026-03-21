@@ -10,16 +10,20 @@ export default function Calculator({ onClose }) {
 
   // Dragging support
   const dragRef = useRef(null)
-  const posRef = useRef({ x: window.innerWidth - 260, y: 80 })
-  const [pos, setPos] = useState({ x: window.innerWidth - 260, y: 80 })
+  const initialX = Math.max(0, window.innerWidth - 280)
+  const posRef = useRef({ x: initialX, y: 80 })
+  const [pos, setPos] = useState({ x: initialX, y: 80 })
 
   function startDrag(e) {
     if (e.target.tagName === 'BUTTON') return
     const startX = e.clientX - posRef.current.x
     const startY = e.clientY - posRef.current.y
     function onMove(ev) {
-      const nx = ev.clientX - startX
-      const ny = ev.clientY - startY
+      const el = dragRef.current
+      const w = el ? el.offsetWidth : 260
+      const h = el ? el.offsetHeight : 340
+      const nx = Math.min(Math.max(0, ev.clientX - startX), window.innerWidth - w)
+      const ny = Math.min(Math.max(0, ev.clientY - startY), window.innerHeight - h)
       posRef.current = { x: nx, y: ny }
       setPos({ x: nx, y: ny })
     }
@@ -87,30 +91,39 @@ export default function Calculator({ onClose }) {
     setWaitingForOperand(false)
   }
 
+  function readDisplay() {
+    const v = Number(display)
+    return Number.isFinite(v) ? v : null
+  }
+
   function handleBackspace() {
+    if (readDisplay() === null) { setDisplay('0'); setWaitingForOperand(false); return }
     if (display.length > 1) setDisplay(display.slice(0, -1))
     else setDisplay('0')
   }
 
   function handleSign() {
-    const v = parseFloat(display)
-    if (!isNaN(v)) setDisplay(String(-v))
+    const v = readDisplay()
+    if (v !== null) setDisplay(String(-v))
   }
 
   function handleSqrt() {
-    const v = parseFloat(display)
+    const v = readDisplay()
+    if (v === null) return
     setDisplay(v >= 0 ? String(Math.sqrt(v)) : 'Error')
     setWaitingForOperand(true)
   }
 
   function handlePercent() {
-    const v = parseFloat(display)
+    const v = readDisplay()
+    if (v === null) return
     setDisplay(String(v / 100))
     setWaitingForOperand(true)
   }
 
   function handleReciprocal() {
-    const v = parseFloat(display)
+    const v = readDisplay()
+    if (v === null) return
     setDisplay(v !== 0 ? String(1 / v) : 'Error')
     setWaitingForOperand(true)
   }
@@ -118,9 +131,9 @@ export default function Calculator({ onClose }) {
   // Memory functions
   const mc  = () => setMemory(0)
   const mr  = () => { setDisplay(String(memory)); setWaitingForOperand(false) }
-  const ms  = () => setMemory(parseFloat(display))
-  const mpl = () => setMemory(memory + parseFloat(display))
-  const mmi = () => setMemory(memory - parseFloat(display))
+  const ms  = () => { const v = readDisplay(); if (v !== null) setMemory(v) }
+  const mpl = () => { const v = readDisplay(); if (v !== null) setMemory((m) => m + v) }
+  const mmi = () => { const v = readDisplay(); if (v !== null) setMemory((m) => m - v) }
 
   const btnClass = (type) => `calc-btn calc-btn-${type}`
 
@@ -134,7 +147,7 @@ export default function Calculator({ onClose }) {
       <div className="calc-titlebar" onMouseDown={startDrag}>
         <span className="calc-title-text">Normal Calculator</span>
         <div className="calc-title-btns">
-          <button className="calc-win-btn" onClick={() => {}} title="Minimize">_</button>
+          <button className="calc-win-btn" disabled aria-hidden="true" tabIndex={-1} title="Minimize">_</button>
           <button className="calc-win-btn calc-win-close" onClick={onClose} title="Close">✕</button>
         </div>
       </div>

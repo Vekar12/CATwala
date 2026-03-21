@@ -4,26 +4,6 @@ import { createAttempt } from '../utils/storage'
 import { useAuth } from '../hooks/useAuth'
 import './Instructions.css'
 
-const IIM_LOGOS = [
-  { name: 'A',   color: '#8B0000' },
-  { name: 'B',   color: '#003580' },
-  { name: 'C',   color: '#1a3a6a' },
-  { name: 'L',   color: '#003580' },
-  { name: 'K',   color: '#5a1a8a' },
-  { name: 'I',   color: '#c07000' },
-  { name: 'Ko',  color: '#006060' },
-  { name: 'S',   color: '#8B0000' },
-  { name: 'T',   color: '#003580' },
-  { name: 'R',   color: '#4a1a1a' },
-  { name: 'U',   color: '#2a6a2a' },
-  { name: 'V',   color: '#6a1a6a' },
-  { name: 'Bo',  color: '#1a3a6a' },
-  { name: 'J',   color: '#8B4500' },
-  { name: 'N',   color: '#003580' },
-  { name: 'Am',  color: '#006a6a' },
-  { name: 'Si',  color: '#4a4a00' },
-  { name: 'Sc',  color: '#8B0040' },
-]
 
 function PaletteSymbol({ type, number }) {
   const base = {
@@ -125,7 +105,7 @@ export default function Instructions() {
                       </div>
                       <div className="inst-palette-row">
                         <PaletteSymbol type="marked_eval" number="6" />
-                        <span>The question(s) "Marked for Review" will be not be considered for evaluation. Hence, no marks will be allocated for the same.</span>
+                        <span>The question(s) "Marked for Review" will not be considered for evaluation. Hence, no marks will be allocated for the same.</span>
                       </div>
                     </div>
                     <p className="inst-note">The Marked for Review status for a question simply indicates that you would like to look at that question again.</p>

@@ -10,27 +10,6 @@ import './Test.css'
 const SECTIONS = ['VARC', 'DILR', 'QA']
 const SECTION_TIME = 2400
 
-// IIM logo data: abbreviation + representative brand color
-const IIM_LOGOS = [
-  { name: 'A',   color: '#8B0000' },  // IIM-A: deep red/maroon
-  { name: 'B',   color: '#003580' },  // IIM-B: dark blue
-  { name: 'C',   color: '#1a3a6a' },  // IIM-C: navy
-  { name: 'L',   color: '#003580' },  // IIM-L: blue
-  { name: 'K',   color: '#5a1a8a' },  // IIM-K: purple-blue
-  { name: 'I',   color: '#c07000' },  // IIM-I: gold/amber
-  { name: 'Ko',  color: '#006060' },  // IIM-Kozhikode: teal
-  { name: 'S',   color: '#8B0000' },  // IIM-Shillong
-  { name: 'T',   color: '#003580' },  // IIM-Trichy: blue
-  { name: 'R',   color: '#4a1a1a' },  // IIM-Rohtak
-  { name: 'U',   color: '#2a6a2a' },  // IIM-Udaipur: green
-  { name: 'V',   color: '#6a1a6a' },  // IIM-Visakhapatnam
-  { name: 'Bo',  color: '#1a3a6a' },  // IIM-Bodh Gaya
-  { name: 'J',   color: '#8B4500' },  // IIM-Jammu: brown
-  { name: 'N',   color: '#003580' },  // IIM-Nagpur
-  { name: 'Am',  color: '#006a6a' },  // IIM-Amritsar
-  { name: 'Si',  color: '#4a4a00' },  // IIM-Sirmaur
-  { name: 'Sc',  color: '#8B0040' },  // IIM-Sambalpur
-]
 
 const PALETTE_BASE = {
   display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
@@ -170,19 +149,20 @@ function InstructionsModal({ onClose }) {
 function QuestionPaperModal({ testData, currentSection, onClose }) {
   const questions = getSectionQuestions(testData, currentSection)
 
-  // Group RC questions by passage
+  // Group RC questions by passage_id (preferred) or passage text
   const groups = []
   let i = 0
   while (i < questions.length) {
     const q = questions[i]
-    if (q.passage) {
-      const passage = q.passage
+    const passageKey = q.passage_id ?? q.passage
+    if (passageKey) {
       const group = []
-      while (i < questions.length && questions[i].passage === passage) {
+      while (i < questions.length && (questions[i].passage_id ?? questions[i].passage) === passageKey) {
         group.push(questions[i])
         i++
       }
-      groups.push({ type: 'rc', passage, questions: group })
+      const passage = group.find((gq) => gq.passage)?.passage || passageKey
+      groups.push({ type: 'rc', passage, passage_id: q.passage_id, questions: group })
     } else {
       groups.push({ type: 'single', question: q })
       i++
@@ -320,6 +300,7 @@ export default function Test() {
   const autoSaveRef = useRef(null)
   const saveRef = useRef(null)
   const questionSectionsRef = useRef({})
+  const tabsScrollRef = useRef(null)
 
   // Load test data and session on mount
   useEffect(() => {
@@ -389,21 +370,18 @@ export default function Test() {
     init()
   }, [testId, navigate])
 
-  // Interruption detection
+  // Interruption detection (debounced to avoid double-count from blur + visibilitychange)
+  const lastInterruptAtRef = useRef(0)
   useEffect(() => {
-    const handleVisibilityChange = () => {
-      if (document.hidden) {
-        setInterruptCount((c) => c + 1)
-        setShowInterruptWarning(true)
-      }
+    const recordInterruption = () => {
+      const now = Date.now()
+      if (now - lastInterruptAtRef.current < 750) return
+      lastInterruptAtRef.current = now
+      setInterruptCount((c) => c + 1)
+      setShowInterruptWarning(true)
     }
-    const handleBlur = () => {
-      // Only trigger if no modal is open (avoids triggering on calc/modal focus)
-      if (!document.hidden) {
-        setInterruptCount((c) => c + 1)
-        setShowInterruptWarning(true)
-      }
-    }
+    const handleVisibilityChange = () => { if (document.hidden) recordInterruption() }
+    const handleBlur = () => { if (!document.hidden) recordInterruption() }
     document.addEventListener('visibilitychange', handleVisibilityChange)
     window.addEventListener('blur', handleBlur)
     return () => {
@@ -505,6 +483,13 @@ export default function Test() {
     }
   }, [currentSection, testId])
 
+  // B1: Auto-advance section (or submit) when timer hits zero
+  useEffect(() => {
+    if (timeLeft <= 0 && session) {
+      handleSectionExpire()
+    }
+  }, [timeLeft])
+
   function updateSession(updates) {
     setSession((prev) => ({ ...prev, ...updates }))
   }
@@ -524,7 +509,12 @@ export default function Test() {
       ...answers,
       [qId]: { ...existing, selected: hasAnswer ? pendingAnswer : '', status: newStatus, marked_for_review: false },
     }
-    const nextIndex = Math.min(currentIndex + 1, sectionQuestions.length - 1)
+    const nextIndex = currentIndex + 1
+    if (nextIndex >= sectionQuestions.length) {
+      updateSession({ answers: newAnswers })
+      handleSectionSubmit()
+      return
+    }
     const nextQId = sectionQuestions[nextIndex].id
     if (!newAnswers[nextQId]) newAnswers[nextQId] = { status: 'not_answered' }
     updateSession({ answers: newAnswers, currentQuestionIndex: nextIndex })
@@ -538,9 +528,14 @@ export default function Test() {
     const newStatus = hasAnswer ? 'answered_marked' : 'marked'
     const newAnswers = {
       ...answers,
-      [qId]: { ...existing, selected: hasAnswer ? pendingAnswer : (existing.selected || ''), status: newStatus, marked_for_review: true },
+      [qId]: { ...existing, selected: hasAnswer ? pendingAnswer : '', status: newStatus, marked_for_review: true },
     }
-    const nextIndex = Math.min(currentIndex + 1, sectionQuestions.length - 1)
+    const nextIndex = currentIndex + 1
+    if (nextIndex >= sectionQuestions.length) {
+      updateSession({ answers: newAnswers })
+      handleSectionSubmit()
+      return
+    }
     const nextQId = sectionQuestions[nextIndex].id
     if (!newAnswers[nextQId]) newAnswers[nextQId] = { status: 'not_answered' }
     updateSession({ answers: newAnswers, currentQuestionIndex: nextIndex })
@@ -561,9 +556,9 @@ export default function Test() {
   }
 
   function handleSectionSubmit() {
+    if (!confirmSubmit) { setConfirmSubmit(true); return }
     const curIdx = SECTIONS.indexOf(currentSection)
     if (curIdx < SECTIONS.length - 1) {
-      if (!confirmSubmit) { setConfirmSubmit(true); return }
       const nextSection = SECTIONS[curIdx + 1]
       setSession((prev) => {
         const updated = { ...prev, currentSection: nextSection, currentQuestionIndex: 0 }
@@ -572,6 +567,7 @@ export default function Test() {
       })
       setConfirmSubmit(false)
     } else {
+      setConfirmSubmit(false)
       handleSubmitTest()
     }
   }
@@ -640,8 +636,8 @@ export default function Test() {
 
       {/* ── Section tabs row: ‹ tabs › | calc | big avatar | name ── */}
       <div className="test-tabs-row">
-        <div className="test-tabs-left">
-          <button className="tabs-arrow">‹</button>
+        <div className="test-tabs-left" ref={tabsScrollRef}>
+          <button className="tabs-arrow" onClick={() => tabsScrollRef.current?.scrollBy({ left: -120, behavior: 'smooth' })}>‹</button>
           {SECTIONS.map((s) => {
             const isActive = s === currentSection
             const isCompleted = completedSections.includes(s)
@@ -655,7 +651,7 @@ export default function Test() {
               </div>
             )
           })}
-          <button className="tabs-arrow">›</button>
+          <button className="tabs-arrow" onClick={() => tabsScrollRef.current?.scrollBy({ left: 120, behavior: 'smooth' })}>›</button>
         </div>
         <div className="test-tabs-right">
           <button className="test-calc-btn" onClick={() => setShowCalc(!showCalc)} title="Calculator">
@@ -769,24 +765,28 @@ export default function Test() {
         />
       )}
 
-      {confirmSubmit && (
-        <div className="confirm-overlay">
-          <div className="confirm-dialog">
-            <h3>Submit Section?</h3>
-            <p>
-              Are you sure you want to submit the current section and move to the next?
-              You cannot return to this section.
-            </p>
-            <div className="confirm-actions">
-              <button className="btn-cancel" onClick={() => setConfirmSubmit(false)}>Cancel</button>
-              <button className="btn-confirm" onClick={handleSectionSubmit}>Yes, Submit</button>
+      {confirmSubmit && (() => {
+        const isLastSection = SECTIONS.indexOf(currentSection) === SECTIONS.length - 1
+        return (
+          <div className="confirm-overlay">
+            <div className="confirm-dialog">
+              <h3>{isLastSection ? 'Submit Test?' : 'Submit Section?'}</h3>
+              <p>
+                {isLastSection
+                  ? 'Are you sure you want to submit your test? This action cannot be undone.'
+                  : 'Are you sure you want to submit the current section and move to the next? You cannot return to this section.'}
+              </p>
+              <div className="confirm-actions">
+                <button className="btn-cancel" onClick={() => setConfirmSubmit(false)}>Cancel</button>
+                <button className="btn-confirm" onClick={handleSectionSubmit}>Yes, Submit</button>
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )
+      })()}
 
       {/* Version footer */}
-      <div className="test-footer">Version : 1.0.0</div>
+      <div className="test-footer">Version : 17.07.00</div>
     </div>
   )
 }

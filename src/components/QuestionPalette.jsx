@@ -1,11 +1,13 @@
 import './QuestionPalette.css'
 
+const PENTAGON = 'polygon(0% 0%, 100% 0%, 100% 68%, 50% 100%, 0% 68%)'
+
 const STATUS = {
-  answered:        { bg: '#3a8a3a', shape: 'circle', color: '#fff', border: 'none',              label: 'Answered' },
-  not_answered:    { bg: '#d84040', shape: 'circle', color: '#fff', border: 'none',              label: 'Not Answered' },
-  not_visited:     { bg: '#fff',    shape: 'square', color: '#333', border: '1px solid #9aa0aa', label: 'Not Visited' },
-  marked:          { bg: '#7b3fa0', shape: 'circle', color: '#fff', border: 'none',              label: 'Marked for Review' },
-  answered_marked: { bg: '#7b3fa0', shape: 'circle', color: '#fff', border: '2px solid #e07b00', outline: '#e07b00', label: 'Answered & Marked for Review (will also be evaluated)' },
+  answered:        { bg: '#3a8a3a', shape: 'pentagon', color: '#fff', border: 'none',              label: 'Answered' },
+  not_answered:    { bg: '#d84040', shape: 'pentagon', color: '#fff', border: 'none',              label: 'Not Answered' },
+  not_visited:     { bg: '#fff',    shape: 'square',   color: '#333', border: '1px solid #9aa0aa', label: 'Not Visited' },
+  marked:          { bg: '#7b3fa0', shape: 'circle',   color: '#fff', border: 'none',              label: 'Marked for Review' },
+  answered_marked: { bg: '#7b3fa0', shape: 'circle',   color: '#fff', border: '2px solid #e07b00', outline: '#e07b00', label: 'Answered & Marked for Review (will also be evaluated)' },
 }
 
 function getStatus(qId, answers) {
@@ -24,10 +26,11 @@ function StatusDot({ status, size = 20 }) {
       className="pal-dot"
       style={{
         background: s.bg,
-        borderRadius: s.shape === 'circle' ? '50%' : '3px',
+        borderRadius: s.shape === 'circle' ? '50%' : s.shape === 'pentagon' ? '0' : '3px',
+        clipPath: s.shape === 'pentagon' ? PENTAGON : 'none',
         width: size,
         height: size,
-        border: s.border,
+        border: s.shape === 'pentagon' ? 'none' : s.border,
         outline: s.outline ? `2px solid ${s.outline}` : 'none',
         outlineOffset: s.outline ? '1px' : '0',
       }}
@@ -100,9 +103,10 @@ export default function QuestionPalette({
               className="pal-qbtn"
               style={{
                 background: s.bg,
-                borderRadius: s.shape === 'circle' ? '50%' : '4px',
-                border: isActive ? '2px solid #e0a000' : s.border,
-                outline: isActive ? '2px solid #e0a000' : 'none',
+                borderRadius: s.shape === 'circle' ? '50%' : s.shape === 'pentagon' ? '0' : '4px',
+                clipPath: s.shape === 'pentagon' ? PENTAGON : 'none',
+                border: isActive ? '2px solid #e0a000' : (s.shape === 'pentagon' ? 'none' : s.border),
+                outline: isActive ? '2px solid #e0a000' : (s.outline ? `2px solid ${s.outline}` : 'none'),
                 outlineOffset: isActive ? '2px' : '0',
                 color: s.color,
               }}

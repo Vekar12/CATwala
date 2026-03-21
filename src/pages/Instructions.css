@@ -1,6 +1,7 @@
 /* ── CAT 2023 Pre-Test Instructions Page ── */
 
-* {
+.inst-page,
+.inst-page * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -352,7 +353,7 @@
   font-weight: bold;
   color: #1a5fa8;
   text-align: center;
-  word-break: break-word;
+  overflow-wrap: break-word;
   font-family: Arial, sans-serif;
 }
 

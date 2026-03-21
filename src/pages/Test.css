@@ -892,3 +892,32 @@
   min-width: 16px;
   color: #333;
 }
+
+/* ── Mobile responsive ── */
+@media (max-width: 768px) {
+  .test-brand-bar { padding: 6px 10px; font-size: 0.85rem; }
+  .test-tabs-row { flex-wrap: wrap; height: auto; padding: 4px 8px; gap: 6px; }
+  .test-tabs-left { flex: 1; min-width: 0; }
+  .test-tabs-right { gap: 6px; }
+  .test-avatar-large { display: none; }
+  .test-tabs-name { font-size: 0.75rem; }
+  .test-section-tab { padding: 0 10px; height: 34px; font-size: 0.72rem; }
+  .test-main { flex-direction: column; }
+  .test-left { flex: none; height: calc(100vh - 160px); }
+  .test-right { width: 100%; max-width: none; height: auto; max-height: 200px; border-left: none; border-top: 2px solid #bdbdbd; overflow-y: auto; }
+  .test-action-bar { padding: 8px 10px; flex-wrap: wrap; gap: 6px; }
+  .btn-save-next, .btn-mark-review, .btn-clear-resp, .btn-previous, .btn-submit-section { padding: 7px 12px; font-size: 0.78rem; }
+  .qcard-panels-rc { flex-direction: column; }
+  .qcard-passage-panel { border-right: none; border-bottom: 2px solid #bdbdbd; max-height: 200px; }
+  .modal-instructions { width: 95vw; }
+  .modal-qpaper { width: 95vw; }
+  .calc-window { left: 50% !important; transform: translateX(-50%); }
+}
+
+@media (max-width: 480px) {
+  .test-info-bar { flex-direction: column; align-items: flex-start; gap: 6px; padding: 6px 10px; }
+  .test-timer-inline { font-size: 0.85rem; }
+  .tab-label { font-size: 0.7rem; }
+  .palette-grid { grid-template-columns: repeat(6, 1fr); }
+  .test-sections-row { font-size: 0.8rem; padding: 4px 10px; }
+}
