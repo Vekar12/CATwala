@@ -1,0 +1,1119 @@
+{
+  "id": "cat-2021-slot3",
+  "year": 2021,
+  "slot": 3,
+  "title": "CAT 2021 Slot III",
+  "has_solutions": true,
+  "total_questions": 66,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot3-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Back in the early 2000s, an awesome thing happened in the New X-Men comics. Our mutant heroes had been battling giant\nrobots called Sentinels for years, but suddenly these mechanical overlords spawned a new threat: Nano-Sentinels! Not content\nto rule Earth with their metal fists, these tiny robots invaded our bodies at the microscopic level. Infected humans were slowly\nconverted into machines, cell by cell.\nNow, a new wave of extremely odd robots is making at least part of the Nano-Sentinels story come true. Using exotic\nfabrication materials like squishy hydro gels and elastic polymers, researchers are making autonomous devices that are often\ntiny and that could turn out to bemore powerful than an army of Terminators. Some are 1-centimetre blobs that can skate\noverwater. Others are flat sheets that can roll themselves into tubes, or matchstick-sized plastic coils that act as powerful\nmuscles. No, they won’t be invading our bodies and turning us into Sentinels – which I personally find a little disappointing –\nbut some of them could one day swim through our bloodstream to heal us. They could also clean up pollutants in water or fold\nthemselves into different kinds of vehicles for us to drive. . . .\nUnlike a traditional robot, which is made of mechanical parts, these new kinds of robots are made from molecular parts. The\nprinciple is the same: both are devices that can move around and do things independently. But a robot made from smart\nmaterials might be nothing more than a pink drop of hydrogel. Instead of gears and wires, it’s assembled from two kinds of\nmolecules – some that love water and some that avoid it – which interact to allow the bot to skate on top of a pond.\nSometimes these materials are used to enhance more conventional robots. One team of researchers, for example, has\ndeveloped a different kind of hydrogel that becomes sticky when exposed to a low-voltage zap of electricity and then stops\nbeing sticky when the electricity is switched off. This putty-like gel can be pasted right onto the feet or wheels of arobot. When\nthe robot wants to climb a sheer wall or scoot across the ceiling, it can activate its sticky feet with a few volts. Once it is back on\na flat surface again, the robot turns off the adhesive like a light switch.\nRobots that are wholly or partly made of gloop aren’t the future that I was promised in science fiction. But it’s definitely the\nfuture I want. I’m especially keen on the nanometer-scale “soft robots” that could one day swim through our bodies. Metin Sitti,\na director at the Max Planck Institute for Intelligent Systems in Germany, worked with colleagues to prototype these tiny,\nsynthetic beasts using various stretchy materials, such as simple rubber, and seeding them with magnetic micro particles. They\nare assembled into a finished shape by applying magnetic fields. The results look like flowers or geometric shapes made from\nTinker toy ball and stick modelling kits. They’re guided through tubes of fluid using magnets, and can even stop and cling to\nthe sides of a tube.\nWhich one of the following scenarios, if false, could be seen as supporting the passage?",
+          "options": {
+            "A": "There are two kinds of molecules used to make some nano-robots: one that reacts positively to water and the other negatively.",
+            "B": "Nano-Sentinel-like robots are likely to be used to inject people to convert them into robots, cell by cell.",
+            "C": "Some hydro gels turn sticky when an electric current is passed through them; this potentially has very useful applications.",
+            "D": "Robots made from smart materials are likely to become part of our everyday lives in the future"
+          },
+          "correct_answer": "B",
+          "explanation": "Q is \"Which one of the following scenarios, if false, could be seen as supporting the passage?\" which means we are looking for an option which in its current form contradicts the passage In para 2, the author says that the Nano-sentinels won’t be used invade our bodies and turn us into robots,"
+        },
+        {
+          "id": "cat-2021-slot3-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements best summarises the central point of the passage?",
+          "options": {
+            "A": "There are two kinds of molecules used to make some nano-robots: one that reacts positively to water and the other negatively.",
+            "B": "Nano-robots made from molecules that react to water have become increasingly useful",
+            "C": "The field of robotics is likely to be feature more and more in comics like the New X-Men.",
+            "D": "Once the stuff of science fiction, nano-robots now feature in cutting-edge scientific research"
+          },
+          "correct_answer": "D",
+          "explanation": "The entire passage is about nano robots and how they are now a reality. The first line of second para states it clearly."
+        },
+        {
+          "id": "cat-2021-slot3-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements, if true, would be the most direct extension ofthe arguments in the passage?",
+          "options": {
+            "A": "X-Men may be created by injecting people with mutant nano-gels that will respond to the brain’s magnetic field.",
+            "B": "In the future, robots will be used to search and destroy diseases even in the deepest recesses of the human body.",
+            "C": "Sentinel robots will be used in warfare to cause large-scale destructive mutations amongst civilians",
+            "D": "1-centimetre blobs of gel that have nano-robots in them will be used to send messages."
+          },
+          "correct_answer": "B",
+          "explanation": "Refer to the lines, ‘some of them could one day swim through our bloodstream to heal us."
+        },
+        {
+          "id": "cat-2021-slot3-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements best captures the sense of the first paragraph?",
+          "options": {
+            "A": "People who were infected by Nano-Sentinel robots became mutants who were called X-Men.",
+            "B": "Tiny sentinels called X-Men infected people, turning them into mutant robot overlords.",
+            "C": "None of the options listed here",
+            "D": "The X-Men were mutant heroes who now had to battle tiny robots called Nano-Sentinels."
+          },
+          "correct_answer": "D",
+          "explanation": "The first para is about the battle between Nano sentinels and X-men."
+        },
+        {
+          "id": "cat-2021-slot3-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Keeping time accurately comes with a price. The maximum accuracy of a clock is directly related to how much disorder, or\nentropy, it creates every time it ticks. Natalia Ares at the University of Oxford and her colleagues made this discovery using a\ntiny clock with an accuracy that can be controlled. The clock consists of a 50-nanometre-thick membrane of silicon nitride,\nvibrated by an electric current. Each time the membrane moved up and down once and then returned to its original position,\nthe researchers counted a tick, and the regularity of the spacing between the ticks represented the accuracy of the clock. The\nresearchers found that as they increased the clock’s accuracy, the heat produced in the system grew, increasing the entropy of\nits surroundings by jostling nearby particles . . . “If a clock is more accurate, you are paying for it somehow,” says Ares. In this\ncase, you pay for it by pouring more ordered energy into the clock, which is then converted into entropy. “By measuring time,\nwe are increasing the entropy of the universe,” says Ares. The more entropy there is in the universe, the closer it may be to its\neventual demise. “Maybe we should stop measuring time,” says Ares. The scale of the additional entropy is so small, though,\nthat there is no need to worry about its effects, she says.\nThe increase in entropy in timekeeping may be related to the “arrow of time”, says Marcus Huber at the Austrian Academy of\nSciences in Vienna, who was part of the research team. It has been suggested that the reason that time only flows forward, not\nin reverse, is that the total amount of entropy in the universe is constantly increasing, creating disorder that cannot be put in\norder again.\nThe relationship that the researchers found is a limit on the accuracy of a clock, so it doesn’t mean that a clock that creates the\nmost possible entropy would be maximally accurate –hence a large, inefficient grandfather clock isn’t more precise than an\natomic clock. “It’s a bit like fuel use in a car. Just because I’m using more fuel doesn’t mean that I’m going faster or further,”\nsays Huber.\nWhen the researchers compared their results with theoretical models developed for clocks that rely on quantum effects, they\nwere surprised to find that the relationship between accuracy and entropy seemed to be the same for both. . . . We can’t be\nsure yet that these results are actually universal, though, because there are many types of clocks for which the relationship\nbetween accuracy and entropy haven’t been tested. “It’s still unclear how this principle plays out in real devices such as atomic\nclocks, which push the ultimate quantum limits of accuracy,” says Mark Mitchison at Trinity College Dublin in Ireland.\nUnderstanding this relationship could be helpful for designing clocks in the future, particularly those used in quantum\ncomputers and other devices where both accuracy and temperature are crucial, says Ares. This finding could also help us\nunderstand more generally how the quantum world and the classical world are similar and different in terms of\nthermodynamics and the passage of time.\n“It’s a bit like fuel use in a car. Just because I’m using more fuel doesn’t mean that I’m going faster or further . . .” What is the\npurpose of this example?",
+          "options": {
+            "A": "If you go faster in a car, you will tend to consume more fuel, but the converse is not necessarily true. In the same way, increased entropy does not necessarily mean greater accuracy of a clock.",
+            "B": "The further you go in a car, the more fuel you use. In the same way, the faster you go in a car, the less time you use.",
+            "C": "If you measure the speed of a car with a grandfather clock, the result will be different than if you measured it with an atomic clock.",
+            "D": "The further and faster you go in a car, the greater the amount of fuel you will use, the greater the amount of heat produced and, hence, the greater the entropy."
+          },
+          "correct_answer": "A",
+          "explanation": "The author uses this example to clarify the relationship between accuracy and entropy."
+        },
+        {
+          "id": "cat-2021-slot3-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author makes all of the following arguments in the passage, EXCEPT that:",
+          "options": {
+            "A": "The relationship between accuracy and entropy may not apply to all clocks.",
+            "B": "Researchers found that the heat produced in a system is the price paid for increased accuracy of measurement.",
+            "C": "There is no difference in accuracy between an inefficient grandfather clock and an atomic clock.",
+            "D": "In designing clocks for quantum computers, both precision and heat have to be taken into account."
+          },
+          "correct_answer": "B",
+          "explanation": "The price paid is not the heat, but the increased entropy."
+        },
+        {
+          "id": "cat-2021-slot3-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following sets of words and phrases serves best as keywords of the passage?",
+          "options": {
+            "A": "Electric current; Heat; Quantum effects",
+            "B": "Silicon Nitride; Energy; Grandfather Clocks",
+            "C": "Measuring Time; Accuracy; Entropy",
+            "D": "Membrane; Arrow of time; Entropy"
+          },
+          "correct_answer": "C",
+          "explanation": "Option 3 is the best set of words as it’s about the relationship between entropy and accuracy in the context of measuring time."
+        },
+        {
+          "id": "cat-2021-slot3-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "None of the following statements can be inferred from the passage EXCEPT that:",
+          "options": {
+            "A": "the arrow of time has not yet been tested for atomic clocks.",
+            "B": "quantum computers are likely to produce more heat and, hence, more entropy, because of the emphasis on their clocks' accuracy",
+            "C": "grandfather clocks are likely to produce less heat and, hence, less entropy, because they are not as accurate.",
+            "D": "a clock with a 50-nanometre-thick membrane of silicon nitride has been made to vibrate, producing electric currents."
+          },
+          "correct_answer": "B",
+          "explanation": "Q is \"None of the following statements can be inferred from the passage EXCEPT that:\" i.e. we are looking for an option which can be inferred Option B can be inferred as the passage states that the quantum computers emphasise on accuracy and accuracy leads to more heat and more entropy. For option C refer lines: \"The relationship that the researchers found is a limit on the accuracy of a clock, so it doesn’t mean that a clock that creates the most possible entropy would be maximally accurate –hence a large, inefficient grandfather clock isn’t more precise than an atomic clock.\""
+        },
+        {
+          "id": "cat-2021-slot3-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Today we can hardly conceive of ourselves without an unconscious. Yet between 1700 and1900, this notion developed as a\ngenuinely original thought. The “unconscious” burst the shell of conventional language, coined as it had been to embody the\nfleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms\nwithin the realm of medical psychology and Freudian psychoanalysis.\nThe vocabulary concerning the soul and the mind increased enormously in the course of the nineteenth century. The\nenrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored\nexpressions and traditional catchwords. At the same time, once coined, powerful new ideas attracted to themselves awhile host\nof seemingly unrelated issues, practices, and experiences, creating a peculiar network of preoccupations that as a group had\nnot existed before. The drawn-out attempt to approach and define the unconscious brought together the spiritualist and the\npsychical researcher of borderline phenomena (such as apparitions, spectral illusions, haunted houses, mediums, trance,\nautomatic writing); the psychiatrist or alienist probing the nature of mental disease, of abnormal ideation, hallucination,\ndelirium, melancholia, mania; the surgeon performing operations with the aid of hypnotism; the magnetizer claiming to correct\nthe disequilibrium in the universal flow of magnetic fluids but who soon came to be regarded as a clever manipulator of the\nimagination; the physiologist and the physician who puzzled oversleep, dreams, sleepwalking, anesthesia, the influence of the\nmind on the body in health and disease; the neurologist concerned with the functions of the brain and the physiological basis\nof mental life; the philosopher interested in the will, the emotions, consciousness, knowledge, imagination and the creative\ngenius; and, last but not least, the psychologist.\nSignificantly, most if not all of these practices (for example, hypnotism in surgery or psychological magnetism) originated in the\nwaning years of the eighteenth century and during the early decades of the nineteenth century, as did some of the disciplines\n(such as psychology and psychical research). The majority of topics too were either new or assumed hitherto unknown colors.\nThus, before 1790, few if any spoke, in medical terms, of the affinity between creative genius and the hallucinations of the\ninsane . . .\nStriving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together\nby some novel term. The new concept then serves as a kind of resting place or stocktaking in the development of ideas, giving\nsatisfaction and a stimulus for further discussion or speculation. Thus, the massive introduction of the term unconscious by\nHartmann in 1869 appeared to focalize many stray thoughts, affording a temporary feeling that a crucial step had been taken\nforward, a comprehensive knowledge gained, a knowledge that required only further elaboration, explication, and unfolding in\norder to bring in a bounty of higher understanding. Ultimately, Hartmann’s attempt at defining the unconscious proved fruitless\nbecause he extended its reach into every realm of organic and inorganic, spiritual, intellectual, and instinctive existence,\nseverely diluting the precision and compromising the impact of the concept.",
+          "passage_group": 3,
+          "question": "All of the following statements may be considered valid inferences from the passage, EXCEPT:",
+          "options": {
+            "A": "Unrelated practices began to be treated as related to each other, as knowledge of the mind grew in the nineteenth century.",
+            "B": "Without the linguistic developments of the nineteenth century, the growth of understanding of the soul and the mind may not have happened.",
+            "C": "Eighteenth century thinkers were the first to perceive a connection between creative genius and insanity.",
+            "D": "New conceptions in the nineteenth century could provide new knowledge because of the establishment of fields such as anesthesiology"
+          },
+          "correct_answer": "D",
+          "explanation": "Option 2 and 1 can be drawn from the second para” The vocabulary concerning the soul and the mind increased enormously in the course of the nineteenth century. The enrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honoured expressions and traditional catchwords. At the same time, once coined, powerful new ideas attracted to themselves a whole host of seemingly unrelated issues, practices, and experiences, creating a peculiar network of preoccupations that as a group had not existed before. “Also, option 1 further can be drawn from last para. rd Option 3 can be drawn from the 3 para “Thus, before 1790, few if any spoke, in medical terms, of the affinity between creative genius and the hallucinations of the insane”"
+        },
+        {
+          "id": "cat-2021-slot3-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Today we can hardly conceive of ourselves without an unconscious. Yet between 1700 and1900, this notion developed as a\ngenuinely original thought. The “unconscious” burst the shell of conventional language, coined as it had been to embody the\nfleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms\nwithin the realm of medical psychology and Freudian psychoanalysis.\nThe vocabulary concerning the soul and the mind increased enormously in the course of the nineteenth century. The\nenrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored\nexpressions and traditional catchwords. At the same time, once coined, powerful new ideas attracted to themselves awhile host\nof seemingly unrelated issues, practices, and experiences, creating a peculiar network of preoccupations that as a group had\nnot existed before. The drawn-out attempt to approach and define the unconscious brought together the spiritualist and the\npsychical researcher of borderline phenomena (such as apparitions, spectral illusions, haunted houses, mediums, trance,\nautomatic writing); the psychiatrist or alienist probing the nature of mental disease, of abnormal ideation, hallucination,\ndelirium, melancholia, mania; the surgeon performing operations with the aid of hypnotism; the magnetizer claiming to correct\nthe disequilibrium in the universal flow of magnetic fluids but who soon came to be regarded as a clever manipulator of the\nimagination; the physiologist and the physician who puzzled oversleep, dreams, sleepwalking, anesthesia, the influence of the\nmind on the body in health and disease; the neurologist concerned with the functions of the brain and the physiological basis\nof mental life; the philosopher interested in the will, the emotions, consciousness, knowledge, imagination and the creative\ngenius; and, last but not least, the psychologist.\nSignificantly, most if not all of these practices (for example, hypnotism in surgery or psychological magnetism) originated in the\nwaning years of the eighteenth century and during the early decades of the nineteenth century, as did some of the disciplines\n(such as psychology and psychical research). The majority of topics too were either new or assumed hitherto unknown colors.\nThus, before 1790, few if any spoke, in medical terms, of the affinity between creative genius and the hallucinations of the\ninsane . . .\nStriving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together\nby some novel term. The new concept then serves as a kind of resting place or stocktaking in the development of ideas, giving\nsatisfaction and a stimulus for further discussion or speculation. Thus, the massive introduction of the term unconscious by\nHartmann in 1869 appeared to focalize many stray thoughts, affording a temporary feeling that a crucial step had been taken\nforward, a comprehensive knowledge gained, a knowledge that required only further elaboration, explication, and unfolding in\norder to bring in a bounty of higher understanding. Ultimately, Hartmann’s attempt at defining the unconscious proved fruitless\nbecause he extended its reach into every realm of organic and inorganic, spiritual, intellectual, and instinctive existence,\nseverely diluting the precision and compromising the impact of the concept.",
+          "passage_group": 3,
+          "question": "Which one of the following statements best describes what the passage is about?",
+          "options": {
+            "A": "The discovery of the unconscious as a part of the human mind",
+            "B": "The collating of diverse ideas under the single term: unconscious",
+            "C": "The growing vocabulary of the soul and the mind, as diverse processes",
+            "D": "The identification of the unconscious as an object of psychical research"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage talks about The collating of diverse ideas under the single term: unconscious. The passage throughout talks about vocabulary/language/concept and unconscious nd It can be seen in the 2 para and final para of the passage “Striving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together by some novel term. The new concept then serves as a kind of resting place or stocktaking in the development of ideas, giving satisfaction and a stimulus for further discussion or speculation. Thus, the massive introduction of the term unconscious by Hartmann in 1869 appeared to focalize many stray thoughts, affording a temporary feeling that a crucial step had been taken forward, a comprehensive knowledge gained, a knowledge that required only further elaboration, explication, and unfolding in order to bring in a bounty ofhigher understanding.”"
+        },
+        {
+          "id": "cat-2021-slot3-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Today we can hardly conceive of ourselves without an unconscious. Yet between 1700 and1900, this notion developed as a\ngenuinely original thought. The “unconscious” burst the shell of conventional language, coined as it had been to embody the\nfleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms\nwithin the realm of medical psychology and Freudian psychoanalysis.\nThe vocabulary concerning the soul and the mind increased enormously in the course of the nineteenth century. The\nenrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored\nexpressions and traditional catchwords. At the same time, once coined, powerful new ideas attracted to themselves awhile host\nof seemingly unrelated issues, practices, and experiences, creating a peculiar network of preoccupations that as a group had\nnot existed before. The drawn-out attempt to approach and define the unconscious brought together the spiritualist and the\npsychical researcher of borderline phenomena (such as apparitions, spectral illusions, haunted houses, mediums, trance,\nautomatic writing); the psychiatrist or alienist probing the nature of mental disease, of abnormal ideation, hallucination,\ndelirium, melancholia, mania; the surgeon performing operations with the aid of hypnotism; the magnetizer claiming to correct\nthe disequilibrium in the universal flow of magnetic fluids but who soon came to be regarded as a clever manipulator of the\nimagination; the physiologist and the physician who puzzled oversleep, dreams, sleepwalking, anesthesia, the influence of the\nmind on the body in health and disease; the neurologist concerned with the functions of the brain and the physiological basis\nof mental life; the philosopher interested in the will, the emotions, consciousness, knowledge, imagination and the creative\ngenius; and, last but not least, the psychologist.\nSignificantly, most if not all of these practices (for example, hypnotism in surgery or psychological magnetism) originated in the\nwaning years of the eighteenth century and during the early decades of the nineteenth century, as did some of the disciplines\n(such as psychology and psychical research). The majority of topics too were either new or assumed hitherto unknown colors.\nThus, before 1790, few if any spoke, in medical terms, of the affinity between creative genius and the hallucinations of the\ninsane . . .\nStriving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together\nby some novel term. The new concept then serves as a kind of resting place or stocktaking in the development of ideas, giving\nsatisfaction and a stimulus for further discussion or speculation. Thus, the massive introduction of the term unconscious by\nHartmann in 1869 appeared to focalize many stray thoughts, affording a temporary feeling that a crucial step had been taken\nforward, a comprehensive knowledge gained, a knowledge that required only further elaboration, explication, and unfolding in\norder to bring in a bounty of higher understanding. Ultimately, Hartmann’s attempt at defining the unconscious proved fruitless\nbecause he extended its reach into every realm of organic and inorganic, spiritual, intellectual, and instinctive existence,\nseverely diluting the precision and compromising the impact of the concept.",
+          "passage_group": 3,
+          "question": "“The enrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-\nhonored expressions and traditional catchwords.” Which one of the following interpretations of this sentence would be closest\nin meaning to the original?",
+          "options": {
+            "A": "The meanings of time-honored expressions were changed by innovations in literary and intellectual language.",
+            "B": "Literary and intellectual language was altered by time-honored expressions and traditional catchwords.",
+            "C": "All of the options listed here.",
+            "D": "Time-honored expressions and traditional catchwords were enriched by literary and intellectual language."
+          },
+          "correct_answer": "A",
+          "explanation": "The enrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honoured expressions and traditional catchwords.” So option 1 which is The meanings of time-honoured expressions were changed by innovations in literary and intellectual language is apt. Option 2 goes in a different direction and states language was altered Option 4 does not mention about alteration/change in meanings rather talks about enrichment/defining the term better."
+        },
+        {
+          "id": "cat-2021-slot3-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Today we can hardly conceive of ourselves without an unconscious. Yet between 1700 and1900, this notion developed as a\ngenuinely original thought. The “unconscious” burst the shell of conventional language, coined as it had been to embody the\nfleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms\nwithin the realm of medical psychology and Freudian psychoanalysis.\nThe vocabulary concerning the soul and the mind increased enormously in the course of the nineteenth century. The\nenrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored\nexpressions and traditional catchwords. At the same time, once coined, powerful new ideas attracted to themselves awhile host\nof seemingly unrelated issues, practices, and experiences, creating a peculiar network of preoccupations that as a group had\nnot existed before. The drawn-out attempt to approach and define the unconscious brought together the spiritualist and the\npsychical researcher of borderline phenomena (such as apparitions, spectral illusions, haunted houses, mediums, trance,\nautomatic writing); the psychiatrist or alienist probing the nature of mental disease, of abnormal ideation, hallucination,\ndelirium, melancholia, mania; the surgeon performing operations with the aid of hypnotism; the magnetizer claiming to correct\nthe disequilibrium in the universal flow of magnetic fluids but who soon came to be regarded as a clever manipulator of the\nimagination; the physiologist and the physician who puzzled oversleep, dreams, sleepwalking, anesthesia, the influence of the\nmind on the body in health and disease; the neurologist concerned with the functions of the brain and the physiological basis\nof mental life; the philosopher interested in the will, the emotions, consciousness, knowledge, imagination and the creative\ngenius; and, last but not least, the psychologist.\nSignificantly, most if not all of these practices (for example, hypnotism in surgery or psychological magnetism) originated in the\nwaning years of the eighteenth century and during the early decades of the nineteenth century, as did some of the disciplines\n(such as psychology and psychical research). The majority of topics too were either new or assumed hitherto unknown colors.\nThus, before 1790, few if any spoke, in medical terms, of the affinity between creative genius and the hallucinations of the\ninsane . . .\nStriving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together\nby some novel term. The new concept then serves as a kind of resting place or stocktaking in the development of ideas, giving\nsatisfaction and a stimulus for further discussion or speculation. Thus, the massive introduction of the term unconscious by\nHartmann in 1869 appeared to focalize many stray thoughts, affording a temporary feeling that a crucial step had been taken\nforward, a comprehensive knowledge gained, a knowledge that required only further elaboration, explication, and unfolding in\norder to bring in a bounty of higher understanding. Ultimately, Hartmann’s attempt at defining the unconscious proved fruitless\nbecause he extended its reach into every realm of organic and inorganic, spiritual, intellectual, and instinctive existence,\nseverely diluting the precision and compromising the impact of the concept.",
+          "passage_group": 3,
+          "question": "Which one of the following sets of words is closest to mapping the main arguments of the passage?",
+          "options": {
+            "A": "Language; Unconscious; Psychoanalysis",
+            "B": "Literary language; Unconscious; Insanity",
+            "C": "Unconscious; Latent conception; Dreams",
+            "D": "Imagination; Magnetism; Psychiatry"
+          },
+          "correct_answer": "A",
+          "explanation": "Main sets of words closest to mapping the main arguments of the passage are Language; Unconscious; Psychoanalysis. They form the basis of the passage and present from the start of the passage till the end. “The “unconscious” burst the shell of conventional language, coined as it had been to embody the fleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms within the realm of medical psychology and Freudian psychoanalysis.” Para 2 explains these points in detail."
+        },
+        {
+          "id": "cat-2021-slot3-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Starting in 1957, [Noam Chomsky] proclaimed a new doctrine: Language, that most human of all attributes, was innate. The\ngrammatical faculty was built into the infant brain, and your average 3-year-old was not a mere apprentice in the great\nenterprise of absorbing English from his or her parents, but a “linguistic genius.” Since this message was couched in terms of\nChomskyan theoretical linguistics, in discourse so opaque that it was nearly incomprehensible even to some scholars, many\npeople did not hear it. Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker . . . has\nbrought Mr. Chomsky’s findings to everyman. In “The Language Instinct” he has gathered persuasive data from such diverse\nfields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees\nwith Mr. Chomsky he tells you so. . . .\nFor Mr. Chomsky and Mr. Pinker, somewhere in the human brain there is a complex set of neural circuits that have been\nprogrammed with “super-rules” (making up what Mr. Chomsky calls “universal grammar”), and that these rules are unconscious\nand instinctive. A half-century ago, this would have been pooh-poohed as a “black box” theory, since one could not actually\npinpoint this grammatical faculty in a specific part of the brain, or describe its functioning. But now things are different.\nNeurosurgeons [have now found that this] “black box” is situated in and around Broca’s area, on the left side of the forebrain. . .\n.\nUnlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural\nselection and evolution. He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities\nto learn and use language. It is not that chimps lack the vocal apparatus to speak; it is just that their brains are unable to\nproduce or use grammar. On the other hand, the “language instinct,” when it first appeared among our most distant hominid\nancestors, must have given them a selective reproductive advantage over their competitors (including the ancestral chimps). . . .",
+          "passage_group": 4,
+          "question": "So according to Mr. Pinker, the roots of language must be in the genes, but there cannot be a “grammar gene” any more than\nthere can be a gene for the heart or any other complex body structure. This proposition will undoubtedly raise the hackles of\nsome behavioral psychologists and anthropologists, for it apparently contradicts the liberal idea that human behavior may be\nchanged for the better by improvements in culture and environment, and it might seem to invite the twin bugaboos of\nbiological determinism and racism. Yet Mr. Pinker stresses one point that should allay such fears. Even though there are 4,000\nto 6,000languages today, they are all sufficiently alike to be considered one language by an extraterrestrial observer. In other\nwords, most of the diversity of the world’s cultures, so beloved to anthropologists, is superficial and minor compared to the\nsimilarities. Racial differences are literally only “skin deep.” The fundamental unity of humanity is the theme of Mr. Chomsky's\nuniversal grammar, and of this exciting book.\nOn the basis of the information in the passage, Pinker and Chomsky may disagree with each other on which one of the\nfollowing points?",
+          "options": {
+            "A": "The possibility of a universal grammar.",
+            "B": "The language instinct",
+            "C": "The inborn language acquisition skills of humans",
+            "D": "The Darwinian explanatory paradigm for language"
+          },
+          "correct_answer": "D",
+          "explanation": "It is mentioned in para 3 “Unlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural selection and evolution. He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities to learn and use language. Itis not those chimps lack the vocal apparatus to speak; it is just that their brains are unable to produce or use grammar.”"
+        },
+        {
+          "id": "cat-2021-slot3-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Starting in 1957, [Noam Chomsky] proclaimed a new doctrine: Language, that most human of all attributes, was innate. The\ngrammatical faculty was built into the infant brain, and your average 3-year-old was not a mere apprentice in the great\nenterprise of absorbing English from his or her parents, but a “linguistic genius.” Since this message was couched in terms of\nChomskyan theoretical linguistics, in discourse so opaque that it was nearly incomprehensible even to some scholars, many\npeople did not hear it. Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker . . . has\nbrought Mr. Chomsky’s findings to everyman. In “The Language Instinct” he has gathered persuasive data from such diverse\nfields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees\nwith Mr. Chomsky he tells you so. . . .\nFor Mr. Chomsky and Mr. Pinker, somewhere in the human brain there is a complex set of neural circuits that have been\nprogrammed with “super-rules” (making up what Mr. Chomsky calls “universal grammar”), and that these rules are unconscious\nand instinctive. A half-century ago, this would have been pooh-poohed as a “black box” theory, since one could not actually\npinpoint this grammatical faculty in a specific part of the brain, or describe its functioning. But now things are different.\nNeurosurgeons [have now found that this] “black box” is situated in and around Broca’s area, on the left side of the forebrain. . .\n.\nUnlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural\nselection and evolution. He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities\nto learn and use language. It is not that chimps lack the vocal apparatus to speak; it is just that their brains are unable to\nproduce or use grammar. On the other hand, the “language instinct,” when it first appeared among our most distant hominid\nancestors, must have given them a selective reproductive advantage over their competitors (including the ancestral chimps). . . .",
+          "passage_group": 4,
+          "question": "According to the passage, all of the following are true about the language instinct EXCEPT that:",
+          "options": {
+            "A": "all intelligent primates are gifted with it.",
+            "B": "not all intelligent primates are gifted with it",
+            "C": "developments in neuroscience have increased its acceptance",
+            "D": "it confers an evolutionary reproductive advantage"
+          },
+          "correct_answer": "A",
+          "explanation": "rd It is mentioned in the 3 para “ He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities to learn and use language. Itis not those chimps lack the vocal apparatus to speak; it is just that their brains are unable to produce or use grammar. On the other hand, the “language instinct,” when it first appeared among our most distant hominid ancestors, must have given them a selective reproductive advantage over their competitors' For option 3 refer lines \"A half-century ago, this would have been pooh-poohed as a “black box” theory, since one could not actually pinpoint this grammatical faculty in a specific part of the brain, or describe its functioning. But now things are different. Neurosurgeons [have now found that this] “black box” is situated in and around Broca’s area, on the left side of the forebrain. . . \" For option 4 refer lines \"On the other hand, the “language instinct,” when it first appeared among our most distant hominid ancestors, must have given them a selective reproductive advantage over their competitors (including the ancestral chimps).\""
+        },
+        {
+          "id": "cat-2021-slot3-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Starting in 1957, [Noam Chomsky] proclaimed a new doctrine: Language, that most human of all attributes, was innate. The\ngrammatical faculty was built into the infant brain, and your average 3-year-old was not a mere apprentice in the great\nenterprise of absorbing English from his or her parents, but a “linguistic genius.” Since this message was couched in terms of\nChomskyan theoretical linguistics, in discourse so opaque that it was nearly incomprehensible even to some scholars, many\npeople did not hear it. Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker . . . has\nbrought Mr. Chomsky’s findings to everyman. In “The Language Instinct” he has gathered persuasive data from such diverse\nfields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees\nwith Mr. Chomsky he tells you so. . . .\nFor Mr. Chomsky and Mr. Pinker, somewhere in the human brain there is a complex set of neural circuits that have been\nprogrammed with “super-rules” (making up what Mr. Chomsky calls “universal grammar”), and that these rules are unconscious\nand instinctive. A half-century ago, this would have been pooh-poohed as a “black box” theory, since one could not actually\npinpoint this grammatical faculty in a specific part of the brain, or describe its functioning. But now things are different.\nNeurosurgeons [have now found that this] “black box” is situated in and around Broca’s area, on the left side of the forebrain. . .\n.\nUnlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural\nselection and evolution. He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities\nto learn and use language. It is not that chimps lack the vocal apparatus to speak; it is just that their brains are unable to\nproduce or use grammar. On the other hand, the “language instinct,” when it first appeared among our most distant hominid\nancestors, must have given them a selective reproductive advantage over their competitors (including the ancestral chimps). . . .",
+          "passage_group": 4,
+          "question": "From the passage, it can be inferred that all of the following are true about Pinker ‘book, “The Language Instinct”, EXCEPT that\nPinker:",
+          "options": {
+            "A": "writes in a different style from Chomsky",
+            "B": "draws from behavioural psychology theories",
+            "C": "disagrees with Chomsky on certain grounds",
+            "D": "draws extensively from Chomsky’s propositions"
+          },
+          "correct_answer": "B",
+          "explanation": "For option 2 refer lines \"So according to Mr. Pinker, the roots of language must be in the genes, but there cannot be a “grammar gene” any more than there can be a gene for the heart or any other complex body structure. This proposition will undoubtedly raise the hackles of some behavioral psychologists and anthropologists,\" st Also, it is mentioned in the 1 para “. In “The Language Instinct” he has gathered persuasive data from such diverse fields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees with Mr. Chomsky he tells you so.” So, we cannot infer behavior psychology. OPtion 1 can be inferred from \"Since this message was couched in terms of Chomskyan theoretical linguistics, in discourse so opaque that it was nearly incomprehensible even to some scholars, many people did not hear it. Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker . . . has brought Mr. Chomsky’s findings to everyman.\" Options C and D can also be drawn from \"Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker . . . has brought Mr. Chomsky’s findings to everyman. In “The Language Instinct” he has gathered persuasive data from such diverse fields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees with Mr. Chomsky he tells you so. . . .\""
+        },
+        {
+          "id": "cat-2021-slot3-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Starting in 1957, [Noam Chomsky] proclaimed a new doctrine: Language, that most human of all attributes, was innate. The\ngrammatical faculty was built into the infant brain, and your average 3-year-old was not a mere apprentice in the great\nenterprise of absorbing English from his or her parents, but a “linguistic genius.” Since this message was couched in terms of\nChomskyan theoretical linguistics, in discourse so opaque that it was nearly incomprehensible even to some scholars, many\npeople did not hear it. Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker . . . has\nbrought Mr. Chomsky’s findings to everyman. In “The Language Instinct” he has gathered persuasive data from such diverse\nfields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees\nwith Mr. Chomsky he tells you so. . . .\nFor Mr. Chomsky and Mr. Pinker, somewhere in the human brain there is a complex set of neural circuits that have been\nprogrammed with “super-rules” (making up what Mr. Chomsky calls “universal grammar”), and that these rules are unconscious\nand instinctive. A half-century ago, this would have been pooh-poohed as a “black box” theory, since one could not actually\npinpoint this grammatical faculty in a specific part of the brain, or describe its functioning. But now things are different.\nNeurosurgeons [have now found that this] “black box” is situated in and around Broca’s area, on the left side of the forebrain. . .\n.\nUnlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural\nselection and evolution. He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities\nto learn and use language. It is not that chimps lack the vocal apparatus to speak; it is just that their brains are unable to\nproduce or use grammar. On the other hand, the “language instinct,” when it first appeared among our most distant hominid\nancestors, must have given them a selective reproductive advantage over their competitors (including the ancestral chimps). . . .",
+          "passage_group": 4,
+          "question": "Which one of the following statements best summarises the author’s position about Pinker’s book?",
+          "options": {
+            "A": "The evolutionary and deterministic framework of Pinker’s book makes it racist.",
+            "B": "The universality of the “language instinct” counters claims that Pinker’s book is racist.",
+            "C": "Culture and environment play a key role in shaping our acquisition of language",
+            "D": "Anatomical developments like the voice box play a key role in determining language acquisition skills."
+          },
+          "correct_answer": "B",
+          "explanation": "It is mentioned in the last para that “ Racial differences are literally only “skin deep.” The fundamental unity of humanity is the theme of Mr. Chomsky's universal grammar, and of this exciting book.” OPtion 4 is incorrect because of it's not about 'anatomical' developments or 'voice' box or 'language acquisition' (Refer line 1- Language is innate)"
+        },
+        {
+          "id": "cat-2021-slot3-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Brazil’s growth rate has been low, yet most Brazilians say their financial situation has improved, and they expect it to get even\nbetter. This is because most incomes are rising fast, with higher minimum wages and very low unemployment. The result is\nfalling inequality and a growing middle class — the result of economic stabilization, improved social security and universal\nprimary education. But despite recent improvements the Brazilian economy is still painfully unequal, with poor Brazilian spaying\nthe biggest share of their income in taxes and getting the least back in government services.",
+          "options": {
+            "A": "Economic reforms have benefitted many Brazilians, but they are unaware of the impending problems from rising inequalities in their society.",
+            "B": "With rising incomes and falling unemployment, most Brazilians are being misled into thinking that their economy is doing well.",
+            "C": "Good economic indicators have masked the unfair taxation of the poor that is likely to destabilise the Brazilian economy in the next few years.",
+            "D": "Most Brazilians feel they have benefitted from recent economic events, but the poor continue to be dealt unfairly by the state."
+          },
+          "correct_answer": "D",
+          "explanation": "The clue limes are ‘Brazil’s growth rate has been low, yet most Brazilians say their financial situation has improved, and they expect it to get even better & “But despite recent improvements the Brazilian economy is still painfully unequal, with poor Brazilian spaying the biggest share of their income in taxes and getting the least back in government services’. There is no mention of impending problems from rising inequality. There is no mention of ‘most Brazilians being misled or even guided by the progress in the economy of the nation. This could be an inference and not the summary that unfair taxation of the poor that is likely to destabilise the Brazilian economy in the next few years."
+        },
+        {
+          "id": "cat-2021-slot3-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Businesses find automation, such as robotic employees, a big asset in terms of productivity and efficiency.\n2. But in recent years, robotics has had increasing impacts on unemployment, not just of manual labour, as computers are\nrapidly handling some white-collar and service-sector work.\n3. For years politicians have promised workers that they would bring back their jobs by clamping down on trade, off shoring\nand immigration.\n4. Economists, based on their research, say that the bigger threat to jobs now is not globalisation but automation.",
+          "options": {},
+          "correct_answer": "3412",
+          "explanation": "The question has presented views on threat to the employement by politicians & economists. The opening sentence is 3 as it introduces the theme of the discussion. It is countered by 4 as the real problem ,as stated by economists, is 'automation’. This has been futher explained by 1. After this 2 will come as it counters 1 as it's not just manual labour where robotic employees are helpful in increasing efficiency and productivity but now, computers are rapidly handling some white-collar and service-sector work, which explains increasing unemployment owing to automation"
+        },
+        {
+          "id": "cat-2021-slot3-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to\nform a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. A typical example is Wikipedia, where the overwhelming majority of contributors are male and so the available content is\nskewed to reflect their interests.\n2. Without diversity of thought and representation, society is left with a distorted picture of future options, which are likely to\nresult in augmenting existing inequalities.\n3. Gross gender inequality in the technology sector is problematic, not only for the industry-wide marginalization of women,\nbut because technology designs embody the values of their makers.\n4. While redressing unequal representation in the workplace is a step in the right direction, broader social change is needed to\naddress the structural inequalities embedded within the current organization of work and employment.\n5. If technology merely reflects the perspectives of the male stereotype, then new technologies are unlikely to accommodate\nthe diverse social contexts within which they operate.",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": "Other sentences talk about technology sector but 4 talks about workplace in general. 3152 3 opens the argument 3-152 152 give an example and explain stt 3 1-5 are linked by 'reflect their interests.' in 1 and 'reflects the perspectives of the male stereotype' in 5 5-2 are linked by diversity"
+        },
+        {
+          "id": "cat-2021-slot3-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Restitution of artefacts to original cultures could faces legal obstacles, as many Western museums are legally prohibited from\ndisposing off their collections.\n2. This is in response to countries like Nigeria, which are pressurising European museums to return their precious artefacts\nlooted by colonisers in the past.\n3. Museums in Europe today are struggling to come to terms with their colonial legacy, some taking steps to return artefacts\nbut not wanting to lose their prized collections.\n4. Legal hurdles notwithstanding, politicians and institutions in France and Germany would now like to defuse the colonial time\nbombs, and are now backing the return of part of their holdings.",
+          "options": {},
+          "correct_answer": "3214",
+          "explanation": "The context talks about returninmg the artefacts to the countries they belong and challenges & apprehensions involved. The opening sentence is 3 as it introduces the topic under discussion. ‘this’ in 2 in what has been said in 3. After this 1 will come as it talks about the legal hurdles in this process. The legal context has been further extended by 4 and will the conclude the context by stating the politicians stand on the issue."
+        },
+        {
+          "id": "cat-2021-slot3-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "People view idleness as a sin and industriousness as a virtue, and in the process have developed an unsatisfactory relationship\nwith their jobs. Work has become a way for them to keep busy, even though many find their work meaningless. In their need\nfor activity people undertake what was once considered work (fishing, gardening) as hobbies. The opposing view is that hard\nwork has made us prosperous and improved our levels of health and education. It has also brought innovation and labour and\ntime-saving devices, which have lessened life’s drudgery.",
+          "options": {
+            "A": "Despite some detractors, hard work is essential in today’s world to enable economic progress, for education and health and to propel innovations that make life easier.",
+            "B": "Some believe that hard work has been glorified to the extent that it has become meaningless, and led to greater idleness, but it has also had enormous positive impacts on everyday life.",
+            "C": "Hard work has overtaken all aspects of our lives and has enabled economic prosperity, but it is important that people reserve their leisure time for some idleness.",
+            "D": "While the idealisation of hard work has propelled people into meaningless jobs and endless activity, it has also led to tremendous social benefits from prosperity and innovation."
+          },
+          "correct_answer": "D",
+          "explanation": "The clue lines are ‘Work has become a way for them to keep busy, even though many find their work meaningles’ & ‘hard work has made us prosperous’. Also the line ‘has also brought innovation’. OPtion 1 is incorrect as author states both positives and negatives of vieweing hard work as virtuous but never goes on to say 'hard work is essential' OPtion2 is incorrect as glorification of hard work has 'led to greater idleness' isn't implied"
+        },
+        {
+          "id": "cat-2021-slot3-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to\nform a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. They often include a foundation course on navigating capitalism with Chinese characteristics and have replaced typical cases\nfrom US corporates with a focus on how Western theories apply to China’s buzzing local firms.\n2. The best Chinese business schools look like their Western rivals but are now growing distinct in terms of what they teach and\nthe career boost they offer.\n3. Western schools have enhanced their offerings with double degrees, popular with domestic and overseas students alike—\nand boosted the prestige of their Chinese partners.\n4. For students, a big draw is the chance to rub shoulders with captains of China’s private sector.\n5. Their business courses now largely cater to the growing demand from China Inc which has become more global, richer and\nready to recruit from this sinocentric student body.",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "The sentences talk about the Chinese business schools and inspite of looking like their western rival, they are somewhat distinct in terms of what they offer. 3 is focusing on what western schools are doing and not actions of Chinese schools"
+        },
+        {
+          "id": "cat-2021-slot3-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The human mind is wired to see patterns. Not only does the brain process information as it comes in, it also stores insights\nfrom all our past experiences. Every interaction, happy or sad, is catalogued in our memory. Intuition draws from that deep\nmemory well to inform our decisions going forward. In other words, intuitive decisions are based on data, and not contrary to\ndata as many would like to assume. When we subconsciously spot patterns, the body starts firing neuro chemicals in both the\nbrain and gut. These “somatic markers” are what give us that instant sense that something is right … or that it’s off. Not only are\nthese automatic processes faster than rational thought, but our intuition draws from decades of diverse qualitative\nexperience(sights, sounds, interactions, etc.) – a wholly human feature that big data alone could never accomplish.",
+          "options": {
+            "A": "Intuition draws from deep memory, and may not be related to data, but to decades of diverse qualitative experience.",
+            "B": "Intuition is infinitely richer than big data which is based on rational thought and accomplishes more than what big data can.",
+            "C": "Intuitions are neuro-chemical firings based on pattern recognition and draw upon a rich and vast database of experiences.",
+            "D": "Intuitions are automatic processes and are therefore faster than rational thought, and so decisions based on them are better."
+          },
+          "correct_answer": "C",
+          "explanation": "The clue lines are ‘Intuition draws from that deep memory well to inform our decisions going forward. In other words, intuitive decisions are based on data, and not contrary to data as many would like to assume’ & ‘subconsciously spot patterns, the body starts firing neuro chemicals in both the brain and gut’. Option 1 is incorrect because of words 'may not be related to data' whichc contradicts 'In other words, intuitive decisions are based on data, and not contrary to data as many would like to assume' Option 2 is incorrect as it focuses lot more on big data than the para. Also, 'accomplishes more than what big data can' is different from big data not being able to draw on qualitative factors like sight, sounds etc {'our intuition draws from decades of diverse qualitative experience(sights, sounds, interactions, etc.) – a wholly human feature that big data alone could never accomplish.'} Option D is incomplete as it leaves out the 1st half completely. Also, it's not just speed that makes intuition better 'Not only are these automatic processes faster than rational thought, but our intuition draws from decades of diverse qualitative experience(sights, sounds, interactions, etc.) '"
+        },
+        {
+          "id": "cat-2021-slot3-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. It is regimes of truth that make certain relationships speak able – relationships, like subjectivities, are constituted through\ndiscursive formations, which sustain regimes of truth.\n2. Relationships are nothing without the communication that brings them into being; interpersonal communication is\nconnected to knowledge shared by interlocutors, and scholars should attend to relational histories in their analyses.\n3. A Foucauldian approach to relationships goes beyond these conceptions of discourse and history to macro level regimes of\ntruth as constituting relationships.\n4. Reconsidering micro practices within relationships that are constituted within and simultaneously contributors to regimes of\ntruth acknowledges the central position of power/knowledge in the constitution of what has come to be considered true and\nreal.",
+          "options": {},
+          "correct_answer": "2314",
+          "explanation": "The context moves around what constitutes the understanding of relationships other than what is generally perceived. The opening sentence is 2 as it talks about what scholars should attend to while establishing the realtionships. 3 & 4 talk about the ‘approach’ that goes beyond the macro level in establishing the relationship in true essence. 1 further explains this approach and its ability to sustain truth. Section : DI & Reasoning"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot3-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "10 players – P1, P2, … , P10 - competed in an international javelin throw event. The number (after P) of a player reflects his rank\nat the beginning of the event, with rank 1 going to the topmost player. There were two phases in the event with the first phase\nconsisting of rounds 1,2, and 3, and the second phase consisting of rounds 4, 5, and 6. A throw is measured in terms of the\ndistance it covers (in meters, up to one decimal point accuracy), only if the throw is a ‘valid’ one. For an invalid throw, the\ndistance is taken as zero. A player’s score at the end of around is the maximum distance of all his throws up to that round.\nPlayers are re-ranked after every round based on their current scores. In case of a tie in scores, the player with a prevailing\nhigher rank retains the higher rank. This ranking determines the order in which the players go for their throws in the next\nround.\nIn each of the rounds in the first phase, the players throw in increasing order of their latest rank, i.e. the player ranked 1 at that\npoint throws first, followed by the player ranked 2 at that point and so on. The top six players at the end of the first phase\nqualify for the second phase. In each of the rounds in the second phase, the players throw in decreasing order of their latest\nrank i.e. the player ranked 6 at that point throws first, followed by the player ranked 5 at that point and so on. The players\nranked 1, 2, and 3 at the end of the sixth round receive gold, silver, and bronze medals respectively.\nAll the valid throws of the event were of distinct distances (as per stated measurement accuracy). The tables below show\ndistances (in meters) covered by all valid throws in the first and the third round in the event.\nDistances covered by all the valid throws in the first round\nPlayer Distance (in m)\nP1 82.9\nP3 81.5\nP5 86.4\nP6 82.5\nP7 87.2\nP9 84.1\nDistances covered by all the valid throws in the third round\nPlayer Distance (in m)\nP1 88.6\nP3 79.0\nP9 81.4\nThe following facts are also known.\ni. Among the throws in the second round, only the last two were valid. Both the throws enabled these players to qualify for the\nsecond phase, with one of them qualifying with the least score. None of these players won any medal.\nii. If a player throws first in a round AND he was also the last (among the players in the current round) to throw in the previous\nround, then the player is said to get a double. Two players got a double.\niii. In each round of the second phase, exactly one player improved his score. Each of these improvements was by the same\namount.\niv. The gold and bronze medalists improved their scores in the fifth and the sixth rounds respectively. One medal winner\nimproved his score in the fourth round.\nv. The difference between the final scores of the gold medalist and the silver medalist, as well as the difference between the\nfinal scores of the silver medalist and the bronze medalist was1.0 m.\nWhich two players got the double?",
+          "options": {
+            "A": "P1, P10",
+            "B": "P2, P4",
+            "C": "P8, P10",
+            "D": "P1, P8"
+          },
+          "correct_answer": "C",
+          "explanation": "The given information can be gathered as follows Phase 1 Rank P1 P2P3 P4 P5 P6 P7 P8 P9 P10 Round 1 score82.90 81.50 86.482.587.20 84.10 Rank P4 P7P6 P8 P2 P5 P1 P9 P3 P10 Round 2 score0 0 0 0 0 0 0 82.5 < < 84.10 82.5 < < 87.6 Maximum 82.90 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P5 P9P8 P10P3 P7 P2 P6 P4 P1* Round 3 score88.60 79.00 0 0 0 0 81.40 Maximum 88.60 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P1 - - - P4 - P3 P6 P5 P2 *After solving the whole data, the possibility of having double is for P8 and P10 So, P10 in round 2 being last, scores maximum in round 3 being first, and, P8 scoring last in st st round 3 would have 1 turn in round 1 as in phase 2, last rank throws 1 and rest of the data can be arranged as follows Phase 2 Round 4 scoreNA ---NA -88.4 NA NA NA Maximum 88.6 ---86.4 -88.4 82.5 < < 84.184.187.2 < < 87.6 Rank P1 ---P4 -P2 P6 P5 P3 Round 5 scoreNA ---NA -89.6 NA NA NA Maximum 88.6 ---86.4 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P4 -P1 P6 P5 P3 Round 6 scoreNA ---87.6 -NA NA NA NA Maximum 88.6 ---87.6 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P3 -P1 P6 P5 P4 Silver---Bronze-Gold- - - Since P1, P2 and P4 never gets a double, Hence, eliminating the options, it must be P8 and P10"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who won the silver medal?",
+          "options": {
+            "A": "P9",
+            "B": "P5",
+            "C": "P7",
+            "D": "P1"
+          },
+          "correct_answer": "D",
+          "explanation": "The given information can be gathered as follows Phase 1 Rank P1 P2P3 P4 P5 P6 P7 P8 P9 P10 Round 1 score82.90 81.50 86.482.587.20 84.10 Rank P4 P7P6 P8 P2 P5 P1 P9 P3 P10 Round 2 score0 0 0 0 0 0 0 82.5 < < 84.10 82.5 < < 87.6 Maximum 82.90 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P5 P9P8 P10P3 P7 P2 P6 P4 P1* Round 3 score88.60 79.00 0 0 0 0 81.40 Maximum 88.60 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P1 - - - P4 - P3 P6 P5 P2 *After solving the whole data, the possibility of having double is for P8 and P10 So, P10 in round 2 being last, scores maximum in round 3 being first, and, P8 scoring last in st st round 3 would have 1 turn in round 1 as in phase 2, last rank throws 1 and rest of the data can be arranged as follows Phase 2 Round 4 scoreNA ---NA -88.4 NA NA NA Maximum 88.6 ---86.4 -88.4 82.5 < < 84.184.187.2 < < 87.6 Rank P1 ---P4 -P2 P6 P5 P3 Round 5 scoreNA ---NA -89.6 NA NA NA Maximum 88.6 ---86.4 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P4 -P1 P6 P5 P3 Round 6 scoreNA ---87.6 -NA NA NA NA Maximum 88.6 ---87.6 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P3 -P1 P6 P5 P4 Silver---Bronze-Gold- - - P1"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who threw the last javelin in the event?",
+          "options": {
+            "A": "P7",
+            "B": "P1",
+            "C": "P10",
+            "D": "P9"
+          },
+          "correct_answer": "A",
+          "explanation": "The given information can be gathered as follows Phase 1 Rank P1 P2P3 P4 P5 P6 P7 P8 P9 P10 Round 1 score82.90 81.50 86.482.587.20 84.10 Rank P4 P7P6 P8 P2 P5 P1 P9 P3 P10 Round 2 score0 0 0 0 0 0 0 82.5 < < 84.10 82.5 < < 87.6 Maximum 82.90 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P5 P9P8 P10P3 P7 P2 P6 P4 P1* Round 3 score88.60 79.00 0 0 0 0 81.40 Maximum 88.60 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P1 - - - P4 - P3 P6 P5 P2 *After solving the whole data, the possibility of having double is for P8 and P10 So, P10 in round 2 being last, scores maximum in round 3 being first, and, P8 scoring last in st st round 3 would have 1 turn in round 1 as in phase 2, last rank throws 1 and rest of the data can be arranged as follows Phase 2 Round 4 scoreNA ---NA -88.4 NA NA NA Maximum 88.6 ---86.4 -88.4 82.5 < < 84.184.187.2 < < 87.6 Rank P1 ---P4 -P2 P6 P5 P3 Round 5 scoreNA ---NA -89.6 NA NA NA Maximum 88.6 ---86.4 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P4 -P1 P6 P5 P3 Round 6 scoreNA ---87.6 -NA NA NA NA Maximum 88.6 ---87.6 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P3 -P1 P6 P5 P4 Silver---Bronze-Gold- - - P7 (who won gold)"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the final score (in m) of the silver-medalist?",
+          "options": {
+            "A": "87.2",
+            "B": "89.6",
+            "C": "88.6",
+            "D": "88.4"
+          },
+          "correct_answer": "C",
+          "explanation": "The given information can be gathered as follows Phase 1 Rank P1 P2P3 P4 P5 P6 P7 P8 P9 P10 Round 1 score82.90 81.50 86.482.587.20 84.10 Rank P4 P7P6 P8 P2 P5 P1 P9 P3 P10 Round 2 score0 0 0 0 0 0 0 82.5 < < 84.10 82.5 < < 87.6 Maximum 82.90 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P5 P9P8 P10P3 P7 P2 P6 P4 P1* Round 3 score88.60 79.00 0 0 0 0 81.40 Maximum 88.60 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P1 - - - P4 - P3 P6 P5 P2 *After solving the whole data, the possibility of having double is for P8 and P10 So, P10 in round 2 being last, scores maximum in round 3 being first, and, P8 scoring last in st st round 3 would have 1 turn in round 1 as in phase 2, last rank throws 1 and rest of the data can be arranged as follows Phase 2 Round 4 scoreNA ---NA -88.4 NA NA NA Maximum 88.6 ---86.4 -88.4 82.5 < < 84.184.187.2 < < 87.6 Rank P1 ---P4 -P2 P6 P5 P3 Round 5 scoreNA ---NA -89.6 NA NA NA Maximum 88.6 ---86.4 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P4 -P1 P6 P5 P3 Round 6 scoreNA ---87.6 -NA NA NA NA Maximum 88.6 ---87.6 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P3 -P1 P6 P5 P4 Silver---Bronze-Gold- - - 88.6"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following can be the final score (in m) of P8?",
+          "options": {
+            "A": "85.1",
+            "B": "0",
+            "C": "81.9",
+            "D": "82.7"
+          },
+          "correct_answer": "D",
+          "explanation": "The given information can be gathered as follows Phase 1 Rank P1 P2P3 P4 P5 P6 P7 P8 P9 P10 Round 1 score82.90 81.50 86.482.587.20 84.10 Rank P4 P7P6 P8 P2 P5 P1 P9 P3 P10 Round 2 score0 0 0 0 0 0 0 82.5 < < 84.10 82.5 < < 87.6 Maximum 82.90 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P5 P9P8 P10P3 P7 P2 P6 P4 P1* Round 3 score88.60 79.00 0 0 0 0 81.40 Maximum 88.60 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P1 - - - P4 - P3 P6 P5 P2 *After solving the whole data, the possibility of having double is for P8 and P10 So, P10 in round 2 being last, scores maximum in round 3 being first, and, P8 scoring last in st st round 3 would have 1 turn in round 1 as in phase 2, last rank throws 1 and rest of the data can be arranged as follows Phase 2 Round 4 scoreNA ---NA -88.4 NA NA NA Maximum 88.6 ---86.4 -88.4 82.5 < < 84.184.187.2 < < 87.6 Rank P1 ---P4 -P2 P6 P5 P3 Round 5 scoreNA ---NA -89.6 NA NA NA Maximum 88.6 ---86.4 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P4 -P1 P6 P5 P3 Round 6 scoreNA ---87.6 -NA NA NA NA Maximum 88.6 ---87.6 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P3 -P1 P6 P5 P4 Silver---Bronze-Gold- - - 82.5 < P8 < 84.1, so 82.7 is possible score among given options"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "By how much did the gold medalist improve his score (in m) in the second phase?",
+          "options": {
+            "A": "2.0",
+            "B": "1.2",
+            "C": "1.0",
+            "D": "2.4"
+          },
+          "correct_answer": "D",
+          "explanation": "The given information can be gathered as follows Phase 1 Rank P1 P2P3 P4 P5 P6 P7 P8 P9 P10 Round 1 score82.90 81.50 86.482.587.20 84.10 Rank P4 P7P6 P8 P2 P5 P1 P9 P3 P10 Round 2 score0 0 0 0 0 0 0 82.5 < < 84.10 82.5 < < 87.6 Maximum 82.90 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P5 P9P8 P10P3 P7 P2 P6 P4 P1* Round 3 score88.60 79.00 0 0 0 0 81.40 Maximum 88.60 81.50 86.482.587.282.5 < < 84.184.187.2 < < 87.6 Rank P1 - - - P4 - P3 P6 P5 P2 *After solving the whole data, the possibility of having double is for P8 and P10 So, P10 in round 2 being last, scores maximum in round 3 being first, and, P8 scoring last in st st round 3 would have 1 turn in round 1 as in phase 2, last rank throws 1 and rest of the data can be arranged as follows Phase 2 Round 4 scoreNA ---NA -88.4 NA NA NA Maximum 88.6 ---86.4 -88.4 82.5 < < 84.184.187.2 < < 87.6 Rank P1 ---P4 -P2 P6 P5 P3 Round 5 scoreNA ---NA -89.6 NA NA NA Maximum 88.6 ---86.4 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P4 -P1 P6 P5 P3 Round 6 scoreNA ---87.6 -NA NA NA NA Maximum 88.6 ---87.6 -89.6 82.5 < < 84.184.187.2 < < 87.6 Rank P2 ---P3 -P1 P6 P5 P4 Silver---Bronze-Gold- - - 89.6 - 87.2 = 2.4"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Three reviewers Amal, Bimal, and Komal are tasked with selecting questions from a pool of 13 questions (Q01 to Q13).\nQuestions can be created by external “subject matter experts” (SMEs) or by one of the three reviewers. Each of the reviewers\neither approves or disapproves a question that is shown to them. Their decisions lead to eventual acceptance or rejection of the\nquestion in the manner described below.\nIf a question is created by an SME, it is reviewed first by Amal, and then by Bimal. If both of them approve the question, then\nthe question is accepted and is not reviewed by Komal. If both disapprove the question, it is rejected and is not reviewed by\nKomal. If one of them approves the question and the other disapproves it, then the question is reviewed by Komal. Then the\nquestion is accepted only if she approves it.\nA question created by one of the reviewers is decided upon by the other two. If a question is created by Amal, then it is first\nreviewed by Bimal. If Bimal approves the question, then it is accepted. Otherwise, it is reviewed by Komal. The question is then\naccepted only if Komal approves it. A similar process is followed for questions created by Bimal, whose questions are first\nreviewed by Komal, and then by Amal only if Komal disapproves it. Questions created by Komal are first reviewed by Amal, and\nthen, if required, by Bimal.\nThe following facts are known about the review process after its completion.\n1. Q02, Q06, Q09, Q11, and Q12 were rejected and the other questions were accepted.\n2. Amal reviewed only Q02, Q03, Q04, Q06, Q08, Q10, Q11, and Q13.\n3. Bimal reviewed only Q02, Q04, Q06 through Q09, Q12, and Q13.\n4. Komal reviewed only Q01 through Q05, Q07, Q08, Q09, Q11, and Q12.\nHow many questions were DEFINITELY created by Amal? (in numerical value)",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "The information can be gathered as follows Created by Reviewed by Status SME Amal Bimal Komal Amal Bimal Komal Q01 ✓ Accepted Q02 ✓/× ×/✓ × Rejected Q03 ✓ × Accepted Q04 ✓/× ×/✓ ✓ Accepted Q05 ✓ Accepted Q06 Q06 × × Rejected Q07 × ✓ Accepted Q08 ✓/× ×/✓ ✓ Accepted Q09 × × Rejected Q10 ✓ Accepted Q11 × × Rejected Q12 × × Rejected Q13 Q13 ✓/× ✓ Accepted ✓ means approved and × means disapproved Amal definitely created 3 questions Q07, Q09, Q12"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many questions were DEFINITELY created by Komal? (in numerical value)",
+          "options": {},
+          "correct_answer": "1",
+          "explanation": "The information can be gathered as follows Created by Reviewed by Status SME Amal Bimal Komal Amal Bimal Komal Q01 ✓ Accepted Q02 ✓/× ×/✓ × Rejected Q03 ✓ × Accepted Q04 ✓/× ×/✓ ✓ Accepted Q05 ✓ Accepted Q06 Q06 × × Rejected Q07 × ✓ Accepted Q08 ✓/× ×/✓ ✓ Accepted Q09 × × Rejected Q10 ✓ Accepted Q11 × × Rejected Q12 × × Rejected Q13 Q13 ✓/× ✓ Accepted ✓ means approved and × means disapproved Komal definitely created 1 question Q10"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many questions were DEFINITELY created by the SMEs? (in numerical value)",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "The information can be gathered as follows Created by Reviewed by Status SME Amal Bimal Komal Amal Bimal Komal Q01 ✓ Accepted Q02 ✓/× ×/✓ × Rejected Q03 ✓ × Accepted Q04 ✓/× ×/✓ ✓ Accepted Q05 ✓ Accepted Q06 Q06 × × Rejected Q07 × ✓ Accepted Q08 ✓/× ×/✓ ✓ Accepted Q09 × × Rejected Q10 ✓ Accepted Q11 × × Rejected Q12 × × Rejected Q13 Q13 ✓/× ✓ Accepted ✓ means approved and × means disapproved SME definitely created 3 questions Q02, Q04 and Q08"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many questions were DEFINITELY disapproved by Bimal? (in numerical value)",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": "The information can be gathered as follows Created by Reviewed by Status SME Amal Bimal Komal Amal Bimal Komal Q01 ✓ Accepted Q02 ✓/× ×/✓ × Rejected Q03 ✓ × Accepted Q04 ✓/× ×/✓ ✓ Accepted Q05 ✓ Accepted Q06 Q06 × × Rejected Q07 × ✓ Accepted Q08 ✓/× ×/✓ ✓ Accepted Q09 × × Rejected Q10 ✓ Accepted Q11 × × Rejected Q12 × × Rejected Q13 Q13 ✓/× ✓ Accepted ✓ means approved and × means disapproved Bimal definitely disapproved 4 questions Q06, Q07, Q09 and Q12"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The approval ratio of a reviewer is the ratio of the number of questions (s)he approved to the number of questions (s)he\nreviewed. Which option best describes Amal’s approval ratio?",
+          "options": {
+            "A": "lies between 0.25 and 0.75",
+            "B": "0.25",
+            "C": "either 0.25 or 0.75",
+            "D": "lies between 0.25 and 0.50"
+          },
+          "correct_answer": "A",
+          "explanation": "The information can be gathered as follows Created by Reviewed by Status SME Amal Bimal Komal Amal Bimal Komal Q01 ✓ Accepted Q02 ✓/× ×/✓ × Rejected Q03 ✓ × Accepted Q04 ✓/× ×/✓ ✓ Accepted Q05 ✓ Accepted Q06 Q06 × × Rejected Q07 × ✓ Accepted Q08 ✓/× ×/✓ ✓ Accepted Q09 × × Rejected Q10 ✓ Accepted Q11 × × Rejected Q12 × × Rejected Q13 Q13 ✓/× ✓ Accepted ✓ means approved and × means disapproved Amal reviewed 8 questions, among them he approved at least 2 questions Q03, Q10 and maximum Amal can approve 6 questions Q02, Q03, Q04, Q08, Q10 and Q13 Approval ratio of Amal lies between 2/8 = 0.25 and 6/8 = 0.75"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many questions created by Amal or Bimal were disapproved by at least one of the other reviewers?",
+          "options": {
+            "A": "5",
+            "B": "2",
+            "C": "4",
+            "D": "7"
+          },
+          "correct_answer": "A",
+          "explanation": "The information can be gathered as follows Created by Reviewed by Status SME Amal Bimal Komal Amal Bimal Komal Q01 ✓ Accepted Q02 ✓/× ×/✓ × Rejected Q03 ✓ × Accepted Q04 ✓/× ×/✓ ✓ Accepted Q05 ✓ Accepted Q06 Q06 × × Rejected Q07 × ✓ Accepted Q08 ✓/× ×/✓ ✓ Accepted Q09 × × Rejected Q10 ✓ Accepted Q11 × × Rejected Q12 × × Rejected Q13 Q13 ✓/× ✓ Accepted ✓ means approved and × means disapproved For Amal, Q07, Q09 and Q12 or for Bimal Q03 and Q11 are disapproved by at least one of the other reviewers, total = 5 questions"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The figure above shows the schedule of four employees – Abani, Bahni, Danni and Tinni –whom Dhoni supervised in 2020.\nAltogether there were five projects which started and concluded in 2020 in which they were involved. For each of these projects\nand for each employee, the starting day was at the beginning of a month and the concluding day was the end of a month, and\nthese are indicated by the left and right end points of the corresponding horizontal bars. The number within each bar indicates\nthe percentage of assigned work completed by the employee for that project, as assessed by Dhoni.\nFor each employee, his/her total project-month (in 2020) is the sum of the number of months(s)he worked across the five\nproject, while his/her annual completion index is the weight age average of the completion percentage assigned from the\ndifferent projects, with the weights being the corresponding number of months (s)he worked in these projects. For each project,\nthe total employee-month is the sum of the number of months four employees worked in this project, while its completion\nindex is the weight age average of the completion percentage assigned for the employees who worked in this project, with the\nweights being the corresponding number of months they worked in this project.\nWhich of the following statements is/are true?\nI: The total project-month was the same for the four employees.\nII: The total employee-month was the same for the five projects.",
+          "options": {
+            "A": "Only II",
+            "B": "Only I",
+            "C": "Neither I nor II",
+            "D": "Both I and II"
+          },
+          "correct_answer": "B",
+          "explanation": "The given information can be gathered as follows Total Project Abani Bahni Danni Tinni Employee- Completion Month Index Project 1 2 × 100% 2 × 100% 0 2 × 80% 6 560/6 = 93.33% Project 2 0 0 3 × 90% 2 × 100% 5 470/5 = 94% Project 3 2 × 100% 4 × 75% 3 × 100% 0 9 800/9 = 88.89% Project 4 5 × 80% 0 2 × 100% 3 × 100% 10 900/10 = 90% Project 5 0 3 × 90% 1 × 100% 2 × 100% 6 570/6 = 95% Total Project- 9 9 9 9 Month Employee Annual 800/9 = 770/9 = 870/9 = 860/9 = Completion Index 88.89% 85.56% 96.67% 95.56% From the above table, it is clear that I: The total project-month was the same for the four employees = 9 is true II: The total employee-month was the same for the five projects is not true Only I is true"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which employees did not work in multiple projects for any of the months in 2020?",
+          "options": {
+            "A": "Only Abani and Bahni",
+            "B": "Only Tinni",
+            "C": "All four of them",
+            "D": "Only Abani, Bahni and Danni"
+          },
+          "correct_answer": "D",
+          "explanation": "The given information can be gathered as follows Total Project Abani Bahni Danni Tinni Employee- Completion Month Index Project 1 2 × 100% 2 × 100% 0 2 × 80% 6 560/6 = 93.33% Project 2 0 0 3 × 90% 2 × 100% 5 470/5 = 94% Project 3 2 × 100% 4 × 75% 3 × 100% 0 9 800/9 = 88.89% Project 4 5 × 80% 0 2 × 100% 3 × 100% 10 900/10 = 90% Project 5 0 3 × 90% 1 × 100% 2 × 100% 6 570/6 = 95% Total Project- 9 9 9 9 Month Employee Annual 800/9 = 770/9 = 870/9 = 860/9 = Completion Index 88.89% 85.56% 96.67% 95.56% By observation only Tinni worked in multiple projects, so Abani, Bahni and Danni did not work in multiple projects"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The project duration, measured in terms of the number of months, is the time duringwhich at least one employee worked in the\nproject. Which of the following pairs of theprojects had the same duration?",
+          "options": {
+            "A": "Project 4, Project 5",
+            "B": "Project 3, Project 5",
+            "C": "Project 3, Project 4",
+            "D": "Project 1, Project 5"
+          },
+          "correct_answer": "C",
+          "explanation": "The given information can be gathered as follows Total Project Abani Bahni Danni Tinni Employee- Completion Month Index Project 1 2 × 100% 2 × 100% 0 2 × 80% 6 560/6 = 93.33% Project 2 0 0 3 × 90% 2 × 100% 5 470/5 = 94% Project 3 2 × 100% 4 × 75% 3 × 100% 0 9 800/9 = 88.89% Project 4 5 × 80% 0 2 × 100% 3 × 100% 10 900/10 = 90% Project 5 0 3 × 90% 1 × 100% 2 × 100% 6 570/6 = 95% Total Project- 9 9 9 9 Month Employee Annual 800/9 = 770/9 = 870/9 = 860/9 = Completion Index 88.89% 85.56% 96.67% 95.56% Again, by observation, project duration of Project 1 = Jan to Mar = 3 months Project 2 = Feb to Apr = 3 months Project 3 = Apr to Aug = 5 months Project 4 = Jul to Nov = 5 months Project 5 = Sep to Dec = 4 months Hence, project duration as per options, Project 3 and Project 4 is same"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The list of employees in decreasing order of annual completion index is:",
+          "options": {
+            "A": "Danni, Tinni, Bahni, Abani",
+            "B": "Danni, Tinni, Abani, Bahni",
+            "C": "Tinni, Danni, Abani, Bahni",
+            "D": "Bahni, Abani, Tinni, Danni"
+          },
+          "correct_answer": "B",
+          "explanation": "The given information can be gathered as follows Total Project Abani Bahni Danni Tinni Employee- Completion Month Index Project 1 2 × 100% 2 × 100% 0 2 × 80% 6 560/6 = 93.33% Project 2 0 0 3 × 90% 2 × 100% 5 470/5 = 94% Project 3 2 × 100% 4 × 75% 3 × 100% 0 9 800/9 = 88.89% Project 4 5 × 80% 0 2 × 100% 3 × 100% 10 900/10 = 90% Project 5 0 3 × 90% 1 × 100% 2 × 100% 6 570/6 = 95% Total Project- 9 9 9 9 Month Employee Annual 800/9 = 770/9 = 870/9 = 860/9 = Completion Index 88.89% 85.56% 96.67% 95.56% From the above table, it is clear that in terms of Annual Completion Index Danni > Tinni > Abani > Bahni"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Each of the bottles mentioned in this question contains 50 ml of liquid. The liquid in any bottle can be 100% pure content (P) or\ncan have certain amount of impurity (I). Visually it is not possible to distinguish between P and I. There is a testing device which\ndetects impurity, as long as the percentage of impurity in the content tested is 10% or more.\nFor example, suppose bottle 1 contains only P, and bottle 2 contains 80% P and 20% I. If content from bottle 1 is tested, it will\nbe found out that it contains only P. If content of bottle 2is tested, the test will reveal that it contains some amount of I. If 10 ml\nof content from bottle 1is mixed with 20 ml content from bottle 2, the test will show that the mixture has impurity, and hence\nwe can conclude that at least one of the two bottles has I. However, if 10 ml of content from bottle 1 is mixed with 5 ml of\ncontent from bottle 2. the test will not detect any impurity in the resultant mixture.\n5 ml of content from bottle A is mixed with 5 ml of content from bottle B. The resultant mixture, when tested, detects the\npresence of I. If it is known that bottle A contains only P, what BEST can be concluded about the volume of I in bottle B?",
+          "options": {
+            "A": "10 ml or more",
+            "B": "Less than 1 ml",
+            "C": "1 ml",
+            "D": "10 ml"
+          },
+          "correct_answer": "A",
+          "explanation": "Given, A = 0% I and 100% P Let B = x% I and (100 – x)% P Since they are mixed in equal quantity to detect the presence of I. (0% I + x% I)/2 ≥ 10% Total, x% I ≥ 20% Total Hence, x% I ≥ 20% of 50 ml = 10 ml"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are four bottles. Each bottle is known to contain only P or only I. They will be considered to be “collectively ready for\ndespatch” if all of them contain only P. In minimum how many tests, is it possible to ascertain whether these four bottles are\n“collectively ready for despatch”? (in numerical value)",
+          "options": {},
+          "correct_answer": "1",
+          "explanation": "Since each bottle contains only P or only I Take equal quantity from each bottle say 10 ml and mix them Now, if at least any one of them will contain only I, then I % = 10/40 × 100 = 25% > 10%, so impurity will be detected And if all four bottles contain only P, then 0% I will be detected Hence, minimum of 1 test required to ascertain that all of them contain only P"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are four bottles. It is known that three of these bottles contain only P, while the remaining one contains 80% P and 20% I.\nWhat is the minimum number of tests required to definitely identify the bottle containing some amount of I? (in numerical\nvalue)",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": "Since three bottles contains only P and one contains 80% P and 20% I Taking equal quantity from each bottle say 10 ml and mixing them I % = 2/40 × 100 = 5% < 10%, so only one test is not sufficient to detect the bottle Let the bottles be B1, B2, B3 and B4 in any order Now consider any two bottles (say B1 and B2) and take equal quantity from each bottle say 10 ml and mix them, Case I, if I% = 0, then both the bottles are only P and now take any one bottle from either B1 or B2 and mix with either B3 or B4 if I% is still = 0, then the remaining bottle contains 20% I and if I% = (0 + 20)/2 = 10, then the newly mixed bottle contains 20% I Case II, if I% = 10, then remaining B3 and B4 are only P, now take either B1 or B2 and mix with B3 or B4 If I% = 0, then the other bottle among B1 or B2 contains 20% I And if I% is still = 10, then the bottle taken among B1 or B2 contains 20% I Hence, minimum of 2 tests required in either of the cases"
+        },
+        {
+          "id": "cat-2021-slot3-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are four bottles. It is known that either one or two of these bottles contain(s)only P, while the remaining ones contain\n85% P and 15% I. What is the minimum number of tests required to ascertain the exact number of bottles containing only P?",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "B",
+          "explanation": "Case I, if only one bottle contains only P and remaining three bottles contains 15% I Take equal quantity from each bottle and mix them I% = (0 + 15 + 15 + 15)/4 = 11.25 > 10, so impurity will be detected Case II, if two bottles contain only P and remaining two bottles contain 15% I Take equal quantity from each bottle and mix them I% = (0 + 0 + 15 + 15)/4 = 7.5 < 10, so impurity will not be detected Hence, minimum of only 1 test ascertain the exact number of bottles containing only P Section : Quantitative Ability"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot3-qa-45",
+          "number": 45,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house for\n₹ 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done by\nhim, then the amount in INR received by him is (in numerical value)",
+          "options": {},
+          "correct_answer": "3000",
+          "explanation": "Since money paid is in proportion to the work done Let work = 24000 units (1 unit = 1 Re) Anil’s efficiency = 24000/12 = 2000 units/day Barun’s efficiency = 24000/16 = 1500 units/day Together, Anil + Barun + Chandu = 24000/6 = 4000 units/day Chandu’s efficiency = 4000 – 2000 – 1500 = 500 units/day Since Chandu worked for 6 days, money paid = 500 × 6 = Rs 3000"
+        },
+        {
+          "id": "cat-2021-slot3-qa-46",
+          "number": 46,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The arithmetic mean of scores of 25 students in an examination is 50. Five of these students top the examination with the same\nscore. If the scores of the other students are distinct integers with the lowest being 30, then the maximum possible score of the\ntoppers is (in numerical value)",
+          "options": {},
+          "correct_answer": "92",
+          "explanation": "Sum (25 students) = 25 × 50 = 1250 Let the score of each topper = x, sum (5 toppers) = 5x Remaining students = 20 To maximize the score of the topper, we have to minimize the remaining score with 30 being least and all distinct integer Sum (20 students minimum) = 30 + 31 + 32 + … 20 values = 20/2 (2 × 30 + 19 × 1) = 790 So, Sum (5 toppers) = 5x = 1250 – 790 = 460 Hence, the score of each topper (maximum) = 460/5 = 92"
+        },
+        {
+          "id": "cat-2021-slot3-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A shop owner bought a total of 64 shirts from a wholesale market that came in two sizes, small and large. The price of a small\nshirt was INR 50 less than that of a large shirt. She paid a total of INR 5000 for the large shirts, and a total of INR 1800 for the\nsmall shirts. Then, the price of a large shirt and a small shirt together, in INR, is",
+          "options": {
+            "A": "150",
+            "B": "175",
+            "C": "200",
+            "D": "225 DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "C",
+          "explanation": "Let the number of large size shirt = x and small size shirt = 64 – x Let the price of the large shirt = P, then price of small shirt = P – 50 Given, P × x = 5000 and (P – 50)(64 – x) = 1800 64P – Px – 3200 + 50x = 1800 64P + 50x = 10000 32P + 25 (5000/P) = 5000 2 32P – 5000P + 125000 = 0 2 4P – 625P + 15625 = 0 2 4P – 500P – 125P + 15625 = 0 (4P – 125)(P – 125) = 0 P = 125 (as P = 125/4 making P – 50 negative, so rejected) Hence the price of large shirt and small shirt together = P + (P – 50) = 200"
+        },
+        {
+          "id": "cat-2021-slot3-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The total of male and female populations in a city increased by 25% from 1970 to 1980.During the same period, the male\npopulation increased by 40% while the female population increased by 20%. From 1980 to 1990, the female population\nincreased by25%. In 1990, if the female population is twice the male population, then the percentage increase in the total of\nmale and female populations in the city from 1970to 1990 is",
+          "options": {
+            "A": "68.25",
+            "B": "68.50",
+            "C": "69.25",
+            "D": "68.75"
+          },
+          "correct_answer": "D",
+          "explanation": "Given information can be gathered as follows Male Female Total 1970 m f 100 (let) 1980 1.4m 1.2f 125 m + f = 100 and 1.4m + 1.2f = 1250 Solving, m = 25 and f = 75 Male Female Total 1970 25 75 100 1980 35 90 125 90 + 25/100 × 90 = 199056.25 168.75 112.5 Required percentage increase = (168.75 – 100)/100 × 100 = 68.75%"
+        },
+        {
+          "id": "cat-2021-slot3-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tea shop offers tea in cups of three different sizes. The product of the prices, in INR, of three different sizes is equal to 800.\nThe prices of the smallest size and the medium size are in the ratio 2 : 5. If the shop owner decides to increase the prices of the\nsmallest and the medium ones by INR 6 keeping the price of the largest size unchanged, the product then changes to 3200.\nThe sum of the original prices of three different sizes, in INR, is (in numerical value)",
+          "options": {},
+          "correct_answer": "34",
+          "explanation": "Let the price of smallest cup = 2x, price of medium cup = 5x And let the price of largest cup = p 2 Given, 2x × 5x × p = 800, p = 80/x Also, (2x + 6) × (5x + 6) × p = 3200 2 (10x + 42x + 36) × p = 3200 2 2 2 10x + 42x + 36 = 40x , 5x – 7x – 6 = 0 (5x + 3)(x – 2) = 0, x = 2, p = 20 Required sum = 2x + 5x + p = 34"
+        },
+        {
+          "id": "cat-2021-slot3-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a certain weight of an alloy of silver and copper is mixed with 3 kg of pure silver, there sulting alloy will have 90% silver by\nweight. If the same weight of the initial alloy is mixed with 2 kg of another alloy which has 90% silver by weight, the resulting\nalloy will have 84% silver by weight. Then, the weight of the initial alloy, in kg, is",
+          "options": {
+            "A": "3",
+            "B": "2.5",
+            "C": "3.5",
+            "D": "4"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the weight of the initial alloy = x kg and percentage of silver in the alloy = p% Given, p% of x + 100% of 3 = 90% of (x + 3) px + 300 = 90x + 270, 90x – px = 30 Also, p% of x + 90% of 2 = 84% of (x + 2) px + 180 = 84x + 168, 84x – px = 12 Subtracting and solving, 6x = 18, x = 3 kg"
+        },
+        {
+          "id": "cat-2021-slot3-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of distinct pairs of integers (m, n) satisfying |1 + mn| < |m + n| < 5 is (in numerical value)",
+          "options": {},
+          "correct_answer": "12",
+          "explanation": "There are two cases possible Case I, 0 < 1 + mn < m + n < 5Case II, -5 < m + n < 1 + mn < 0 mn – m – n + 1 < 0 mn – m – n + 1 > 0 (m – 1)(n – 1) < 0 (m – 1)(n – 1) > 0 m < 1 or n < 1 m > 1 or n > 1 Also, mn + 1 > 0, mn > -1 Also, mn + 1 < 0, mn < -1 Only possible, Again, only possible, if either m = 0, n = 2, 3, 4 if either m = 0, n = -2, -3, -4 or n = 0, m = 2, 3 and 4 or n = 0, m = -2, -3 and -4 Total solutions = 12"
+        },
+        {
+          "id": "cat-2021-slot3-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One part of a hostel’s monthly expenses is fixed, and the other part is proportional to the number of its boarders. The hostel\ncollects ₹ 1600 per month from each boarder. When the number of boarders is 50, the profit of the hostel is ₹ 200 per boarder,\nand when the number of boarders is 75, the profit of the hostel is ₹ 250 per boarder. When the number of boarders is 80, the\ntotal profit of the hostel, in INR, will be",
+          "options": {
+            "A": "20200",
+            "B": "20800",
+            "C": "20500",
+            "D": "20000"
+          },
+          "correct_answer": "C",
+          "explanation": "Total Expenses = Total Revenue – Total Profit Also, Total Expenses (T) = Fixed Expenses (F) + Variable Expenses per boarder (V) × Number of boarder (n) (1600 – 200) × 50 = 70000 = F + 50V (1600 – 250) × 75 = 101250 = F + 75V Solving, V = 1250 and F = 7500 Total Expenses (80 boarders) = 7500 + 80 × 1250 = 107500 Total Profit = 80 × 1600 – 107500 = 20500"
+        },
+        {
+          "id": "cat-2021-slot3-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let ABCD be a parallelogram. The lengths of the side AD and the diagonal AC are 10 cm and 20 cm, respectively. If the angle\n∆ADC is equal to 30° then the area of the parallelogram, in sq. cm, is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "B",
+          "explanation": "Given, AD = 10 cm and AC = 20 cm Also angle ADC = 30° Drop perpendicular AE at DC Triangle DAE becomes 30-60-90 Since, AD = 10 cm, AE = 5 cm and DE = 5√3 cm Also, in right angled triangle AEC 2 2 2 AC = AE + EC 2 EC = 400 – 25 = 375, EC = 5√15 cm 2 Required Area = AE × (DE + EC) = 5 × (5√3 + 5√15) = 25 (√3 + √15) cm"
+        },
+        {
+          "id": "cat-2021-slot3-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If f(x) = x2 – 7x and g(x) = x + 3, then the minimum value of f(g(x)) – 3x is",
+          "options": {
+            "A": "-16",
+            "B": "-15",
+            "C": "-12",
+            "D": "-20"
+          },
+          "correct_answer": "A",
+          "explanation": "2 2 f(g(x)) – 3x = f(x + 3) – 3x = (x + 3) – 7(x + 3) – 3x = x – 4x – 12 The minimum value of above function is at x = -(-4)/2 = 2 Hence, required value = 4 – 8 – 12 = -16"
+        },
+        {
+          "id": "cat-2021-slot3-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If n is a positive integer such that then the smallest value of n is (in numerical value)\nDIRECTION for the question: Solve the following question and mark the best possible option.",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "1/7 2/7 n/7 (10) × (10) × … × (10) > 999 1/7 + 2/7 + … + n/7 3 (10) > 999 ≈ 10 n(n+1)/14 3 (10) ≈ 10 n(n+1) ≈ 42, so for n = 6 satisfies the given in equation"
+        },
+        {
+          "id": "cat-2021-slot3-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a tournament, a team has played 40 matches so far and won 30% of them. If they win 60% of the remaining matches, their\noverall win percentage will be 50%. Suppose they win 90% of the remaining matches, then the total number of matches won by\nthe team in the tournament will be",
+          "options": {
+            "A": "84",
+            "B": "78",
+            "C": "86",
+            "D": "80"
+          },
+          "correct_answer": "A",
+          "explanation": "Matches played = 40, Won = 30% of 40 = 12 Let remaining matches = x, Win among them = 60% of x = 0.6 Overall win, 12 + 0.6x = 50% of (40 + x) Solving, x = 80 = remaining matches Required value = 12 + 90% of 80 = 84"
+        },
+        {
+          "id": "cat-2021-slot3-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The cost of fencing a rectangular plot is ₹ 200 per ft along one side, and ₹ 100 per ft along the three other sides. If the area of\nthe rectangular plot is 60000 sq. ft, then the lowest possible cost of fencing all four sides, in INR, is",
+          "options": {
+            "A": "100000",
+            "B": "120000",
+            "C": "160000",
+            "D": "90000"
+          },
+          "correct_answer": "B",
+          "explanation": "Let L and B be the length and breadth of rectangular plot One side cost = 200 be on one of the lengths and other three sides cost = 100 Total cost = 200L + 100L + 100B + 100B = 300L + 200B The cost to be lowest possible, 300L = 200B = k Area, L × B = 60000, k/300 × k/200 = 60000, k = 60000 Hence, L = 200 and B = 300 Required lowest cost = 300 × 200 + 200 × 300 = 120000"
+        },
+        {
+          "id": "cat-2021-slot3-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One day, Rahul started a work at 9 AM and Gautam joined him two hours later. They then worked together and completed the\nwork at 5 PM the same day. If both had started at 9 AM and worked together, the work would have been completed 30\nminutes earlier. Working alone, the time Rahul would have taken, in hours, to complete the work is",
+          "options": {
+            "A": "12",
+            "B": "10",
+            "C": "11.5",
+            "D": "12.5"
+          },
+          "correct_answer": "B",
+          "explanation": "Let R and G be the efficiencies respectively Given, R × 8 + G × 6 = W (total work) × 5 Also, R × 7.5 + G × 7.5 = W × 4 Subtracting, 40R – 30R = W, R = W/10 Hence, Rahul alone would have taken 10 hours"
+        },
+        {
+          "id": "cat-2021-slot3-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If 3x + 2|y|+ y = 7 and x +|x|+ 3y = 1, then x + 2y is",
+          "options": {
+            "A": "B)",
+            "C": "1",
+            "D": "0"
+          },
+          "correct_answer": "D",
+          "explanation": "3x + 2|y| + y = 7 and x + |x| + 3y = 1 Case I, x > 0, y > 0 Case II, x > 0, y < 0 3x + 3y = 7 3x – y = 7 2x + 3y = 1 2x + 3y = 1 Solving, x = 6 and y = -11/3 Solving, x = 2 and y = -1 rejected as y > 0 So, x + 2y = 0 Case III, x < 0, y > 0 Case IV, x < 0, y < 0 3x + 3y = 7 3x – y = 7 3y = 1 3y = 1 Solving, x = 2 and y = 1/3 Solving, x = 22/9 and y = 1/3 rejected as x < 0 rejected as x and y < 0 Hence, only case II possible, x + 2y = 0"
+        },
+        {
+          "id": "cat-2021-slot3-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Bank A offers 6% interest rate per annum compounded half yearly. Bank B and Bank Coffer simple interest but the annual\ninterest rate offered by Bank C is twice that of Bank B. Raju invests a certain amount in Bank B for a certain period and Rupa\ninvests₹ 10,000 in Bank C for twice that period. The interest that would accrue to Raju during that period is equal to the interest\nthat would have accrued had he invested the same amount in Bank A for one year. The interest accrued, in INR, to Rupa is",
+          "options": {
+            "A": "1436",
+            "B": "3436",
+            "C": "2346",
+            "D": "2436"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the rate of interest at bank B = R%, then at bank C = 2R% Let the principal invested by Raju at bank B = P Amount accrued by Raju = P + PRT/100 1×2 = P(1 + (6/2)/100) 2 1 + RT/100 = (1.03) , RT = 6.09, Rupa invested Rs 10000 at twice the rate and twice the period Rupa’s interest = 10000 × 4RT/100 = Rs 2436"
+        },
+        {
+          "id": "cat-2021-slot3-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A park is shaped like a rhombus and has area 96 sq m. If 40 m of fencing is needed to enclose the park, the cost, in INR, of\nlaying electric wires along its two diagonals, at the rate of ₹125 per m, is (in numerical value)",
+          "options": {},
+          "correct_answer": "3500",
+          "explanation": "Area of rhombus = 1/2 × d × d = 96, d × d = 192 1 2 1 2 Also, Perimeter (given) = 40 m, so side, a = 10 m 2 2 2 We know, (d /2) + (d /2) = a = 100 1 2 Considering d and d to be integers, d and d = 12 1 2 1 2 and 16 satisfies the above triplet as well as 12 × 16 = 192 Hence required cost = (12 + 16) × 125 = Rs 3500"
+        },
+        {
+          "id": "cat-2021-slot3-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Consider a sequence of real number x , x , x , … such that x = x + n – 1 for all n ³ 1. If x = -1 then x is equal to\n1 2 3 n+1 n 1 100",
+          "options": {
+            "A": "4949",
+            "B": "4850",
+            "C": "4950",
+            "D": "4849"
+          },
+          "correct_answer": "B",
+          "explanation": "Given, x = -1 1 x = x + 1 – 1 = -1 2 1 x = x + 2 – 1 = 0 3 2 x = x + 3 – 1 = 2 4 3 x = x + 4 – 1 = 5 5 4 … Sum = x + x + x + x + x + … + x 1 2 3 4 5 n Sum = -1 + -1 + 0 + 2 + 5 + … + x n Sum = -1 + -1 + 0 + 2 + 5 + … + x + x n-1 n Subtracting, 0 = -1 + 0 + 1 + 2 + 3 + … + (n – 2) – x n x = n/2 (-1 + n – 2) = n(n – 3)/2 n x = (100 × 97)/2 = 4850 100"
+        },
+        {
+          "id": "cat-2021-slot3-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Mira and Amal walk along a circular track, starting from the same point at the sometime. If they walk in the same direction, then\nin 45 minutes, Amal completes exactly3 more rounds than Mira. If they walk in opposite directions, then they meet for the first\ntime exactly after 3 minutes. The number of rounds Mira walks in one hour is (in numerical value)",
+          "options": {},
+          "correct_answer": "8",
+          "explanation": "Let the length of the track = x Let the speed of Mira and Amal be m and a respectively If Amal completes 3 more round than Mira in 45 min walking in same direction, a – m = 3x/45 = x/15 Also, when they walk in opposite direction, a + m = x/3 Solving, a = x/5 and m = 2x/15 = x/7.5 So, Mira walks one round in 7.5 mins Hence number of rounds Mira walks in one hours = 60/7.5 = 8"
+        },
+        {
+          "id": "cat-2021-slot3-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a triangle ABC, ∆BCA = 50°. D and E are points on AB and AC, respectively, such that AD = DE. If F is a point on BC such that\nBD = DF, then ∆FDE, in degrees, is equal to",
+          "options": {
+            "A": "72",
+            "B": "100",
+            "C": "96",
+            "D": "80"
+          },
+          "correct_answer": "D",
+          "explanation": "Given, angle BCA = 50° AD = DE and BD = DF Let angle DAE = angle DEA = x So, angle ADE = 180° – 2x Also let angle BDF = angle BFD = y° So, angle BDF = 180° – 2y Also, angle A + B + C = 180° So, x + y = 130° Again, angle ADE + angle BDF + angle FDE = 180° 180° – 2x + 180° – 2y + angle FDE = 180° Angle FDE = 260° - 180° = 80°"
+        },
+        {
+          "id": "cat-2021-slot3-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "3 < a < 4",
+            "B": "2 < a < 3",
+            "C": "4 < a < 5",
+            "D": "a > 5"
+          },
+          "correct_answer": "C",
+          "explanation": "(log a + log a)/(log a)(log a) = 4 15 32 15 32 [(log a)/(log 15) + (log a)/(log 32)]/[(log a)/(log 15) × (log a)/(log 32)] = 4 4 log 32 + log 15 = 4 log a, log 480 = log a Hence, 4 < a < 5"
+        },
+        {
+          "id": "cat-2021-slot3-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A four-digit number is formed by using only the digits 1, 2 and 3 such that both 2and 3 appear at least once. The number of all\nsuch four-digit numbers is (in numerical value)",
+          "options": {},
+          "correct_answer": "50",
+          "explanation": "Following cases are possible (2, 3, 1, 1) can be arranged in 4!/2! = 12 cases (2, 3, 1, 2) can be arranged in 4!/2! = 12 cases (2, 3, 1, 3) can be arranged in 4!/2! = 12 cases (2, 3, 2, 2) can be arranged in 4!/3! = 4 cases (2, 3, 2, 3) can be arranged in 4!/2!2! = 6 cases (2, 3, 3, 3) can be arranged in 4!/3! = 4 cases Total = 50 cases"
+        }
+      ]
+    }
+  }
+}

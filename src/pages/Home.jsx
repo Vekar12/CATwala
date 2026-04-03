@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../hooks/useAuth'
 import { getUnlocks, getTests, getCompletedTests, getProfile, getUserAnalytics, generateRandomTest } from '../utils/storage'
+import { YEARS, getPapersForYear } from '../data/pypIndex'
 import './Home.css'
 
 const SECTIONS = ['VARC', 'DILR', 'QA']
@@ -35,6 +36,38 @@ function getStudyPlan(daysLeft, completedCount, totalTests) {
   } else {
     return { phase: 'Final Sprint', message: `Last ${daysLeft} days! Take 1 test every 2 days. Review only weak areas. Stay calm.`, testsPerWeek: Math.ceil(daysLeft / 2) }
   }
+}
+
+function PYPSection({ navigate }) {
+  const [selectedYear, setSelectedYear] = useState(YEARS[0])
+  const papers = getPapersForYear(selectedYear)
+
+  return (
+    <div className="pyp-section">
+      <h2 className="home-section-title">Previous Year Papers</h2>
+      <div className="pyp-year-tabs">
+        {YEARS.map(y => (
+          <button
+            key={y}
+            className={`pyp-year-tab ${selectedYear === y ? 'active' : ''}`}
+            onClick={() => setSelectedYear(y)}
+          >
+            CAT {y}
+          </button>
+        ))}
+      </div>
+      <div className="pyp-slots-grid">
+        {papers.map(p => (
+          <div key={p.id} className="pyp-slot-card" onClick={() => navigate(`/pyp/${p.id}`)}>
+            <div className="pyp-slot-badge">Slot {['I','II','III'][p.slot-1]}</div>
+            <div className="pyp-slot-title">{p.title}</div>
+            <div className="pyp-slot-meta">{p.totalQuestions} Questions · Solutions Included</div>
+            <button className="pyp-slot-btn">Start Review →</button>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
 }
 
 export default function Home() {
@@ -222,30 +255,7 @@ export default function Home() {
         </div>
 
         {/* Previous Year Papers */}
-        <div className="pyp-section">
-          <h2 className="home-section-title">Previous Year Papers</h2>
-          <div className="pyp-card">
-            <div className="pyp-top">
-              <p className="pyp-desc">Practice with actual CAT papers from previous years. Section-wise and full-length available.</p>
-              <select className="pyp-select" defaultValue="">
-                <option value="" disabled>Select Year</option>
-                <option value="2025">CAT 2025</option>
-                <option value="2024">CAT 2024</option>
-                <option value="2023">CAT 2023</option>
-                <option value="2022">CAT 2022</option>
-                <option value="2021">CAT 2021</option>
-                <option value="2020">CAT 2020</option>
-              </select>
-            </div>
-            <div className="pyp-options">
-              <button className="pyp-btn" disabled>Full Paper</button>
-              <button className="pyp-btn" disabled>VARC Only</button>
-              <button className="pyp-btn" disabled>DILR Only</button>
-              <button className="pyp-btn" disabled>QA Only</button>
-            </div>
-            <p className="pyp-coming">Coming soon — Previous year papers will be available shortly.</p>
-          </div>
-        </div>
+        <PYPSection navigate={navigate} />
 
         {/* Generate Random Practice Test */}
         <div className="random-test-section">

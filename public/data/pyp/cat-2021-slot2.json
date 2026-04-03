@@ -1,0 +1,1123 @@
+{
+  "id": "cat-2021-slot2",
+  "year": 2021,
+  "slot": 2,
+  "title": "CAT 2021 Slot II",
+  "has_solutions": true,
+  "total_questions": 66,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot2-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "I have elaborated...... a framework for analyzing the contradictory pulls on [Indian] nationalist ideology in its struggle against the\ndominance of colonialism and the resolution it offered to those contradictions. Briefly, this resolution was built around a\nseparation of the domain of culture into two spheres—the material and the spiritual. It was in the material sphere that the\nclaims of Western civilization were the most powerful. Science, technology, rational forms of economic organization, modern\nmethods of statecraft—these had given the European countries the strength to subjugate the non-European people..... To\novercome this domination, the colonized people had to learn those superior techniques of organizing material life and\nincorporate them within their own cultures.….. But this could not mean the imitation of the West in every aspect of life, for then\nthe very distinction between the West and the East would vanish—the self-identity of national culture would itself be\nthreatened.....\nThe discourse of nationalism shows that the material/spiritual distinction was condensed into an analogous, but ideologically\nfar more powerful, dichotomy: that between the outer and the inner Applying the inner/outer distinction to the matter of\nconcrete day-to-day living separates the social space into ghar and bāhir, the home and the world. The world is the external,\nthe domain of the material; the home represents one’s inner spiritual self, one’s true identity. The world is a treacherous terrain\nof the pursuit of material interests, where practical considerations reign supreme. It is also typically the domain of the male. The\nhome in its essence must remain unaffected by the profane activities of the material world—and woman is its representation.\nAnd so one gets an identification of social roles by gender to correspond with the separation of the social space into ghar and\nbāhir.....\nThe colonial situation, and the ideological response of nationalism to the critique of Indian tradition, introduced an entirely new\nsubstance to [these dichotomies] and effected their transformation. The material/spiritual dichotomy, to which the terms world\nand home corresponded, had acquired…. a very special significance in the nationalist mind. The world was where the European\npower had challenged the non-European peoples and, by virtue of its superior material culture, had subjugated them. But, the\nnationalists asserted, it had failed to colonize the inner, essential, identity of the East which lay in its distinctive, and superior,\nspiritual culture…… [I]n the entire phase of the national struggle, the crucial need was to protect, preserve and strengthen the\ninner core of the national culture, its spiritual essence. . .\nOnce we match this new meaning of the home/world dichotomy with the identification of social roles by gender, we get the\nideological framework within which nationalism answered the women’s question. It would be a grave error to see in this, as\nliberals are apt to in their despair at the many marks of social conservatism in nationalist practice, a total rejection of the West.\nQuite the contrary: the nationalist paradigm in fact supplied an ideological principle of selection.\nOn the basis of the information in the passage, all of the following are true about the spiritual/material dichotomy of Indian\nnationalism EXCEPT that it:",
+          "options": {
+            "A": "helped in safeguarding the identity of Indian nationalism.",
+            "B": "was not as ideologically powerful as the inner/outer dichotomy",
+            "C": "represented a continuation of age-old oppositions in Indian culture",
+            "D": "constituted the premise of the ghar/bāhir dichotomy"
+          },
+          "correct_answer": "C",
+          "explanation": "Q is all of the following are true, EXCEPT For option 1, refer lines “a framework for analyzing the contradictory pulls on [Indian] nationalist ideology in its struggle against the dominance of colonialism and the resolution it offered to those contradictions. Briefly, this resolution was built around a separation of the domain of culture into two spheres—the material and the spiritual.” For option 2, refer lines “The discourse of nationalism shows that the material/spiritual distinction was condensed into an analogous, but ideologically far more powerful, dichotomy: that between the outer and the inner.” For option 4, refer lines “The discourse of nationalism shows that the material/spiritual distinction was condensed into an analogous, but ideologically far more powerful, dichotomy: that between the outer and the inner. . . . Applying the inner/outer distinction to the matter of concrete day-to-day living separates the social space into ghar and bāhir, the home and the world. The world is the external, the domain of the material; the home represents one’s inner spiritual self, one’s true identity.”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following explains the “contradictory pulls” on Indian nationalism?",
+          "options": {
+            "A": "Despite its spiritual superiority, Indian nationalism had to fight against colonial domination.",
+            "B": "Despite its scientific and technological inferiority, Indian nationalism had to fight against colonial domination.",
+            "C": "Despite its fight against colonial domination, Indian nationalism had to borrow from the coloniser in the spiritual sphere.",
+            "D": "Despite its fight against colonial domination, Indian nationalism had to borrow from the coloniser in the material sphere"
+          },
+          "correct_answer": "D",
+          "explanation": "Refer lines “It was in the material sphere that the claims of Western civilization were the most powerful. Science, technology, rational forms of economic organization, modern methods of statecraft—these had given the European countries the strength to subjugate the non- European people . . . To overcome this domination, the colonized people had to learn those superior techniques of organizing material life and incorporate them within their own cultures. . . . But this could not mean the imitation of the West in every aspect of life, for then the very distinction between the West and the East would vanish—the self- identity of national culture would itself be threatened. . .”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following, if true, would weaken the author’s claims in the passage?",
+          "options": {
+            "A": "The colonial period saw the hybridisation of Indian culture in all realms as it came in contact with British/European culture.",
+            "B": "Forces of colonial modernity played an important role in shaping anti-colonial Indian nationalism.",
+            "C": "The Industrial Revolution played a crucial role in shaping the economic prowess of Britain in the eighteenth century.",
+            "D": "Indian nationalists rejected the cause of English education for women during the colonial period."
+          },
+          "correct_answer": "A",
+          "explanation": "Option 1 goes against lines “But this could not mean the imitation of the West in every aspect of life, for then the very distinction between the West and the East would vanish—the self- identity of national culture would itself be threatened.” Here the author talks about distinction, while the option talks about hybridization in all realms"
+        },
+        {
+          "id": "cat-2021-slot2-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following best describes the liberal perception of Indian nationalism?",
+          "options": {
+            "A": "Indian nationalist discourses provided an ideological principle of selection.",
+            "B": "Indian nationalism’s sophistication resided in its distinction of the material from the spiritual spheres.",
+            "C": "Indian nationalist discourses reaffirmed traditional gender roles for Indian women.",
+            "D": "Indian nationalism embraced the changes brought about by colonialism in Indian women’s traditional gender roles."
+          },
+          "correct_answer": "C",
+          "explanation": "Q is about liberals’ perception. Refer lines “as liberals are apt to in their despair at the many marks of social conservatism in nationalist practice, a total rejection of the West.”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It has been said that knowledge, or the problem of knowledge, is the scandal of philosophy. The scandal is philosophy’s\napparent inability to show how, when and why we can be sure that we know something or, indeed, that we know anything.\nPhilosopher Michael Williams writes: ‘Is it possible to obtain knowledge at all? This problem is pressing because there are\npowerful arguments, some very ancient, for the conclusion that it is not . . . Scepticism is the skeleton in Western rationalism’s\ncloset’. While it is not clear that the scandal matters to anyone but philosophers, philosophers point out that it should matter to\neveryone, at least given a certain conception of knowledge. For, they explain, unless we can ground our claims to knowledge as\nsuch, which is to say, distinguish it from mere opinion, superstition, fantasy, wishful thinking, ideology, illusion or delusion, then\nthe actions we take on the basis of presumed knowledge – boarding an airplane, swallowing a pill, finding someone guilty of a\ncrime – will be irrational and unjustifiable.\nThat is all quite serious-sounding but so also are the rattlings of the skeleton: that is, the sceptic’s contention that we cannot be\nsure that we know anything – at least not if we think of knowledge as something like having a correct mental representation of\nreality, and not if we think of reality as something like things-as-they-are-in-themselves, independent of our perceptions, ideas\nor descriptions. For, the sceptic will note, since reality, under that conception of it, is outside our ken (we cannot catch a\nglimpse of things-in-themselves around the corner of our own eyes; we cannot form an idea of reality that floats above the\nprocesses of our conceiving it), we have no way to compare our mental representations with things-as- they-are-in-themselves\nand therefore no way to determine whether they are correct or incorrect. Thus the sceptic may repeat (rattling loudly), you\ncannot be sure you ‘know’ something or anything at all – at least not, he may add (rattling softly before disappearing), if that is\nthe way you conceive ‘knowledge’.\nThere are a number of ways to handle this situation. The most common is to ignore it. Most people outside the academy – and,\nindeed, most of us inside it – are unaware of or unperturbed by the philosophical scandal of knowledge and go about our lives\nwithout too many epistemic anxieties. We hold our beliefs and presumptive knowledges more or less confidently, usually\ndepending on how we acquired them (I saw it with my own eyes; I heard it on Fox News; a guy at the office told me) and how\nbroadly and strenuously they seem to be shared or endorsed by various relevant people: experts and authorities, friends and\nfamily members, colleagues and associates. And we examine our convictions more or less closely, explain them more or less\nextensively, and defend them more or less vigorously, usually depending on what seems to be at stake for ourselves and/or\nother people and what resources are available for reassuring ourselves or making our beliefs credible to others (look, it’s right\nhere on the page; add up the figures yourself; I happen to be a heart specialist).\nThe author of the passage is most likely to support which one of the following statements?",
+          "options": {
+            "A": "The scandal of philosophy is that we might not know anything at all about reality if we think of reality as independent of our perceptions, ideas or descriptions.",
+            "B": "The confidence with which we maintain something to be true is usually independent of the source of the alleged truth.",
+            "C": "For the sceptic, if we think of reality as independent of our perceptions, ideas or descriptions, we should aim to know that reality independently too.",
+            "D": "The actions taken on the basis of presumed knowledge are rational and justifiable if we are confident that that knowledge is widely held."
+          },
+          "correct_answer": "A",
+          "explanation": "Option1 is supported by paras 1 and 2 Option2 is incorrect Refer lines “We hold our beliefs and presumptive knowledges more or less confidently, usually depending on how we acquired them (I saw it with my own eyes; I heard it on Fox News; a guy at the office told me)” Option 3 is incorrect as sceptic says “we should aim to know that reality independently” isn’t supported by the passage"
+        },
+        {
+          "id": "cat-2021-slot2-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "“. . . we cannot catch a glimpse of things-in-themselves around the corner of our own eyes; we cannot form an idea of reality\nthat floats above the processes of our conceiving it . . .” Which one of the following statements best reflects the argument\nbeing made in this sentence?",
+          "options": {
+            "A": "Our knowledge of reality cannot be merged with our process of conceiving it.",
+            "B": "Our knowledge of reality floats above our subjective perception of it.",
+            "C": "If the reality of things is independent of our perception, logically we cannot perceive that reality.",
+            "D": "If the reality of things is independent of our eyesight, logically we cannot perceive our perception"
+          },
+          "correct_answer": "C",
+          "explanation": "Refer to lines preceding the line in Q and we reach option 3 as the answer “we cannot be sure that we know anything – at least not if we think of knowledge as something like having a correct mental representation of reality, and not if we think of reality as something like things-as-they-are-in-themselves, independent of our perceptions, ideas or descriptions. For, the sceptic will note, since reality, under that conception of it, is outside our ken (we cannot catch a glimpse of things-in-themselves around the corner of our own eyes; we cannot form an idea of reality that floats above the processes of our conceiving it), we have no way to compare our mental representations with things-asthey-are-in-themselves and therefore no way to determine whether they are correct or incorrect”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the last paragraph of the passage, “We hold our beliefs and presumptive knowledges more or less confidently,\nusually depending on” something. Which one of the following most broadly captures what we depend on?",
+          "options": {
+            "A": "All of the options listed here.",
+            "B": "How much of a stake we have in them; what resources there are to support them",
+            "C": "Remaining outside the academy; ignoring epistemic anxieties",
+            "D": "How we come to hold them; how widely they are held in our social circles"
+          },
+          "correct_answer": "D",
+          "explanation": "Refer lines “We hold our beliefs and presumptive knowledge’s more or less confidently, usually depending on how we acquired them (I saw it with my own eyes; I heard it on Fox News; a guy at the office told me) and how broadly and strenuously they seem to be shared or endorsed by various relevant people: experts and authorities, friends and family members, colleagues and associates”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author discusses all of the following arguments in the passage, EXCEPT:",
+          "options": {
+            "A": "sceptics believe that we can never fully know anything, if by “knowing” we mean knowledge of a reality that is independent of the knower.",
+            "B": "if we cannot distinguish knowledge from opinion or delusion, we will not be able to justify our actions",
+            "C": "philosophers maintain that the scandal of philosophy should be of concern to everyone",
+            "D": "the best way to deal with scepticism about the veracity of knowledge is to ignore it"
+          },
+          "correct_answer": "D",
+          "explanation": "Q is all of the following, EXCEPT For option 1 refer lines “sceptic’s contention that we cannot be sure that we know anything – at least not if we think of knowledge as something like having a correct mental representation of reality, and not if we think of reality as something like things-as-they-are-in-themselves, independent of our perceptions, ideas or descriptions.” For option2 refer lines “unless we can ground our claims to knowledge as such, which is to say, distinguish it from mere opinion, superstition, fantasy, wishful thinking, ideology, illusion or delusion, then the actions we take on the basis of presumed knowledge – boarding an airplane, swallowing a pill, finding someone guilty of a crime – will be irrational and unjustifiable.” For option 3 refer lines “While it is not clear that the scandal matters to anyone but philosophers, philosophers point out that it should matter to everyone”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "It’s easy to forget that most of the world’s languages are still transmitted orally with no widely established written form. While\nspeech communities are increasingly involved in projects to protect their languages – in print, on air and online – orality is\nfragile and contributes to linguistic vulnerability. But indigenous languages are about much more than unusual words and\nintriguing grammar: They function as vehicles for the transmission of cultural traditions, environmental understandings and\nknowledge about medicinal plants, all at risk when elders die and livelihoods are disrupted.\nBoth push and pull factors lead to the decline of languages. Through war, famine and natural disasters, whole communities can\nbe destroyed, taking their language with them to the grave, such as the indigenous populations of Tasmania who were wiped\nout by colonists. More commonly, speakers live on but abandon their language in favor of another vernacular, a widespread\nprocess that linguists refer to as “language shift” from which few languages are immune. Such trading up and out of a speech\nform occurs for complex political, cultural and economic reasons – sometimes voluntary for economic and educational reasons,\nalthough often amplified by state coercion or neglect. Welsh, long stigmatized and disparaged by the British state, has\nrebounded with vigor.\nMany speakers of endangered, poorly documented languages have embraced new digital media with excitement. Speakers of\npreviously exclusively oral tongues are turning to the web as a virtual space for languages to live on. Internet technology offers\npowerful ways for oral traditions and cultural practices to survive, even thrive, among increasingly mobile communities. I have\nwatched as videos of traditional wedding ceremonies and songs are recorded on smartphones in London by Nepali migrants,\nthen uploaded to YouTube and watched an hour later by relatives in remote Himalayan villages . . .\nGlobalization is regularly, and often uncritically, pilloried as a major threat to linguistic diversity. But in fact, globalization is as\nmuch process as it is ideology, certainly when it comes to language. The real forces behind cultural homogenization are\nunbending beliefs, exchanged through a globalized delivery system, reinforced by the historical monolingualism prevalent in\nmuch of the West.\nMonolingualism – the condition of being able to speak only one language – is regularly accompanied by a deep-seated\nconviction in the value of that language over all others. Across the largest economies that make up the G8, being monolingual\nis still often the norm, with multilingualism appearing unusual and even somewhat exotic. The monolingual mindset stands in\nsharp contrast to the lived reality of most the world, which throughout its history has been more multilingual than unilingual.\nMonolingualism, then, not globalization, should be our primary concern.\nMultilingualism can help us live in a more connected and more interdependent world. By widening access to technology,\nglobalization can support indigenous and scholarly communities engaged in documenting and protecting our shared linguistic",
+          "passage_group": 3,
+          "question": "heritage. For the last 5,000 years, the rise and fall of languages was intimately tied to the plow, sword and book. In our digital\nage, the keyboard, screen and web will play a decisive role in shaping the future linguistic diversity of our species.\nThe author mentions the Welsh language to show that:",
+          "options": {
+            "A": "while often pilloried, globalisation can, in fact, support linguistic revival.",
+            "B": "efforts to integrate Welsh speakers in the English-speaking fold have been fruitless.",
+            "C": "vulnerable languages can rebound with state effort.",
+            "D": "languages can revive even after their speakers have gone through a “language shift”."
+          },
+          "correct_answer": "D",
+          "explanation": "Option 4 is correct as it’s supported by lines “Both push and pull factors lead to the decline of languages. ….. More commonly, speakers live on but abandon their language in favor of another vernacular, a widespread process that linguists refer to as “language shift” from which few languages are immune. Such trading up and out of a speech form occurs for complex political, cultural and economic reasons – sometimes voluntary for economic and educational reasons, although often amplified by state coercion or neglect. Welsh, long stigmatized and disparaged by the British state, has rebounded with vigor.” where author talks about language shift in previous lines Option 1 is incorrect as author doesn’t state globalization as reason for Welsh language Option 2 is incorrect as it’s not about people but about the language Option 3 is incorrect as it gives credit to state opposite to what the author states “Such trading up and out of a speech form occurs for complex political, cultural and economic reasons – sometimes voluntary for economic and educational reasons, although often amplified by state coercion or neglect. Welsh, long stigmatized and disparaged by the British state, has rebounded with vigor.”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "It’s easy to forget that most of the world’s languages are still transmitted orally with no widely established written form. While\nspeech communities are increasingly involved in projects to protect their languages – in print, on air and online – orality is\nfragile and contributes to linguistic vulnerability. But indigenous languages are about much more than unusual words and\nintriguing grammar: They function as vehicles for the transmission of cultural traditions, environmental understandings and\nknowledge about medicinal plants, all at risk when elders die and livelihoods are disrupted.\nBoth push and pull factors lead to the decline of languages. Through war, famine and natural disasters, whole communities can\nbe destroyed, taking their language with them to the grave, such as the indigenous populations of Tasmania who were wiped\nout by colonists. More commonly, speakers live on but abandon their language in favor of another vernacular, a widespread\nprocess that linguists refer to as “language shift” from which few languages are immune. Such trading up and out of a speech\nform occurs for complex political, cultural and economic reasons – sometimes voluntary for economic and educational reasons,\nalthough often amplified by state coercion or neglect. Welsh, long stigmatized and disparaged by the British state, has\nrebounded with vigor.\nMany speakers of endangered, poorly documented languages have embraced new digital media with excitement. Speakers of\npreviously exclusively oral tongues are turning to the web as a virtual space for languages to live on. Internet technology offers\npowerful ways for oral traditions and cultural practices to survive, even thrive, among increasingly mobile communities. I have\nwatched as videos of traditional wedding ceremonies and songs are recorded on smartphones in London by Nepali migrants,\nthen uploaded to YouTube and watched an hour later by relatives in remote Himalayan villages . . .\nGlobalization is regularly, and often uncritically, pilloried as a major threat to linguistic diversity. But in fact, globalization is as\nmuch process as it is ideology, certainly when it comes to language. The real forces behind cultural homogenization are\nunbending beliefs, exchanged through a globalized delivery system, reinforced by the historical monolingualism prevalent in\nmuch of the West.\nMonolingualism – the condition of being able to speak only one language – is regularly accompanied by a deep-seated\nconviction in the value of that language over all others. Across the largest economies that make up the G8, being monolingual\nis still often the norm, with multilingualism appearing unusual and even somewhat exotic. The monolingual mindset stands in\nsharp contrast to the lived reality of most the world, which throughout its history has been more multilingual than unilingual.\nMonolingualism, then, not globalization, should be our primary concern.\nMultilingualism can help us live in a more connected and more interdependent world. By widening access to technology,\nglobalization can support indigenous and scholarly communities engaged in documenting and protecting our shared linguistic",
+          "passage_group": 3,
+          "question": "From the passage, we can infer that the author is in favour of:",
+          "options": {
+            "A": "an expanded state role in the preservation of languages",
+            "B": "cultural homogenisation",
+            "C": "greater multilingualism",
+            "D": "“language shifts” across languages"
+          },
+          "correct_answer": "C",
+          "explanation": "Refer last paragraph"
+        },
+        {
+          "id": "cat-2021-slot2-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "It’s easy to forget that most of the world’s languages are still transmitted orally with no widely established written form. While\nspeech communities are increasingly involved in projects to protect their languages – in print, on air and online – orality is\nfragile and contributes to linguistic vulnerability. But indigenous languages are about much more than unusual words and\nintriguing grammar: They function as vehicles for the transmission of cultural traditions, environmental understandings and\nknowledge about medicinal plants, all at risk when elders die and livelihoods are disrupted.\nBoth push and pull factors lead to the decline of languages. Through war, famine and natural disasters, whole communities can\nbe destroyed, taking their language with them to the grave, such as the indigenous populations of Tasmania who were wiped\nout by colonists. More commonly, speakers live on but abandon their language in favor of another vernacular, a widespread\nprocess that linguists refer to as “language shift” from which few languages are immune. Such trading up and out of a speech\nform occurs for complex political, cultural and economic reasons – sometimes voluntary for economic and educational reasons,\nalthough often amplified by state coercion or neglect. Welsh, long stigmatized and disparaged by the British state, has\nrebounded with vigor.\nMany speakers of endangered, poorly documented languages have embraced new digital media with excitement. Speakers of\npreviously exclusively oral tongues are turning to the web as a virtual space for languages to live on. Internet technology offers\npowerful ways for oral traditions and cultural practices to survive, even thrive, among increasingly mobile communities. I have\nwatched as videos of traditional wedding ceremonies and songs are recorded on smartphones in London by Nepali migrants,\nthen uploaded to YouTube and watched an hour later by relatives in remote Himalayan villages . . .\nGlobalization is regularly, and often uncritically, pilloried as a major threat to linguistic diversity. But in fact, globalization is as\nmuch process as it is ideology, certainly when it comes to language. The real forces behind cultural homogenization are\nunbending beliefs, exchanged through a globalized delivery system, reinforced by the historical monolingualism prevalent in\nmuch of the West.\nMonolingualism – the condition of being able to speak only one language – is regularly accompanied by a deep-seated\nconviction in the value of that language over all others. Across the largest economies that make up the G8, being monolingual\nis still often the norm, with multilingualism appearing unusual and even somewhat exotic. The monolingual mindset stands in\nsharp contrast to the lived reality of most the world, which throughout its history has been more multilingual than unilingual.\nMonolingualism, then, not globalization, should be our primary concern.\nMultilingualism can help us live in a more connected and more interdependent world. By widening access to technology,\nglobalization can support indigenous and scholarly communities engaged in documenting and protecting our shared linguistic",
+          "passage_group": 3,
+          "question": "We can infer all of the following about indigenous languages from the passage EXCEPT that:",
+          "options": {
+            "A": "they are repositories of traditional knowledge about the environment and culture.",
+            "B": "people are increasingly working on documenting these languages.",
+            "C": "their vocabulary and grammatical constructs have been challenging to document.",
+            "D": "they are in danger of being wiped out as most can only be transmitted orally."
+          },
+          "correct_answer": "C",
+          "explanation": "Q is all of the following EXCEPT Option 3 is incorrect because of words ‘challenging to document’ which isn’t supported by the passage Option 1 is supported by lines “But indigenous languages are about much more than unusual words and intriguing grammar: They function as vehicles for the transmission of cultural traditions, environmental understandings and knowledge about medicinal plants, all at risk when elders die and livelihoods are disrupted.” Option 2 is supported by lines “While speech communities are increasingly involved in projects to protect their languages – in print, on air and online – orality is fragile and contributes to linguistic vulnerability.” Option 4 is supported throughout the passage especially by lines “It’s easy to forget that most of the world’s languages are still transmitted orally with no widely established written form. While speech communities are increasingly involved in projects to protect their languages – in print, on air and online – orality is fragile and contributes to linguistic vulnerability.”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "It’s easy to forget that most of the world’s languages are still transmitted orally with no widely established written form. While\nspeech communities are increasingly involved in projects to protect their languages – in print, on air and online – orality is\nfragile and contributes to linguistic vulnerability. But indigenous languages are about much more than unusual words and\nintriguing grammar: They function as vehicles for the transmission of cultural traditions, environmental understandings and\nknowledge about medicinal plants, all at risk when elders die and livelihoods are disrupted.\nBoth push and pull factors lead to the decline of languages. Through war, famine and natural disasters, whole communities can\nbe destroyed, taking their language with them to the grave, such as the indigenous populations of Tasmania who were wiped\nout by colonists. More commonly, speakers live on but abandon their language in favor of another vernacular, a widespread\nprocess that linguists refer to as “language shift” from which few languages are immune. Such trading up and out of a speech\nform occurs for complex political, cultural and economic reasons – sometimes voluntary for economic and educational reasons,\nalthough often amplified by state coercion or neglect. Welsh, long stigmatized and disparaged by the British state, has\nrebounded with vigor.\nMany speakers of endangered, poorly documented languages have embraced new digital media with excitement. Speakers of\npreviously exclusively oral tongues are turning to the web as a virtual space for languages to live on. Internet technology offers\npowerful ways for oral traditions and cultural practices to survive, even thrive, among increasingly mobile communities. I have\nwatched as videos of traditional wedding ceremonies and songs are recorded on smartphones in London by Nepali migrants,\nthen uploaded to YouTube and watched an hour later by relatives in remote Himalayan villages . . .\nGlobalization is regularly, and often uncritically, pilloried as a major threat to linguistic diversity. But in fact, globalization is as\nmuch process as it is ideology, certainly when it comes to language. The real forces behind cultural homogenization are\nunbending beliefs, exchanged through a globalized delivery system, reinforced by the historical monolingualism prevalent in\nmuch of the West.\nMonolingualism – the condition of being able to speak only one language – is regularly accompanied by a deep-seated\nconviction in the value of that language over all others. Across the largest economies that make up the G8, being monolingual\nis still often the norm, with multilingualism appearing unusual and even somewhat exotic. The monolingual mindset stands in\nsharp contrast to the lived reality of most the world, which throughout its history has been more multilingual than unilingual.\nMonolingualism, then, not globalization, should be our primary concern.\nMultilingualism can help us live in a more connected and more interdependent world. By widening access to technology,\nglobalization can support indigenous and scholarly communities engaged in documenting and protecting our shared linguistic",
+          "passage_group": 3,
+          "question": "The author lists all of the following as reasons for the decline or disappearance of a language EXCEPT:",
+          "options": {
+            "A": "governments promoting certain languages over others",
+            "B": "the focus on only a few languages as a result of widespread internet use",
+            "C": "a catastrophic event that entirely eliminates a people and their culture.",
+            "D": "people shifting away from their own language to study or work in another language."
+          },
+          "correct_answer": "B",
+          "explanation": "Q is all of the following EXCEPT Option 2 is opposite of what author states Refer lines: “Speakers of previously exclusively oral tongues are turning to the web as a virtual space for languages to live on. Internet technology offers powerful ways for oral traditions and cultural practices to survive, even thrive, among increasingly mobile communities” “By widening access to technology, globalization can support indigenous and scholarly communities engaged in documenting and protecting our shared linguistic heritage”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Many people believe that truth conveys power …. Hence sticking with the truth is the best strategy for gaining power.\nUnfortunately, this is just a comforting myth. In fact, truth and power have a far more complicated relationship, because in\nhuman society, power metwo very different things.\nOn the one hand, power mehaving the ability to manipulate objective realities: to hunt animals, to construct bridges, to cure\ndiseases, to build atom bombs. This kind of power is closely tied to truth. If you believe a false physical theory, you won’t be\nable to build an atom bomb. On the other hand, power also mehaving the ability to manipulate human beliefs, thereby getting\nlots of people to cooperate effectively. Building atom bombs requires not just a good understanding of physics, but also the\ncoordinated labor of millions of humans. Planet Earth was conquered by Homo sapiens rather than by chimpanzees or\nelephants, because we are the only mammals that can cooperate in very large numbers. And large-scale cooperation depends\non believing common stories. But these stories need not be true. You can unite millions of people by making them believe in\ncompletely fictional stories about God, about race or about economics. The dual nature of power and truth results in the\ncurious fact that we humknow many more truths than any other animal, but we also believe in much more nonsense. . . .\nWhen it comes to uniting people around a common story, fiction actually enjoys three inherent advantages over the truth. First,\nwhereas the truth is universal, fictions tend to be local. Consequently if we want to distinguish our tribe from foreigners, a\nfictional story will serve as a far better identity marker than a true storyThe second huge advantage of fiction over truth has to\ndo with the handicap principle, which says that reliable signals must be costly to the signaler. Otherwise, they can easily be\nfaked by cheaters…. If political loyalty is signaled by believing a true story, anyone can fake it. But believing ridiculous and\noutlandish stories exacts greater cost, and is therefore a better signal of loyalty ….. Third, and most important, the truth is often\npainful and disturbing. Hence if you stick to unalloyed reality, few people will follow you. An American presidential candidate\nwho tells the American public the truth, the whole truth and nothing but the truth about American history has a 100 percent\nguarantee of losing the elections. …. An uncompromising adherence to the truth is an admirable spiritual practice, but it is not a\nwinning political strategy. . . .",
+          "passage_group": 4,
+          "question": "Even if we need to pay some price for deactivating our rational faculties, the advantages of increased social cohesion are often\nso big that fictional stories routinely triumph over the truth in human history. Scholars have known this for thousands of years,\nwhich is why scholars often had to decide whether they served the truth or social harmony. Should they aim to unite people by\nmaking sure everyone believes in the same fiction, or should they let people know the truth even at the price of disunity?\nThe author implies that, like scholars, successful leaders:",
+          "options": {
+            "A": "today know how to create social cohesion better than in the past.",
+            "B": "know how to balance truth and social unity.",
+            "C": "use myths to attain the first type of power.",
+            "D": "need to leverage both types of power to remain in office."
+          },
+          "correct_answer": "B",
+          "explanation": "Q is about ‘successful’ leaders Option 1 is incorrect because of the word ‘better’ which isn’t supported by the passage Option 3 is incorrect as it isn’t first but second type of power Option 4 is extreme owing to its meaning and use of words ‘need’ and ‘both’ and ‘to remain’"
+        },
+        {
+          "id": "cat-2021-slot2-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Many people believe that truth conveys power …. Hence sticking with the truth is the best strategy for gaining power.\nUnfortunately, this is just a comforting myth. In fact, truth and power have a far more complicated relationship, because in\nhuman society, power metwo very different things.\nOn the one hand, power mehaving the ability to manipulate objective realities: to hunt animals, to construct bridges, to cure\ndiseases, to build atom bombs. This kind of power is closely tied to truth. If you believe a false physical theory, you won’t be\nable to build an atom bomb. On the other hand, power also mehaving the ability to manipulate human beliefs, thereby getting\nlots of people to cooperate effectively. Building atom bombs requires not just a good understanding of physics, but also the\ncoordinated labor of millions of humans. Planet Earth was conquered by Homo sapiens rather than by chimpanzees or\nelephants, because we are the only mammals that can cooperate in very large numbers. And large-scale cooperation depends\non believing common stories. But these stories need not be true. You can unite millions of people by making them believe in\ncompletely fictional stories about God, about race or about economics. The dual nature of power and truth results in the\ncurious fact that we humknow many more truths than any other animal, but we also believe in much more nonsense. . . .\nWhen it comes to uniting people around a common story, fiction actually enjoys three inherent advantages over the truth. First,\nwhereas the truth is universal, fictions tend to be local. Consequently if we want to distinguish our tribe from foreigners, a\nfictional story will serve as a far better identity marker than a true storyThe second huge advantage of fiction over truth has to\ndo with the handicap principle, which says that reliable signals must be costly to the signaler. Otherwise, they can easily be\nfaked by cheaters…. If political loyalty is signaled by believing a true story, anyone can fake it. But believing ridiculous and\noutlandish stories exacts greater cost, and is therefore a better signal of loyalty ….. Third, and most important, the truth is often\npainful and disturbing. Hence if you stick to unalloyed reality, few people will follow you. An American presidential candidate\nwho tells the American public the truth, the whole truth and nothing but the truth about American history has a 100 percent\nguarantee of losing the elections. …. An uncompromising adherence to the truth is an admirable spiritual practice, but it is not a\nwinning political strategy. . . .",
+          "passage_group": 4,
+          "question": "The central theme of the passage is about the choice between:",
+          "options": {
+            "A": "truth and power",
+            "B": "stories that unite people and those that distinguish groups from each other",
+            "C": "attaining social cohesion and propagating objective truth",
+            "D": "leaders who unknowingly spread fictions and those who intentionally do so"
+          },
+          "correct_answer": "C",
+          "explanation": "2 Main points to be covered are ‘truth’ and ‘unity’ Refer lines “Should they aim to unite people by making sure everyone believes in the same fiction, or should they let people know the truth even at the price of disunity?”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Many people believe that truth conveys power …. Hence sticking with the truth is the best strategy for gaining power.\nUnfortunately, this is just a comforting myth. In fact, truth and power have a far more complicated relationship, because in\nhuman society, power metwo very different things.\nOn the one hand, power mehaving the ability to manipulate objective realities: to hunt animals, to construct bridges, to cure\ndiseases, to build atom bombs. This kind of power is closely tied to truth. If you believe a false physical theory, you won’t be\nable to build an atom bomb. On the other hand, power also mehaving the ability to manipulate human beliefs, thereby getting\nlots of people to cooperate effectively. Building atom bombs requires not just a good understanding of physics, but also the\ncoordinated labor of millions of humans. Planet Earth was conquered by Homo sapiens rather than by chimpanzees or\nelephants, because we are the only mammals that can cooperate in very large numbers. And large-scale cooperation depends\non believing common stories. But these stories need not be true. You can unite millions of people by making them believe in\ncompletely fictional stories about God, about race or about economics. The dual nature of power and truth results in the\ncurious fact that we humknow many more truths than any other animal, but we also believe in much more nonsense. . . .\nWhen it comes to uniting people around a common story, fiction actually enjoys three inherent advantages over the truth. First,\nwhereas the truth is universal, fictions tend to be local. Consequently if we want to distinguish our tribe from foreigners, a\nfictional story will serve as a far better identity marker than a true storyThe second huge advantage of fiction over truth has to\ndo with the handicap principle, which says that reliable signals must be costly to the signaler. Otherwise, they can easily be\nfaked by cheaters…. If political loyalty is signaled by believing a true story, anyone can fake it. But believing ridiculous and\noutlandish stories exacts greater cost, and is therefore a better signal of loyalty ….. Third, and most important, the truth is often\npainful and disturbing. Hence if you stick to unalloyed reality, few people will follow you. An American presidential candidate\nwho tells the American public the truth, the whole truth and nothing but the truth about American history has a 100 percent\nguarantee of losing the elections. …. An uncompromising adherence to the truth is an admirable spiritual practice, but it is not a\nwinning political strategy. . . .",
+          "passage_group": 4,
+          "question": "Regarding which one of the following quotes could we argue that the author overemphasises the importance of fiction?",
+          "options": {
+            "A": "“…. scholars often had to decide whether they served the truth or social harmony. Should they aim to unite people by making sure everyone believes in the same fiction, or should they let people know the truth ….?”",
+            "B": "“Hence sticking with the truth is the best strategy for gaining power. Unfortunately, this is just a comforting myth.”",
+            "C": "\"In fact, truth and power have a far more complicated relationship, because in human society, power me two very different things.\"",
+            "D": "“On the one hand, power me having the ability to manipulate objective realities: to hunt animals, to construct bridges, to cure diseases, to build atom bombs.”"
+          },
+          "correct_answer": "A",
+          "explanation": "None of the other options actually talks about fiction"
+        },
+        {
+          "id": "cat-2021-slot2-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Many people believe that truth conveys power …. Hence sticking with the truth is the best strategy for gaining power.\nUnfortunately, this is just a comforting myth. In fact, truth and power have a far more complicated relationship, because in\nhuman society, power metwo very different things.\nOn the one hand, power mehaving the ability to manipulate objective realities: to hunt animals, to construct bridges, to cure\ndiseases, to build atom bombs. This kind of power is closely tied to truth. If you believe a false physical theory, you won’t be\nable to build an atom bomb. On the other hand, power also mehaving the ability to manipulate human beliefs, thereby getting\nlots of people to cooperate effectively. Building atom bombs requires not just a good understanding of physics, but also the\ncoordinated labor of millions of humans. Planet Earth was conquered by Homo sapiens rather than by chimpanzees or\nelephants, because we are the only mammals that can cooperate in very large numbers. And large-scale cooperation depends\non believing common stories. But these stories need not be true. You can unite millions of people by making them believe in\ncompletely fictional stories about God, about race or about economics. The dual nature of power and truth results in the\ncurious fact that we humknow many more truths than any other animal, but we also believe in much more nonsense. . . .\nWhen it comes to uniting people around a common story, fiction actually enjoys three inherent advantages over the truth. First,\nwhereas the truth is universal, fictions tend to be local. Consequently if we want to distinguish our tribe from foreigners, a\nfictional story will serve as a far better identity marker than a true storyThe second huge advantage of fiction over truth has to\ndo with the handicap principle, which says that reliable signals must be costly to the signaler. Otherwise, they can easily be\nfaked by cheaters…. If political loyalty is signaled by believing a true story, anyone can fake it. But believing ridiculous and\noutlandish stories exacts greater cost, and is therefore a better signal of loyalty ….. Third, and most important, the truth is often\npainful and disturbing. Hence if you stick to unalloyed reality, few people will follow you. An American presidential candidate\nwho tells the American public the truth, the whole truth and nothing but the truth about American history has a 100 percent\nguarantee of losing the elections. …. An uncompromising adherence to the truth is an admirable spiritual practice, but it is not a\nwinning political strategy. . . .",
+          "passage_group": 4,
+          "question": "The author would support none of the following statements about political power EXCEPT that:",
+          "options": {
+            "A": "people cannot handle the unvarnished truth, so leaders retain power by deviating from it.",
+            "B": "while unalloyed truth is not recommended, leaders should stay as close as possible to it.",
+            "C": "there are definite advantages to promoting fiction, but there needs to be some limit to a pervasive belief in myths.",
+            "D": "manipulating people’s beliefs is politically advantageous, but a leader who propagates only myths is likely to lose power."
+          },
+          "correct_answer": "A",
+          "explanation": "Option 2 is not correct as author doesn’t recommend staying close to unalloyed truth Refer line “Hence if you stick to unalloyed reality, few (i.e. hardly anyone) people will follow you.” Option 3 is incorrect as author doesn’t talk about limits Option 4 is incorrect as author doesn’t talk about “a leader who propagates only myths”"
+        },
+        {
+          "id": "cat-2021-slot2-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Look forward a few decades to an invention which can end the energy crisis, change the global economy and curb climate\nchange at a stroke: commercial fusion power.\n2. To gain meaningful insights, logic has to be accompanied by asking probing questions of nature through controlled tests,\nprecise observations and clever analysis.\n3. The greatest of all inventions is the uber-invention that has provided the insights on which others depend: the modern\nscientific method.\n4. This invention is inconceivable without the scientific method; it will rest on the application of a diverse range of scientific\ninsights, such as the process transforming hydrogen into helium to release huge amounts of energy.",
+          "options": {},
+          "correct_answer": "3214",
+          "explanation": "1-4 1-4 is an obvious pair as ‘this invention’ in 1 is referring to ‘commercial fusion power’ in 1 3-2 2 tells why the modern scientific method is the greatest as the method (including controlled tests, precise observations and clever analysis) provides meaningful insights 32-14 14 add to the why the method is the greatest by providing an example (commercial fusion power is inconceivable without it)"
+        },
+        {
+          "id": "cat-2021-slot2-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The unlikely alliance of the incumbent industrialist and the distressed unemployed worker is especially powerful amid the debris\nof corporate bankruptcies and layoffs. In an economic downturn, the capitalist is more likely to focus on costs of the\ncompetition emanating from free markets than on the opportunities they create. And the unemployed worker will find many\n\nothers in a similar condition and with anxieties similar to his, which will make it easier for them to organize together. Using the\ncover and the political organization provided by the distressed, the capitalist captures the political agenda.",
+          "options": {
+            "A": "An unlikely alliance of the industrialist and the unemployed happens during an economic downturn in which they come together to unite politically and capture the political agenda.",
+            "B": "In an economic downturn, the capitalists use the anxieties of the unemployed and their political organisation to set the political agenda to suit their economic interests.",
+            "C": "The purpose of an unlikely alliance between the industrialist and the unemployed during an economic downturn is to stifle competition in free markets.",
+            "D": "An economic downturn creates competition because of which the capitalists capture the political agenda created by the political organisation provided by the unemployed."
+          },
+          "correct_answer": "B",
+          "explanation": "Option 1 is incorrect as the industrialist and the unemployed don’t capture the political agenda, the capitalist does Option 3 is incorrect as ‘stifle competition in free markets’ isn’t talked about in the paragraph Option 4 is incorrect as ‘the capitalists capture the political agenda’ because of competition isn’t implied by the paragraph Option 2 summarizes the paragraph without committing any of the mistakes in other options"
+        },
+        {
+          "id": "cat-2021-slot2-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to\nform a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. It has taken on a warm, fuzzy glow in the advertising world, where its potential is being widely discussed, and it is being\nclaimed as the undeniable wave of the future.\n2. There is little enthusiasm for this in the scientific arena; for them marketing is not a science, and only a handful of studies\nhave been published in scientific journals.\n3. The new, growing field of neuromarketing attempts to reveal the inner workings of consumer behaviour and is an extension\nof the study of how choices and decisions are made.\n4. Some see neuromarketing as an attempt to make the \"art\" of advertising into a science, being used by marketing experts to\nback up their proposals with some form of real data.\n5. The marketing gurus have already started drawing on psychology in developing tests and theories, and advertising people\nhave borrowed the idea of the focus group from social scientists.",
+          "options": {},
+          "correct_answer": "5",
+          "explanation": "Statement 1 to 4 talk about marketing and neuromarketing while Statement 5 talks about social scientists, who haven’t been talked about in any other Statement Hence 5 is the odd one out"
+        },
+        {
+          "id": "cat-2021-slot2-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Creativity is now viewed as the engine of economic progress. Various organizations are devoted to its study and promotion;\nthere are encyclopedias and handbooks surveying creativity research. But this proliferating success has tended to erode\ncreativity’s stable identity: it has become so invested with value that it has become impossible to police its meaning and the\npractices that supposedly identify and encourage it. Many people and organizations committed to producing original thoughts\nnow feel that undue obsession with the idea of creativity gets in the way of real creativity.",
+          "options": {
+            "A": "The industry that has built up around researching what comprises and encourages creativity has destroyed the creative process itself.",
+            "B": "Creativity has proliferated to the extent that is no longer a stable process, and its mutating identity has stifled the creative process.",
+            "C": "The value assigned to creativity today has assumed such proportions that the concept itself has lost its real meaning and this is hampering the engendering of real creativity.",
+            "D": "The obsession with original thought, how it can be promoted and researched, has made it impossible for people and organizations to define the concept anymore."
+          },
+          "correct_answer": "C",
+          "explanation": "Option 1 is incorrect as it's the undue obsession not the industry that is hampering creativity. Also, ‘destroyed’ is too strong a word Option 2 is incorrect as it’s not proliferation of creativity that is negative but undue obsession with it. Also, the paragraph never implied that there ever was a stable process for creativity Option 4 is incorrect as it focuses on defining creativity while paragraph is talking about real creativity Option 3 summarizes the paragraph without committing any of the mistakes in other options"
+        },
+        {
+          "id": "cat-2021-slot2-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Biologists who publish their research directly to the Web have been labelled as “rogue”, but physicists have been routinely\npublishing research digitally (“preprints”), prior to submitting in a peer-reviewed journal. Advocates of preprints argue that\nquick and open dissemination of research speeds up scientific progress and allows for wider access to knowledge. But some\njournals still don’t accept research previously published as a preprint. Even if the idea of preprints is gaining ground, one of the\nbiggest barriers for biologists is how they would be viewed by members of their conservative research community.",
+          "options": {
+            "A": "While digital publication of research is gaining popularity in many scientific disciplines, almost all peer-reviewed journals are reluctant to accept papers that have been published before.",
+            "B": "Compared to biologists, physicists are less conservative in their acceptance of digital pre-publication of research papers, which allows for faster dissemination of knowledge.",
+            "C": "One of the advantages of digital preprints of research is they hasten the dissemination process, but these are not accepted by most scientific communities.",
+            "D": "Preprints of research are frowned on by some scientific fields as they do not undergo a rigourous reviewing process but are accepted among biologists as a quick way to disseminate information."
+          },
+          "correct_answer": "B",
+          "explanation": "Option 1 is factually incorrect because of use of words ‘almost all’ Option 3 is incorrect as it leaves out biologists and physicists completely and also because of use of word ‘most’ Option 4 is factually incorrect as preprints aren’t accepted by biologists"
+        },
+        {
+          "id": "cat-2021-slot2-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The care with which philosophers examine arguments for and against forms of biotechnology makes this an excellent primer\non formulating and assessing moral arguments.\n2. Although most people find at least some forms of genetic engineering disquieting, it is not easy to articulate why: what is\nwrong with re-engineering our nature?\n3. Breakthroughs in genetics present us with the promise that we will soon be able to prevent a host of debilitating diseases,\nand the predicament that our newfound genetic knowledge may enable us to enhance our genetic traits.\n4. To grapple with the ethics of enhancement, we need to confront questions that verge on theology, which is why modern\nphilosophers and political theorists tend to shrink from them.\n5. One argument is that the drive for human perfection through genetics is objectionable as it represents a bid for mastery that\nfails to appreciate the gifts of human powers and achievements.",
+          "options": {},
+          "correct_answer": "1",
+          "explanation": "Statement 2 and 3 both talk about genetics Statement 3,4 and 5 talk about enhancement through genetics Statement 4 talks about philosophers shrinking from/shying away while Statement 1 talks about ‘The care with which philosophers examine ’ Hence Statement 1 and 4 are conceptually opposing"
+        },
+        {
+          "id": "cat-2021-slot2-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. But today there is an epochal challenge to rethink and reconstitute the vision and practice of development as a shared\nresponsibility – a sharing which binds both the agent and the audience, the developed world and the developing, in a bond of\nshared destiny.\n2. We are at a crossroads now in our vision and practice of development.\n3. This calls for the cultivation of an appropriate ethical mode of being in our lives which enables us to realize this global and\nplanetary situation of shared living and responsibility.\n4. Half a century ago, development began as a hope for a better human possibility, but in the last fifty years, this hope has lost\nitself in the dreary desert of various kinds of hegemonic applications.",
+          "options": {},
+          "correct_answer": "2413",
+          "explanation": "Statement 2 at the beginning states that we are at crossroads 2-41 41 state why we are at crossroads comparing situations ‘half a century ago’ and ‘today’ 1-3 ‘This’ in 3 is referring to initial part of Statement 1"
+        },
+        {
+          "id": "cat-2021-slot2-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The US has long maintained that the Northwest Passage is an international strait through which its commercial and military\nvessels have the right to pass without seeking Canada’s permission.\n2. Canada, which officially acquired the group of islands forming the Northwest Passage in 1880, claims sovereignty over all the\nshipping routes through the Passage.\n3. The dispute could be transitory, however, as scientists speculate that the entire Arctic Ocean will soon be ice-free in summer,\nso ship owners will not have to ask for permission to sail through any of the Northwest Passage routes.\n4. The US and Canada have never legally settled the question of access through the Passage, but have an agreement whereby\nthe US needs to seek Canada’s consent for any transit.",
+          "options": {},
+          "correct_answer": "2143",
+          "explanation": "2 starts the paragraph as it states what the northwest passage is composed of 4-3 ‘the dispute’ in 3 is referring to Statement 4 Also, 3 concludes by stating the dispute is transitory 21--3 the basis of ‘the dispute’ in 3 is given in Statement 2 and 1 so 2 and 1 come before Statement 3 though not immediately before statement 3 Section : DI & Reasoning"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot2-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The different bars in the diagram above provide information about different orders in various categories (Art, Binders, ….) that\nwere booked in the first two weeks of September of a store for one client. The colour and pattern of a bar denotes the ship\nmode (First Class / Second Class / Standard Class). The left end point of a bar indicates the booking day of the order, while the\nright end point indicates the dispatch day of the order. The difference between the dispatch day and the booking day\n(measured in terms of the number of days) is called the processing time of the order. For the same category, an order is\nconsidered for booking only after the previous order of the same category is dispatched. No two consecutive orders of the\nsame category had identical ship mode during this period.\nFor example, there were only two orders in the furnishing category during this period. The first one was shipped in the Second\nClass. It was booked on Sep 1 and dispatched on Sep 5. The second order was shipped in the Standard class. It was booked on\nSep 5 (although the order might have been placed before that) and dispatched on Sep 12. So the processing times were 4 and\n7 days respectively for these orders.\nHow many days between Sep 1 and Sep 14 (both inclusive) had no booking from this client considering all the above\ncategories? (in numerical value)",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "From the given information, we can make the following table. The numbers here are the dates on which the orders are booked (B) and dispatched (D). Order I II III IV V B D B D B D B D B D Art 1 3 3 4 4 6 6 13 13 21 Binders 1 2 2 4 4 5 5 16 Paper 2 4 4 7 7 12 Phones 2 4 4 5 5 17 Appliances 2 4 4 12 Book cases 3 4 4 6 6 7 Fasteners 2 4 4 6 6 8 Furnishing 1 5 5 12 Labels 2 4 4 12 Tables 2 4 4 10 Chairs 2 3 3 9 Accessories 1 19 Envelopes 3 7 Storage 2 7 7 22 From the above table, we can see that no booking was done on 8th, 9th, 10th, 11th, 12th and 14th Sept. Therefore, for 6 days there was no booking."
+        },
+        {
+          "id": "cat-2021-slot2-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the average processing time of all orders in the categories which had only one type of ship mode? (in numerical\nvalue)",
+          "options": {},
+          "correct_answer": "11",
+          "explanation": "From the given information, we can make the following table. The numbers here are the dates on which the orders are booked (B) and dispatched (D). Order I II III IV V B D B D B D B D B D Art 1 3 3 4 4 6 6 13 13 21 Binders 1 2 2 4 4 5 5 16 Paper 2 4 4 7 7 12 Phones 2 4 4 5 5 17 Appliances 2 4 4 12 Book cases 3 4 4 6 6 7 Fasteners 2 4 4 6 6 8 Furnishing 1 5 5 12 Labels 2 4 4 12 Tables 2 4 4 10 Chairs 2 3 3 9 Accessories 1 19 Envelopes 3 7 Storage 2 7 7 22 Accessories and Envelopes have only one type of shipping mode. Processing time for Accessories = (19 - 1) = 18 days Processing time for Envelopes = (7 - 3) = 4 days"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The sequence of categories -- Art, Binders, Paper and Phones -- in decreasing order of average processing time of their orders\nin this period is:",
+          "options": {
+            "A": "Paper, Binders, Art, Phones",
+            "B": "Phones, Art, Binders, Paper",
+            "C": "Art, Binders, Paper, Phones",
+            "D": "Phones, Binders, Art, Paper"
+          },
+          "correct_answer": "B",
+          "explanation": "From the given information, we can make the following table. The numbers here are the dates on which the orders are booked (B) and dispatched (D). Order I II III IV V B D B D B D B D B D Art 1 3 3 4 4 6 6 13 13 21 Binders 1 2 2 4 4 5 5 16 Paper 2 4 4 7 7 12 Phones 2 4 4 5 5 17 Appliances 2 4 4 12 Book cases 3 4 4 6 6 7 Fasteners 2 4 4 6 6 8 Furnishing 1 5 5 12 Labels 2 4 4 12 Tables 2 4 4 10 Chairs 2 3 3 9 Accessories 1 19 Envelopes 3 7 Storage 2 7 7 22 Average processing time for Arts Therefore, the decreasing order is Phones, Art, Binders, Paper"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Approximately what percentage of orders had a processing time of one day during the period Sep 1 to Sep 22 (both dates\ninclusive)?",
+          "options": {
+            "A": "16%",
+            "B": "22%",
+            "C": "20%",
+            "D": "25%"
+          },
+          "correct_answer": "C",
+          "explanation": "From the given information, we can make the following table. The numbers here are the dates on which the orders are booked (B) and dispatched (D). Order I II III IV V B D B D B D B D B D Art 1 3 3 4 4 6 6 13 13 21 Binders 1 2 2 4 4 5 5 16 Paper 2 4 4 7 7 12 Phones 2 4 4 5 5 17 Appliances 2 4 4 12 Book cases 3 4 4 6 6 7 Fasteners 2 4 4 6 6 8 Furnishing 1 5 5 12 Labels 2 4 4 12 Tables 2 4 4 10 Chairs 2 3 3 9 Accessories 1 19 Envelopes 3 7 Storage 2 7 7 22 Total orders = 35 Orders with processing time of one day = 7"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The game of Chango is a game where two people play against each other; one of them wins and the other loses, i.e., there are\nno drawn Chango games. 12 players participated in a Chango championship. They were divided into four groups: Group A\nconsisted of Aruna, Azul, and Arif; Group B consisted of Brinda, Brij, and Biju; Group C consisted of Chitra, Chetan, and Chhavi;\nand Group D consisted of Dipen, Donna, and Deb.\nPlayers within each group had a distinct rank going into the championship. The players have NOT been listed necessarily\naccording to their ranks. In the group stage of the game, the second and third ranked players play against each other, and the\nwinner of that game plays against the first ranked player of the group. The winner of this second game is considered as the\nwinner of the group and enters a semi-final.\nThe winners from Groups A and B play against each other in one semi-final, while the winners from Groups C and D play\nagainst each other in the other semi-final. The winners of the two semi-finals play against each other in the final to decide the\nwinner of the championship.\nIt is known that:\n1. Chitra did not win the championship.\n2. Aruna did not play against Arif. Brij did not play against Brinda.\n3. Aruna, Biju, Chitra, and Dipen played three games each, Azul and Chetan played two games each, and the remaining players\nplayed one game each.\nWho among the following was DEFINITELY NOT ranked first in his/her group?",
+          "options": {
+            "A": "Brij",
+            "B": "Aruna",
+            "C": "Dipen",
+            "D": "Chitra"
+          },
+          "correct_answer": "C",
+          "explanation": "3 games:- Aruna, Biju, Chira, Dipen 2 games:- Azul, Chetan 1 game:- Arif, Brinda, Brij, Chhavi, Donna, Deb Group A:- Arif played one game & Azul played 2 games ∴ 1st match →Arif vs Azul → Azul won 2nd match →Azul vs Aruna →Aruna won ∴ Aruna is Rank 1 player of group A. As Aruna played 3 matches and she played only one match in group 1, so the remaining two matches of Aruna are semifinal & final. ⇒ Aruna played final Group B:- Brinda & Brig played 1 match each, so Biju cannot be rank one player in Group B. This is because, if Biju is rank 1, then Brinda & Brij will play first match and winner of that match will play against Biju, so that person will play 2 matches, which is not possible. If Brinda is rank 1 player, then I match →Biju vs Brij ⇒ Biju won II match →Biju vs Brinda ⇒ Biju won If Brij is rank 1 player, then I match →Biju vs Brinda ⇒ Biju won II match →Biju vs Brij ⇒ Biju won So either Brij or Brinda is rank 1 player in group B and Biju played 2 matches in group. So the third match which Biju will play is semifinal. Group C:- Here Chhavi played one match and Chetan played 2 matches. So match I:- Chhavi vs Chetan ⇒ Chetan won match II:- Chitra vs Chetan ⇒ Chitra won if Chhavi plays with Chitra & Chitra beats her, then Chitra will beat Chetan also. In that case Chetan has played only one game which is not possible. Here Chitra had played one match in group and her remaining matches are semifinal & final. So Chitra played final. Group D:- Here Donna & Deb played one match each. So as discussed in Group B, Dipen cannot be rank 1 player. ∴ In group D, either Donna & Deb are rank 1 player & Dipen played 2 matches in group and his one match will be semifinal. Dipen is definitely not ranked first in his group."
+        },
+        {
+          "id": "cat-2021-slot2-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following pairs must have played against each other in the championship?",
+          "options": {
+            "A": "Donna, Chetan",
+            "B": "Azul, Biju",
+            "C": "Deb, Donna",
+            "D": "Chitra, Dipen"
+          },
+          "correct_answer": "D",
+          "explanation": "3 games:- Aruna, Biju, Chira, Dipen 2 games:- Azul, Chetan 1 game:- Arif, Brinda, Brij, Chhavi, Donna, Deb Group A:- Arif played one game & Azul played 2 games ∴ 1st match →Arif vs Azul → Azul won 2nd match →Azul vs Aruna →Aruna won ∴ Aruna is Rank 1 player of group A. As Aruna played 3 matches and she played only one match in group 1, so the remaining two matches of Aruna are semifinal & final. ⇒ Aruna played final Group B:- Brinda & Brig played 1 match each, so Biju cannot be rank one player in Group B. This is because, if Biju is rank 1, then Brinda & Brij will play first match and winner of that match will play against Biju, so that person will play 2 matches, which is not possible. If Brinda is rank 1 player, then I match →Biju vs Brij ⇒ Biju won II match →Biju vs Brinda ⇒ Biju won If Brij is rank 1 player, then I match →Biju vs Brinda ⇒ Biju won II match →Biju vs Brij ⇒ Biju won So either Brij or Brinda is rank 1 player in group B and Biju played 2 matches in group. So the third match which Biju will play is semifinal. Group C:- Here Chhavi played one match and Chetan played 2 matches. So match I:- Chhavi vs Chetan ⇒ Chetan won match II:- Chitra vs Chetan ⇒ Chitra won if Chhavi plays with Chitra & Chitra beats her, then Chitra will beat Chetan also. In that case Chetan has played only one game which is not possible. Here Chitra had played one match in group and her remaining matches are semifinal & final. So Chitra played final. Group D:- Here Donna & Deb played one match each. So as discussed in Group B, Dipen cannot be rank 1 player. ∴ In group D, either Donna & Deb are rank 1 player & Dipen played 2 matches in group and his one match will be semifinal. Chitra, Dipen"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who won the championship?",
+          "options": {
+            "A": "Brij",
+            "B": "Cannot be determined",
+            "C": "Aruna",
+            "D": "Chitra"
+          },
+          "correct_answer": "C",
+          "explanation": "3 games:- Aruna, Biju, Chira, Dipen 2 games:- Azul, Chetan 1 game:- Arif, Brinda, Brij, Chhavi, Donna, Deb Group A:- Arif played one game & Azul played 2 games ∴ 1st match →Arif vs Azul → Azul won 2nd match →Azul vs Aruna →Aruna won ∴ Aruna is Rank 1 player of group A. As Aruna played 3 matches and she played only one match in group 1, so the remaining two matches of Aruna are semifinal & final. ⇒ Aruna played final Group B:- Brinda & Brig played 1 match each, so Biju cannot be rank one player in Group B. This is because, if Biju is rank 1, then Brinda & Brij will play first match and winner of that match will play against Biju, so that person will play 2 matches, which is not possible. If Brinda is rank 1 player, then I match →Biju vs Brij ⇒ Biju won II match →Biju vs Brinda ⇒ Biju won If Brij is rank 1 player, then I match →Biju vs Brinda ⇒ Biju won II match →Biju vs Brij ⇒ Biju won So either Brij or Brinda is rank 1 player in group B and Biju played 2 matches in group. So the third match which Biju will play is semifinal. Group C:- Here Chhavi played one match and Chetan played 2 matches. So match I:- Chhavi vs Chetan ⇒ Chetan won match II:- Chitra vs Chetan ⇒ Chitra won if Chhavi plays with Chitra & Chitra beats her, then Chitra will beat Chetan also. In that case Chetan has played only one game which is not possible. Here Chitra had played one match in group and her remaining matches are semifinal & final. So Chitra played final. Group D:- Here Donna & Deb played one match each. So as discussed in Group B, Dipen cannot be rank 1 player. ∴ In group D, either Donna & Deb are rank 1 player & Dipen played 2 matches in group and his one match will be semifinal. Aruna & Chitra reached the final. As Chitra did not win final, so Aruna must have won it."
+        },
+        {
+          "id": "cat-2021-slot2-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who among the following did NOT play against Chitra in the championship?",
+          "options": {
+            "A": "Biju",
+            "B": "Aruna",
+            "C": "Dipen",
+            "D": "Chetan"
+          },
+          "correct_answer": "A",
+          "explanation": "3 games:- Aruna, Biju, Chira, Dipen 2 games:- Azul, Chetan 1 game:- Arif, Brinda, Brij, Chhavi, Donna, Deb Group A:- Arif played one game & Azul played 2 games ∴ 1st match →Arif vs Azul → Azul won 2nd match →Azul vs Aruna →Aruna won ∴ Aruna is Rank 1 player of group A. As Aruna played 3 matches and she played only one match in group 1, so the remaining two matches of Aruna are semifinal & final. ⇒ Aruna played final Group B:- Brinda & Brig played 1 match each, so Biju cannot be rank one player in Group B. This is because, if Biju is rank 1, then Brinda & Brij will play first match and winner of that match will play against Biju, so that person will play 2 matches, which is not possible. If Brinda is rank 1 player, then I match →Biju vs Brij ⇒ Biju won II match →Biju vs Brinda ⇒ Biju won If Brij is rank 1 player, then I match →Biju vs Brinda ⇒ Biju won II match →Biju vs Brij ⇒ Biju won So either Brij or Brinda is rank 1 player in group B and Biju played 2 matches in group. So the third match which Biju will play is semifinal. Group C:- Here Chhavi played one match and Chetan played 2 matches. So match I:- Chhavi vs Chetan ⇒ Chetan won match II:- Chitra vs Chetan ⇒ Chitra won if Chhavi plays with Chitra & Chitra beats her, then Chitra will beat Chetan also. In that case Chetan has played only one game which is not possible. Here Chitra had played one match in group and her remaining matches are semifinal & final. So Chitra played final. Group D:- Here Donna & Deb played one match each. So as discussed in Group B, Dipen cannot be rank 1 player. ∴ In group D, either Donna & Deb are rank 1 player & Dipen played 2 matches in group and his one match will be semifinal. Biju played semifinal against Aruna and lost it. So he cannot play against Chitra."
+        },
+        {
+          "id": "cat-2021-slot2-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ravi works in an online food-delivery company. After each delivery, customers rate Ravi on each of four parameters –\nBehaviour, Packaging, Hygiene, and Timeliness, on a scale from 1 to 9. If the total of the four rating points is 25 or more, then\nRavi gets a bonus of Rs. 20 for that delivery. Additionally, a customer may or may not give Ravi a tip. If the customer gives a tip,\nit is either Rs. 30 or Rs. 50.\nOne day, Ravi made four deliveries - one to each of Atal, Bihari, Chirag and Deepak, and received a total of Rs. 120 in bonus\nand tips. He did not get both a bonus and a tip from the same customer.\nThe following additional facts are also known.\n1. In Timeliness, Ravi received a total of 21 points, and three of the customers gave him the same rating points in this\nparameter. Atal gave higher rating points than Bihari and Chirag in this parameter.\n\n2. Ravi received distinct rating points in Packaging from the four customers adding up to 29 points. Similarly, Ravi received\ndistinct rating points in Hygiene from the four customers adding up to 26 points.\n3. Chirag gave the same rating points for Packaging and Hygiene.\n4. Among the four customers, Bihari gave the highest rating points in Packaging, and Chirag gave the highest rating points in\nHygiene.\n5. Everyone rated Ravi between 5 and 7 in Behaviour. Unique maximum and minimum ratings in this parameter were given by\nAtal and Deepak respectively.\n6. If the customers are ranked based on ratings given by them in individual parameters, then Atal’s rank based on Packaging is\nthe same as that based on Hygiene. This is also true for Deepak.\nWhat was the minimum rating that Ravi received from any customer in any parameter? (in numerical value)",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "The total tip received is Rs. 120 Now 120 = 20 + 20 + 30 + 50 or 20 + 50 + 50 + 0 or 30 + 30 + 30 + 30 It is given that in Timeliness, Ravi received a total of 21 points. As per point 1, let Atal gave x points then Bihari, Chirag and Deepak will give y each, s.t. x > y & x + 3y = 21 ⇒ (x, y) are (6, 5) or (9, 4) Total of Packaging is 29 with all distinct ratings ⇒ 29 = 9 + 8 + 7 + 5 Hygiene also has distinct ratings with a total of 26. Now 26 = 9 + 8 + 7 + 2 or 9 + 8 + 6 + 3 or 9 + 8 + 5 + 4 or 8 + 7 + 6 + 5 Point 4 says that Chirag gave highest rating to hygiene, and also rating of Chirag as per point 3 is same for packaging & hygiene. So Chirag cannot give rating 9 to packaging as Bihari is the one giving highest rating to packaging. ∴ Chirag will give highest rating of 8 to hygiene and therefore 26 = 8 + 7 + 6 + 5 Using the point 5, the partial table can be as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 x Bihari 6 9 y Chirag 6 8 8 y Deepak 5 y Total 9 26 21 Point 6 says that Atal’s Rank in Packaging & hygiene is same. So it can be rank 3 or 4 and the same is true for Deepak also. Two cases arise here: Case I:- If Atal’s rank is 3rd in packaging and hygiene. In this case Atal’s rating in packaging will be 7 and in hygiene will be 6 Deepak will be ranked 4 in these parameters with ratings 5 each. Also taking the possible values of timeliness, the table will look like as follows BehaviourPackagingHygieneTimeliness Total Atal 7 7 6 6/9 26/29 Bihari 6 9 7 5/4 27/26 Chirag 6 8 8 5/4 27/26 Deepak 5 5 5 5/4 20/19 Total 29 26 21 In this case Ravi will get bonus of Rs 20 each from Atal, Bihari & Chirag. From Deepak he can get maximum Rs 50 as tip. So his total will not be Rs 120 therefore, this case is wrong. Case II:- If Atal’s rank is 4th in packaging and hygiene. In this case Atal’s ratings in these two parameters will be 5 each and Deepak’s rank will be third with ratings of 7 & 6 respectively in packaging and hygiene respect. We get the first table as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 9 26 Bihari 6 9 7 4 26 Chirag 6 8 8 4 26 Deepak 5 7 6 4 22 In this case again he will get Rs 20 bonus from Atal, Bihari & Chirag, so his total cannot be Rs 120. Hence this case is not valid. If we take the second case of timeliness, then the table will be BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 6 23 Bihari 6 9 7 5 27 Chirag 6 8 8 5 27 Deepak 5 7 6 5 23 Total 29 26 In this case Ravi can get tip from Atal & Deepak & will get bonus from Bihari & Chirag. Atal & Deepak can give tip of Rs 30 & Rs 50 in any order. So he will get 120 = 20 + 20 + 30 + 50. Minimum rating given is 5"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The COMPLETE list of customers who gave the maximum total rating points to Ravi is",
+          "options": {
+            "A": "Atal and Bihari",
+            "B": "Bihari",
+            "C": "Atal",
+            "D": "Bihari and Chirag"
+          },
+          "correct_answer": "D",
+          "explanation": "The total tip received is Rs. 120 Now 120 = 20 + 20 + 30 + 50 or 20 + 50 + 50 + 0 or 30 + 30 + 30 + 30 It is given that in Timeliness, Ravi received a total of 21 points. As per point 1, let Atal gave x points then Bihari, Chirag and Deepak will give y each, s.t. x > y & x + 3y = 21 ⇒ (x, y) are (6, 5) or (9, 4) Total of Packaging is 29 with all distinct ratings ⇒ 29 = 9 + 8 + 7 + 5 Hygiene also has distinct ratings with a total of 26. Now 26 = 9 + 8 + 7 + 2 or 9 + 8 + 6 + 3 or 9 + 8 + 5 + 4 or 8 + 7 + 6 + 5 Point 4 says that Chirag gave highest rating to hygiene, and also rating of Chirag as per point 3 is same for packaging & hygiene. So Chirag cannot give rating 9 to packaging as Bihari is the one giving highest rating to packaging. ∴ Chirag will give highest rating of 8 to hygiene and therefore 26 = 8 + 7 + 6 + 5 Using the point 5, the partial table can be as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 x Bihari 6 9 y Chirag 6 8 8 y Deepak 5 y Total 9 26 21 Point 6 says that Atal’s Rank in Packaging & hygiene is same. So it can be rank 3 or 4 and the same is true for Deepak also. Two cases arise here: Case I:- If Atal’s rank is 3rd in packaging and hygiene. In this case Atal’s rating in packaging will be 7 and in hygiene will be 6 Deepak will be ranked 4 in these parameters with ratings 5 each. Also taking the possible values of timeliness, the table will look like as follows BehaviourPackagingHygieneTimeliness Total Atal 7 7 6 6/9 26/29 Bihari 6 9 7 5/4 27/26 Chirag 6 8 8 5/4 27/26 Deepak 5 5 5 5/4 20/19 Total 29 26 21 In this case Ravi will get bonus of Rs 20 each from Atal, Bihari & Chirag. From Deepak he can get maximum Rs 50 as tip. So his total will not be Rs 120 therefore, this case is wrong. Case II:- If Atal’s rank is 4th in packaging and hygiene. In this case Atal’s ratings in these two parameters will be 5 each and Deepak’s rank will be third with ratings of 7 & 6 respectively in packaging and hygiene respect. We get the first table as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 9 26 Bihari 6 9 7 4 26 Chirag 6 8 8 4 26 Deepak 5 7 6 4 22 In this case again he will get Rs 20 bonus from Atal, Bihari & Chirag, so his total cannot be Rs 120. Hence this case is not valid. If we take the second case of timeliness, then the table will be BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 6 23 Bihari 6 9 7 5 27 Chirag 6 8 8 5 27 Deepak 5 7 6 5 23 Total 29 26 In this case Ravi can get tip from Atal & Deepak & will get bonus from Bihari & Chirag. Atal & Deepak can give tip of Rs 30 & Rs 50 in any order. So he will get 120 = 20 + 20 + 30 + 50. Bihari & Chirag gave maximum 27 points"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What rating did Atal give on Timeliness? (in numerical value)",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "The total tip received is Rs. 120 Now 120 = 20 + 20 + 30 + 50 or 20 + 50 + 50 + 0 or 30 + 30 + 30 + 30 It is given that in Timeliness, Ravi received a total of 21 points. As per point 1, let Atal gave x points then Bihari, Chirag and Deepak will give y each, s.t. x > y & x + 3y = 21 ⇒ (x, y) are (6, 5) or (9, 4) Total of Packaging is 29 with all distinct ratings ⇒ 29 = 9 + 8 + 7 + 5 Hygiene also has distinct ratings with a total of 26. Now 26 = 9 + 8 + 7 + 2 or 9 + 8 + 6 + 3 or 9 + 8 + 5 + 4 or 8 + 7 + 6 + 5 Point 4 says that Chirag gave highest rating to hygiene, and also rating of Chirag as per point 3 is same for packaging & hygiene. So Chirag cannot give rating 9 to packaging as Bihari is the one giving highest rating to packaging. ∴ Chirag will give highest rating of 8 to hygiene and therefore 26 = 8 + 7 + 6 + 5 Using the point 5, the partial table can be as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 x Bihari 6 9 y Chirag 6 8 8 y Deepak 5 y Total 9 26 21 Point 6 says that Atal’s Rank in Packaging & hygiene is same. So it can be rank 3 or 4 and the same is true for Deepak also. Two cases arise here: Case I:- If Atal’s rank is 3rd in packaging and hygiene. In this case Atal’s rating in packaging will be 7 and in hygiene will be 6 Deepak will be ranked 4 in these parameters with ratings 5 each. Also taking the possible values of timeliness, the table will look like as follows BehaviourPackagingHygieneTimeliness Total Atal 7 7 6 6/9 26/29 Bihari 6 9 7 5/4 27/26 Chirag 6 8 8 5/4 27/26 Deepak 5 5 5 5/4 20/19 Total 29 26 21 In this case Ravi will get bonus of Rs 20 each from Atal, Bihari & Chirag. From Deepak he can get maximum Rs 50 as tip. So his total will not be Rs 120 therefore, this case is wrong. Case II:- If Atal’s rank is 4th in packaging and hygiene. In this case Atal’s ratings in these two parameters will be 5 each and Deepak’s rank will be third with ratings of 7 & 6 respectively in packaging and hygiene respect. We get the first table as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 9 26 Bihari 6 9 7 4 26 Chirag 6 8 8 4 26 Deepak 5 7 6 4 22 In this case again he will get Rs 20 bonus from Atal, Bihari & Chirag, so his total cannot be Rs 120. Hence this case is not valid. If we take the second case of timeliness, then the table will be BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 6 23 Bihari 6 9 7 5 27 Chirag 6 8 8 5 27 Deepak 5 7 6 5 23 Total 29 26 In this case Ravi can get tip from Atal & Deepak & will get bonus from Bihari & Chirag. Atal & Deepak can give tip of Rs 30 & Rs 50 in any order. So he will get 120 = 20 + 20 + 30 + 50. Atal gave rating of 6 on timeliness"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the tip amount given by Deepak?",
+          "options": {
+            "A": "Either Rs. 0 or Rs. 30 or Rs. 50",
+            "B": "Rs. 50",
+            "C": "Either Rs. 30 or Rs. 50",
+            "D": "Rs. 30"
+          },
+          "correct_answer": "C",
+          "explanation": "The total tip received is Rs. 120 Now 120 = 20 + 20 + 30 + 50 or 20 + 50 + 50 + 0 or 30 + 30 + 30 + 30 It is given that in Timeliness, Ravi received a total of 21 points. As per point 1, let Atal gave x points then Bihari, Chirag and Deepak will give y each, s.t. x > y & x + 3y = 21 ⇒ (x, y) are (6, 5) or (9, 4) Total of Packaging is 29 with all distinct ratings ⇒ 29 = 9 + 8 + 7 + 5 Hygiene also has distinct ratings with a total of 26. Now 26 = 9 + 8 + 7 + 2 or 9 + 8 + 6 + 3 or 9 + 8 + 5 + 4 or 8 + 7 + 6 + 5 Point 4 says that Chirag gave highest rating to hygiene, and also rating of Chirag as per point 3 is same for packaging & hygiene. So Chirag cannot give rating 9 to packaging as Bihari is the one giving highest rating to packaging. ∴ Chirag will give highest rating of 8 to hygiene and therefore 26 = 8 + 7 + 6 + 5 Using the point 5, the partial table can be as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 x Bihari 6 9 y Chirag 6 8 8 y Deepak 5 y Total 9 26 21 Point 6 says that Atal’s Rank in Packaging & hygiene is same. So it can be rank 3 or 4 and the same is true for Deepak also. Two cases arise here: Case I:- If Atal’s rank is 3rd in packaging and hygiene. In this case Atal’s rating in packaging will be 7 and in hygiene will be 6 Deepak will be ranked 4 in these parameters with ratings 5 each. Also taking the possible values of timeliness, the table will look like as follows BehaviourPackagingHygieneTimeliness Total Atal 7 7 6 6/9 26/29 Bihari 6 9 7 5/4 27/26 Chirag 6 8 8 5/4 27/26 Deepak 5 5 5 5/4 20/19 Total 29 26 21 In this case Ravi will get bonus of Rs 20 each from Atal, Bihari & Chirag. From Deepak he can get maximum Rs 50 as tip. So his total will not be Rs 120 therefore, this case is wrong. Case II:- If Atal’s rank is 4th in packaging and hygiene. In this case Atal’s ratings in these two parameters will be 5 each and Deepak’s rank will be third with ratings of 7 & 6 respectively in packaging and hygiene respect. We get the first table as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 9 26 Bihari 6 9 7 4 26 Chirag 6 8 8 4 26 Deepak 5 7 6 4 22 In this case again he will get Rs 20 bonus from Atal, Bihari & Chirag, so his total cannot be Rs 120. Hence this case is not valid. If we take the second case of timeliness, then the table will be BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 6 23 Bihari 6 9 7 5 27 Chirag 6 8 8 5 27 Deepak 5 7 6 5 23 Total 29 26 In this case Ravi can get tip from Atal & Deepak & will get bonus from Bihari & Chirag. Atal & Deepak can give tip of Rs 30 & Rs 50 in any order. So he will get 120 = 20 + 20 + 30 + 50. Deepak can give a tip of Rs 30 or 50"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In which parameter did Atal give the maximum rating points to Ravi?",
+          "options": {
+            "A": "Hygiene",
+            "B": "Packaging",
+            "C": "Timeliness",
+            "D": "Behaviour"
+          },
+          "correct_answer": "D",
+          "explanation": "The total tip received is Rs. 120 Now 120 = 20 + 20 + 30 + 50 or 20 + 50 + 50 + 0 or 30 + 30 + 30 + 30 It is given that in Timeliness, Ravi received a total of 21 points. As per point 1, let Atal gave x points then Bihari, Chirag and Deepak will give y each, s.t. x > y & x + 3y = 21 ⇒ (x, y) are (6, 5) or (9, 4) Total of Packaging is 29 with all distinct ratings ⇒ 29 = 9 + 8 + 7 + 5 Hygiene also has distinct ratings with a total of 26. Now 26 = 9 + 8 + 7 + 2 or 9 + 8 + 6 + 3 or 9 + 8 + 5 + 4 or 8 + 7 + 6 + 5 Point 4 says that Chirag gave highest rating to hygiene, and also rating of Chirag as per point 3 is same for packaging & hygiene. So Chirag cannot give rating 9 to packaging as Bihari is the one giving highest rating to packaging. ∴ Chirag will give highest rating of 8 to hygiene and therefore 26 = 8 + 7 + 6 + 5 Using the point 5, the partial table can be as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 x Bihari 6 9 y Chirag 6 8 8 y Deepak 5 y Total 9 26 21 Point 6 says that Atal’s Rank in Packaging & hygiene is same. So it can be rank 3 or 4 and the same is true for Deepak also. Two cases arise here: Case I:- If Atal’s rank is 3rd in packaging and hygiene. In this case Atal’s rating in packaging will be 7 and in hygiene will be 6 Deepak will be ranked 4 in these parameters with ratings 5 each. Also taking the possible values of timeliness, the table will look like as follows BehaviourPackagingHygieneTimeliness Total Atal 7 7 6 6/9 26/29 Bihari 6 9 7 5/4 27/26 Chirag 6 8 8 5/4 27/26 Deepak 5 5 5 5/4 20/19 Total 29 26 21 In this case Ravi will get bonus of Rs 20 each from Atal, Bihari & Chirag. From Deepak he can get maximum Rs 50 as tip. So his total will not be Rs 120 therefore, this case is wrong. Case II:- If Atal’s rank is 4th in packaging and hygiene. In this case Atal’s ratings in these two parameters will be 5 each and Deepak’s rank will be third with ratings of 7 & 6 respectively in packaging and hygiene respect. We get the first table as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 9 26 Bihari 6 9 7 4 26 Chirag 6 8 8 4 26 Deepak 5 7 6 4 22 In this case again he will get Rs 20 bonus from Atal, Bihari & Chirag, so his total cannot be Rs 120. Hence this case is not valid. If we take the second case of timeliness, then the table will be BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 6 23 Bihari 6 9 7 5 27 Chirag 6 8 8 5 27 Deepak 5 7 6 5 23 Total 29 26 In this case Ravi can get tip from Atal & Deepak & will get bonus from Bihari & Chirag. Atal & Deepak can give tip of Rs 30 & Rs 50 in any order. So he will get 120 = 20 + 20 + 30 + 50. Atal gave maximum points in behaviour"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What rating did Deepak give on Packaging?",
+          "options": {
+            "A": "7",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "A",
+          "explanation": "The total tip received is Rs. 120 Now 120 = 20 + 20 + 30 + 50 or 20 + 50 + 50 + 0 or 30 + 30 + 30 + 30 It is given that in Timeliness, Ravi received a total of 21 points. As per point 1, let Atal gave x points then Bihari, Chirag and Deepak will give y each, s.t. x > y & x + 3y = 21 ⇒ (x, y) are (6, 5) or (9, 4) Total of Packaging is 29 with all distinct ratings ⇒ 29 = 9 + 8 + 7 + 5 Hygiene also has distinct ratings with a total of 26. Now 26 = 9 + 8 + 7 + 2 or 9 + 8 + 6 + 3 or 9 + 8 + 5 + 4 or 8 + 7 + 6 + 5 Point 4 says that Chirag gave highest rating to hygiene, and also rating of Chirag as per point 3 is same for packaging & hygiene. So Chirag cannot give rating 9 to packaging as Bihari is the one giving highest rating to packaging. ∴ Chirag will give highest rating of 8 to hygiene and therefore 26 = 8 + 7 + 6 + 5 Using the point 5, the partial table can be as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 x Bihari 6 9 y Chirag 6 8 8 y Deepak 5 y Total 9 26 21 Point 6 says that Atal’s Rank in Packaging & hygiene is same. So it can be rank 3 or 4 and the same is true for Deepak also. Two cases arise here: Case I:- If Atal’s rank is 3rd in packaging and hygiene. In this case Atal’s rating in packaging will be 7 and in hygiene will be 6 Deepak will be ranked 4 in these parameters with ratings 5 each. Also taking the possible values of timeliness, the table will look like as follows BehaviourPackagingHygieneTimeliness Total Atal 7 7 6 6/9 26/29 Bihari 6 9 7 5/4 27/26 Chirag 6 8 8 5/4 27/26 Deepak 5 5 5 5/4 20/19 Total 29 26 21 In this case Ravi will get bonus of Rs 20 each from Atal, Bihari & Chirag. From Deepak he can get maximum Rs 50 as tip. So his total will not be Rs 120 therefore, this case is wrong. Case II:- If Atal’s rank is 4th in packaging and hygiene. In this case Atal’s ratings in these two parameters will be 5 each and Deepak’s rank will be third with ratings of 7 & 6 respectively in packaging and hygiene respect. We get the first table as follows: BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 9 26 Bihari 6 9 7 4 26 Chirag 6 8 8 4 26 Deepak 5 7 6 4 22 In this case again he will get Rs 20 bonus from Atal, Bihari & Chirag, so his total cannot be Rs 120. Hence this case is not valid. If we take the second case of timeliness, then the table will be BehaviourPackagingHygieneTimelinessTotal Atal 7 5 5 6 23 Bihari 6 9 7 5 27 Chirag 6 8 8 5 27 Deepak 5 7 6 5 23 Total 29 26 In this case Ravi can get tip from Atal & Deepak & will get bonus from Bihari & Chirag. Atal & Deepak can give tip of Rs 30 & Rs 50 in any order. So he will get 120 = 20 + 20 + 30 + 50. Deepak gave rating of 7 on packaging"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ten objects o1, o2, …, o10 were distributed among Amar, Barat, Charles, Disha, and Elise. Each item went to exactly one person.\nEach person got exactly two of the items, and this pair of objects is called her/his bundle.\nThe following table shows how each person values each object.\no1 o2 o3 o4 o5 o6 o7 o8 o9 o10\nAmar 4 9 9 3 7 3 8 7 9 5\nBarat 5 9 7 5 5 3 6 8 10 8\nCharles 8 8 8 3 6 4 5 8 9 6\nDisha 8 8 8 5 5 3 6 4 9 8\nElise 6 8 9 5 6 5 6 3 7 10\nThe value of any bundle by a person is the sum of that person’s values of the objects in that bundle. A person X envies another\nperson Y if X values Y’s bundle more than X’s own bundle.\nFor example, hypothetically suppose Amar’s bundle consists of o1 and o2, and Barat’s bundle consists of o3 and o4. Then Amar\nvalues his own bundle at 4 + 9 = 13 and Barat’s bundle at 9\n\n+ 3 = 12. Hence Amar does not envy Barat. On the other hand, Barat values his own bundle at 7 + 5 = 12 and Amar’s bundle at\n5 + 9 = 14. Hence Barat envies Amar.\nThe following facts are known about the actual distribution of the objects among the five people.\n1. If someone’s value for an object is 10, then she/he received that object.\n2. Objects o1, o2, and o3 were given to three different people.\n3. Objects o1 and o8 were given to different people.\n4. Three people value their own bundles at 16. No one values her/his own bundle at a number higher than 16.\n5. Disha values her own bundle at an odd number. All others value their own bundles at an even number.\n6. Some people who value their own bundles less than 16 envy some other people who value their own bundle at 16. No one\nelse envies others.\nWhat BEST can be said about object o8?",
+          "options": {
+            "A": "o8 was given to Amar, Charles, or Disha",
+            "B": "o8 was given to Charles",
+            "C": "o8 was given to Disha",
+            "D": "o8 was given to Charles or Disha"
+          },
+          "correct_answer": "B",
+          "explanation": "Since, Bharat value o9 = 10 and Elsie value o10 = 10, they definitely receive so Also, three people value their bundle = 16 and no value could be greater than 16 (Except Disha as she values her bundle as odd, number) The other object of Bharat must be o7 = 6 to make it total = 16 (even) And the other object of Elsie must be either o1 or o5 Now if Amar value his bundle = 16, objects received o2 or o3 = 9 and o5 or o8 = 7 Let say combination is o2 and o5, in that case Elsie must get o1 Then Charles get either o3 or o8 along with o6, total value = 12, But Charles with those objects and score will not envy Amar as his bundle value is either equal or greater than Amar. Likewise, in other cases as well, Charles bundle value cannot be 12 So, Charles bundle value must be = 16 and Amar bundle value must be = 12 Rest of the information can be gathered as follows Amar Barat Charles Disha Elise o1 × × × o1 = 8 × o2 × × × o2/o3 = 9 o2/o3 = 8 o3 × × × o4 × × × o4 = 5 × o5 × × × × o5 = 6 o6 o6 = 3 × × × × o7 × o7 = 6 × × × o8 × × o8 = 8 × × o9 × o9 = 10 × × × o10 × × × × o10 = 10 Bundle Value 12 16 16 13 16 Now question can be answered using the above table o8 was given to Charles"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who among the following envies someone else?",
+          "options": {
+            "A": "Barat",
+            "B": "Elise",
+            "C": "Charles",
+            "D": "Amar"
+          },
+          "correct_answer": "D",
+          "explanation": "Since, Bharat value o9 = 10 and Elsie value o10 = 10, they definitely receive so Also, three people value their bundle = 16 and no value could be greater than 16 (Except Disha as she values her bundle as odd, number) The other object of Bharat must be o7 = 6 to make it total = 16 (even) And the other object of Elsie must be either o1 or o5 Now if Amar value his bundle = 16, objects received o2 or o3 = 9 and o5 or o8 = 7 Let say combination is o2 and o5, in that case Elsie must get o1 Then Charles get either o3 or o8 along with o6, total value = 12, But Charles with those objects and score will not envy Amar as his bundle value is either equal or greater than Amar. Likewise, in other cases as well, Charles bundle value cannot be 12 So, Charles bundle value must be = 16 and Amar bundle value must be = 12 Rest of the information can be gathered as follows Amar Barat Charles Disha Elise o1 × × × o1 = 8 × o2 × × × o2/o3 = 9 o2/o3 = 8 o3 × × × o4 × × × o4 = 5 × o5 × × × × o5 = 6 o6 o6 = 3 × × × × o7 × o7 = 6 × × × o8 × × o8 = 8 × × o9 × o9 = 10 × × × o10 × × × × o10 = 10 Bundle Value 12 16 16 13 16 Now question can be answered using the above table Amar with 12 bundle value envies others with bundle value 16"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is Amar’s value for his own bundle? (in numerical value)",
+          "options": {},
+          "correct_answer": "12",
+          "explanation": "Since, Bharat value o9 = 10 and Elsie value o10 = 10, they definitely receive so Also, three people value their bundle = 16 and no value could be greater than 16 (Except Disha as she values her bundle as odd, number) The other object of Bharat must be o7 = 6 to make it total = 16 (even) And the other object of Elsie must be either o1 or o5 Now if Amar value his bundle = 16, objects received o2 or o3 = 9 and o5 or o8 = 7 Let say combination is o2 and o5, in that case Elsie must get o1 Then Charles get either o3 or o8 along with o6, total value = 12, But Charles with those objects and score will not envy Amar as his bundle value is either equal or greater than Amar. Likewise, in other cases as well, Charles bundle value cannot be 12 So, Charles bundle value must be = 16 and Amar bundle value must be = 12 Rest of the information can be gathered as follows Amar Barat Charles Disha Elise o1 × × × o1 = 8 × o2 × × × o2/o3 = 9 o2/o3 = 8 o3 × × × o4 × × × o4 = 5 × o5 × × × × o5 = 6 o6 o6 = 3 × × × × o7 × o7 = 6 × × × o8 × × o8 = 8 × × o9 × o9 = 10 × × × o10 × × × × o10 = 10 Bundle Value 12 16 16 13 16 Now question can be answered using the above table Amar’s bundle value = 12"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Object o4 was given to",
+          "options": {
+            "A": "Elise",
+            "B": "Charles",
+            "C": "Barat",
+            "D": "Disha"
+          },
+          "correct_answer": "D",
+          "explanation": "Since, Bharat value o9 = 10 and Elsie value o10 = 10, they definitely receive so Also, three people value their bundle = 16 and no value could be greater than 16 (Except Disha as she values her bundle as odd, number) The other object of Bharat must be o7 = 6 to make it total = 16 (even) And the other object of Elsie must be either o1 or o5 Now if Amar value his bundle = 16, objects received o2 or o3 = 9 and o5 or o8 = 7 Let say combination is o2 and o5, in that case Elsie must get o1 Then Charles get either o3 or o8 along with o6, total value = 12, But Charles with those objects and score will not envy Amar as his bundle value is either equal or greater than Amar. Likewise, in other cases as well, Charles bundle value cannot be 12 So, Charles bundle value must be = 16 and Amar bundle value must be = 12 Rest of the information can be gathered as follows Amar Barat Charles Disha Elise o1 × × × o1 = 8 × o2 × × × o2/o3 = 9 o2/o3 = 8 o3 × × × o4 × × × o4 = 5 × o5 × × × × o5 = 6 o6 o6 = 3 × × × × o7 × o7 = 6 × × × o8 × × o8 = 8 × × o9 × o9 = 10 × × × o10 × × × × o10 = 10 Bundle Value 12 16 16 13 16 Now question can be answered using the above table o4 was given to Disha"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Object o5 was given to",
+          "options": {
+            "A": "Disha",
+            "B": "Elise",
+            "C": "Charles",
+            "D": "Amar"
+          },
+          "correct_answer": "B",
+          "explanation": "Since, Bharat value o9 = 10 and Elsie value o10 = 10, they definitely receive so Also, three people value their bundle = 16 and no value could be greater than 16 (Except Disha as she values her bundle as odd, number) The other object of Bharat must be o7 = 6 to make it total = 16 (even) And the other object of Elsie must be either o1 or o5 Now if Amar value his bundle = 16, objects received o2 or o3 = 9 and o5 or o8 = 7 Let say combination is o2 and o5, in that case Elsie must get o1 Then Charles get either o3 or o8 along with o6, total value = 12, But Charles with those objects and score will not envy Amar as his bundle value is either equal or greater than Amar. Likewise, in other cases as well, Charles bundle value cannot be 12 So, Charles bundle value must be = 16 and Amar bundle value must be = 12 Rest of the information can be gathered as follows Amar Barat Charles Disha Elise o1 × × × o1 = 8 × o2 × × × o2/o3 = 9 o2/o3 = 8 o3 × × × o4 × × × o4 = 5 × o5 × × × × o5 = 6 o6 o6 = 3 × × × × o7 × o7 = 6 × × × o8 × × o8 = 8 × × o9 × o9 = 10 × × × o10 × × × × o10 = 10 Bundle Value 12 16 16 13 16 Now question can be answered using the above table o5 was given to Elise"
+        },
+        {
+          "id": "cat-2021-slot2-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be said about the distribution of object o1?",
+          "options": {
+            "A": "o1 was given to Charles",
+            "B": "o1 was given to Charles or Disha",
+            "C": "o1 was given to Disha",
+            "D": "o1 was given to Charles, Disha, or Elise"
+          },
+          "correct_answer": "C",
+          "explanation": "Since, Bharat value o9 = 10 and Elsie value o10 = 10, they definitely receive so Also, three people value their bundle = 16 and no value could be greater than 16 (Except Disha as she values her bundle as odd, number) The other object of Bharat must be o7 = 6 to make it total = 16 (even) And the other object of Elsie must be either o1 or o5 Now if Amar value his bundle = 16, objects received o2 or o3 = 9 and o5 or o8 = 7 Let say combination is o2 and o5, in that case Elsie must get o1 Then Charles get either o3 or o8 along with o6, total value = 12, But Charles with those objects and score will not envy Amar as his bundle value is either equal or greater than Amar. Likewise, in other cases as well, Charles bundle value cannot be 12 So, Charles bundle value must be = 16 and Amar bundle value must be = 12 Rest of the information can be gathered as follows Amar Barat Charles Disha Elise o1 × × × o1 = 8 × o2 × × × o2/o3 = 9 o2/o3 = 8 o3 × × × o4 × × × o4 = 5 × o5 × × × × o5 = 6 o6 o6 = 3 × × × × o7 × o7 = 6 × × × o8 × × o8 = 8 × × o9 × o9 = 10 × × × o10 × × × × o10 = 10 Bundle Value 12 16 16 13 16 Now question can be answered using the above table o1 was given to Disha Section : Quantitative Ability"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot2-qa-45",
+          "number": 45,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let D and E be points on sides AB and AC, respectively, of a triangle ABC, such that AD : BD = 2 : 1 and AE : CE = 2 : 3. If the\narea of the triangle ADE is 8 sq cm, then the area of the triangle ABC, in sq cm, is (in numerical value)",
+          "options": {},
+          "correct_answer": "30",
+          "explanation": "Let AD = 2x, BD = x AE = 2y, EC = 3y Area of ∆AED = 8 ⇒ 1/2 × 2x × 2y × SinA = 8 ⇒2xy Sin A = 8 ⇒ xy Sin A = 4 ----(i) Area of ∆ABC = 1/2 × 3x × 5y Sin A = 1/2 × 15 × xy Sin A = 1/2 × 15 × 4 = 30 Sq unit"
+        },
+        {
+          "id": "cat-2021-slot2-qa-46",
+          "number": 46,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two trains A and B were moving in opposite DIRECTIONSs, their speeds being in the ratio 5 : 3. The front end of A crossed the\nrear end of B 46 seconds after the front ends of the trains had crossed each other. It took another 69 seconds for the rear ends\nof the trains to cross each other. The ratio of length of train A to that of train B is",
+          "options": {
+            "A": "3 : 2",
+            "B": "2 : 1",
+            "C": "5 : 3",
+            "D": "2 : 3"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the speeds of trains A and B is 5x & 3x respectively and their lengths be l1 & l2 respectively. In the first case, distance travelled will be equal to length of train B In the second case, distance travelled will be equal to length of train A."
+        },
+        {
+          "id": "cat-2021-slot2-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil, Bobby and Chintu jointly invest in a business and agree to share the overall profit in proportion to their investments. Anil’s\nshare of investment is 70%. His share of profit decreases by Rs. 420 if the overall profit goes down from 18% to 15%. Chintu’s\nshare of profit increases by Rs. 80 if the overall profit goes up from 15% to 17%. The amount, in INR, invested by Bobby is",
+          "options": {
+            "A": "2200",
+            "B": "2400",
+            "C": "2000",
+            "D": "1800"
+          },
+          "correct_answer": "C",
+          "explanation": "Here the investment of Anil is 70% of the total investment. Now his share of profit decreased by Rs 420 when the profit decreased from 18% to 15%. So 70% of (decreased profit) = 420 ⇒ Decreased profit = 420/0.7 = Rs 600. Therefore, 3% of total investment = 600 ⇒ Total investment = Rs 20000 So, Anil’s investment is 70% of 20000 = Rs 14000. Now Chintu’s profit increased by Rs 80 when the profit increases from 15% to 17%. Therefore, 2% of Chintu’s investment = 80 ⇒ Chintu’s investment = 80/0.02 = Rs 4000 Hence, Bobby’s investment = 20000 – (14000 + 4000) = Rs 2000."
+        },
+        {
+          "id": "cat-2021-slot2-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The sides AB and CD of a trapezium ABCD are parallel, with AB being the smaller side. P is the midpoint of CD and ABPD is a\nparallelogram. If the difference between the areas of the parallelogram ABPD and the triangle BPC is 10 sq cm, then the area, in\nsq cm, of the trapezium ABCD is",
+          "options": {
+            "A": "40",
+            "B": "25",
+            "C": "20",
+            "D": "30"
+          },
+          "correct_answer": "D",
+          "explanation": "Join AP Here in ∆ADP & ∆BPC, AD = BP, DP = PC ∠BPC = ∠PBA = ∠ADP ⇒ ∆s ADP & BPC are congruent Also AP is diagonal of parallelogram ABPD ∴ Ar (∆ADP) = Ar (∆ABP) Let Ar (∆ADP) = x = Ar (∆ABP) = Ar (∆BPC) ∴ Area of trapezium ABCD = 3x Now given that 2x - x = 10 ⇒ x = 10 2 ∴ Area of trapezium = 10 × 3 = 30cm"
+        },
+        {
+          "id": "cat-2021-slot2-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A person buys tea of three different qualities at Rs. 800, Rs. 500, and Rs. 300 per kg, respectively, and the amounts bought are\nin the proportion 2 : 3 : 5. She mixes all the tea and sells one-sixth of the mixture at Rs. 700 per kg. The price, in INR per kg, at\nwhich she should sell the remaining tea, to make an overall profit of 50%, is",
+          "options": {
+            "A": "688",
+            "B": "675",
+            "C": "653",
+            "D": "692"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the quantitites bought are 6kg, 9kg & 15kg respectively. Total cost = 6 × 800 + 500 × 9 + 300 × 15 = Rs 13800 Total SP = 13800 × 1.5 = Rs 20700 SP of 5kg = 5 × 700 = Rs 3500 Remaining SP = Rs 17200"
+        },
+        {
+          "id": "cat-2021-slot2-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a rhombus has area 12 sq cm and side length 5 cm, then the length, in cm, of its longer diagonal is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "B",
+          "explanation": "Area of rhombus = 12 ⇒ 1/2 d1 × d2 = 12 d1 × d2 = 24 Now (d1 + d2)2 = d12 + d22 + 2d1d2 = 100 + 48 = 148 Again (d1 - d2)2 = d12 + d22 - 2d1d2 = 100 - 48 = 52"
+        },
+        {
+          "id": "cat-2021-slot2-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Three positive integers x, y and z are in arithmetic progression. If y − x > 2 and xyz = 5(x + y + z), then z − x equals",
+          "options": {
+            "A": "14",
+            "B": "10",
+            "C": "8",
+            "D": "12"
+          },
+          "correct_answer": "A",
+          "explanation": "Here x, y, 7 are in AP Now xyz = 5 (x + y + z) ⇒ xyz = 5 × (2y + y) ⇒ xyz = 5 × 3y ⇒ xz = 15 Now (x, z) can be (3, 5) & (1, 15) But if x & z are 3 & 5 then y - x is not greater than 2 ⇒ x = 1, z = 15 and y = 8 ⇒ z - x = 14."
+        },
+        {
+          "id": "cat-2021-slot2-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For a 4-digit number, the sum of its digits in the thousands, hundreds and tens places is 14, the sum of its digits in the\nhundreds, tens and units places is 15, and the tens place digit is 4 more than the units place digit. Then the highest possible 4-\ndigit number satisfying the above conditions is (in numerical value)",
+          "options": {},
+          "correct_answer": "4195",
+          "explanation": "Let the number is abcd Given the a + b + c = 14 -----(1) b + c + d = 15 -----(2) & c = d + 4 -----(3) (2) - (1) ⇒ d - a = 1 ⇒ a = d - 1 -----(4) As highest number is asked ⇒ a should be max. So (4) ⇒ d should be maximum, or (3) ⇒ c should be maximum ⇒ c = 9 ⇒ d = 5 ∴ (4) ⇒ a = 4 & (1) ⇒ 4 + b + 9 = 14 ⇒ b = 1 ∴ Number is 4195."
+        },
+        {
+          "id": "cat-2021-slot2-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of ways of distributing 15 identical balloons, 6 identical pencils and 3 identical erasers among 3 children, such that\neach child gets at least four balloons and one pencil, is (in numerical value)",
+          "options": {},
+          "correct_answer": "1000",
+          "explanation": "We have 15 identical ballons, 6 identical pencils and 3 identical erasers. Let the children are A, B and C. Now every child should get four balloons and one pencil. So first distribute 4 balloons and one pencil to A, B and C. We are left with 3 balloons, 3 pencils and 3 erasers. 3 balloons can be distributed to A, B, C in 3 + 3- 1C3 – 1 Or 5C2 = 10 ways. Similarly, 3 pencils can & 3 erasers can be distributed in 10 ways each. ∴ Total ways = 10 × 10 × 10 = 1000"
+        },
+        {
+          "id": "cat-2021-slot2-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For all possible integers n satisfying 2.25 ≤ 2 + 2n + 2 ≤ 202, the number of integer values of 3 + 3n + 1 is (in numerical value)",
+          "options": {},
+          "correct_answer": "7",
+          "explanation": "Given that 2.25 ≤ 2 + 2n+2 ≤ 202 ⇒ 2 + 0.25 ≤ 2 + 2n+2 ≤ 2 + 128 < 202 ⇒ 2 + 2-2 ≤ 2 + 2n+2 ≤ 2 + 27 ∴ - 2 ≤ n + 2 ≤ 7 ⇒ - 4 ≤ n ≤ 5 ∴ n = - 4, -3, -2, -1, 0, 1, 2, 3, 4, 5 Now for n = -1, 0, 1, 2, 3, 4, 5, 3 + 3n+1 is an integer. Therefore total ‘7’ values of ‘n’ are possible."
+        },
+        {
+          "id": "cat-2021-slot2-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Raj invested Rs. 10000 in a fund. At the end of first year, he incurred a loss but his balance was more than Rs. 5000. This\nbalance, when invested for another year, grew and the percentage of growth in the second year was five times the percentage\nof loss in the first year. If the gain of Raj from the initial investment over the two year period is 35%, then the percentage of loss\nin the first year is",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "70",
+            "D": "5"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the loss incurred in first year is x% As the balance is more than 5000 ⇒ x < 50% Profit in the next year = 5x & overall profit is 35% ⇒ x 2 - 80x + 700 = 0 ⇒ (x - 70) (x - 10) = 0 ⇒ x = 10, 70 As x < 50% ⇒ x = 10%"
+        },
+        {
+          "id": "cat-2021-slot2-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two pipes A and B are attached to an empty water tank. Pipe A fills the tank while pipe B drains it. If pipe A is opened at 2 pm\nand pipe B is opened at 3 pm, then the tank becomes full at 10 pm. Instead, if pipe A is opened at 2 pm and pipe B is opened\nat 4 pm, then the tank becomes full at 6 pm. If pipe B is not opened at all, then the time, in minutes, taken to fill the tank is",
+          "options": {
+            "A": "264",
+            "B": "144",
+            "C": "140",
+            "D": "120 DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "B",
+          "explanation": "In the first case A worked for 8 hours and B worked for 7 hours. In the second case A worked for 4 hours and B worked for 2 hours. ∴ If B worked 5 hours less then time saved for A = 4 hours B does not work then time saved for A = 4/5 × 7 = 5.6 hours So in this A would have filled the tank in 8 - 5.6 = 2.4 hours or 144 minutes."
+        },
+        {
+          "id": "cat-2021-slot2-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A box has 450 balls, each either white or black, there being as many metallic white balls as metallic black balls. If 40% of the\nwhite balls and 50% of the black balls are metallic, then the number of non-metallic balls in the box is (in numerical value)",
+          "options": {},
+          "correct_answer": "250",
+          "explanation": "Let the metallic white and metallic black balls are x each. Now 40% of white balls = x ⇒ white balls = 2.5x & 50% of black balls = x ⇒ Total black balls = 2x Now 2.5x + 2x = 450 ⇒ 4.5x = 450 ⇒ x = 100 ∴ Number of non-metallic white & non metallic black balls = 1.5x + x = 2.5x = 2.5 × 100 = 250"
+        },
+        {
+          "id": "cat-2021-slot2-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "B",
+          "explanation": "⇒ x2 + 2x + 4 = 2kx2 + 4kx + 9k ⇒ (2k - 1)x2 + (4k - 2)x + (9k - 4) = 0 As x is real ⇒ D ≥ 0 ⇒ (4k - 2)2 - 4 (2 k - 1) (9k - 4) ≥ 0 ⇒ (2k - 1)2 - (2k - 1) (9k - 4) ≥ 0 ⇒ (2k - 1) [2k - 1 - 9k + 4] ≥ 0 ⇒ (2k - 1) (-7k + 3) ≥ 0 ⇒ (2k - 1) (7k - 3) ≤ 0 ∴ option 2 is the best choice"
+        },
+        {
+          "id": "cat-2021-slot2-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If log [3 + log {4 + log (x - 1)}] - 2 = 0, then 4x equals (in numerical value)\n2 3 4",
+          "options": {},
+          "correct_answer": "5",
+          "explanation": "Here log2 [3 + log3 {4 + log4 (x-1)}] - 2 = 0 ⇒ log2 [3 + log3 {4 + log4 (x-1)}] = 2 ⇒ 3 + log3 {4 + log4 (x-1)} = 4 ⇒ log3 [4 + log4 (x-1)] = 1 ⇒ 4 + log4 (x-1) = 3"
+        },
+        {
+          "id": "cat-2021-slot2-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Consider the pair of equations: x2 - xy - x = 22 and y2 - xy + y = 34. If x > y, then x - y equals",
+          "options": {
+            "A": "8",
+            "B": "6",
+            "C": "4",
+            "D": "7"
+          },
+          "correct_answer": "A",
+          "explanation": "We have x - xy - x = 22 ---(1) 2 y - xy + y = 34 ---(2) Add the equation (1) & (2), we get 2 2 x + y - 2xy - (x - y) = 56 ⇒ (x - y) 2 - (x - y) = 56 ⇒ (x - y) (x - y - 1) = 56 As (x - y) and (x - y - 1) are consecutive numbers and their product is 56 ⇒ x - y = 8 & x - y - 1 = 7. ∴ x - y = 8"
+        },
+        {
+          "id": "cat-2021-slot2-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For a sequence of real numbers x , x , …… x , if x - x + x - …. + (-1)n + 1 x , = n2 + 2n for all natural numbers n, then the sum\n1 2 n 1 2 3 n\nx + x equals\n49 50",
+          "options": {
+            "A": "200",
+            "B": "-2",
+            "C": "2",
+            "D": "-200"
+          },
+          "correct_answer": "B",
+          "explanation": "Here x1 - x2 + x3 - x4 + ------- + (- 1)n + 1 x4 = n2 + 2n n = 1 ⇒ x1 = 1 + 2 = 3 n = 2 ⇒ x1 - x2 = 8 ⇒ x2 = - 5 n = 3 ⇒ x1 - x2 + x3 = 15 ⇒ x3 = 7 n = 4 ⇒ x1 - x2 + x3 - x4 = 24 ⇒ x4 = - 9 and so on Now here x1 + x2 = - 2, x3 + x4 = -2 and so on, so x49 + x50 = - 2"
+        },
+        {
+          "id": "cat-2021-slot2-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From a container filled with milk, 9 litres of milk are drawn and replaced with water. Next, from the same container, 9 litres are\ndrawn and again replaced with water. If the volumes of milk and water in the container are now in the ratio of 16 : 9, then the\ncapacity of the container, in litres, is (in numerical value)",
+          "options": {},
+          "correct_answer": "45",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2021-slot2-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For a real number x the condition |3x - 20| + |3x - 40| = 20 necessarily holds if",
+          "options": {
+            "A": "7 <x< 12",
+            "B": "9 <x< 14",
+            "C": "10 <x< 15",
+            "D": "6 <x< 11"
+          },
+          "correct_answer": "A",
+          "explanation": "Here |3x - 20| + |3x - 40| = 20 ---(1) ⇒ -3x + 20 - 3x + 40 = 20 ∴ This is not possible Therefore, option (1) satisfies."
+        },
+        {
+          "id": "cat-2021-slot2-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a football tournament, a player has played a certain number of matches and 10 more matches are to be played. If he scores a\ntotal of one goal over the next 10 matches, his overall average will be 0.15 goals per match. On the other hand, if he scores a\ntotal of two goals over the next 10 matches, his overall average will be 0.2 goals per match. The number of matches he has\nplayed is (in numerical value)",
+          "options": {},
+          "correct_answer": "10",
+          "explanation": "Let the original matches be ‘n’ and original goals be ‘x’ Now (n + 10) × 0.15 = x + 1 ⇒ 0.15 n + 1.5 = x + 1 ---(1) & (n + 10) × 0.2 = x + 2 ⇒ 0.2n + 2 = x + 2 ---(2)"
+        },
+        {
+          "id": "cat-2021-slot2-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose one of the roots of the equation ax2 - bx + c = 0 is where a, b and c are rational numbers and a ≠ 0. If b = c3\nthen |a| equals",
+          "options": {
+            "A": "4",
+            "B": "2",
+            "C": "1",
+            "D": "3"
+          },
+          "correct_answer": "B",
+          "explanation": "Given equation is ax - bx + c = 0 Also b = c 3 , (3) ⇒ c 3 = 4c ⇒ c 2 = 4 ⇒ c = 2, - 2 If c = 2 ⇒ b = 8"
+        },
+        {
+          "id": "cat-2021-slot2-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil can paint a house in 60 days while Bimal can paint it in 84 days. Anil starts painting and after 10 days, Bimal and Charu join\nhim. Together, they complete the painting in 14 more days. If they are paid a total of Rs. 21000 for the job, then the share of\nCharu, in INR, proportionate to the work done by him, is",
+          "options": {
+            "A": "9100",
+            "B": "9150",
+            "C": "9000",
+            "D": "9200"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the total work is 420 units A can do 7 units/d, B can do 5 units / day Let C can do x units/d ∴ 7 × 24 + 5 × 14 + x × 14 = 420 ⇒ 14x + 238 = 420 ⇒ 14x = 182 ⇒ x = 13 Work done by A = 168 units Work done by B = 70 units Work done by C = 182 units ∴ Ratio of work done by A, B & C is 168 : 70 : 182 or 84 : 35 : 91"
+        }
+      ]
+    }
+  }
+}

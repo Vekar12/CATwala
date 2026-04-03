@@ -1,0 +1,1114 @@
+{
+  "id": "cat-2023-slot1",
+  "year": 2023,
+  "slot": 1,
+  "title": "CAT 2023 Slot I",
+  "has_solutions": true,
+  "total_questions": 66,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2023-slot1-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Many human phenomena and characteristics – such as behaviors, beliefs, economies, genes, incomes, life expectancies, and\nother things – are influenced both by geographic factors and by non-geographic factors. Geographic factors mean physical and\nbiological factors tied to geographic location, including climate, the distributions of wild plant and animal species, soils, and\ntopography. Non-geographic factors include those factors subsumed under the term culture, other factors subsumed under the\nterm history, and decisions by individual people. . . .\n[T]he differences between the current economies of North and South Korea cannot be attributed to the modest environmental\ndifferences between [them] They are instead due entirely to the different [government] policies…..At the opposite extreme, the\nInuit and other traditional peoples living north of the Arctic Circle developed warm fur clothes but no agriculture, while\nequatorial lowland peoples around the world never developed warm fur clothes but often did develop agriculture. The\nexplanation is straightforwardly geographic, rather than a cultural or historical quirk unrelated to geography……. Aboriginal\nAustralia remained the sole continent occupied only by hunter/gatherers and with no indigenous farming or herding [Here the]\nexplanation is biogeographic: the Australian continent has no domesticable native animal species and few domesticable native\nplant species. Instead, the crops and domestic animals that now make Australia a food and wool exporter are all non-native\n(mainly Eurasian) species such as sheep, wheat, and grapes, brought to Australia by overseas colonists.\nToday, no scholar would be silly enough to deny that culture, history, and individual choices play a big role in many human\nphenomena. Scholars don’t react to cultural, historical, and individual-agent explanations by denouncing “cultural\ndeterminism,” “historical determinism,” or “individual determinism,” and then thinking no further. But many scholars do react to\nany explanation invoking some geographic role, by denouncing “geographic determinism” . . .\nSeveral reasons may underlie this widespread but nonsensical view. One reason is that some geographic explanations advanced\na century ago were racist, thereby causing all geographic explanations to become tainted by racist associations in the minds of\nmany scholars other than geographers. But many genetic, historical, psychological, and anthropological explanations advanced\na century ago were also racist, yet the validity of newer non-racist genetic etc. explanations is widely accepted today.\nAnother reason for reflex rejection of geographic explanations is that historians have a tradition, in their discipline, of stressing\nthe role of contingency (a favorite word among historians) based on individual decisions and chance. Often that view is\nwarranted…...But often, too, that view is unwarranted. The development of warm fur clothes among the Inuit living north of the\nArctic Circle was not because one influential Inuit leader persuaded other Inuit in 1783 to adopt warm fur clothes, for no good\nenvironmental reason.\nA third reason is that geographic explanations usually depend on detailed technical facts of geography and other fields of\nscholarship ……Most historians and economists don’t acquire that detailed knowledge as part of the professional training.\nAll of the following can be inferred from the passage EXCEPT:",
+          "options": {
+            "A": "several academic studies of human phenomena in the past involved racist interpretations.",
+            "B": "agricultural practices changed drastically in the Australian continent after it was colonised.",
+            "C": "while most human phenomena result from culture and individual choice, some have bio-geographic origins.",
+            "D": "individual dictat and contingency were not the causal factors for the use of fur clothing in some very cold climates."
+          },
+          "correct_answer": "C",
+          "explanation": "It is not possible to derive Option C directly from the passage. Although the passage does mention the impact of both geographical factors, such as biogeography, and non-geographical factors like culture and history on human phenomena, the use of words like 'most' and 'some' cannot be justified based on the information provided in the passage. Therefore, Option C is the appropriate choice. Option 1- This statement is directly supported by the passage. The passage mentions that some geographic explanations advanced a century ago were racist, causing all geographic explanations to become tainted by racist associations in the minds of many scholars other than geographers. Option 2- There is a discussion that the crops and domestic animals that make Australia a food and wool exporter are non-native species brought by overseas colonists. Option 4- The passage mentions that the development of warm fur clothes among the Inuit living north of the Arctic Circle was not because one influential Inuit leader persuaded others in 1783 to adopt warm fur clothes for no good environmental reason. Instead, it attributes the development to straightforward geographic factors."
+        },
+        {
+          "id": "cat-2023-slot1-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author criticises scholars who are not geographers for all of the following reasons EXCEPT:",
+          "options": {
+            "A": "the importance they place on the role of individual decisions when studying human phenomena.",
+            "B": "their outdated interpretations of past cultural and historical phenomena.",
+            "C": "their labelling of geographic explanations as deterministic.",
+            "D": "their rejection of the role of biogeographic factors in social and cultural phenomena."
+          },
+          "correct_answer": "B",
+          "explanation": "The passage does not directly condemn non-geographer scholars for possessing outdated interpretations of historical and cultural events. The primary critiques focus on their overemphasis on individual choices, labelling of geographic explanations as deterministic, and refusal to acknowledge the impact of geographic factors, including biogeographic factors, on social and cultural phenomena."
+        },
+        {
+          "id": "cat-2023-slot1-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following are advanced by the author as reasons why non-geographers disregard geographic influences on human\nphenomena EXCEPT their:",
+          "options": {
+            "A": "belief in the central role of humans, unrelated to physical surroundings, in influencing phenomena.",
+            "B": "disciplinary training which typically does not include technical knowledge of geography.",
+            "C": "dismissal of explanations that involve geographical causes for human behaviour.",
+            "D": "lingering impressions of past geographic analyses that were politically offensive."
+          },
+          "correct_answer": "C",
+          "explanation": "The passage does not imply that individuals who are not geographers reject explanations that attribute human behavior to geographical factors. Instead, it suggests that those who are not geographers often respond to such explanations by denouncing the concept of \"geographic determinism.\" The reasons for this reaction include a belief in the central role of humans, a lack of technical knowledge of geography due to disciplinary training, and negative impressions of past geographic analyses that were considered politically offensive."
+        },
+        {
+          "id": "cat-2023-slot1-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The examples of the Inuit and Aboriginal Australians are offered in the passage to show:",
+          "options": {
+            "A": "how physical circumstances can dictate human behaviour and cultures.",
+            "B": "how environmental factors lead to comparatively divergent paths in livelihoods and development.",
+            "C": "that despite geographical isolation, traditional societies were self-sufficient and adaptive.",
+            "D": "human resourcefulness across cultures in adapting to their surroundings."
+          },
+          "correct_answer": "A",
+          "explanation": "Option 1 accurately reflects the idea presented in the passage. The passage discusses the development of warm fur clothes among the Inuit and the absence of indigenous farming in Aboriginal Australia as outcomes influenced by physical circumstances, such as geographic and biogeographic factors. While option 2 is partially correct so eliminated. Yet a very close choice. For option 3 the passage does not explicitly convey the idea that traditional societies, specifically the Inuit and Aboriginal Australians, were self-sufficient and adaptive despite geographical isolation."
+        },
+        {
+          "id": "cat-2023-slot1-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "RESIDENTS of Lozère, a hilly department in southern France, recite complaints familiar to many rural corners of Europe. In\nremote hamlets and villages, with names such as Le Bacon and Le Bacon Vieux, mayors grumble about a lack of local schools,\njobs, or phone and internet connections. Farmers of grazing animals add another concern: the return of wolves. Eradicated from\nFrance last century, the predators are gradually creeping back to more forests and hillsides. “The wolf must be taken in hand,”\nsaid an aspiring parliamentarian, Francis Palombi, when pressed by voters in an election campaign early this summer. Tourists\nenjoy visiting a wolf park in Lozère, but farmers fret over their livestock and their livelihoods.\nAs early as the ninth century, the royal office of the Luparii—wolf-catchers—was created in France to tackle the predators.\nThose official hunters (and others) completed their job in the 1930s, when the last wolf disappeared from the mainland. Active\nhunting and improved technology such as rifles in the 19th century, plus the use of poison such as strychnine later on, caused\nthe population collapse. But in the early 1990s the animals reappeared. They crossed the Alps from Italy, upsetting sheep\nfarmers on the French side of the border. Wolves have since spread to areas such as Lozère, delighting environmentalists, who\nsee the predators’ presence as a sign of wider ecological health. Farmers, who say the wolves cause the deaths of thousands of\nsheep and other grazing animals, are less cheerful. They grumble that green activists and politically correct urban types have\nallowed the return of an old enemy.\nVarious factors explain the changes of the past few decades. Rural depopulation is part of the story. In Lozère, for example,\nfarming and a once-flourishing mining industry supported a population of over 140,000 residents in the mid-19th century.\nToday the department has fewer than 80,000 people, many in its towns. As humans withdraw, forests are expanding. In France,\nbetween 1990 and 2015, forest cover increased by an average of 102,000 hectares each year, as more fields were given over to\ntrees. Now, nearly one-third of mainland France is covered by woodland of some sort. The decline of hunting as a sport also\nmeans more forests fall quiet. In the mid-to-late 20th century over 2m hunters regularly spent winter weekends tramping in\nwoodland, seeking boars, birds and other prey. Today the Fédération Nationale des Chasseurs, the national body, claims 1.1m\npeople hold hunting licences, though the number of active hunters is probably lower. The mostly protected status of the wolf in\nEurope —hunting them is now forbidden, other than when occasional culls are sanctioned by the state—plus the efforts of\nNGOs to track and count the animals, also contribute to the recovery of wolf populations.\nAs the lupine population of Europe spreads westwards, with occasional reports of wolves seen closer to urban areas, expect to\nhear of more clashes between farmers and those who celebrate the predators’ return. Farmers’ losses are real, but are not the\nonly economic story. Tourist venues, such as parks where wolves are kept and the animals’ spread is discussed, also generate\nincome and jobs in rural areas.\nWhich one of the following has NOT contributed to the growing wolf population in Lozère?",
+          "options": {
+            "A": "The shutting down of the royal office of the Luparii.",
+            "B": "The granting of a protected status to wolves in Europe.",
+            "C": "An increase in woodlands and forest cover in Lozère.",
+            "D": "A decline in the rural population of Lozère."
+          },
+          "correct_answer": "A",
+          "explanation": "The passage does not mention the shutting down of the royal office of the Luparii as a contributing factor to the growing wolf population. Instead, it emphasizes factors such as the protected status of wolves in Europe, the decline of hunting as a sport, the efforts of NGOs to track and count the animals, and the increase in woodlands and forest cover in Lozère. Rest all options are mentioned in the context so can be eliminated."
+        },
+        {
+          "id": "cat-2023-slot1-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The inhabitants of Lozère have to grapple with all of the following problems, EXCEPT:",
+          "options": {
+            "A": "lack of educational facilities.",
+            "B": "livestock losses.",
+            "C": "poor rural communication infrastructure.",
+            "D": "decline in the number of hunting licences."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage discusses the decline in the number of hunting licenses and the quieter forests due to a decrease in hunting as a sport. However, it does not specifically state that the inhabitants of Lozère are grappling with this as a problem. On the other hand, the passage mentions issues such as a lack of local schools, jobs, phone and internet connections, and livestock losses due to the return of wolves. That helps us to conclude that 4 is the right choice."
+        },
+        {
+          "id": "cat-2023-slot1-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author presents a possible economic solution to an existing issue facing Lozère that takes into account the divergent and\ncompeting interests of:",
+          "options": {
+            "A": "environmentalists and politicians.",
+            "B": "tourists and environmentalists.",
+            "C": "politicians and farmers.",
+            "D": "farmers and environmentalists."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage does not explicitly mention the divergent and competing interests of specific groups, but it does provide information that implies conflicts between different stakeholders. Based on the information provided, the option that best aligns with th the potential conflicts discussed in the passage is the 4 one. The passage describes how farmers in Lozère are concerned about the return of wolves, as they claim the wolves cause livestock losses. On the other hand, environmentalists may celebrate the return of predators like wolves, considering it a sign of wider ecological health. This suggests a potential conflict of interests between farmers, who are concerned about their livelihoods and livestock, and environmentalists, who may prioritize the ecological balance."
+        },
+        {
+          "id": "cat-2023-slot1-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements, if true, would weaken the author’s claims?",
+          "options": {
+            "A": "The old mining sites of Lozère are now being used as grazing pastures for sheep.",
+            "B": "Having migrated out in the last century, wolves are now returning to Lozère.",
+            "C": "Unemployment concerns the residents of Lozère.",
+            "D": "Wolf attacks on tourists in Lozère are on the rise."
+          },
+          "correct_answer": "D",
+          "explanation": "The author's claims in the passage seem to revolve around the conflict between farmers and environmentalists regarding the return of wolves, with farmers expressing concerns about livestock losses. If there were reports of wolf attacks on tourists on the rise, it might suggest a different perspective on the impact of wolves in the area, potentially indicating a more immediate threat to human safety rather than just concerns about livestock. Only option 4 could weaken the emphasis on the environmental benefits mentioned in the passage. Option 1- This statement is not directly relevant to the author's claims about the conflict between farmers and environmentalists regarding the return of wolves. It doesn't necessarily weaken or strengthen the main arguments in the passage. Option 2- This statement aligns with the information presented in the passage and supports the author's claims about the return of wolves, which is a central theme in the discussion of conflicts between farmers and environmentalists. Option 3- This statement is mentioned briefly in the passage, but it doesn't directly relate to the author's claims about the conflict between farmers and environmentalists regarding the return of wolves. While unemployment concerns are mentioned, the primary focus is on the impact of the return of wolves on farmers."
+        },
+        {
+          "id": "cat-2023-slot1-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For early postcolonial literature, the world of the novel was often the nation. Postcolonial novels were usually [concerned with]\nnational questions. Sometimes the whole story of the novel was taken as an allegory of the nation, whether India or Tanzania.\nThis was important for supporting anti-colonial nationalism, but could also be limiting – land-focused and inward- looking.\nMy new book “Writing Ocean Worlds” explores another kind of world of the novel: not the village or nation, but the Indian\nOcean world. The book describes a set of novels in which the Indian Ocean is at the centre of the story. It focuses on the\nnovelists Amitav Ghosh, Abdulrazak Gurnah, Lindsey Collen and Joseph Conrad [who have] centred the Indian Ocean world in\nthe majority of their novels. Their work reveals a world that is outward-looking –full of movement, border-crossing and south-\nsouth interconnection. They are all very different – from colonially inclined (Conrad) to radically anti-capitalist (Collen), but\ntogether draw on and shape a wider sense of Indian Ocean space through themes, images, metaphors and language. This has\nthe effect of remapping the world in the reader’s mind, as centred in the interconnected global south. . . .\nThe Indian Ocean world is a term used to describe the very long-lasting connections among the coasts of East Africa, the Arab\ncoasts, and South and East Asia. These connections were made possible by the geography of the Indian Ocean. For much of\nhistory, travel by sea was much easier than by land, which meant that port cities very far apart were often more easily\nconnected to each other than to much closer inland cities. Historical and archaeological evidence suggests that what we now\ncall globalisation first appeared in the Indian Ocean.\nThis is the interconnected oceanic world referenced and produced by the novels in my book…..\nFor their part Ghosh, Gurnah, Collen and even Conrad reference a different set of histories and geographies than the ones most\ncommonly found in fiction in English. Those [commonly found ones] are mostly centred in Europe or the US, assume a\nbackground of Christianity and whiteness, and mention places like Paris and New York. The novels in [my] book highlight\ninstead a largely Islamic space, feature characters of colour and centralise the ports of Malindi, Mombasa, Aden, Java and\nBombay.\nIt is a densely imagined, richly sensory image of a southern cosmopolitan culture which provides for an enlarged sense of place\nin the world.\nThis remapping is particularly powerful for the representation of Africa. In the fiction, sailors and travellers are not all European.\n…….African, as well as Indian and Arab characters, are traders, nakhodas (dhow ship captains), runaways, villains, missionaries\nand activists. This does not mean that Indian Ocean Africa is romanticised. Migration is often a matter of force; travel is\nportrayed as abandonment rather than adventure, freedoms are kept from women and slavery is rife. What it does mean is that\nthe African part of the Indian Ocean world plays an active role in its long, rich history and therefore in that of the wider world.\nAll of the following statements, if true, would weaken the passage’s claim about the relationship between mainstream English-\nlanguage fiction and Indian Ocean novels",
+          "options": {
+            "A": "the depiction of Africa in most Indian Ocean novels is driven by a postcolonial nostalgia for an idyllic past.",
+            "B": "the depiction of Africa in most Indian Ocean novels is driven by an Orientalist imagination of its cultural crudeness.",
+            "C": "most mainstream English-language novels have historically privileged the Christian, white, male experience of travel and adventure.",
+            "D": "very few mainstream English-language novels have historically been set in American and European metropolitan centres."
+          },
+          "correct_answer": "C",
+          "explanation": "The passage emphasizes that mainstream English-language fiction has historically privileged certain perspectives and settings. And the exception is statement 3. It supports the passage's claim by reinforcing the idea that mainstream English-language fiction has a specific focus on the experiences of a particular group rather than weakening it. For option 1- This statement weakens the passage's claim because it suggests that Indian Ocean novels may also have elements of nostalgia, similar to mainstream English-language fiction. For option, 2-This statement weakens the passage's claim as it implies that Indian Ocean novels may also fall into the trap of using Orientalist stereotypes, similar to mainstream English-language fiction. For option 4- This statement weakens the passage's claim because it suggests that there is a diversity in settings even within mainstream English-language novels. The exception is statement 3. It supports the passage's claim rather than weakening it."
+        },
+        {
+          "id": "cat-2023-slot1-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following claims contribute to the “remapping” discussed by the passage,",
+          "options": {
+            "A": "Indian Ocean novels have gone beyond the specifics of national concerns to explore rich regional pasts.",
+            "B": "the global south, as opposed to the global north, was the first centre of globalisation.",
+            "C": "the world of early international trade and commerce was not the sole domain of white Europeans.",
+            "D": "cosmopolitanism originated in the West and travelled to the East through globalization"
+          },
+          "correct_answer": "D",
+          "explanation": "The passage discusses the \"remapping\" achieved by Indian Ocean novels. Let's evaluate each claim: Option 1- This claim contributes to the remapping by suggesting that the novels explore regional pasts rather than being confined to national concerns. Option 2- This claim contributes to the remapping by challenging the traditional focus on the global north and highlighting the global south as the first center of globalization. Option 3- This claim contributes to the remapping by challenging the Eurocentric view of early international trade and commerce. Option 4- This claim does not contribute to the remapping; in fact, it reinforces a Western- centric view by suggesting that cosmopolitanism originated in the West and traveled eastward. Therefore, the correct answer is 4."
+        },
+        {
+          "id": "cat-2023-slot1-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements is not true about migration in the Indian Ocean world?",
+          "options": {
+            "A": "Geographical location rather than geographical proximity determined the choice of destination for migrants.",
+            "B": "The Indian Ocean world’s migration networks were shaped by religious and commercial histories of the region.",
+            "C": "Migration in the Indian Ocean world was an ambivalent experience.",
+            "D": "The Indian Ocean world’s migration networks connected the global north with the global south."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage discusses migration in the Indian Ocean world. Out of all options, 4 is the right one. As this statement is not true according to the passage. The passage emphasizes that the Indian Ocean world's migration networks are distinct from the commonly found narratives centered in Europe or the US. Instead, the novels highlight a largely Islamic space and feature characters of color, suggesting a different orientation from the global north. For option 1- This statement is consistent with the passage, which mentions that port cities far apart were often more easily connected to each other than too much closer inland cities due to the ease of travel by sea. For Option 2- This statement is consistent with the passage, which highlights that migration in the Indian Ocean world was shaped by the religious and commercial histories of the region. For option 3- This statement is consistent with the passage, which mentions that migration is often a matter of force, and travel is portrayed as abandonment rather than adventure."
+        },
+        {
+          "id": "cat-2023-slot1-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On the basis of the nature of the relationship between the items in each pair below, choose the odd pair out:",
+          "options": {
+            "A": "Indian Ocean world : Slavery",
+            "B": "Indian Ocean novels : Outward-looking",
+            "C": "Postcolonial novels : Border-crossing",
+            "D": "Postcolonial novels : Anti-colonial nationalism"
+          },
+          "correct_answer": "C",
+          "explanation": "The options 1 and 4 are not the right choice. As in option A the pair suggests a historical and thematic connection, as the Indian Ocean world is associated with historical aspects such as slavery. This pair does not seem to be odd. In option 4, this pair also represents a thematic connection, suggesting that postcolonial novels often explore anti- colonial nationalism. This aligns with the passage's discussion of the early postcolonial literature's concern with national questions. The lone instance of border crossing in the third one—which we can classify as peculiar— occurs in the Indian Ocean novel world rather than the Postcolonial novel world."
+        },
+        {
+          "id": "cat-2023-slot1-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "[Fift] years after its publication in English [in 1972], and just a year since [Marshall] Sahlins himself died—we may ask: why did\n[his essay] “Original Affluent Society” have such an impact, and how has it fared since? . . . Sahlins’s principal argument was\nsimple but counterintuitive: before being driven into marginal environments by colonial powers, hunter-gatherers, or foragers,\nwere not engaged in a desperate struggle for meager survival. Quite the contrary, they satisfied their needs with far less work\nthan people in agricultural and industrial societies, leaving them more time to use as they wished. Hunters, he quipped, keep\nbankers’ hours. Refusing to maximize, many were “more concerned with games of chance than with chances of game.” . . . The\nso-called Neolithic Revolution, rather than improving life, imposed a harsher work regime and set in motion the long history of\ngrowing inequality . . .\nMoreover, foragers had other options. The contemporary Hadza of Tanzania, who had long been surrounded by farmers, knew\nthey had alternatives and rejected them. To Sahlins, this showed that foragers are not simply examples of human diversity or\nvictimhood but something more profound: they demonstrated that societies make real choices. Culture, a way of living oriented\naround a distinctive set of values, manifests a fundamental principle of collective self-determination. . . .\nBut the point [of the essay] is not so much the empirical validity of the data—the real interest for most readers, after all, is not\nin foragers either today or in the Paleolithic—but rather its conceptual challenge to contemporary economic life and bourgeois\nindividualism. The empirical served a philosophical and political project, a thought experiment and stimulus to the imagination\nof possibilities.\nWith its title’s nod toward The Affluent Society (1958), economist John Kenneth Galbraith’s famously skeptical portrait of\nAmerica’s postwar prosperity and inequality, and dripping with New Left contempt for consumerism, “The Original Affluent\nSociety” brought this critical perspective to bear on the contemporary world. It did so through the classic anthropological move\nof showing that radical alternatives to the readers’ lives really exist. If the capitalist world seeks wealth through ever greater\nmaterial production to meet infinitely expansive desires, foraging societies follow “the Zen road to affluence”: not by getting\nmore, but by wanting less. If it seems that foragers have been left behind by “progress,” this is due only to the ethnocentric\nself-congratulation of the West. Rather than accumulate material goods, these societies are guided by other values: leisure,\nmobility, and above all, freedom. . . .\nViewed in today’s context, of course, not every aspect of the essay has aged well. While acknowledging the violence of\ncolonialism, racism, and dispossession, it does not thematize them as heavily as we might today. Rebuking evolutionary\nanthropologists for treating present-day foragers as “left behind” by progress, it too can succumb to the temptation to use",
+          "passage_group": 4,
+          "question": "them as proxies for the Paleolithic. Yet these characteristics should not distract us from appreciating Sahlins’s effort to show\nthat if we want to conjure new possibilities, we need to learn about actually inhabitable worlds.\nThe author of the passage mentions Galbraith’s “The Affluent Society” to:",
+          "options": {
+            "A": "show how Galbraith’s theories refute Sahlins’s thesis on the contentment of pre-hunter- gatherer communities.",
+            "B": "document the influence of Galbraith’s cynical views on modern consumerism on Sahlins’s analysis of pre-historic societies.",
+            "C": "contrast the materialist nature of contemporary growth paths with the pacifist content ways of living among the foragers.",
+            "D": "show how Sahlins’s views complemented Galbraith’s criticism of the consumerism and inequality of contemporary society."
+          },
+          "correct_answer": "D",
+          "explanation": "In the passage, the author mentions Galbraith’s “The Affluent Society” in the context of Marshall Sahlins's essay, \"The Original Affluent Society.\" The purpose is to highlight how Sahlins's views complement Galbraith’s criticism of consumerism and inequality in contemporary society. So, option 4 is the right choice. The passage notes that Sahlins's essay challenges contemporary economic life and bourgeois individualism. By referencing Galbraith’s work, the author emphasizes that Sahlins's perspective aligns with the critical stance towards postwar prosperity and inequality presented by Galbraith. Sahlins's essay, with its title nodding toward Galbraith’s work, brings a critical perspective to the contemporary world, showing that alternative ways of living exist. It contrasts the capitalist pursuit of wealth through material production with the idea that foraging societies achieve affluence not by acquiring more but by desiring less. In summary, the mention of Galbraith’s “The Affluent Society” serves to illustrate how Sahlins’s views resonate with and complement Galbraith’s critique of consumerism and inequality in the modern world. While, Option 1 is incorrect. The passage does not suggest that Galbraith’s theories refute Sahlins’s thesis. Instead, it emphasizes how their views complement each other in criticizing contemporary society. Option 2 is incorrect. The passage does not suggest that Galbraith's views directly influenced Sahlins's analysis of prehistoric societies. The mention is about how their perspectives align in critiquing contemporary society. Option 3 is also incorrect. While the passage discusses the contrast between contemporary growth paths and foragers' ways of living, it does not specifically highlight a pacifist content in foragers' lives."
+        },
+        {
+          "id": "cat-2023-slot1-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "[Fift] years after its publication in English [in 1972], and just a year since [Marshall] Sahlins himself died—we may ask: why did\n[his essay] “Original Affluent Society” have such an impact, and how has it fared since? . . . Sahlins’s principal argument was\nsimple but counterintuitive: before being driven into marginal environments by colonial powers, hunter-gatherers, or foragers,\nwere not engaged in a desperate struggle for meager survival. Quite the contrary, they satisfied their needs with far less work\nthan people in agricultural and industrial societies, leaving them more time to use as they wished. Hunters, he quipped, keep\nbankers’ hours. Refusing to maximize, many were “more concerned with games of chance than with chances of game.” . . . The\nso-called Neolithic Revolution, rather than improving life, imposed a harsher work regime and set in motion the long history of\ngrowing inequality . . .\nMoreover, foragers had other options. The contemporary Hadza of Tanzania, who had long been surrounded by farmers, knew\nthey had alternatives and rejected them. To Sahlins, this showed that foragers are not simply examples of human diversity or\nvictimhood but something more profound: they demonstrated that societies make real choices. Culture, a way of living oriented\naround a distinctive set of values, manifests a fundamental principle of collective self-determination. . . .\nBut the point [of the essay] is not so much the empirical validity of the data—the real interest for most readers, after all, is not\nin foragers either today or in the Paleolithic—but rather its conceptual challenge to contemporary economic life and bourgeois\nindividualism. The empirical served a philosophical and political project, a thought experiment and stimulus to the imagination\nof possibilities.\nWith its title’s nod toward The Affluent Society (1958), economist John Kenneth Galbraith’s famously skeptical portrait of\nAmerica’s postwar prosperity and inequality, and dripping with New Left contempt for consumerism, “The Original Affluent\nSociety” brought this critical perspective to bear on the contemporary world. It did so through the classic anthropological move\nof showing that radical alternatives to the readers’ lives really exist. If the capitalist world seeks wealth through ever greater\nmaterial production to meet infinitely expansive desires, foraging societies follow “the Zen road to affluence”: not by getting\nmore, but by wanting less. If it seems that foragers have been left behind by “progress,” this is due only to the ethnocentric\nself-congratulation of the West. Rather than accumulate material goods, these societies are guided by other values: leisure,\nmobility, and above all, freedom. . . .\nViewed in today’s context, of course, not every aspect of the essay has aged well. While acknowledging the violence of\ncolonialism, racism, and dispossession, it does not thematize them as heavily as we might today. Rebuking evolutionary\nanthropologists for treating present-day foragers as “left behind” by progress, it too can succumb to the temptation to use",
+          "passage_group": 4,
+          "question": "The author mentions Tanzania’s Hadza community to illustrate:",
+          "options": {
+            "A": "that hunter-gatherer communities’ subsistence-level techniques equipped them to survive well into contemporary times.",
+            "B": "how pre-agrarian societies did not hamper the emergence of more advanced agrarian practices in contiguous communities.",
+            "C": "how two vastly different ways of living and working were able to coexist in proximity for centuries.",
+            "D": "that forager communities’ lifestyles derived not from ignorance about alternatives, but from their own choice."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage mentions the contemporary Hadza of Tanzania to demonstrate that forager communities, like the Hadza, were aware of alternatives (such as those of surrounding farmers) but actively chose to reject them. This serves as an illustration that foragers make real choices about their ways of living, emphasizing the principle of collective self-determination in societies. So it makes 4th right one."
+        },
+        {
+          "id": "cat-2023-slot1-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "[Fift] years after its publication in English [in 1972], and just a year since [Marshall] Sahlins himself died—we may ask: why did\n[his essay] “Original Affluent Society” have such an impact, and how has it fared since? . . . Sahlins’s principal argument was\nsimple but counterintuitive: before being driven into marginal environments by colonial powers, hunter-gatherers, or foragers,\nwere not engaged in a desperate struggle for meager survival. Quite the contrary, they satisfied their needs with far less work\nthan people in agricultural and industrial societies, leaving them more time to use as they wished. Hunters, he quipped, keep\nbankers’ hours. Refusing to maximize, many were “more concerned with games of chance than with chances of game.” . . . The\nso-called Neolithic Revolution, rather than improving life, imposed a harsher work regime and set in motion the long history of\ngrowing inequality . . .\nMoreover, foragers had other options. The contemporary Hadza of Tanzania, who had long been surrounded by farmers, knew\nthey had alternatives and rejected them. To Sahlins, this showed that foragers are not simply examples of human diversity or\nvictimhood but something more profound: they demonstrated that societies make real choices. Culture, a way of living oriented\naround a distinctive set of values, manifests a fundamental principle of collective self-determination. . . .\nBut the point [of the essay] is not so much the empirical validity of the data—the real interest for most readers, after all, is not\nin foragers either today or in the Paleolithic—but rather its conceptual challenge to contemporary economic life and bourgeois\nindividualism. The empirical served a philosophical and political project, a thought experiment and stimulus to the imagination\nof possibilities.\nWith its title’s nod toward The Affluent Society (1958), economist John Kenneth Galbraith’s famously skeptical portrait of\nAmerica’s postwar prosperity and inequality, and dripping with New Left contempt for consumerism, “The Original Affluent\nSociety” brought this critical perspective to bear on the contemporary world. It did so through the classic anthropological move\nof showing that radical alternatives to the readers’ lives really exist. If the capitalist world seeks wealth through ever greater\nmaterial production to meet infinitely expansive desires, foraging societies follow “the Zen road to affluence”: not by getting\nmore, but by wanting less. If it seems that foragers have been left behind by “progress,” this is due only to the ethnocentric\nself-congratulation of the West. Rather than accumulate material goods, these societies are guided by other values: leisure,\nmobility, and above all, freedom. . . .\nViewed in today’s context, of course, not every aspect of the essay has aged well. While acknowledging the violence of\ncolonialism, racism, and dispossession, it does not thematize them as heavily as we might today. Rebuking evolutionary\nanthropologists for treating present-day foragers as “left behind” by progress, it too can succumb to the temptation to use",
+          "passage_group": 4,
+          "question": "The author of the passage criticises Sahlins’s essay for its:",
+          "options": {
+            "A": "failure to supplement its thesis with robust empirical data.",
+            "B": "outdated values regarding present-day foragers versus ancient foraging communities.",
+            "C": "cursory treatment of the effects of racism and colonialism on societies.",
+            "D": "critique of anthropologists who disparage the choices of foragers in today’s society."
+          },
+          "correct_answer": "C",
+          "explanation": "The passage mentions that, when viewed in today’s context, not every aspect of Sahlins’s essay has aged well. One of the criticisms is that the essay does not thematize the effects of racism, colonialism, and dispossession as heavily as might be expected today. Therefore, the critique is about the essay's treatment of these important issues, suggesting it is cursory or insufficient. This makes the 3rd as the right choice. For Option 1,it is not a criticism mentioned in the passage. The passage acknowledges that the point of the essay is not so much the empirical validity of the data but its conceptual challenge to contemporary economic life and bourgeois individualism. Option 2 is not explicitly mentioned as a criticism in the passage. The passage acknowledges that not every aspect of the essay has aged well but does not specifically criticize it for having outdated values. Option 4 also is not mentioned as a criticism in the passage. The passage does mention Sahlins rebuking evolutionary anthropologists for treating present-day foragers as “left behind” by progress, but it does not frame this as a criticism of Sahlins."
+        },
+        {
+          "id": "cat-2023-slot1-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "[Fift] years after its publication in English [in 1972], and just a year since [Marshall] Sahlins himself died—we may ask: why did\n[his essay] “Original Affluent Society” have such an impact, and how has it fared since? . . . Sahlins’s principal argument was\nsimple but counterintuitive: before being driven into marginal environments by colonial powers, hunter-gatherers, or foragers,\nwere not engaged in a desperate struggle for meager survival. Quite the contrary, they satisfied their needs with far less work\nthan people in agricultural and industrial societies, leaving them more time to use as they wished. Hunters, he quipped, keep\nbankers’ hours. Refusing to maximize, many were “more concerned with games of chance than with chances of game.” . . . The\nso-called Neolithic Revolution, rather than improving life, imposed a harsher work regime and set in motion the long history of\ngrowing inequality . . .\nMoreover, foragers had other options. The contemporary Hadza of Tanzania, who had long been surrounded by farmers, knew\nthey had alternatives and rejected them. To Sahlins, this showed that foragers are not simply examples of human diversity or\nvictimhood but something more profound: they demonstrated that societies make real choices. Culture, a way of living oriented\naround a distinctive set of values, manifests a fundamental principle of collective self-determination. . . .\nBut the point [of the essay] is not so much the empirical validity of the data—the real interest for most readers, after all, is not\nin foragers either today or in the Paleolithic—but rather its conceptual challenge to contemporary economic life and bourgeois\nindividualism. The empirical served a philosophical and political project, a thought experiment and stimulus to the imagination\nof possibilities.\nWith its title’s nod toward The Affluent Society (1958), economist John Kenneth Galbraith’s famously skeptical portrait of\nAmerica’s postwar prosperity and inequality, and dripping with New Left contempt for consumerism, “The Original Affluent\nSociety” brought this critical perspective to bear on the contemporary world. It did so through the classic anthropological move\nof showing that radical alternatives to the readers’ lives really exist. If the capitalist world seeks wealth through ever greater\nmaterial production to meet infinitely expansive desires, foraging societies follow “the Zen road to affluence”: not by getting\nmore, but by wanting less. If it seems that foragers have been left behind by “progress,” this is due only to the ethnocentric\nself-congratulation of the West. Rather than accumulate material goods, these societies are guided by other values: leisure,\nmobility, and above all, freedom. . . .\nViewed in today’s context, of course, not every aspect of the essay has aged well. While acknowledging the violence of\ncolonialism, racism, and dispossession, it does not thematize them as heavily as we might today. Rebuking evolutionary\nanthropologists for treating present-day foragers as “left behind” by progress, it too can succumb to the temptation to use",
+          "passage_group": 4,
+          "question": "We can infer that Sahlins's main goal in writing his essay was to:",
+          "options": {
+            "A": "put forth the view that, despite egalitarian origins, economic progress brings greater inequality and social hierarchies.",
+            "B": "hold a mirror to an acquisitive society, with examples of other communities that have chosen successfully to be non- materialistic.",
+            "C": "counter Galbraith’s pessimistic view of the inevitability of a capitalist trajectory for economic growth.",
+            "D": "highlight the fact that while we started off as a fairly contented egalitarian people, we have progressively degenerated into materialism."
+          },
+          "correct_answer": "B",
+          "explanation": "The passage suggests that Sahlins's essay, \"The Original Affluent Society,\" aimed to challenge contemporary economic life and bourgeois individualism. It held a critical perspective on the capitalist world's pursuit of wealth through material production and presented foraging societies as examples of an alternative path. The essay contrasts the desire for more material goods in the capitalist world with the foraging societies' pursuit of affluence through wanting less. This aligns with the idea of holding a mirror to an acquisitive society and presenting alternative ways of living."
+        },
+        {
+          "id": "cat-2023-slot1-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence missing in the paragraph below. Look at the paragraph and decide in which\nblank (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: This philosophical cut at one’s core beliefs, values, and way of life is difficult enough.\nParagraph: The experience of reading philosophy is often disquieting. When reading philosophy, the values around which one\nhas heretofore organised one’s life may come to look provincial, flatly wrong, or even evil. ___(A)___. When beliefs previously\nheld as truths are rendered implausible, new beliefs, values, and ways of living may be required. ___(B)___. What’s worse,\nphilosophers admonish each other to remain unsutured until such time as a defensible new answer is revealed or constructed.\nSometimes philosophical writing is even strictly critical in that it does not even attempt to provide an alternative after tearing\ndown a cultural or conceptual citadel. ___(C)___. The reader of philosophy must be prepared for the possibility of this\nexperience. While reading philosophy can help one clarify one’s values, and even make one self-conscious for the first time of\nthe fact that there are good reasons for believing what one believes, it can also generate unremediated doubt that is difficult to\nlive with. ___(D)___.",
+          "options": {
+            "A": "Blank A",
+            "B": "Blank B",
+            "C": "Blank C",
+            "D": "Blank D"
+          },
+          "correct_answer": "A",
+          "explanation": "The sentence \"This philosophical cut at one’s core beliefs, values, and way of life is difficult enough.\" would best fit at Option B because it logically follows the statement in Option A. Option A discusses how reading philosophy can make the values one has organized their life around appear provincial, wrong, or even evil. Following this, the sentence in Option B, \"This philosophical cut at one’s core beliefs, values, and way of life is difficult enough,\" provides an explanation and emphasizes the challenging nature of the experience described in Option A. It helps to convey the emotional and intellectual difficulty that arises when one's fundamental beliefs are scrutinized by philosophical inquiry."
+        },
+        {
+          "id": "cat-2023-slot1-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence missing in the paragraph below. Look at the paragraph and decide in which\nblank (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: The discovery helps to explain archeological similarities between the Paleolithic peoples of China, Japan, and the\nAmericas.\nParagraph: The researchers also uncovered an unexpected genetic link between Native Americans and Japanese people.\n___(A)___. During the deglaciation period, another group branched out from northern coastal China and travelled to Japan.\n___(B)___. \"We were surprised to find that this ancestral source also contributed to the Japanese gene pool, especially the\nindigenous Ainus,\" says Li. ___(C)___. They shared similarities in how they crafted stemmed projectile points for arrowheads and\nspears. ___(D)___. \"This suggests that the Pleistocene connection among the Americas, China, and Japan was not confined to\nculture but also to genetics,\" says senior author Qing-Peng Kong, an evolutionary geneticist at the Chinese Academy of\nSciences.",
+          "options": {
+            "A": "Blank A",
+            "B": "Blank B",
+            "C": "Blank C",
+            "D": "Blank D"
+          },
+          "correct_answer": "C",
+          "explanation": "The paragraph discusses the genetic link between Native Americans and Japanese people, the migration during the deglaciation period from northern coastal China to Japan, and the surprise that this ancestral source also contributed to the Japanese gene pool. After presenting these findings, the sentence \"The discovery helps to explain archaeological similarities between the Paleolithic peoples of China, Japan, and the Americas\" logically connects the genetic information to archaeological similarities. Option 3, which discusses the shared similarities in crafting projectile points, provides a context for introducing the archaeological aspect. Placing the sentence about archaeological similarities after this context makes more sense as it elaborates on the shared cultural aspects mentioned in Option 3."
+        },
+        {
+          "id": "cat-2023-slot1-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of\nthem can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as\nyour answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. In English, there is no systematic rule for the naming of numbers; after ten, we have \"eleven\" and \"twelve\" and then the teens:\n\"thirteen\", \"fourteen\", \"fifteen\" and so on.\n2. Even more confusingly, some English words invert the numbers they refer to: the word \"fourteen\" puts the four first, even\nthough it appears last.\n3. It can take children a while to learn all these words, and understand that \"fourteen\" is different from \"forty\".\n4. For multiples of 10, English speakers switch to a different pattern: \"twenty\", \"thirty\", \"forty\" and so on.\n5. If you didn't know the word for \"eleven\", you would be unable to just guess it – you might come up with something like\n\"one-teen\".",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "The theme of the provided sentences except the 3 one revolves around the irregularities and complexities in the naming of numbers in the English language. It discusses the lack of a systematic rule, the specific patterns for teens and multiples of ten, and highlights the potential confusion that can arise, particularly for learners or those unfamiliar with the language's numerical conventions. The sentences collectively address the intricacies and variations in how numbers are named in English. While Sentence 3 shifts the focus to the learning process of children and their understanding of the differences between numbers like \"fourteen\" and \"forty.\""
+        },
+        {
+          "id": "cat-2023-slot1-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of\nthem can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as\nyour answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Having an appreciation for the workings of another person’s mind is considered a prerequisite for natural language\nacquisition, strategic social interaction, reflexive thought, and moral judgment.\n2. It is a ‘theory of mind’ though some scholars prefer to call it ‘mentalizing’ or ‘mindreading’, which is important for the\ndevelopment of one's cognitive abilities.\n3. Though we must speculate about its evolutionary origin, we do have indications that the capacity evolved sometime in the\nlast few million years.\n4. This capacity develops from early beginnings in the first year of life to the adult’s fast and often effortless understanding of\nothers’ thoughts, feelings, and intentions.\n5. One of the most fascinating human capacities is the ability to perceive and interpret other people’s behaviour in terms of\ntheir mental states.",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": "The theme of the provided sentences revolves around the concept of \"theory of mind\" or \"mentalizing,\" which is the ability to understand and interpret the thoughts, feelings, and intentions of others. The sentences discuss the significance of this cognitive ability for various aspects of human development, including natural language acquisition, social interaction, reflexive thought, moral judgment, and cognitive abilities. The progression of this capacity from early beginnings to adulthood is also highlighted, and there is speculation about its evolutionary origin. Overall, the theme centers on the importance and development of the ability to understand the minds of others in human cognition and behavior. Here Sentence 2 differs from the rest because it provides alternative terms for the concept discussed in the other sentences. While the other sentences consistently use the term \"theory of mind,\" Sentence 2 introduces synonyms such as 'mentalizing' or 'mindreading' to describe the same cognitive ability. This sentence essentially offers different labels for the concept without introducing new information or aspects of the theme discussed in the surrounding sentences."
+        },
+        {
+          "id": "cat-2023-slot1-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. What precisely are the “unusual elements” that make a particular case so attractive to a certain kind of audience?\n2. It might be a particularly savage or unfathomable level of depravity, very often it has something to do with the precise\namount of mystery involved.\n3. Unsolved, and perhaps unsolvable cases offer something that “ordinary” murder doesn’t.\n4. Why are some crimes destined for perpetual re-examination and others locked into permanent obscurity?",
+          "options": {},
+          "correct_answer": "4123",
+          "explanation": "Sentence 4 serves as a general introduction, raising the question about the enduring interest in certain crimes. Then 1 follows logically from the introductory question, delving into the specifics of what makes a case attractive to a particular audience. Then the 2nd sentence provides reasons or factors that contribute to the attractiveness of certain cases, linking back to the question raised in Sentence 1.3rd further explores the nature of the cases in question, emphasizing the appeal of unsolved or mysterious cases."
+        },
+        {
+          "id": "cat-2023-slot1-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Algorithms hosted on the internet are accessed by many, so biases in AI models have resulted in much larger impact,\nadversely affecting far larger groups of people.\n2. Though “algorithmic bias” is the popular term, the foundation of such bias is not in algorithms, but in the data; algorithms\nare not biased, data is, as algorithms merely reflect persistent patterns that are present in the training data.\n3. Despite their widespread impact, it is relatively easier to fix AI biases than human- generated biases, as it is simpler to identify\nthe former than to try to make people unlearn behaviors learnt over generations.\n4. The impact of biased decisions made by humans is localised and geographically confined, but with the advent of AI, the\nimpact of such decisions is spread over a much wider scale.",
+          "options": {},
+          "correct_answer": "4123",
+          "explanation": "4123 is the sequence that forms a coherent flow, where each sentence logically follows the previous one, building a comprehensive discussion on the impact and sources of bias in AI. Sentence 4 sets the stage by highlighting the contrast between the localized impact of human-made biased decisions and the broader impact introduced by AI. Then sentence 1 builds upon the idea introduced in Sentence 4, emphasizing how algorithms, especially those hosted on the internet, can have a widespread impact affecting larger groups of people. Sentence 2 delves into the distinction between \"algorithmic bias\" and the actual source of bias, emphasizing that biases are rooted in the data rather than the algorithms themselves. Sentence 3 concludes by addressing the relative ease of fixing AI biases compared to human- generated biases, emphasizing the practical aspect of addressing biases in AI."
+        },
+        {
+          "id": "cat-2023-slot1-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Colonialism is not a modern phenomenon. World history is full of examples of one society gradually expanding by\nincorporating adjacent territory and settling its people on newly conquered territory. In the sixteenth century, colonialism\nchanged decisively because of technological developments in navigation that began to connect more remote parts of the\nworld. The modern European colonial project emerged when it became possible to move large numbers of people across the\nocean and to maintain political control in spite of geographical dispersion. The term colonialism is used to describe the process\nof European settlement, violent dispossession and political domination over the rest of the world, including the Americas,\nAustralia, and parts of Africa and Asia.",
+          "options": {
+            "A": "Colonialism, conceptualized in the 16th century, allowed colonizers to expand their territories, establish settlements, and exercise political power.",
+            "B": "Colonialism surged in the 16th century due to advancements in navigation, enabling British settlements abroad and global dominance.",
+            "C": "As a result of developments in navigation technology, European colonialism, led to the displacement of indigenous populations and global political changes in the 16th century.",
+            "D": "Technological advancements in navigation in the 16th century, transformed colonialism, enabling Europeans to establish settlements and exert political dominance over distant regions."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage discusses colonialism as a historical phenomenon, highlighting its evolution and the factors that led to its transformation in the sixteenth century. It emphasizes the role of technological developments in navigation during that period, which enabled the connection of more remote parts of the world. The emergence of the modern European colonial project is attributed to the newfound ability to move large numbers of people across oceans and maintain political control despite geographical dispersion. The term colonialism is defined in the passage as encompassing European settlement, violent dispossession, and political domination over various regions globally, including the Americas, Australia, and parts of Africa and Asia. Overall, the passage provides a historical context for colonialism, underlining its earlier forms and the significant changes that occurred during the th sixteenth century due to advancements in navigation technology. So option 4 is the correct one."
+        },
+        {
+          "id": "cat-2023-slot1-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Manipulating information was a feature of history long before modern journalism established rules of integrity. A record dates\nback to ancient Rome, when Antony met Cleopatra and his political enemy Octavian launched a smear campaign against him\nwith “short, sharp slogans written upon coins.” The perpetrator became the first Roman Emperor and “fake news had allowed\nOctavian to hack the republican system once and for all”. But the 21st century has seen the weaponization of information on an\nunprecedented scale. Powerful new technology makes the fabrication of content simple, and social networks amplify falsehoods\npeddled by States, populist politicians, and dishonest corporate entities. The platforms have become fertile ground for\ncomputational propaganda, ‘trolling’ and ‘troll armies’.",
+          "options": {
+            "A": "Use of misinformation for attaining power, a practice that is as old as the Octavian era, is currently fueled by technology.",
+            "B": "People need to become critical of what they read, since historically, weaponization of information has led to corruption.",
+            "C": "Disinformation, which is mediated by technology today, is not new and has existed since ancient times.",
+            "D": "Octavian used fake news to manipulate people and attain power and influence, just as people do today."
+          },
+          "correct_answer": "A",
+          "explanation": "The passage discusses the historical aspect of manipulating information, emphasizing that this practice predates the establishment of modern journalism and rules of integrity. It provides an example from ancient Rome, where political enemies used a smear campaign against Antony with slogans written on coins, illustrating the early use of fake news for political purposes. The passage then transitions to the 21st century, highlighting the unprecedented scale of information weaponization. It points out that powerful new technology simplifies the fabrication of content, and social networks play a significant role in amplifying falsehoods propagated by states, populist politicians, and dishonest corporate entities. The platforms are described as fertile ground for various manipulative practices, including computational propaganda, trolling, and the deployment of troll armies. Overall, the passage addresses the historical roots of information manipulation and its contemporary manifestations with advanced technology and social media platforms. So the correct choice is option 1. Section : DI & Reasoning"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2023-slot1-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Faculty members in a management school can belong to one of four departments – Finance and Accounting (F&A), Marketing\nand Strategy (M&S), Operations and Quants (O&Q) and Behaviour and Human Resources (B&H). The numbers of faculty\nmembers in F&A, M&S, O&Q and B&H departments are 9, 7, 5 and 3 respectively.\nProf. Pakrasi, Prof. Qureshi, Prof. Ramaswamy and Prof. Samuel are four members of the school's faculty who were candidates\nfor the post of the Dean of the school. Only one of the candidates was from O&Q.\nEvery faculty member, including the four candidates, voted for the post. In each department, all the faculty members who were\nnot candidates voted for the same candidate. The rules for the election are listed below.\n1. There cannot be more than two candidates from a single department.\n2. A candidate cannot vote for himself/herself.\n3. Faculty members cannot vote for a candidate from their own department.\nAfter the election, it was observed that Prof. Pakrasi received 3 votes, Prof. Qureshi received 14 votes, Prof. Ramaswamy\nreceived 6 votes and Prof. Samuel received 1 vote. Prof. Pakrasi voted for Prof. Ramaswamy, Prof. Qureshi for Prof. Samuel, Prof.\nRamaswamy for Prof. Qureshi and Prof. Samuel for Prof. Pakrasi.\nWhich two candidates can belong to the same department?",
+          "options": {
+            "A": "Prof. Pakrasi and Prof. Samuel",
+            "B": "Prof. Qureshi and Prof. Ramaswamy",
+            "C": "Prof. Pakrasi and Prof. Qureshi",
+            "D": "Prof. Ramaswamy and Prof. Samuel"
+          },
+          "correct_answer": "C",
+          "explanation": "After reading the set, we can write following conditions. 1. There can be either 0 or 1 or 2 candidates form any department. 2. A candidate cannot vote for himself or herself. 3. Faculty members can not vote for candidate from their own department. 4. Non-candidates form same department voted for same candidate. 5. There are 9, 7, 5, 3 faculty members in FA, MS, OQ ,and BH. 6. P, Q, R, S received 3, 14, 6 and 1 votes. 7. There is exactly 1 candidate form OQ. Since the questions are dubious, we can say there would be at least two cases. Given Only one candidate is from OQ and there are 5 faculties from OQ ⇒ there are 4 non- candidates from OQ. Also, P voted for R, Q for S, R for Q and S for P. Given that all non-candidates faculty members from same department voted for the same candidate. So, all 4 non-candidates from OQ can vote for candidates either Q or R. Now P has got only 2 votes from non-candidates. From condition 4, these 2 votes can be from BH only that implies there is one candidate from BH. R has got 5 votes which can be only from MS because of condition 4 that implies there are 2 candidates from MS. Further, it can be determined that there is no candidates from FA. Q has got 13 non- candidates’ votes. They would be from remaining departments: FA (9) & OQ (4) Now let us try to find which candidate is from which department. From condition (3), R cannot be from MS. And Similarly we can determine for other candidates. Voted by candidatesVoted by Members P(3) S 2 (BH) Q (14) R 13 (FA(9)+OQ(4) R (6) P 5 (MS) S (1) Q zero No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P/Q/S OQ 5 1 4 (Q) P/R/S BH 3 1 2 (P) R/Q/S And Q has voted for S. So, Q and S cannot be in same department. So, P is definitely one of the candidate from MS. R has voted for Q. So, R and Q cannot be together. S has voted for P. So, P & S cannot be together. So, In MS, the candidates would be P & Q. No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P, Q OQ 5 1 4 (Q) R/S BH 3 1 2 (P) S/R P & Q are from same department."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following can be the number of votes that Prof. Qureshi received from a single department?",
+          "options": {
+            "A": "7",
+            "B": "9",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "B",
+          "explanation": "After reading the set, we can write following conditions. 1. There can be either 0 or 1 or 2 candidates form any department. 2. A candidate cannot vote for himself or herself. 3. Faculty members can not vote for candidate from their own department. 4. Non-candidates form same department voted for same candidate. 5. There are 9, 7, 5, 3 faculty members in FA, MS, OQ ,and BH. 6. P, Q, R, S received 3, 14, 6 and 1 votes. 7. There is exactly 1 candidate form OQ. Since the questions are dubious, we can say there would be at least two cases. Given Only one candidate is from OQ and there are 5 faculties from OQ ⇒ there are 4 non- candidates from OQ. Also, P voted for R, Q for S, R for Q and S for P. Given that all non-candidates faculty members from same department voted for the same candidate. So, all 4 non-candidates from OQ can vote for candidates either Q or R. Now P has got only 2 votes from non-candidates. From condition 4, these 2 votes can be from BH only that implies there is one candidate from BH. R has got 5 votes which can be only from MS because of condition 4 that implies there are 2 candidates from MS. Further, it can be determined that there is no candidates from FA. Q has got 13 non- candidates’ votes. They would be from remaining departments: FA (9) & OQ (4) Now let us try to find which candidate is from which department. From condition (3), R cannot be from MS. And Similarly we can determine for other candidates. Voted by candidatesVoted by Members P(3) S 2 (BH) Q (14) R 13 (FA(9)+OQ(4) R (6) P 5 (MS) S (1) Q zero No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P/Q/S OQ 5 1 4 (Q) P/R/S BH 3 1 2 (P) R/Q/S And Q has voted for S. So, Q and S cannot be in same department. So, P is definitely one of the candidate from MS. R has voted for Q. So, R and Q cannot be together. S has voted for P. So, P & S cannot be together. So, In MS, the candidates would be P & Q. No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P, Q OQ 5 1 4 (Q) R/S BH 3 1 2 (P) S/R Q gets 9 from FA and 4 from OQ. So, answer is 9."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Prof. Samuel belongs to B&H, which of the following statements is/are true?\nStatement A: Prof. Pakrasi belongs to M&S.\nStatement B: Prof. Ramaswamy belongs to O&Q.",
+          "options": {
+            "A": "Only statement A",
+            "B": "Only statement B",
+            "C": "Neither statement A nor statement B",
+            "D": "Both statements A and B"
+          },
+          "correct_answer": "D",
+          "explanation": "After reading the set, we can write following conditions. 1. There can be either 0 or 1 or 2 candidates form any department. 2. A candidate cannot vote for himself or herself. 3. Faculty members can not vote for candidate from their own department. 4. Non-candidates form same department voted for same candidate. 5. There are 9, 7, 5, 3 faculty members in FA, MS, OQ ,and BH. 6. P, Q, R, S received 3, 14, 6 and 1 votes. 7. There is exactly 1 candidate form OQ. Since the questions are dubious, we can say there would be at least two cases. Given Only one candidate is from OQ and there are 5 faculties from OQ ⇒ there are 4 non- candidates from OQ. Also, P voted for R, Q for S, R for Q and S for P. Given that all non-candidates faculty members from same department voted for the same candidate. So, all 4 non-candidates from OQ can vote for candidates either Q or R. Now P has got only 2 votes from non-candidates. From condition 4, these 2 votes can be from BH only that implies there is one candidate from BH. R has got 5 votes which can be only from MS because of condition 4 that implies there are 2 candidates from MS. Further, it can be determined that there is no candidates from FA. Q has got 13 non- candidates’ votes. They would be from remaining departments: FA (9) & OQ (4) Now let us try to find which candidate is from which department. From condition (3), R cannot be from MS. And Similarly we can determine for other candidates. Voted by candidatesVoted by Members P(3) S 2 (BH) Q (14) R 13 (FA(9)+OQ(4) R (6) P 5 (MS) S (1) Q zero No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P/Q/S OQ 5 1 4 (Q) P/R/S BH 3 1 2 (P) R/Q/S And Q has voted for S. So, Q and S cannot be in same department. So, P is definitely one of the candidate from MS. R has voted for Q. So, R and Q cannot be together. S has voted for P. So, P & S cannot be together. So, In MS, the candidates would be P & Q. No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P, Q OQ 5 1 4 (Q) R/S BH 3 1 2 (P) S/R Both statements are true."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What best can be concluded about the candidate from O&Q?",
+          "options": {
+            "A": "It was Prof. Ramaswamy.",
+            "B": "It was Prof. Samuel.",
+            "C": "It was either Prof. Pakrasi or Prof. Qureshi.",
+            "D": "It was either Prof. Ramaswamy or Prof. Samuel."
+          },
+          "correct_answer": "D",
+          "explanation": "After reading the set, we can write following conditions. 1. There can be either 0 or 1 or 2 candidates form any department. 2. A candidate cannot vote for himself or herself. 3. Faculty members can not vote for candidate from their own department. 4. Non-candidates form same department voted for same candidate. 5. There are 9, 7, 5, 3 faculty members in FA, MS, OQ ,and BH. 6. P, Q, R, S received 3, 14, 6 and 1 votes. 7. There is exactly 1 candidate form OQ. Since the questions are dubious, we can say there would be at least two cases. Given Only one candidate is from OQ and there are 5 faculties from OQ ⇒ there are 4 non- candidates from OQ. Also, P voted for R, Q for S, R for Q and S for P. Given that all non-candidates faculty members from same department voted for the same candidate. So, all 4 non-candidates from OQ can vote for candidates either Q or R. Now P has got only 2 votes from non-candidates. From condition 4, these 2 votes can be from BH only that implies there is one candidate from BH. R has got 5 votes which can be only from MS because of condition 4 that implies there are 2 candidates from MS. Further, it can be determined that there is no candidates from FA. Q has got 13 non- candidates’ votes. They would be from remaining departments: FA (9) & OQ (4) Now let us try to find which candidate is from which department. From condition (3), R cannot be from MS. And Similarly we can determine for other candidates. Voted by candidatesVoted by Members P(3) S 2 (BH) Q (14) R 13 (FA(9)+OQ(4) R (6) P 5 (MS) S (1) Q zero No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P/Q/S OQ 5 1 4 (Q) P/R/S BH 3 1 2 (P) R/Q/S And Q has voted for S. So, Q and S cannot be in same department. So, P is definitely one of the candidate from MS. R has voted for Q. So, R and Q cannot be together. S has voted for P. So, P & S cannot be together. So, In MS, the candidates would be P & Q. No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P, Q OQ 5 1 4 (Q) R/S BH 3 1 2 (P) S/R It was either Prof. Ramaswamy or Prof. Samuel."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is/are true?\nStatement A: Non-candidates from M&S voted for Prof. Qureshi.\nStatement B: Non-candidates from F&A voted for Prof. Qureshi.",
+          "options": {
+            "A": "Both statements A and B",
+            "B": "Only statement B",
+            "C": "Neither statement A nor statement B",
+            "D": "Only statement A"
+          },
+          "correct_answer": "B",
+          "explanation": "After reading the set, we can write following conditions. 1. There can be either 0 or 1 or 2 candidates form any department. 2. A candidate cannot vote for himself or herself. 3. Faculty members can not vote for candidate from their own department. 4. Non-candidates form same department voted for same candidate. 5. There are 9, 7, 5, 3 faculty members in FA, MS, OQ ,and BH. 6. P, Q, R, S received 3, 14, 6 and 1 votes. 7. There is exactly 1 candidate form OQ. Since the questions are dubious, we can say there would be at least two cases. Given Only one candidate is from OQ and there are 5 faculties from OQ ⇒ there are 4 non- candidates from OQ. Also, P voted for R, Q for S, R for Q and S for P. Given that all non-candidates faculty members from same department voted for the same candidate. So, all 4 non-candidates from OQ can vote for candidates either Q or R. Now P has got only 2 votes from non-candidates. From condition 4, these 2 votes can be from BH only that implies there is one candidate from BH. R has got 5 votes which can be only from MS because of condition 4 that implies there are 2 candidates from MS. Further, it can be determined that there is no candidates from FA. Q has got 13 non- candidates’ votes. They would be from remaining departments: FA (9) & OQ (4) Now let us try to find which candidate is from which department. From condition (3), R cannot be from MS. And Similarly we can determine for other candidates. Voted by candidatesVoted by Members P(3) S 2 (BH) Q (14) R 13 (FA(9)+OQ(4) R (6) P 5 (MS) S (1) Q zero No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P/Q/S OQ 5 1 4 (Q) P/R/S BH 3 1 2 (P) R/Q/S And Q has voted for S. So, Q and S cannot be in same department. So, P is definitely one of the candidate from MS. R has voted for Q. So, R and Q cannot be together. S has voted for P. So, P & S cannot be together. So, In MS, the candidates would be P & Q. No. of No. of Other Candidates Subject memberscandidates (Voted) in dept. FA 9 0 9 (Q) × MS 7 2 5 (R) P, Q OQ 5 1 4 (Q) R/S BH 3 1 2 (P) S/R Only statement (B) is true."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Five restaurants, coded R1, R2, R3, R4 and R5 gave integer ratings to five gig workers – Ullas, Vasu, Waman, Xavier and Yusuf,\non a scale of 1 to 5.\nThe means of the ratings given by R1, R2, R3, R4 and R5 were 3.4, 2.2, 3.8, 2.8 and 3.4 respectively.\n\nThe summary statistics of these ratings for the five workers is given below.\nUllasVasuWamanXavier Yusuf\nMean rating 2.2 3.8 3.4 3.6 2.6\nMedian rating 2 4 4 4 3\nModal rating 2 4 5 5 1 and 4\nRange of rating* 3 3 4 4 3\n*Range of ratings is defined as the difference between the maximum and minimum ratings awarded to a worker.\nThe following is partial information about ratings of 1 and 5 awarded by the restaurants to the workers.\n(a) R1 awarded a rating of 5 to Waman, as did R2 to Xavier, R3 to Waman and Xavier, and R5 to Vasu.\n(b) R1 awarded a rating of 1 to Ullas, as did R2 to Waman and Yusuf, and R3 to Yusuf.\nHow many individual ratings cannot be determined from the above information? (in numerial value)",
+          "options": {},
+          "correct_answer": "0",
+          "explanation": "To solve this set, following definitions we need to know: Median = middle value after arranging the data in either ascending or descending order. Mode = the number which is appearing highest number of times Range = Maximum number – Minimum number By using Mean formula; we can calculate total of all ratings given by all restaurants to each worker. For Ullas, U = 2.2 × 5 = 11 V = 3.8 × 5 = 19 W = 3.4 × 5 = 17 X = 3.6 × 5 = 18 Y = 2.6 × 5 = 13 For Ullas, median rating is 2 i.e. middle most rating is 2. So, two lowest ratings are £ 2. Also, mode is 2. It means there should be atleast two 2’s in ratings. Range = 3. That means Max rating – Min. rating = 3. R awarded rating of 1 to U. Means maximum rating can be 4 only. 1 So far we have deducted 4 ratings of U and they are are 1, 4, 2, 2. Since total is 11. So, all ratings are 1, 2, 2, 2, 4. For V, total is 19. If we give 5 rating every time we will get total of 20. It means ratings are 2, 4, 4, 4, 5. (Because range is 3.) For w, Similarly we can say, ratings are 1, 2, 4, 5, 5. For x, ratings are 1, 3, 4, 5, 5. For y, there are two modes 1 & 4. It means 1 and 4 will occur atleast twice. So, ratings are 1, 1, 3, 4, 4. B < B < B < B < B where B = ratings i 1 2 3 4 5 i B B B B B Total 1 2 3 4 5 U 1 2 2 2 4 11 V 2 4 4 4 5 19 W 1 2 4 5 5 17 X 1 3 4 5 5 18 Y 1 1 3 4 4 13 Now Let us try to find a link between workers and restaurants. R R R R R Ratings Total 1 2 3 4 5 U 1 2 4 2 2 1, 2, 2, 2, 4 11 V 4 2 4 4 5 2, 4, 4, 4, 5 19 W 5 1 5 2/4 4/2 1, 2, 4, 5, 5 17 X 1/3/4 5 5 1/3/4 1/3/4 1, 3, 4, 5, 5 18 Y 3/4/4 1 1 3/4/4 3/4/4 1, 1, 3, 4, 4 13 Total3.4×5=172.2×5=113.8×5=192.8×5=14 17 Since total of ratings given by R3 is 19. It is possible only if remaining ratings are 4 & 4. Because all 5’s are used. Let us think, for R4; Possible ratings are 2, 4, 2/4, 1/3/4 or 3/4/4 Total = 14 So, possible cases are 2, 4, 2, 3, 3 or 2, 4, 4, 1, 3 But by putting 2, 4, 2, 3, 3, the table is not satisfied. So, now we can make a new table: R R R R R 1 2 3 4 5 U 1 2 4 2 2 V 4 2 4 4 5 W 5 1 5 4 2 X 3 5 5 1 4 Y 4 1 1 3 4 Ans is 0"
+        },
+        {
+          "id": "cat-2023-slot1-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "To how many workers did R2 give a rating of 4? (in numerial value)",
+          "options": {},
+          "correct_answer": "0",
+          "explanation": "To solve this set, following definitions we need to know: Median = middle value after arranging the data in either ascending or descending order. Mode = the number which is appearing highest number of times Range = Maximum number – Minimum number By using Mean formula; we can calculate total of all ratings given by all restaurants to each worker. For Ullas, U = 2.2 × 5 = 11 V = 3.8 × 5 = 19 W = 3.4 × 5 = 17 X = 3.6 × 5 = 18 Y = 2.6 × 5 = 13 For Ullas, median rating is 2 i.e. middle most rating is 2. So, two lowest ratings are £ 2. Also, mode is 2. It means there should be atleast two 2’s in ratings. Range = 3. That means Max rating – Min. rating = 3. R awarded rating of 1 to U. Means maximum rating can be 4 only. 1 So far we have deducted 4 ratings of U and they are are 1, 4, 2, 2. Since total is 11. So, all ratings are 1, 2, 2, 2, 4. For V, total is 19. If we give 5 rating every time we will get total of 20. It means ratings are 2, 4, 4, 4, 5. (Because range is 3.) For w, Similarly we can say, ratings are 1, 2, 4, 5, 5. For x, ratings are 1, 3, 4, 5, 5. For y, there are two modes 1 & 4. It means 1 and 4 will occur atleast twice. So, ratings are 1, 1, 3, 4, 4. B < B < B < B < B where B = ratings i 1 2 3 4 5 i B B B B B Total 1 2 3 4 5 U 1 2 2 2 4 11 V 2 4 4 4 5 19 W 1 2 4 5 5 17 X 1 3 4 5 5 18 Y 1 1 3 4 4 13 Now Let us try to find a link between workers and restaurants. R R R R R Ratings Total 1 2 3 4 5 U 1 2 4 2 2 1, 2, 2, 2, 4 11 V 4 2 4 4 5 2, 4, 4, 4, 5 19 W 5 1 5 2/4 4/2 1, 2, 4, 5, 5 17 X 1/3/4 5 5 1/3/4 1/3/4 1, 3, 4, 5, 5 18 Y 3/4/4 1 1 3/4/4 3/4/4 1, 1, 3, 4, 4 13 Total3.4×5=172.2×5=113.8×5=192.8×5=14 17 Since total of ratings given by R3 is 19. It is possible only if remaining ratings are 4 & 4. Because all 5’s are used. Let us think, for R4; Possible ratings are 2, 4, 2/4, 1/3/4 or 3/4/4 Total = 14 So, possible cases are 2, 4, 2, 3, 3 or 2, 4, 4, 1, 3 But by putting 2, 4, 2, 3, 3, the table is not satisfied. So, now we can make a new table: R R R R R 1 2 3 4 5 U 1 2 4 2 2 V 4 2 4 4 5 W 5 1 5 4 2 X 3 5 5 1 4 Y 4 1 1 3 4 Ans is 0"
+        },
+        {
+          "id": "cat-2023-slot1-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What rating did R1 give to Xavier? (in numerial value)",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "To solve this set, following definitions we need to know: Median = middle value after arranging the data in either ascending or descending order. Mode = the number which is appearing highest number of times Range = Maximum number – Minimum number By using Mean formula; we can calculate total of all ratings given by all restaurants to each worker. For Ullas, U = 2.2 × 5 = 11 V = 3.8 × 5 = 19 W = 3.4 × 5 = 17 X = 3.6 × 5 = 18 Y = 2.6 × 5 = 13 For Ullas, median rating is 2 i.e. middle most rating is 2. So, two lowest ratings are £ 2. Also, mode is 2. It means there should be atleast two 2’s in ratings. Range = 3. That means Max rating – Min. rating = 3. R awarded rating of 1 to U. Means maximum rating can be 4 only. 1 So far we have deducted 4 ratings of U and they are are 1, 4, 2, 2. Since total is 11. So, all ratings are 1, 2, 2, 2, 4. For V, total is 19. If we give 5 rating every time we will get total of 20. It means ratings are 2, 4, 4, 4, 5. (Because range is 3.) For w, Similarly we can say, ratings are 1, 2, 4, 5, 5. For x, ratings are 1, 3, 4, 5, 5. For y, there are two modes 1 & 4. It means 1 and 4 will occur atleast twice. So, ratings are 1, 1, 3, 4, 4. B < B < B < B < B where B = ratings i 1 2 3 4 5 i B B B B B Total 1 2 3 4 5 U 1 2 2 2 4 11 V 2 4 4 4 5 19 W 1 2 4 5 5 17 X 1 3 4 5 5 18 Y 1 1 3 4 4 13 Now Let us try to find a link between workers and restaurants. R R R R R Ratings Total 1 2 3 4 5 U 1 2 4 2 2 1, 2, 2, 2, 4 11 V 4 2 4 4 5 2, 4, 4, 4, 5 19 W 5 1 5 2/4 4/2 1, 2, 4, 5, 5 17 X 1/3/4 5 5 1/3/4 1/3/4 1, 3, 4, 5, 5 18 Y 3/4/4 1 1 3/4/4 3/4/4 1, 1, 3, 4, 4 13 Total3.4×5=172.2×5=113.8×5=192.8×5=14 17 Since total of ratings given by R3 is 19. It is possible only if remaining ratings are 4 & 4. Because all 5’s are used. Let us think, for R4; Possible ratings are 2, 4, 2/4, 1/3/4 or 3/4/4 Total = 14 So, possible cases are 2, 4, 2, 3, 3 or 2, 4, 4, 1, 3 But by putting 2, 4, 2, 3, 3, the table is not satisfied. So, now we can make a new table: R R R R R 1 2 3 4 5 U 1 2 4 2 2 V 4 2 4 4 5 W 5 1 5 4 2 X 3 5 5 1 4 Y 4 1 1 3 4 Ans is 3"
+        },
+        {
+          "id": "cat-2023-slot1-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the median of the ratings given by R3 to the five workers? (in numerial value)",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": "To solve this set, following definitions we need to know: Median = middle value after arranging the data in either ascending or descending order. Mode = the number which is appearing highest number of times Range = Maximum number – Minimum number By using Mean formula; we can calculate total of all ratings given by all restaurants to each worker. For Ullas, U = 2.2 × 5 = 11 V = 3.8 × 5 = 19 W = 3.4 × 5 = 17 X = 3.6 × 5 = 18 Y = 2.6 × 5 = 13 For Ullas, median rating is 2 i.e. middle most rating is 2. So, two lowest ratings are £ 2. Also, mode is 2. It means there should be atleast two 2’s in ratings. Range = 3. That means Max rating – Min. rating = 3. R awarded rating of 1 to U. Means maximum rating can be 4 only. 1 So far we have deducted 4 ratings of U and they are are 1, 4, 2, 2. Since total is 11. So, all ratings are 1, 2, 2, 2, 4. For V, total is 19. If we give 5 rating every time we will get total of 20. It means ratings are 2, 4, 4, 4, 5. (Because range is 3.) For w, Similarly we can say, ratings are 1, 2, 4, 5, 5. For x, ratings are 1, 3, 4, 5, 5. For y, there are two modes 1 & 4. It means 1 and 4 will occur atleast twice. So, ratings are 1, 1, 3, 4, 4. B < B < B < B < B where B = ratings i 1 2 3 4 5 i B B B B B Total 1 2 3 4 5 U 1 2 2 2 4 11 V 2 4 4 4 5 19 W 1 2 4 5 5 17 X 1 3 4 5 5 18 Y 1 1 3 4 4 13 Now Let us try to find a link between workers and restaurants. R R R R R Ratings Total 1 2 3 4 5 U 1 2 4 2 2 1, 2, 2, 2, 4 11 V 4 2 4 4 5 2, 4, 4, 4, 5 19 W 5 1 5 2/4 4/2 1, 2, 4, 5, 5 17 X 1/3/4 5 5 1/3/4 1/3/4 1, 3, 4, 5, 5 18 Y 3/4/4 1 1 3/4/4 3/4/4 1, 1, 3, 4, 4 13 Total3.4×5=172.2×5=113.8×5=192.8×5=14 17 Since total of ratings given by R3 is 19. It is possible only if remaining ratings are 4 & 4. Because all 5’s are used. Let us think, for R4; Possible ratings are 2, 4, 2/4, 1/3/4 or 3/4/4 Total = 14 So, possible cases are 2, 4, 2, 3, 3 or 2, 4, 4, 1, 3 But by putting 2, 4, 2, 3, 3, the table is not satisfied. So, now we can make a new table: R R R R R 1 2 3 4 5 U 1 2 4 2 2 V 4 2 4 4 5 W 5 1 5 4 2 X 3 5 5 1 4 Y 4 1 1 3 4 Ratings are 1, 4, 4, 5, 5. So, median is 4."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which among the following restaurants gave its median rating to exactly one of the workers?",
+          "options": {
+            "A": "R2",
+            "B": "R5",
+            "C": "R3",
+            "D": "R4"
+          },
+          "correct_answer": "D",
+          "explanation": "To solve this set, following definitions we need to know: Median = middle value after arranging the data in either ascending or descending order. Mode = the number which is appearing highest number of times Range = Maximum number – Minimum number By using Mean formula; we can calculate total of all ratings given by all restaurants to each worker. For Ullas, U = 2.2 × 5 = 11 V = 3.8 × 5 = 19 W = 3.4 × 5 = 17 X = 3.6 × 5 = 18 Y = 2.6 × 5 = 13 For Ullas, median rating is 2 i.e. middle most rating is 2. So, two lowest ratings are £ 2. Also, mode is 2. It means there should be atleast two 2’s in ratings. Range = 3. That means Max rating – Min. rating = 3. R awarded rating of 1 to U. Means maximum rating can be 4 only. 1 So far we have deducted 4 ratings of U and they are are 1, 4, 2, 2. Since total is 11. So, all ratings are 1, 2, 2, 2, 4. For V, total is 19. If we give 5 rating every time we will get total of 20. It means ratings are 2, 4, 4, 4, 5. (Because range is 3.) For w, Similarly we can say, ratings are 1, 2, 4, 5, 5. For x, ratings are 1, 3, 4, 5, 5. For y, there are two modes 1 & 4. It means 1 and 4 will occur atleast twice. So, ratings are 1, 1, 3, 4, 4. B < B < B < B < B where B = ratings i 1 2 3 4 5 i B B B B B Total 1 2 3 4 5 U 1 2 2 2 4 11 V 2 4 4 4 5 19 W 1 2 4 5 5 17 X 1 3 4 5 5 18 Y 1 1 3 4 4 13 Now Let us try to find a link between workers and restaurants. R R R R R Ratings Total 1 2 3 4 5 U 1 2 4 2 2 1, 2, 2, 2, 4 11 V 4 2 4 4 5 2, 4, 4, 4, 5 19 W 5 1 5 2/4 4/2 1, 2, 4, 5, 5 17 X 1/3/4 5 5 1/3/4 1/3/4 1, 3, 4, 5, 5 18 Y 3/4/4 1 1 3/4/4 3/4/4 1, 1, 3, 4, 4 13 Total3.4×5=172.2×5=113.8×5=192.8×5=14 17 Since total of ratings given by R3 is 19. It is possible only if remaining ratings are 4 & 4. Because all 5’s are used. Let us think, for R4; Possible ratings are 2, 4, 2/4, 1/3/4 or 3/4/4 Total = 14 So, possible cases are 2, 4, 2, 3, 3 or 2, 4, 4, 1, 3 But by putting 2, 4, 2, 3, 3, the table is not satisfied. So, now we can make a new table: R R R R R 1 2 3 4 5 U 1 2 4 2 2 V 4 2 4 4 5 W 5 1 5 4 2 X 3 5 5 1 4 Y 4 1 1 3 4 R median = 4 (given twice) (1, 3, 4, 4, 5) 1 R median = 2 (given twice) (1, 1, 2, 2, 5) 2 R median = 4 (given twice) (1, 4, 4, 5, 5) 3 R median = 3 (given once) (1, 2, 3, 4, 4) 4 R median = 4 (given twice) (2, 2, 4, 4, 5) 5 So, answer is R 4"
+        },
+        {
+          "id": "cat-2023-slot1-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A visa processing office (VPO) accepts visa applications in four categories – US, UK, Schengen, and Others. The applications are\nscheduled for processing in twenty 15-minute slots starting at 9:00 am and ending at 2:00 pm. Ten applications are scheduled\nin each slot.\nThere are ten counters in the office, four dedicated to US applications, and two each for UK applications, Schengen applications\nand Others applications. Applicants are called in for processing sequentially on a first-come-first-served basis whenever a\ncounter gets freed for their category. The processing time for an application is the same within each category. But it may vary\nacross the categories. Each US and UK application requires 10 minutes of processing time. Depending on the number of\napplications in a category and time required to process an application for that category, it is possible that an applicant for a slot\nmay be processed later.\nOn a particular day, Ira, Vijay and Nandini were scheduled for Schengen visa processing in that order. They had a 9:15 am slot\nbut entered the VPO at 9:20 am. When they entered the office, exactly six out of the ten counters were either processing\napplications, or had finished processing one and ready to start processing the next.\nMahira and Osman were scheduled in the 9:30 am slot on that day for visa processing in the Others category.\nThe following additional information is known about that day.\n1. All slots were full.\n2. The number of US applications was the same in all the slots. The same was true for the other three categories.\n3. 50% of the applications were US applications.\n\n4. All applicants except Ira, Vijay and Nandini arrived on time.\n5. Vijay was called to a counter at 9:25 am.\nHow many UK applications were scheduled on that day? (in numerial value)",
+          "options": {},
+          "correct_answer": "0",
+          "explanation": "Given slots are twenty 15 minutes slots starting at 9AM and ending at 2PM. Then applicants are scheduled in each slot. Total number of applicants = 10 × 20 = 200 No. of US applications = 50% of Total = 50% of 200 = 100 Since the number of US applications was the same in all slots. It is given that I, V and N were scheduled for Schengen visa processing in that order. Their slot was 9:15 AM. It means the number of shengen applicants in each slot is at least 3. Similarly, it is given that M and O were scheduled in the 9:30AM slot in others category. So, the number of applicants in other category in each slot is at least 2. Since the number of applicants in each slots is 10. So, it can be inferred that number of Schengen and others applicants is 3 and 2 respectively. Hence the number of UK applicants is 0 in each slot. Total number of counters = 10 US counters = 4 UK counters = 2 Schengen counters = 2 Others counters = 2 Given that US and UK application requires 10 mins of processing time. th Vijay was called at 9:25 A.M. (5 in line). It is possible if processing time for Schengen visa is 12.5 mins. On a particular day, I, V and N were scheduled for Schengen visa processing in given order. They had 9:15 AM slot but entered at 9:20 A.M. when they entered VPO, exactly 6 out of 10 counters were either processing applications or had finished processing ones and ready to start processing the next. Hence at 9:20 A.M. there are exactly 4 free counters. Out of these 4 free counters, 2 would be UK and 2 would be others. So, for US (Processing time is 10 mins) slots counter-wise are, C : 9:10, 9:20, 9:30, 9:40, 9:55, 10:10, 10:20 1 C : 9:10, 9:25, 9:35, 9:45, 9:55, 10:10 2 C : 9:10, 9:25, 9:40, 9:50, 10:00, 10:10 3 C : 9:10, 9:25, 9:40, 9:55, 10:05, 10:15 4 For Schengen visa (12.5 mins) slots are C1 : 9:12.30, 9:25. 9:37.30 C2 : 9:12.30, 9:32.30, 9:45 For others (5 mins) slots are C1 → 9:05, 9:20, 9:35 C2 → 9:05, 9:20, 9:35 0 is the answer."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the maximum possible value of the total time (in minutes, nearest to its integer value) required to process all\napplications in the Others category on that day? (in numerial value)",
+          "options": {},
+          "correct_answer": "200",
+          "explanation": "Given slots are twenty 15 minutes slots starting at 9AM and ending at 2PM. Then applicants are scheduled in each slot. Total number of applicants = 10 × 20 = 200 No. of US applications = 50% of Total = 50% of 200 = 100 Since the number of US applications was the same in all slots. It is given that I, V and N were scheduled for Schengen visa processing in that order. Their slot was 9:15 AM. It means the number of shengen applicants in each slot is at least 3. Similarly, it is given that M and O were scheduled in the 9:30AM slot in others category. So, the number of applicants in other category in each slot is at least 2. Since the number of applicants in each slots is 10. So, it can be inferred that number of Schengen and others applicants is 3 and 2 respectively. Hence the number of UK applicants is 0 in each slot. Total number of counters = 10 US counters = 4 UK counters = 2 Schengen counters = 2 Others counters = 2 Given that US and UK application requires 10 mins of processing time. th Vijay was called at 9:25 A.M. (5 in line). It is possible if processing time for Schengen visa is 12.5 mins. On a particular day, I, V and N were scheduled for Schengen visa processing in given order. They had 9:15 AM slot but entered at 9:20 A.M. when they entered VPO, exactly 6 out of 10 counters were either processing applications or had finished processing ones and ready to start processing the next. Hence at 9:20 A.M. there are exactly 4 free counters. Out of these 4 free counters, 2 would be UK and 2 would be others. So, for US (Processing time is 10 mins) slots counter-wise are, C : 9:10, 9:20, 9:30, 9:40, 9:55, 10:10, 10:20 1 C : 9:10, 9:25, 9:35, 9:45, 9:55, 10:10 2 C : 9:10, 9:25, 9:40, 9:50, 10:00, 10:10 3 C : 9:10, 9:25, 9:40, 9:55, 10:05, 10:15 4 For Schengen visa (12.5 mins) slots are C1 : 9:12.30, 9:25. 9:37.30 C2 : 9:12.30, 9:32.30, 9:45 For others (5 mins) slots are C1 → 9:05, 9:20, 9:35 C2 → 9:05, 9:20, 9:35 For the others, the time taken to process are application is 5 mins. Time taken to process 40 applications is 40 × 5 = 200 mins."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is the closest to the time when Nandini’s application process got over?",
+          "options": {
+            "A": "9:45 am",
+            "B": "9:37 am",
+            "C": "9:50 am",
+            "D": "9:35 am"
+          },
+          "correct_answer": "A",
+          "explanation": "Given slots are twenty 15 minutes slots starting at 9AM and ending at 2PM. Then applicants are scheduled in each slot. Total number of applicants = 10 × 20 = 200 No. of US applications = 50% of Total = 50% of 200 = 100 Since the number of US applications was the same in all slots. It is given that I, V and N were scheduled for Schengen visa processing in that order. Their slot was 9:15 AM. It means the number of shengen applicants in each slot is at least 3. Similarly, it is given that M and O were scheduled in the 9:30AM slot in others category. So, the number of applicants in other category in each slot is at least 2. Since the number of applicants in each slots is 10. So, it can be inferred that number of Schengen and others applicants is 3 and 2 respectively. Hence the number of UK applicants is 0 in each slot. Total number of counters = 10 US counters = 4 UK counters = 2 Schengen counters = 2 Others counters = 2 Given that US and UK application requires 10 mins of processing time. th Vijay was called at 9:25 A.M. (5 in line). It is possible if processing time for Schengen visa is 12.5 mins. On a particular day, I, V and N were scheduled for Schengen visa processing in given order. They had 9:15 AM slot but entered at 9:20 A.M. when they entered VPO, exactly 6 out of 10 counters were either processing applications or had finished processing ones and ready to start processing the next. Hence at 9:20 A.M. there are exactly 4 free counters. Out of these 4 free counters, 2 would be UK and 2 would be others. So, for US (Processing time is 10 mins) slots counter-wise are, C : 9:10, 9:20, 9:30, 9:40, 9:55, 10:10, 10:20 1 C : 9:10, 9:25, 9:35, 9:45, 9:55, 10:10 2 C : 9:10, 9:25, 9:40, 9:50, 10:00, 10:10 3 C : 9:10, 9:25, 9:40, 9:55, 10:05, 10:15 4 For Schengen visa (12.5 mins) slots are C1 : 9:12.30, 9:25. 9:37.30 C2 : 9:12.30, 9:32.30, 9:45 For others (5 mins) slots are C1 → 9:05, 9:20, 9:35 C2 → 9:05, 9:20, 9:35 Nandini’s application is 6th in Schengen application. So, her process will end at 9:45 AM True"
+        },
+        {
+          "id": "cat-2023-slot1-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is false?",
+          "options": {
+            "A": "The application process of Mahira was completed before Nandini’s.",
+            "B": "The application process of Mahira started after Nandini’s.",
+            "C": "The application process of Osman was completed before 9:45 am.",
+            "D": "The application process of Osman was completed before Vijay’s."
+          },
+          "correct_answer": "B",
+          "explanation": "Given slots are twenty 15 minutes slots starting at 9AM and ending at 2PM. Then applicants are scheduled in each slot. Total number of applicants = 10 × 20 = 200 No. of US applications = 50% of Total = 50% of 200 = 100 Since the number of US applications was the same in all slots. It is given that I, V and N were scheduled for Schengen visa processing in that order. Their slot was 9:15 AM. It means the number of shengen applicants in each slot is at least 3. Similarly, it is given that M and O were scheduled in the 9:30AM slot in others category. So, the number of applicants in other category in each slot is at least 2. Since the number of applicants in each slots is 10. So, it can be inferred that number of Schengen and others applicants is 3 and 2 respectively. Hence the number of UK applicants is 0 in each slot. Total number of counters = 10 US counters = 4 UK counters = 2 Schengen counters = 2 Others counters = 2 Given that US and UK application requires 10 mins of processing time. th Vijay was called at 9:25 A.M. (5 in line). It is possible if processing time for Schengen visa is 12.5 mins. On a particular day, I, V and N were scheduled for Schengen visa processing in given order. They had 9:15 AM slot but entered at 9:20 A.M. when they entered VPO, exactly 6 out of 10 counters were either processing applications or had finished processing ones and ready to start processing the next. Hence at 9:20 A.M. there are exactly 4 free counters. Out of these 4 free counters, 2 would be UK and 2 would be others. So, for US (Processing time is 10 mins) slots counter-wise are, C : 9:10, 9:20, 9:30, 9:40, 9:55, 10:10, 10:20 1 C : 9:10, 9:25, 9:35, 9:45, 9:55, 10:10 2 C : 9:10, 9:25, 9:40, 9:50, 10:00, 10:10 3 C : 9:10, 9:25, 9:40, 9:55, 10:05, 10:15 4 For Schengen visa (12.5 mins) slots are C1 : 9:12.30, 9:25. 9:37.30 C2 : 9:12.30, 9:32.30, 9:45 For others (5 mins) slots are C1 → 9:05, 9:20, 9:35 C2 → 9:05, 9:20, 9:35 Option 3) the process for O was completed before 9:45 A.M. True Option 2) The application process for Mahira started after Nandini’s. For Mahira, starting time is 9:30 A.M. So, for Nandini, starting time is 9:32.30. False. So, option 2 is answer."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "When did the application processing for all US applicants get over on that day?",
+          "options": {
+            "A": "3:40 pm",
+            "B": "2:05 pm",
+            "C": "2:00 pm",
+            "D": "2:25 pm"
+          },
+          "correct_answer": "B",
+          "explanation": "Given slots are twenty 15 minutes slots starting at 9AM and ending at 2PM. Then applicants are scheduled in each slot. Total number of applicants = 10 × 20 = 200 No. of US applications = 50% of Total = 50% of 200 = 100 Since the number of US applications was the same in all slots. It is given that I, V and N were scheduled for Schengen visa processing in that order. Their slot was 9:15 AM. It means the number of shengen applicants in each slot is at least 3. Similarly, it is given that M and O were scheduled in the 9:30AM slot in others category. So, the number of applicants in other category in each slot is at least 2. Since the number of applicants in each slots is 10. So, it can be inferred that number of Schengen and others applicants is 3 and 2 respectively. Hence the number of UK applicants is 0 in each slot. Total number of counters = 10 US counters = 4 UK counters = 2 Schengen counters = 2 Others counters = 2 Given that US and UK application requires 10 mins of processing time. th Vijay was called at 9:25 A.M. (5 in line). It is possible if processing time for Schengen visa is 12.5 mins. On a particular day, I, V and N were scheduled for Schengen visa processing in given order. They had 9:15 AM slot but entered at 9:20 A.M. when they entered VPO, exactly 6 out of 10 counters were either processing applications or had finished processing ones and ready to start processing the next. Hence at 9:20 A.M. there are exactly 4 free counters. Out of these 4 free counters, 2 would be UK and 2 would be others. So, for US (Processing time is 10 mins) slots counter-wise are, C : 9:10, 9:20, 9:30, 9:40, 9:55, 10:10, 10:20 1 C : 9:10, 9:25, 9:35, 9:45, 9:55, 10:10 2 C : 9:10, 9:25, 9:40, 9:50, 10:00, 10:10 3 C : 9:10, 9:25, 9:40, 9:55, 10:05, 10:15 4 For Schengen visa (12.5 mins) slots are C1 : 9:12.30, 9:25. 9:37.30 C2 : 9:12.30, 9:32.30, 9:45 For others (5 mins) slots are C1 → 9:05, 9:20, 9:35 C2 → 9:05, 9:20, 9:35 From the slots, we can see that the first slot took 20 mins to complete, and after that the remaining 19 slots took 15 mins each to complete the US application process. So, Total time taken = 20 + 15 × 19 = 305 mins. Hence end time will be = 9 AM + 305 Mins = 2:05 P.M."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The schematic diagram below shows 12 rectangular houses in a housing complex. House numbers are mentioned in the\nrectangles representing the houses. The houses are located in six columns – Column-A through Column-F, and two rows –\nRow-1 and Row-2. The houses are divided into two blocks - Block XX and Block YY. The diagram also shows two roads, one\npassing in front of the houses in Row-2 and another between the two blocks.\nSome of the houses are occupied. The remaining ones are vacant and are the only ones available for sale.\nThe road adjacency value of a house is the number of its sides adjacent to a road. For example, the road adjacency values of C2,\nF2, and B1 are 2, 1, and 0, respectively. The neighbour count of a house is the number of sides of that house adjacent to\noccupied houses in the same block. For example, E1 and C1 can have the maximum possible neighbour counts of 3 and 2,\nrespectively.\nThe base price of a vacant house is Rs. 10 lakhs if the house does not have a parking space, and Rs. 12 lakhs if it does. The\nquoted price (in lakhs of Rs.) of a vacant house is calculated as (base price) + 5 × (road adjacency value) + 3 × (neighbour\ncount).\nThe following information is also known.\n1. The maximum quoted price of a house in Block XX is Rs. 24 lakhs. The minimum quoted price of a house in block YY is Rs. 15\nlakhs, and one such house is in Column-E.\n\n2. Row-1 has two occupied houses, one in each block.\n3. Both houses in Column-E are vacant. Each of Column-D and Column-F has at least one occupied house.\n4. There is only one house with parking space in Block YY.\nHow many houses are vacant in Block XX? (in numerial value)",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "We can determine following by reading the set: 1. Row 1 has two occupied houses one in each block means one out of A , B , C is occupied. 1 1 1 One out of D , E , F is occupied 1 1 1 Also, it means 4 are vacant. 2. E and E are vacant. 1 2 3. The costeliest house (vacant) in block xx is worth 24 lacs. 4. The cheapest house (vacant) in block yy is worth 15 lacs. 5. One out of E or E is of worth 15 lacs. 1 2 6. There is only are house with parking space in block yy. Let a = road adjacency value Let b = neighbor count. Where a = 0/1/2 Where b = 0/1/2/3 There can be 2 possibilities for the house worth 24 lacs: Case 1: - A house has parking space: Quoted price = 12 + 5a + 3b = 24 ⇒ 5a + 3b = 12 The only possible solution is a = 0, b = 4. But b can’t be 4 as maximum no. of neighbors can be 3. Case 2:- House has not parking space. Quoted price = 10 + 5a + 3b = 24 ⇒ 5a + 3b = 14 ⇒ a = 1, b = 3 It means the house has 1 roads adjacent and 3 neighbours i.e. occupied houses. The only possibility is B 2 So, we can determine B is vacant and worth 24 lacs. Also A , B and C are 2 2 1 2 unoccupied. From condition (1), we can say A & C are unoccupied. 1 1 For Block YY: Both E and E are vacant. 1 2 By condition 4, either price of E or E is 15 Lacs. 1 2 Two cases arise:- Case 1: If E is of 15 Lacs. 1 Road adjacency value = 0. If this house has no parking space then 10 + 5 × 0 + 3b = 15 ⇒ 3b = 5 Never possible. If E has parking space, 1 12 + 5 × 0 + 3b = 15 ⇒ 3b = 3 ⇒ b = 1. Means E has one occupied neighboring house. E is already vacant. So, It can be either D or 1 2 1 F . So, there would be 2 possibilities 1 √ × × × × √ D E F or D E F 1 1 1 1 1 1 × × √ √ × × D E F D E F 2 2 2 2 2 2 Case 2: If E is of 15 Lacs. 2 We already know a = 1. If E has parking space: 2 12+ 5 × 1 + 3b = 15 ⇒ 3b = - 2 (Not possible) If E has no parking space: 2 10 + 5 × 1 + 3b = 15 ⇒ b = 0 Means D , E and F are vacant. 2 1 2 That implies D1 & F are occupied by condition that column D and column F has at least one 1 occupied house. But it is a contradiction to condition 1. So, this is an invalid case. Answer is 3."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following houses is definitely occupied?",
+          "options": {
+            "A": "B1",
+            "B": "D2",
+            "C": "F2",
+            "D": "A1"
+          },
+          "correct_answer": "A",
+          "explanation": "We can determine following by reading the set: 1. Row 1 has two occupied houses one in each block means one out of A , B , C is occupied. 1 1 1 One out of D , E , F is occupied 1 1 1 Also, it means 4 are vacant. 2. E and E are vacant. 1 2 3. The costeliest house (vacant) in block xx is worth 24 lacs. 4. The cheapest house (vacant) in block yy is worth 15 lacs. 5. One out of E or E is of worth 15 lacs. 1 2 6. There is only are house with parking space in block yy. Let a = road adjacency value Let b = neighbor count. Where a = 0/1/2 Where b = 0/1/2/3 There can be 2 possibilities for the house worth 24 lacs: Case 1: - A house has parking space: Quoted price = 12 + 5a + 3b = 24 ⇒ 5a + 3b = 12 The only possible solution is a = 0, b = 4. But b can’t be 4 as maximum no. of neighbors can be 3. Case 2:- House has not parking space. Quoted price = 10 + 5a + 3b = 24 ⇒ 5a + 3b = 14 ⇒ a = 1, b = 3 It means the house has 1 roads adjacent and 3 neighbours i.e. occupied houses. The only possibility is B 2 So, we can determine B is vacant and worth 24 lacs. Also A , B and C are 2 2 1 2 unoccupied. From condition (1), we can say A & C are unoccupied. 1 1 For Block YY: Both E and E are vacant. 1 2 By condition 4, either price of E or E is 15 Lacs. 1 2 Two cases arise:- Case 1: If E is of 15 Lacs. 1 Road adjacency value = 0. If this house has no parking space then 10 + 5 × 0 + 3b = 15 ⇒ 3b = 5 Never possible. If E has parking space, 1 12 + 5 × 0 + 3b = 15 ⇒ 3b = 3 ⇒ b = 1. Means E has one occupied neighboring house. E is already vacant. So, It can be either D or 1 2 1 F . So, there would be 2 possibilities 1 √ × × × × √ D E F or D E F 1 1 1 1 1 1 × × √ √ × × D E F D E F 2 2 2 2 2 2 Case 2: If E is of 15 Lacs. 2 We already know a = 1. If E has parking space: 2 12+ 5 × 1 + 3b = 15 ⇒ 3b = - 2 (Not possible) If E has no parking space: 2 10 + 5 × 1 + 3b = 15 ⇒ b = 0 Means D , E and F are vacant. 2 1 2 That implies D1 & F are occupied by condition that column D and column F has at least one 1 occupied house. But it is a contradiction to condition 1. So, this is an invalid case. B is definitely occupied. 1"
+        },
+        {
+          "id": "cat-2023-slot1-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following options best describes the number of vacant houses in Row-2?",
+          "options": {
+            "A": "Either 3 or 4",
+            "B": "Either 2 or 3",
+            "C": "Exactly 3",
+            "D": "Exactly 2"
+          },
+          "correct_answer": "C",
+          "explanation": "We can determine following by reading the set: 1. Row 1 has two occupied houses one in each block means one out of A , B , C is occupied. 1 1 1 One out of D , E , F is occupied 1 1 1 Also, it means 4 are vacant. 2. E and E are vacant. 1 2 3. The costeliest house (vacant) in block xx is worth 24 lacs. 4. The cheapest house (vacant) in block yy is worth 15 lacs. 5. One out of E or E is of worth 15 lacs. 1 2 6. There is only are house with parking space in block yy. Let a = road adjacency value Let b = neighbor count. Where a = 0/1/2 Where b = 0/1/2/3 There can be 2 possibilities for the house worth 24 lacs: Case 1: - A house has parking space: Quoted price = 12 + 5a + 3b = 24 ⇒ 5a + 3b = 12 The only possible solution is a = 0, b = 4. But b can’t be 4 as maximum no. of neighbors can be 3. Case 2:- House has not parking space. Quoted price = 10 + 5a + 3b = 24 ⇒ 5a + 3b = 14 ⇒ a = 1, b = 3 It means the house has 1 roads adjacent and 3 neighbours i.e. occupied houses. The only possibility is B 2 So, we can determine B is vacant and worth 24 lacs. Also A , B and C are 2 2 1 2 unoccupied. From condition (1), we can say A & C are unoccupied. 1 1 For Block YY: Both E and E are vacant. 1 2 By condition 4, either price of E or E is 15 Lacs. 1 2 Two cases arise:- Case 1: If E is of 15 Lacs. 1 Road adjacency value = 0. If this house has no parking space then 10 + 5 × 0 + 3b = 15 ⇒ 3b = 5 Never possible. If E has parking space, 1 12 + 5 × 0 + 3b = 15 ⇒ 3b = 3 ⇒ b = 1. Means E has one occupied neighboring house. E is already vacant. So, It can be either D or 1 2 1 F . So, there would be 2 possibilities 1 √ × × × × √ D E F or D E F 1 1 1 1 1 1 × × √ √ × × D E F D E F 2 2 2 2 2 2 Case 2: If E is of 15 Lacs. 2 We already know a = 1. If E has parking space: 2 12+ 5 × 1 + 3b = 15 ⇒ 3b = - 2 (Not possible) If E has no parking space: 2 10 + 5 × 1 + 3b = 15 ⇒ b = 0 Means D , E and F are vacant. 2 1 2 That implies D1 & F are occupied by condition that column D and column F has at least one 1 occupied house. But it is a contradiction to condition 1. So, this is an invalid case. Exactly 3."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the maximum possible quoted price (in lakhs of Rs.) for a vacant house in Column-E? (in numerial value)",
+          "options": {},
+          "correct_answer": "21",
+          "explanation": "We can determine following by reading the set: 1. Row 1 has two occupied houses one in each block means one out of A , B , C is occupied. 1 1 1 One out of D , E , F is occupied 1 1 1 Also, it means 4 are vacant. 2. E and E are vacant. 1 2 3. The costeliest house (vacant) in block xx is worth 24 lacs. 4. The cheapest house (vacant) in block yy is worth 15 lacs. 5. One out of E or E is of worth 15 lacs. 1 2 6. There is only are house with parking space in block yy. Let a = road adjacency value Let b = neighbor count. Where a = 0/1/2 Where b = 0/1/2/3 There can be 2 possibilities for the house worth 24 lacs: Case 1: - A house has parking space: Quoted price = 12 + 5a + 3b = 24 ⇒ 5a + 3b = 12 The only possible solution is a = 0, b = 4. But b can’t be 4 as maximum no. of neighbors can be 3. Case 2:- House has not parking space. Quoted price = 10 + 5a + 3b = 24 ⇒ 5a + 3b = 14 ⇒ a = 1, b = 3 It means the house has 1 roads adjacent and 3 neighbours i.e. occupied houses. The only possibility is B 2 So, we can determine B is vacant and worth 24 lacs. Also A , B and C are 2 2 1 2 unoccupied. From condition (1), we can say A & C are unoccupied. 1 1 For Block YY: Both E and E are vacant. 1 2 By condition 4, either price of E or E is 15 Lacs. 1 2 Two cases arise:- Case 1: If E is of 15 Lacs. 1 Road adjacency value = 0. If this house has no parking space then 10 + 5 × 0 + 3b = 15 ⇒ 3b = 5 Never possible. If E has parking space, 1 12 + 5 × 0 + 3b = 15 ⇒ 3b = 3 ⇒ b = 1. Means E has one occupied neighboring house. E is already vacant. So, It can be either D or 1 2 1 F . So, there would be 2 possibilities 1 √ × × × × √ D E F or D E F 1 1 1 1 1 1 × × √ √ × × D E F D E F 2 2 2 2 2 2 Case 2: If E is of 15 Lacs. 2 We already know a = 1. If E has parking space: 2 12+ 5 × 1 + 3b = 15 ⇒ 3b = - 2 (Not possible) If E has no parking space: 2 10 + 5 × 1 + 3b = 15 ⇒ b = 0 Means D , E and F are vacant. 2 1 2 That implies D1 & F are occupied by condition that column D and column F has at least one 1 occupied house. But it is a contradiction to condition 1. So, this is an invalid case. Maximum possible quoted price = 10 + 5 × 1 + 3 ×2 = 21 Lacs."
+        },
+        {
+          "id": "cat-2023-slot1-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which house in Block YY has parking space?",
+          "options": {
+            "A": "F1",
+            "B": "E2",
+            "C": "E1",
+            "D": "F2"
+          },
+          "correct_answer": "C",
+          "explanation": "We can determine following by reading the set: 1. Row 1 has two occupied houses one in each block means one out of A , B , C is occupied. 1 1 1 One out of D , E , F is occupied 1 1 1 Also, it means 4 are vacant. 2. E and E are vacant. 1 2 3. The costeliest house (vacant) in block xx is worth 24 lacs. 4. The cheapest house (vacant) in block yy is worth 15 lacs. 5. One out of E or E is of worth 15 lacs. 1 2 6. There is only are house with parking space in block yy. Let a = road adjacency value Let b = neighbor count. Where a = 0/1/2 Where b = 0/1/2/3 There can be 2 possibilities for the house worth 24 lacs: Case 1: - A house has parking space: Quoted price = 12 + 5a + 3b = 24 ⇒ 5a + 3b = 12 The only possible solution is a = 0, b = 4. But b can’t be 4 as maximum no. of neighbors can be 3. Case 2:- House has not parking space. Quoted price = 10 + 5a + 3b = 24 ⇒ 5a + 3b = 14 ⇒ a = 1, b = 3 It means the house has 1 roads adjacent and 3 neighbours i.e. occupied houses. The only possibility is B 2 So, we can determine B is vacant and worth 24 lacs. Also A , B and C are 2 2 1 2 unoccupied. From condition (1), we can say A & C are unoccupied. 1 1 For Block YY: Both E and E are vacant. 1 2 By condition 4, either price of E or E is 15 Lacs. 1 2 Two cases arise:- Case 1: If E is of 15 Lacs. 1 Road adjacency value = 0. If this house has no parking space then 10 + 5 × 0 + 3b = 15 ⇒ 3b = 5 Never possible. If E has parking space, 1 12 + 5 × 0 + 3b = 15 ⇒ 3b = 3 ⇒ b = 1. Means E has one occupied neighboring house. E is already vacant. So, It can be either D or 1 2 1 F . So, there would be 2 possibilities 1 √ × × × × √ D E F or D E F 1 1 1 1 1 1 × × √ √ × × D E F D E F 2 2 2 2 2 2 Case 2: If E is of 15 Lacs. 2 We already know a = 1. If E has parking space: 2 12+ 5 × 1 + 3b = 15 ⇒ 3b = - 2 (Not possible) If E has no parking space: 2 10 + 5 × 1 + 3b = 15 ⇒ b = 0 Means D , E and F are vacant. 2 1 2 That implies D1 & F are occupied by condition that column D and column F has at least one 1 occupied house. But it is a contradiction to condition 1. So, this is an invalid case. E has parking space. 1 Section : Quantitative Ability"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2023-slot1-qa-45",
+          "number": 45,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x and y are positive real numbers such that log (x2 + 12) = 4 and 3 log x = 1, then x + y equals\nx y",
+          "options": {
+            "A": "11",
+            "B": "20",
+            "C": "68",
+            "D": "10"
+          },
+          "correct_answer": "D",
+          "explanation": "Log (x +12) = 4 x 2 4 (x +12) = x 4 2 x - (x +12) = 0 4 2 x - x - 12 = 0 2 2 (x - 4) ( x +3) = 0 2 2 x = 4 and x = -3 2 Here x cannot be negative so rejecting -3. 2 x = 4 x = 2 and x = -2. Now again x is in the base here, so it cannot be negative. As such x = -2 rejected. Finally we get, x = 2. Further we are given, 3 log x = 1 y log x = 1/3 y 1/3 x = y 1/3 2 = y Cube on both side, we get 8 = y Finally, x + y = 2 + 8 =10."
+        },
+        {
+          "id": "cat-2023-slot1-qa-46",
+          "number": 46,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let n be the least positive integer such that 168 is a factor of 1134n. If m is the least positive integer such that 1134n is a factor\nof 168m, then m + n equals",
+          "options": {
+            "A": "9",
+            "B": "24",
+            "C": "15",
+            "D": "12"
+          },
+          "correct_answer": "C",
+          "explanation": "Solution: Firstly doing prime factorization 3 1 1 168 = 2 × 3 × 7 1 4 1 1134 = 2 × 3 × 7 n The least positive integer value of n in 1134 to make it a factor of 168 n 1134 / 168 3 We need atleast 2 in numerator, so minimum value of n must be 3. 3 3 12 3 1134 = 2 × 3 × 7 3 1 1 168 = 2 × 3 × 7 m n The least positive integer value of m in 168 to make it a factor of 1134 12 We need atleast 3 in numerator, so minimum value of m must be 12. Finally m + n = 12 +3 =15."
+        },
+        {
+          "id": "cat-2023-slot1-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x and y are real numbers such that x2 + (x – 2y – 1)2 = - 4y(x + y), then the value x – 2y is",
+          "options": {
+            "A": "2",
+            "B": "0",
+            "C": "1",
+            "D": "-1"
+          },
+          "correct_answer": "C",
+          "explanation": "x + (x-2y-1) = -4y(x+y) 2 2 x + 4y(x+y)+ (x-2y-1) = 0 2 2 2 x + 4yx+ 4y + (x-2y-1) = 0 2 2 (x+2y) + (x-2y-1) = 0 As both of these are square, so they none of them could be negative. In order to make the sum as zero, they must be individually zero. As such, (x – 2y – 1) 2 = 0 ⇒ x - 2y-1 = 0 ⇒ x-2y = 1. So, answer is 1."
+        },
+        {
+          "id": "cat-2023-slot1-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "B",
+          "explanation": "From here we can equate, so, 5x + 9 = 36 10x + 9 = 63"
+        },
+        {
+          "id": "cat-2023-slot1-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of integer solutions of equation 2|x| (x2 + 1) = 5x2 is (in numerical value)",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "2|x|(x + 1) = 5 x Let y = |x| 2 2 so y = x rewriting the equation 2 2 2y(y + 1)= 5 y we can cancel y from both the sides, means x = 0 we are left with 2 2(y + 1)= 5 y 2 2y + 2= 5 y 2 2y - 5 y + 2 = 0 y = ½ and 2. we need integral value, so leaving 1/2. We have y =0, 2 means |x| = 0 and 2 so x can have 3 values i.e. 0, 2, -2. So 3 values."
+        },
+        {
+          "id": "cat-2023-slot1-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let α and β be the two distinct roots of the equation 2x2 – 6x + k = 0, such that (α + β) and αβ are the distinct roots of the\nequation x2 + px + p = 0. Then, the value of 8 (k – p) is (in numerical value)",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "Sum of roots = -b/a α + β = 3 and product of roots is = c/a α * β = K/2 For the second equation, Sum of roots, α + β + α * β = -P 3 + k/2 = -P Product of roots, (α + β)* α * β = P 3* k/2 = P Solving these two, we get K = -3/2 P = -9/4 Solving 8(K - P) = 8 [-3/2 - (-9/4 )] = 6 The answer will be 6."
+        },
+        {
+          "id": "cat-2023-slot1-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The equation x3 + (2r + 1)x2 + (4r – 1)x + 2 = 0 has – 2 as one of the roots. If the other two roots are real, then the minimum\npossible non-negative integer value of r is (in numerical value)",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": "x + (2r + 1)x + (4r + 1)x + 2 = 0 Here the product of all three roots = d/a = -2 One of the roots is given as -2 So, product of two roots, a*b = 1 so we can conclude b = 1/a Now sum of all the three roots = -b/a a + 1/a -2 = -(2r + 1) a + 1/a = -2r + 1 we know that, value of a + 1/a lies between -2 and 2. we can conclude -2 ≤ a + 1/a ≤ 2 = -2 ≤ -2r + 1 ≤ 2 Adding 1 -3 ≤ -2r ≤ 3 Dividing by 2 -3 /2 ≤ -r ≤ 3/2 multiplying by -1 3 /2 ≤ r ≤ -3/2. So minimum possible non negative integral value will be 2."
+        },
+        {
+          "id": "cat-2023-slot1-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The minor angle between the hours hand and minutes hand of a clock was observed at 8:48 am. The minimum duration, in\nminutes, after 8.48 am when this angle increases by 50% is",
+          "options": {
+            "A": "B) 2",
+            "C": "4",
+            "D": ""
+          },
+          "correct_answer": "A",
+          "explanation": "Using the formula for angle between the hands of clock. q = M 11/2 – 30 H q = Angle between the two hands. H = Position of hour hand initially M = Position of Minute hand lastly. At 8:48 q = 48 × 11/2 – 30× 8 = 24 degree increasing 24 by 50%, we get = 36 degree. time between 8 and 9 the hands of a clock make an angle of 36 degree q = M 11/2 – 30 H 36 = M 11/2 – 30× 8 m = 552/11 = 50 (2/11) Difference in minutes = 50 (2/11) – 48 = 24/11"
+        },
+        {
+          "id": "cat-2023-slot1-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A mixture P is formed by removing a certain amount of coffee from a coffee jar and replacing the same amount with cocoa\npowder. The same amount is again removed from mixture P and replaced with same amount of cocoa powder to form a new\nmixture Q. If the ratio of coffee and cocoa in the mixture Q is 16 : 9, then the ratio of cocoa in mixture P to that in mixture Q is",
+          "options": {
+            "A": "5 : 9",
+            "B": "4 : 9",
+            "C": "1 : 3",
+            "D": "1 : 2"
+          },
+          "correct_answer": "A",
+          "explanation": "The ratio of coffee and cocoa in the mixture Q is 16 : 9. Means ratio of final to total coffee = 16:25 By applying the formula for repeated mixture, It means, in first go, 1/5 of coffee is replaced be cocoa powder and in second go, 1/5 of mixture was replaced by cocoa powder. cocoa in mixture P = 1/5 and cocoa in mixture Q is = 9/25 ratio of cocoa in mixture P to that in mixture Q is (1/5) / (9/25) = 5:9"
+        },
+        {
+          "id": "cat-2023-slot1-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an examination, the average marks of 4 girls and 6 boys is 24. Each of the girls has the same marks while each of the boys\nhas the same marks. If the marks of any girl is at most double the marks of any boy, but not less than the marks of any boy,\nthen the number of possible distinct integer values of the total marks of 2 girls and 6 boys is",
+          "options": {
+            "A": "19",
+            "B": "21",
+            "C": "22",
+            "D": "20"
+          },
+          "correct_answer": "B",
+          "explanation": "Let marks of each girl = g and marks of each boy = m (4 g + 6 b)/ 10 = 24 4 g + 6 b = 240 2 g + 3 b = 120 – ( I ) Given, marks of any girl is at most double the marks of any boy i.e. g = 2 b (max) but marks of any girl is not less than the marks of any boy i.e. g = b (min) putting max and min value of g in equation (I) , we get at g = 2 b, 4 b + 3 b = 120 ⇒ b = 17.14 at g = b, 2 b + 3 b = 120 ⇒ b = 24 we need to solve for 2 g + 6 b at g = 2 b, 4 b + 6 b ⇒ 10 b ⇒ 10 × 17.14 = 171.4 at g = b, 2 b + 6 b ⇒ 8 b ⇒ 8 × 24 = 192 So value range for 172 till 192, total 21 values"
+        },
+        {
+          "id": "cat-2023-slot1-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Brishti went on an 8-hour trip in a car. Before the trip, the car had travelled a total of x km till then, where x is a whole number\nand is palindromic, i.e., x remains unchanged when its digits are reversed. At the end of the trip, the car had traveled a total of\n26862 km till then, this number again being palindromic. If Brishti never drove at more than 110 km/hr, then the greatest\npossible average speed at which she drove during the trip, in km/hr, was",
+          "options": {
+            "A": "80",
+            "B": "90",
+            "C": "110",
+            "D": "100"
+          },
+          "correct_answer": "D",
+          "explanation": "Lets go by options, Option 1, 26862 – 8×80 = 26222 (Not a palindrome) Option 2, 26862 – 8×90 = 26142 (Not a palindrome) Option 3, 26862 – 8×110 = 25980 (Not a palindrome) Option 4, 26862 – 8×100 = 26062 (a palindrome) Correct answer to the question must be option 4."
+        },
+        {
+          "id": "cat-2023-slot1-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Gita sells two objects A and B at the same price such that she makes a profit of 20% on object A and a loss of 10% on object B.\nIf she increases the selling price such that objects A and B are still sold at an equal price and a profit of 10% is made on object\nB, then the profit made on object A will be nearest to",
+          "options": {
+            "A": "42%",
+            "B": "49%",
+            "C": "47%",
+            "D": "45%"
+          },
+          "correct_answer": "C",
+          "explanation": "let CP of first = a and CP of second = b Profit of 20% on a. SP of first will be = 1.2 a Loss of 10% on second. SP of second will be = 0.9 b SP of both is same 1.2 a = 0.9 b or 0.9 b = 1.2 a to have a profit of 10% on b means 1.1 b when 0.9 b = 1.2 a then 1.1 b = 1.466 a that means a profit of 47% on first object A."
+        },
+        {
+          "id": "cat-2023-slot1-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The salaries of three friends Sita, Gita and Mita are initially in the ratio 5 : 6 : 7, respectively. In the first year, they get salary hikes\nof 20%, 25% and 20%, respectively. In the second year, Sita and Mita get salary hikes of 40% and 25%, respectively, and the\nsalary of Gita becomes equal to the mean salary of the three friends. The salary hike of Gita in the second year is",
+          "options": {
+            "A": "26%",
+            "B": "25%",
+            "C": "28%",
+            "D": "30%"
+          },
+          "correct_answer": "A",
+          "explanation": "Ratio of the salaries of Sita, Gita and Mita is given as 5: 6 : 7 After respective hike of 20% , 25% and 20%, it becomes = 6: 7.5: 8.4. The second year, after Sita and Mita get salary hikes of 40% and 25%, respectively, we get = 8.4: x: 10.5. Now given, the salary of Gita becomes equal to the mean salary of the three friends which is = x (8.4 + x + 10.5) /3 = x x = 9.45 Salary of Gita increases from 7.5 to 9.45, so percentage increase will be = (9.45 – 7.5)/ 7.5 × 100 = 26%"
+        },
+        {
+          "id": "cat-2023-slot1-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Arvind travels from town A to town B, and Surbhi from town B to town A, both starting at the same time along the same route.\nAfter meeting each other, Arvind takes 6 hours to reach town B while Surbhi takes 24 hours to reach town A. If Arvind travelled\n\nat a speed of 54 km/h, then the distance, in km, between town A and town B is (in numerical value)",
+          "options": {},
+          "correct_answer": "972",
+          "explanation": "S /S = √ Tb/Ta a b S = 27 b Total distance = 54 × 6 + 27 × 24 = 972 km. Correct answer to the question must be 972."
+        },
+        {
+          "id": "cat-2023-slot1-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil invests Rs. 22000 for 6 years in a certain scheme with 4% interest per annum, compounded half-yearly. Sunil invests in the\nsame scheme for 5 years, and then reinvests the entire amount received at the end of 5 years for one year at 10% simple\ninterest. If the amounts received by both at the end of 6 years are same, then the initial investment made by Sunil, in rupees, is\n(in numerical value)",
+          "options": {},
+          "correct_answer": "20808",
+          "explanation": "Let initial investment made by Sunil be ‘x’ As compounded half-yearly, time becomes 12 and rate becomes 2% for Anil and time becomes 10 and rate becomes 2% for Sunil. 12 10 22000(1.02) = x(1.02) × 1.1 x = 20808. Correct answer to the question must be 20808."
+        },
+        {
+          "id": "cat-2023-slot1-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The amount of job that Amal, Sunil and Kamal can individually do in a day, are in harmonic progression. Kamal takes twice as\nmuch time as Amal to do the same amount of job. If Amal and Sunil work for 4 days and 9 days, respectively, Kamal needs to\nwork for 16 days to finish the remaining job. Then the number of days Sunil will take to finish the job working alone, is (in\nnumerical value)",
+          "options": {},
+          "correct_answer": "27",
+          "explanation": "Kamal takes twice as much time as Amal to do the same amount of job. So, if one day work of Amal is ‘2a’ then one day work of Kamal will be ‘a’. Let one day work of Sunil be ‘x’ Now, amount of job that Amal, Sunil and Kamal can individually do in a day, are inharmonic progression So 2/x = 1/2a + 1/ a x = 4/3a Means, one day work of Sunil is ‘4/3a’ Amal and Sunil work for 4 days and 9 days, respectively, Kamal needs to work for 16 days to finish the remaining job means total work will be = 8 a +12 a + 16 a = 36 a Time taken by Sunil to finish the job working alone = 36a/ (4/3a) = 27 days. Correct answer to the question must be 27 days."
+        },
+        {
+          "id": "cat-2023-slot1-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A quadrilateral ABCD is inscribed in a circle such that AB : CD = 2 : 1 and BC : AD = 5 : 4. If AC and BD intersect at the point E,\nthen AE : CE equals",
+          "options": {
+            "A": "5 : 8",
+            "B": "8 : 5",
+            "C": "1 : 2",
+            "D": "2 : 1"
+          },
+          "correct_answer": "B",
+          "explanation": "In triangle AED and triangle BEC ∠DAE = ∠CBE (angle by same arc) ∠ADE = ∠BCE (angle by same arc) So triangle AED and triangle BEC are similar. AE/BE = AD/BC = DE/CE =4/5. – (I) Similarly, triangle AED and triangle BEC will be similar. AE/ED = AB/DC = BE/CE =2/1 – (II) from (I) and (II) AE : CE = 8:5."
+        },
+        {
+          "id": "cat-2023-slot1-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let C be the circle x2 + y2 + 4x – 6y – 3 = 0 and L be the locus of the point of intersection of a pair of tangents to C with the\nangle between the two tangents equal to 60°. Then, the point at which L touches the line x = 6 is",
+          "options": {
+            "A": "(6, 8)",
+            "B": "(6, 4)",
+            "C": "(6, 6)",
+            "D": "(6, 3)"
+          },
+          "correct_answer": "D",
+          "explanation": "From equation, 2 2 x +y +4x – 6y – 3 = 0 We can conclude that centre of circle will be at ( -2,3 ) In triangle APC, ∠A = 90 ∠APC = 30 ∠ACP = 60 As AC is 4, then CP will be 8. For point P, x coordinate is given as 6. Applying distance formula, 2 2 1/2 [(x-x ) +(y-y ) ] = 8 1 1 putting x,y =-2,3 and x ,y = 6,y 1 1 we get y =3. Correct answer to the question must be (6,3)"
+        },
+        {
+          "id": "cat-2023-slot1-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a right-angled triangle ΔABC, the altitude AB is 5 cm, and the base BC is 12 cm. P and Q are two points on BC such that the\nareas of ΔABP, ΔABQ and ΔABC are in arithmetic progression. If the area of ΔABC is 1.5 times the area of ΔABP, the length of\nPQ, in cm, is (in numerical value)",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": "Here the height of all the 3 triangles are equal, so area will be dependent on base. Given, ΔABC is 1.5 times the area of ΔABP So length of BC = 1.5 BP BP = 8 BC = 12 ( Given ) BP, BQ and BC are in arithmetic progression. BQ = (8+12) / 2 = 10 PQ = 10 – 8 = 2. Correct answer to the question must be 2."
+        },
+        {
+          "id": "cat-2023-slot1-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For some positive and distinct real numbers x, y and z, if is the arithmetic mean of and , then the\nrelationship which will always hold true, is",
+          "options": {
+            "A": "y, x and z are in arithmetic progression",
+            "B": "x, y and z are in arithmetic progression",
+            "C": "are in arithmetic progression",
+            "D": "are in arithmetic progression"
+          },
+          "correct_answer": "A",
+          "explanation": "now going by options, using option 1. when y, x, z are in arithmetic progression, x-z will be d, x-y will be –d and y-z will be 2d. it means this is satisfied. Correct answer to the question must be option 1."
+        },
+        {
+          "id": "cat-2023-slot1-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of all natural numbers up to 1000 with non-repeating digits is",
+          "options": {
+            "A": "738",
+            "B": "648",
+            "C": "504",
+            "D": "585"
+          },
+          "correct_answer": "A",
+          "explanation": "Considering all single digit number = 9 numbers Considering 2 digit number = _ × _ First place can be filled in 9 ways because cannot take zero. Second place can be filled in 9 ways because repetition not allowed. = 9×9 = 81 numbers Considering 3 digit number = _ × _ × _ First place can be filled in 9 ways because cannot take zero. Second place can be filled in 9 ways because repetition not allowed. Third place can be filled in 8 ways because repetition not allowed. = 9×9 × 8 = 648 numbers. Total = 9 + 81 + 648 = 738 numbers."
+        },
+        {
+          "id": "cat-2023-slot1-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A lab experiment measures the number of organisms at 8 am every day. Starting with 2 organisms on the first day, the number\nof organisms on any day is equal to 3 more than twice the number on the previous day. If the number of organisms on nth day\nexceeds one million, then the lowest possible value of n is (in numerical value)",
+          "options": {},
+          "correct_answer": "19",
+          "explanation": "No. of organisms on first day = 2, Second = 2×2+3 = 7, Third = 7 × 2+3 = 17 Forth = 17 × 2 + 3 = 37, Fifth = 37 × 2 + 3 = 77 Sixth = 77× 2 +3 = 157 Seventh = 157× 2 + 3 = 317 When you look carefully you will realize, after 7 steps there is NO much impact of +3 so we can consider that after seventh term it only becomes double. So considering a GP with first term a =157, r =2 and Tn >10,00,000 th n will be 12. So total it must be 7 + 12 =19 term. Correct answer to the question must be 19."
+        }
+      ]
+    }
+  }
+}

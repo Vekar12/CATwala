@@ -1,0 +1,1372 @@
+{
+  "id": "cat-2020-slot1",
+  "year": 2020,
+  "slot": 1,
+  "title": "CAT 2020 Slot I",
+  "has_solutions": true,
+  "total_questions": 76,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot1-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the late 1960s, while studying the northern-elephant-seal population along the coasts of Mexico and California, Burney Le\nBoeuf and his colleagues couldn’t help but notice that the threat calls of males at some sites sounded different from those of\nmales at other sites. . . . That was the first time dialects were documented in a nonhuman mammal. . . .\nAll the northern elephant seals that exist today are descendants of the small herd that survived on Isla Guadalupe [after the\nnear extinction of the species in the nineteenth century]. As that tiny population grew, northern elephant seals started to\nrecolonize former breeding locations. It was precisely on the more recently colonized islands where Le Boeuf found that the\ntempos of the male vocal displays showed stronger differences to the ones from Isla Guadalupe, the founder colony.\nIn order to test the reliability of these dialects over time, Le Boeuf and other researchers visited Año Nuevo Island in California\n—the island where males showed the slowest pulse rates in their calls—every winter from 1968 to 1972. “What we found is that\nthe pulse rate increased, but it still remained relatively slow compared to the other colonies we had measured in the past” Le\nBoeuf told me.\nAt the individual level, the pulse of the calls stayed the same: A male would maintain his vocal signature throughout his lifetime.\nBut the average pulse rate was changing. Immigration could have been responsible for this increase, as in the early 1970s, 43\npercent of the males on Año Nuevo had come from southern rookeries that had a faster pulse rate. This led Le Boeuf and his\ncollaborator, Lewis Petrinovich, to deduce that the dialects were, perhaps, a result of isolation over time, after the breeding sites\nhad been recolonized. For instance, the first settlers of Año Nuevo could have had, by chance, calls with low pulse rates. At\nother sites, where the scientists found faster pulse rates, the opposite would have happened—seals with faster rates would have\nhappened to arrive first.\nAs the population continued to expand and the islands kept on receiving immigrants from the original population, the calls in\nall locations would have eventually regressed to the average pulse rate of the founder colony. In the decades that followed,\nscientists noticed that the geographical variations reported in 1969 were not obvious anymore. . . . In the early 2010s, while\nstudying northern elephant seals on Año Nuevo Island, [researcher Caroline] Casey noticed, too, that what Le Boeuf had heard\ndecades ago was not what she heard now. . . . By performing more sophisticated statistical analyses on both sets of data, [Casey\nand Le Boeuf] confirmed that dialects existed back then but had vanished. Yet there are other differences between the males\nfrom the late 1960s and their great-great-grandsons: Modern males exhibit more individual diversity, and their calls are more\ncomplex. While 50 years ago the drumming pattern was quite simple and the dialects denoted just a change in tempo, Casey\nexplained, the calls recorded today have more complex structures, sometimes featuring doublets or triplets. . . .\nAll of the following can be inferred from Le Boeuf’s study as described in the passage EXCEPT that:",
+          "options": {
+            "A": "male northern elephant seals might not have exhibited dialects had they not become nearly extinct in the nineteenth century.",
+            "B": "the average call pulse rate of male northern elephant seals at Año Nuevo Island increased from the early 1970s till the disappearance of dialects.",
+            "C": "changes in population and migration had no effect on the call pulse rate of individual male northern elephant seals.",
+            "D": "the influx of new northern elephant seals into Año Nuevo Island would have soon made the call pulse rate of its male seals exceed that of those at Isla Guadalupe.."
+          },
+          "correct_answer": "D",
+          "explanation": "Option A is supported by lines \"In the late 1960s, while studying the northern-elephant-seal population along the coasts of Mexico and California, Burney Le Boeuf and his colleagues couldn’t help but notice that the threat calls of males at some sites sounded different from those of males at other sites. . . . That was the first time dialects were documented in a nonhuman mammal. . . . All the northern elephant seals that exist today are descendants of the small herd that survived on Isla Guadalupe [after the near extinction of the species in the nineteenth century]. As that tiny population grew, northern elephant seals started to recolonize former breeding locations. It was precisely on the more recently colonized islands where Le Boeuf found that the tempos of the male vocal displays showed stronger differences to the ones from Isla Guadalupe, the founder colony.\" Had the seals not become nearly extinct and had the descendants of the surviving herd at Isla Guadalpue not spread out and gotten isolated in the first place, the seals wouldn't have exhibited dialects.. Also the options takes this as a possible cause by use of words 'might' \"male northern elephant seals might not have exhibited dialects had they not become nearly extinct in the nineteenth century.\" OPtion B is supported by lines \"But the average pulse rate was changing. Immigration could have been responsible for this increase, as in the early 1970s, 43 percent of the males on Año Nuevo had come from southern rookeries that had a faster pulse rate. This led Le Boeuf and his collaborator, Lewis Petrinovich, to deduce that the dialects were, perhaps, a result of isolation over time, after the breeding sites had been recolonized. For instance, the first settlers of Año Nuevo could have had, by chance, calls with low pulse rates. ..... As the population continued to expand and the islands kept on receiving immigrants from the original population, the calls in all locations would have eventually regressed to the average pulse rate of the founder colony.\" (The last part - regression of calls in all locations -implies disappearance of dialects) Option C is supported by 1st lines of para 4 \"At the individual level, the pulse of the calls stayed the same: A male would maintain his vocal signature throughout his lifetime.\" Option D contradicts the lines \"As the population continued to expand and the islands kept on receiving immigrants from the original population, the calls in all locations would have eventually regressed to the average pulse rate of the founder colony.\""
+        },
+        {
+          "id": "cat-2020-slot1-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following conditions, if true, could have ensured that male northern elephant seal dialects did not disappear?",
+          "options": {
+            "A": "Besides Isla Guadalupe, there was one more surviving colony with the same average male call tempo from which no migration took place.",
+            "B": "The call tempo of individual immigrant male seals changed to match the average tempo of resident male seals in the host colony.",
+            "C": "Besides Isla Guadalupe, there was one more founder colony with the same average male call tempo from which male seals migrated to various other colonies.",
+            "D": "The call tempo of individual male seals in host colonies changed to match the average call tempo of immigrant male seals."
+          },
+          "correct_answer": "B",
+          "explanation": "Refer lines “As the population continued to expand and the islands kept on receiving immigrants from the original population, the calls in all locations would have eventually regressed to the average pulse rate of the founder colony” Option 2 talks about situation where immigrants tempo changed to become that of resident males which would have allowed the distinctive tempo of island to continue and not become extinct Option 4 talks about opposite of option 2 hence is incorrect Option 1 is incorrect as migration still happened from other islands even if didn’t happen from one island so no migration from the other island has no effect here"
+        },
+        {
+          "id": "cat-2020-slot1-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following best sums up the overall history of transformation of male northern elephant seal calls?",
+          "options": {
+            "A": "The calls have transformed from exhibiting simple composition, less individual variety, and great regional variety to complex composition, great individual variety, and less regional variety.",
+            "B": "Owing to migrations in the aftermath of near species extinction, the calls have transformed from exhibiting complex composition, less individual variety, and great regional variety to simple composition, less individual variety, and great regional variety.",
+            "C": "The calls have transformed from exhibiting simple composition, great individual variety, and less regional variety to complex composition, less individual variety, and great regional variety.",
+            "D": "Owing to migrations in the aftermath of near species extinction, the average call pulse rates in the recolonised breeding locations exhibited a gradual increase until they matched the tempo at the founding colony."
+          },
+          "correct_answer": "A",
+          "explanation": "Option 1 is correct and 2 and 3 incorrect Refer last lines of passage “Yet there are other differences between the males from the late 1960s and their great-great-grandsons: Modern males exhibit more individual diversity, and their calls are more complex. While 50 years ago the drumming pattern was quite simple and the dialects denoted just a change in tempo, Casey explained, the calls recorded today have more complex structures, sometimes featuring doublets or triplets...” Option 4 is incorrect as it doesn’t answer the Q i.e. sum up the overall history"
+        },
+        {
+          "id": "cat-2020-slot1-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From the passage it can be inferred that the call pulse rate of male northern elephant seals in the southern rookeries was faster\nbecause:",
+          "options": {
+            "A": "a large number of male northern elephant seals migrated from the southern rookeries to Año Nuevo Island in the early 1970s",
+            "B": "a large number of male northern elephant seals from Año Nuevo Island might have migrated to the southern rookeries to recolonise them.",
+            "C": "the male northern elephant seals of Isla Guadalupe with faster call pulse rates might have been the original settlers of the southern rookeries.",
+            "D": "the calls of male northern elephant seals in the southern rookeries have more sophisticated structures, containing doublets and triplets."
+          },
+          "correct_answer": "C",
+          "explanation": "Option 3 Refer following lines of penultimate para “This led Le Boeuf and his collaborator, Lewis Petrinovich, to deduce that the dialects were, perhaps, a result of isolation over time, after the breeding sites had been recolonized. For instance, the first settlers of Año Nuevo could have had, by chance, calls with low pulse rates . At other sites, where the scientists found faster pulse rates, the opposite would have happened—seals with faster rates would have happened to arrive first.” Option 1 though factually correct doesn’t answer the Q – why the call pulse rate of male northern elephant seals in the southern rookeries was faster"
+        },
+        {
+          "id": "cat-2020-slot1-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Vocabulary used in speech or writing organizes itself in seven parts of speech (eight, if you count interjections such as Oh! and\nGosh! and Fuhgeddaboudit!). Communication composed of these parts of speech must be organized by rules of grammar upon\nwhich we agree. When these rules break down, confusion and misunderstanding result. Bad grammar produces bad sentences.\nMy favorite example from Strunk and White is this one: “As a mother of five, with another one on the way, my ironing board is\nalways up.”\nNouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence, since a\nsentence is, by definition, a group of words containing a subject (noun) and a predicate (verb); these strings of words begin\nwith a capital letter, end with a period, and combine to make a complete thought which starts in the writer’s head and then\nleaps to the reader’s.\nMust you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and\nfloating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric,\nrecognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard\nthe rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the\nwriter] will probably do best to follow the rules.”",
+          "passage_group": 2,
+          "question": "The telling clause here is Unless he is certain of doing well. If you don’t have a rudimentary grasp of how the parts of speech\ntranslate into coherent sentences, how can you be certain that you are doing well? How will you know if you’re doing ill, for\nthat matter? The answer, of course, is that you can’t, you won’t. One who does grasp the rudiments of grammar finds a\ncomforting simplicity at its heart, where there need be only nouns, the words that name, and verbs, the words that act.\nTake any noun, put it with any verb, and you have a sentence. It never fails. Rocks explode. Jane transmits. Mountains float.\nThese are all perfect sentences. Many such thoughts make little rational sense, but even the stranger ones (Plums deify!) have a\nkind of poetic weight that’s nice. The simplicity of noun-verb construction is useful—at the very least it can provide a safety net\nfor your writing. Strunk and White caution against too many simple sentences in a row, but simple sentences provide a path\nyou can follow when you fear getting lost in the tangles of rhetoric—all those restrictive and nonrestrictive clauses, those\nmodifying phrases, those appositives and compound-complex sentences. If you start to freak out at the sight of such\nunmapped territory (unmapped by you, at least), just remind yourself that rocks explode, Jane transmits, mountains float, and\nplums deify. Grammar is . . . the pole you grab to get your thoughts up on their feet and walking.\nWhich one of the following statements, if false, could be seen as supporting the arguments in the passage?",
+          "options": {
+            "A": "An understanding of grammar helps a writer decide if she/he is writing well or not.",
+            "B": "Regarding grammar, women writers tend to be more attentive to method and accuracy.",
+            "C": "It has been observed that writers sometimes disregard the rules of rhetoric.",
+            "D": "Perish the thought that complete sentences necessarily need nouns and verbs!"
+          },
+          "correct_answer": "D",
+          "explanation": "Q is which if false supports arguments in the passage. Option 4 is opposite of what’s stated in the passage Hence is the best option here Refer lines Of first para “Nouns and verbs are the two indispensable parts of writing.” And of last para “Take any noun, put it with any verb, and you have a sentence. It never fails.” Option 2 neither supports nor goes against the passage as women writers weren’t talked about in passage. Option 3 is true hence incorrect option here. Refer lines of para 3 ““It is an old observation,” he writes, “that the best writers sometimes disregard the rules of rhetoric.”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Vocabulary used in speech or writing organizes itself in seven parts of speech (eight, if you count interjections such as Oh! and\nGosh! and Fuhgeddaboudit!). Communication composed of these parts of speech must be organized by rules of grammar upon\nwhich we agree. When these rules break down, confusion and misunderstanding result. Bad grammar produces bad sentences.\nMy favorite example from Strunk and White is this one: “As a mother of five, with another one on the way, my ironing board is\nalways up.”\nNouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence, since a\nsentence is, by definition, a group of words containing a subject (noun) and a predicate (verb); these strings of words begin\nwith a capital letter, end with a period, and combine to make a complete thought which starts in the writer’s head and then\nleaps to the reader’s.\nMust you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and\nfloating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric,\nrecognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard\nthe rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the\nwriter] will probably do best to follow the rules.”",
+          "passage_group": 2,
+          "question": "“Take any noun, put it with any verb, and you have a sentence. It never fails. Rocks explode. Jane transmits. Mountains float.”\nNone of the following statements can be seen as similar EXCEPT:",
+          "options": {
+            "A": "A collection of people with the same sports equipment is a sports team.",
+            "B": "Take any vegetable, put some spices in it, and you have a dish.",
+            "C": "A group of nouns arranged in a row becomes a sentence.",
+            "D": "Take an apple tree, plant it in a field, and you have an orchard"
+          },
+          "correct_answer": "B",
+          "explanation": "Answer would be an option which is similar. Hence the answer clearly is 2 Take any noun, put it with any verb, and you have a sentence. Take any vegetable, put some spices in it, and you have a dish. Options 1,3,4 are incorrect as nothing was added unlike in original stt"
+        },
+        {
+          "id": "cat-2020-slot1-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Vocabulary used in speech or writing organizes itself in seven parts of speech (eight, if you count interjections such as Oh! and\nGosh! and Fuhgeddaboudit!). Communication composed of these parts of speech must be organized by rules of grammar upon\nwhich we agree. When these rules break down, confusion and misunderstanding result. Bad grammar produces bad sentences.\nMy favorite example from Strunk and White is this one: “As a mother of five, with another one on the way, my ironing board is\nalways up.”\nNouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence, since a\nsentence is, by definition, a group of words containing a subject (noun) and a predicate (verb); these strings of words begin\nwith a capital letter, end with a period, and combine to make a complete thought which starts in the writer’s head and then\nleaps to the reader’s.\nMust you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and\nfloating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric,\nrecognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard\nthe rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the\nwriter] will probably do best to follow the rules.”",
+          "passage_group": 2,
+          "question": "Inferring from the passage, the author could be most supportive of which one of the following practices?",
+          "options": {
+            "A": "The availability of language software that will standardise the rules of grammar as an aid to writers",
+            "B": "A campaign demanding that a writer’s creative license should allow the breaking of grammatical rules.",
+            "C": "A Creative Writing course that focuses on how to avoid the use of rhetoric.",
+            "D": "The critique of standardised rules of punctuation and capitalisation."
+          },
+          "correct_answer": "A",
+          "explanation": "2 and 4 are incorrect as author is not against grammar rules “Unless he is certain of doing well, [the writer] will probably do best to follow the rules.”” 3 is incorrect as author isn’t against rhetoric"
+        },
+        {
+          "id": "cat-2020-slot1-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Vocabulary used in speech or writing organizes itself in seven parts of speech (eight, if you count interjections such as Oh! and\nGosh! and Fuhgeddaboudit!). Communication composed of these parts of speech must be organized by rules of grammar upon\nwhich we agree. When these rules break down, confusion and misunderstanding result. Bad grammar produces bad sentences.\nMy favorite example from Strunk and White is this one: “As a mother of five, with another one on the way, my ironing board is\nalways up.”\nNouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence, since a\nsentence is, by definition, a group of words containing a subject (noun) and a predicate (verb); these strings of words begin\nwith a capital letter, end with a period, and combine to make a complete thought which starts in the writer’s head and then\nleaps to the reader’s.\nMust you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and\nfloating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric,\nrecognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard\nthe rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the\nwriter] will probably do best to follow the rules.”",
+          "passage_group": 2,
+          "question": "All of the following statements can be inferred from the passage EXCEPT that:",
+          "options": {
+            "A": "“Grammar Police” is a metaphor for critics who focus on linguistic rules.",
+            "B": "sentences do not always have to be complete.",
+            "C": "the subject–predicate relation is the same as the noun–verb relation.",
+            "D": "the primary purpose of grammar is to ensure that sentences remain simple."
+          },
+          "correct_answer": "D",
+          "explanation": "Options 1 and 2 are supported by lines “Must you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and floating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric, recognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard the rules of rhetoric.” Option 3 is supported by line “since a sentence is, by definition, a group of words containing a subject (noun) and a predicate (verb);”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Vocabulary used in speech or writing organizes itself in seven parts of speech (eight, if you count interjections such as Oh! and\nGosh! and Fuhgeddaboudit!). Communication composed of these parts of speech must be organized by rules of grammar upon\nwhich we agree. When these rules break down, confusion and misunderstanding result. Bad grammar produces bad sentences.\nMy favorite example from Strunk and White is this one: “As a mother of five, with another one on the way, my ironing board is\nalways up.”\nNouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence, since a\nsentence is, by definition, a group of words containing a subject (noun) and a predicate (verb); these strings of words begin\nwith a capital letter, end with a period, and combine to make a complete thought which starts in the writer’s head and then\nleaps to the reader’s.\nMust you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and\nfloating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric,\nrecognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard\nthe rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the\nwriter] will probably do best to follow the rules.”",
+          "passage_group": 2,
+          "question": "Which one of the following quotes best captures the main concern of the passage?",
+          "options": {
+            "A": "“Nouns and verbs are the two indispensable parts of writing. Without one of each, no group of words can be a sentence . . .”",
+            "B": "“Strunk and White caution against too many simple sentences in a row, but simple sentences provide a path you can follow when you fear getting lost in the tangles of rhetoric . . .”",
+            "C": "“Bad grammar produces bad sentences.”",
+            "D": "“The telling clause here is Unless he is certain of doing well.”."
+          },
+          "correct_answer": "C",
+          "explanation": "Main focus of the passage is grammar Hence 3rd is the best option"
+        },
+        {
+          "id": "cat-2020-slot1-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The word ‘anarchy’ comes from the Greek anarkhia, meaning contrary to authority or without a ruler, and was used in a\nderogatory sense until 1840, when it was adopted by Pierre-Joseph Proudhon to describe his political and social ideology.",
+          "passage_group": 3,
+          "question": "Proudhon argued that organization without government was both possible and desirable. In the evolution of political ideas,\nanarchism can be seen as an ultimate projection of both liberalism and socialism, and the differing strands of anarchist thought\ncan be related to their emphasis on one or the other of these.\nHistorically, anarchism arose not only as an explanation of the gulf between the rich and the poor in any community, and of the\nreason why the poor have been obliged to fight for their share of a common inheritance, but as a radical answer to the\nquestion ‘What went wrong?’ that followed the ultimate outcome of the French Revolution. It had ended not only with a reign\nof terror and the emergence of a newly rich ruling caste, but with a new adored emperor, Napoleon Bonaparte, strutting\nthrough his conquered territories.\nThe anarchists and their precursors were unique on the political Left in affirming that workers and peasants, grasping the\nchance that arose to bring an end to centuries of exploitation and tyranny, were inevitably betrayed by the new class of\npoliticians, whose first priority was to reestablish a centralized state power. After every revolutionary uprising, usually won at a\nheavy cost for ordinary populations, the new rulers had no hesitation in applying violence and terror, a secret police, and a\nprofessional army to maintain their control.\nFor anarchists the state itself is the enemy, and they have applied the same interpretation to the outcome of every revolution of\nthe 19th and 20th centuries. This is not merely because every state keeps a watchful and sometimes punitive eye on its\ndissidents, but because every state protects the privileges of the powerful.\nThe mainstream of anarchist propaganda for more than a century has been anarchistcommunism, which argues that property in\nland, natural resources, and the means of production should be held in mutual control by local communities, federating for\ninnumerable joint purposes with other communes. It differs from state socialism in opposing the concept of any central\nauthority. Some anarchists prefer to distinguish between anarchist-communism and collectivist anarchism in order to stress the\nobviously desirable freedom of an individual or family to possess the resources needed for living, while not implying the right\nto own the resources needed by others. . . .\nThere are, unsurprisingly, several traditions of individualist anarchism, one of them deriving from the ‘conscious egoism’ of the\nGerman writer Max Stirner (1806–56), and another from a remarkable series of 19th-century American figures who argued that\nin protecting our own autonomy and associating with others for common advantages, we are promoting the good of all. These\nthinkers differed from free-market liberals in their absolute mistrust of American capitalism, and in their emphasis on\nmutualism.\nAccording to the passage, what is the one idea that is common to all forms of anarchism?",
+          "options": {
+            "A": "They all focus on the primacy of the power of the individual.",
+            "B": "They all derive from the work of Pierre-Joseph Proudhon.",
+            "C": "There is no idea common to all forms of anarchism; that is why it is anarchic.",
+            "D": "They are all opposed to the centralisation of power in the state."
+          },
+          "correct_answer": "D",
+          "explanation": "Option 4 Throughout the passage and in lines of penultimate para “It differs from state socialism in opposing the concept of any central authority.” And Refer line 1 “The word ‘anarchy’ comes from the Greek anarkhia, meaning contrary to authority or without a ruler,” Option 2 is incorrect refer lines of last para “There are, unsurprisingly, several traditions of individualist anarchism, one of them deriving from the ‘conscious egoism’ of the German writer Max Stirner (1806–56), and another from a remarkable series of 19th- century American figures”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The word ‘anarchy’ comes from the Greek anarkhia, meaning contrary to authority or without a ruler, and was used in a\nderogatory sense until 1840, when it was adopted by Pierre-Joseph Proudhon to describe his political and social ideology.",
+          "passage_group": 3,
+          "question": "Of the following sets of concepts, identify the set that is conceptually closest to the concerns of the passage.",
+          "options": {
+            "A": "Revolution, State, Protection, Liberals.",
+            "B": "Anarchism, Betrayal, Power, State.",
+            "C": "Revolution, State, Strike, Egoism.",
+            "D": "Anarchism, State, Individual, Freedom."
+          },
+          "correct_answer": "D",
+          "explanation": "Options 1 and 3 are easily eliminated as they leave out anarchism Option 2 is eliminated because of word Betrayal which can’t be as easily related as ‘individual’ in 4"
+        },
+        {
+          "id": "cat-2020-slot1-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The word ‘anarchy’ comes from the Greek anarkhia, meaning contrary to authority or without a ruler, and was used in a\nderogatory sense until 1840, when it was adopted by Pierre-Joseph Proudhon to describe his political and social ideology.",
+          "passage_group": 3,
+          "question": "Which one of the following best expresses the similarity between American individualist anarchists and free-market liberals as\nwell as the difference between the former and the latter?",
+          "options": {
+            "A": "Both prioritise individual autonomy; but the former also emphasise mutual dependence, while the latter do not do so.",
+            "B": "Both reject the regulatory power of the state; but the former favour a people’s state, while the latter favour state intervention in markets.",
+            "C": "Both are sophisticated arguments for capitalism; but the former argue for a morally upright capitalism, while the latter argue that the market is the only morality.",
+            "D": "Both are founded on the moral principles of altruism; but the latter conceive of the market as a force too mystical for the former to comprehend."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer last para"
+        },
+        {
+          "id": "cat-2020-slot1-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The word ‘anarchy’ comes from the Greek anarkhia, meaning contrary to authority or without a ruler, and was used in a\nderogatory sense until 1840, when it was adopted by Pierre-Joseph Proudhon to describe his political and social ideology.",
+          "passage_group": 3,
+          "question": "The author makes all of the following arguments in the passage, EXCEPT:",
+          "options": {
+            "A": "The failure of the French Revolution was because of its betrayal by the new class of politicians who emerged from it.",
+            "B": "Individualist anarchism is actually constituted of many streams, all of which focus on the autonomy of the individual.",
+            "C": "The popular perception of anarchism as espousing lawlessness and violence comes from a mainstream mistrust of collectivism.",
+            "D": "For anarchists, the state is the enemy because all states apply violence and terror to maintain their control."
+          },
+          "correct_answer": "C",
+          "explanation": "Option 3 Option 4 is supported by last lines of para 3 Option 2 is supported by last para Option 1 can be inferred from lines “anarchism arose not only as an explanation of the gulf between the rich and the poor in any community, and of the reason why the poor have been obliged to fight for their share of a common inheritance, but as a radical answer to the question ‘What went wrong?’ that followed the ultimate outcome of the French Revolution”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The word ‘anarchy’ comes from the Greek anarkhia, meaning contrary to authority or without a ruler, and was used in a\nderogatory sense until 1840, when it was adopted by Pierre-Joseph Proudhon to describe his political and social ideology.",
+          "passage_group": 3,
+          "question": "The author believes that the new ruling class of politicians betrayed the principles of the French Revolution, but does not\nspecify in what way. In the context of the passage, which statement below is the likeliest explanation of that betrayal?",
+          "options": {
+            "A": "The new ruling class struck a deal with the old ruling class to share power between them.",
+            "B": "The new ruling class rode to power on the strength of the workers’ revolutionary anger, but then turned to oppress that very class.",
+            "C": "The new ruling class was constituted mainly of anarchists who were against the destructive impact of the Revolution on the market.",
+            "D": "The anarchists did not want a new ruling class, but were not politically strong enough to stop them."
+          },
+          "correct_answer": "B",
+          "explanation": "Option 2 can be inferred from para 2 and 3"
+        },
+        {
+          "id": "cat-2020-slot1-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Few realise that the government of China, governing an empire of some 60 million people during the Tang dynasty (618–907),\nimplemented a complex financial system that recognized grain, coins and textiles as money. . . . Coins did have certain\nadvantages: they were durable, recognisable and provided a convenient medium of exchange, especially for smaller\ntransactions. However, there were also disadvantages. A continuing shortage of copper meant that government mints could not\nproduce enough coins for the entire empire, to the extent that for most of the dynasty’s history, coins constituted only a tenth\nof the money supply. One of the main objections to calls for taxes to be paid in coin was that peasant producers who could\nweave cloth or grow grain – the other two major currencies of the Tang – would not be able to produce coins, and therefore\nwould not be able to pay their taxes. . . .\nAs coins had advantages and disadvantages, so too did textiles. If in circulation for a long period of time, they could show signs\nof wear and tear. Stained, faded and torn bolts of textiles had less value than a brand new bolt. Furthermore, a full bolt had a\nparticular value. If consumers cut textiles into smaller pieces to buy or sell something worth less than a full bolt, that, too,\ngreatly lessened the value of the textiles. Unlike coins, textiles could not be used for small transactions; as [an official] noted,\ntextiles could not “be exchanged by the foot and the inch” . . .\nBut textiles had some advantages over coins. For a start, textile production was widespread and there were fewer problems with\nthe supply of textiles. For large transactions, textiles weighed less than their equivalent in coins since a string of coins . . . could\nweigh as much as 4 kg. Furthermore, the dimensions of a bolt of silk held remarkably steady from the third to the tenth century:\n56 cm wide and 12 m long . . . The values of different textiles were also more stable than the fluctuating values of coins. . . .\nThe government also required the use of textiles for large transactions. Coins, on the other hand, were better suited for smaller\ntransactions, and possibly, given the costs of transporting coins, for a more local usage. Grain, because it rotted easily, was not\nused nearly as much as coins and textiles, but taxpayers were required to pay grain to the government as a share of their\nannual tax obligations, and official salaries were expressed in weights of grain. . . .\nIn actuality, our own currency system today has some similarities even as it is changing in front of our eyes. . . . We have cash –\ncoins for small transactions like paying for parking at a meter, and banknotes for other items; cheques and debit/credit cards\nfor other, often larger, types of payments. At the same time, we are shifting to electronic banking and making payments online.\nSome young people never use cash [and] do not know how to write a cheque . . .\nAccording to the passage, the modern currency system shares all the following features with that of the Tang, EXCEPT that:",
+          "options": {
+            "A": "it uses different materials as currency",
+            "B": "it is undergoing transformation",
+            "C": "its currencies fluctuate in value over time",
+            "D": "it uses different currencies for different situations"
+          },
+          "correct_answer": "B",
+          "explanation": "Refer line 1 of last para “In actuality, our own currency system today has some similarities even as it is changing in front of our eyes”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "When discussing textiles as currency in the Tang period, the author uses the words “steady” and “stable” to indicate all of the\nfollowing EXCEPT:",
+          "options": {
+            "A": "reliable quality",
+            "B": "reliable supply",
+            "C": "reliable transportation",
+            "D": "reliable measurements"
+          },
+          "correct_answer": "C",
+          "explanation": "Refer to following lines of paras 3 and 4 “But textiles had some advantages over coins. For a start, textile production was widespread and there were fewer problems with the supply of textiles. For large transactions, textiles weighed less than their equivalent in coins since a string of coins . . . could weigh as much as 4 kg. Furthermore, the dimensions of a bolt of silk held remarkably steady from the third to the tenth century: 56 cm wide and 12 m long . . . The values of different textiles were also more stable than the fluctuating values of coins. . . . The government also required the use of textiles for large transactions. Coins, on the other hand, were better suited for smaller transactions, and possibly, given the costs of transporting coins, for a more local usage. Grain, because it rotted easily, was not used nearly as much as coins and textiles, but taxpayers were required to pay grain to the government as a share of their annual tax obligations, and official salaries were expressed in weights of grain. . . .”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "During the Tang period, which one of the following would not be an economically sound decision for a small purchase in the\nlocal market that is worth one-eighth of a bolt of cloth?",
+          "options": {
+            "A": "Cutting one-eighth of the fabric from a new bolt to pay the amount.",
+            "B": "Using coins issued by the government to make the payment.",
+            "C": "Making the payment with the appropriate weight of grain.",
+            "D": "Paying with a faded bolt of cloth that has approximately the same value."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer lines “Stained, faded and torn bolts of textiles had less value than a brand new bolt. Furthermore, a full bolt had a particular value. If consumers cut textiles into smaller pieces to buy or sell something worth less than a full bolt, that, too, greatly lessened the value of the textiles”."
+        },
+        {
+          "id": "cat-2020-slot1-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the context of the passage, which one of the following can be inferred with regard to the use of currency during the Tang\nera?",
+          "options": {
+            "A": "Copper coins were more valuable and durable than textiles.",
+            "B": "Currency that deteriorated easily was not used for official work.",
+            "C": "Grains were the most used currency because of government requirements.",
+            "D": "Currency usage was similar to that of modern times."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer following line of last para “In actuality, our own currency system today has some similarities” Option 2 is incorrect as grains, though they rotted easily, were used as currency Option 3 is incorrect Refer following line of penultimate para ‘The government also required the use of textiles for large transactions.’"
+        },
+        {
+          "id": "cat-2020-slot1-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. For feminists, the question of how we read is inextricably linked with the question of what we read.\n2. Elaine Showalter’s critique of the literary curriculum is exemplary of this work.\n3. Androcentric literature structures the reading experience differently depending on the gender of the reader.\n4. The documentation of this realization was one of the earliest tasks undertaken by feminist critics.\n5. More specifically, the feminist inquiry into the activity of reading begins with the realization that the literary canon is\nandrocentric, and that this has a profoundly damaging effect on women readers.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "SR 1542 1-5 are linked by ‘more specifically’ 5-4 this realization’ in 4 refers to “the literary canon is androcentric” in 5 2 closes the para by giving an example 3 though looks related doesn’t fit into the para"
+        },
+        {
+          "id": "cat-2020-slot1-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For years, movies and television series like Crime Scene Investigation (CSI) paint an unrealistic picture of the “science of voices.”\nIn the 1994 movie Clear and Present Danger an expert listens to a brief recorded utterance and declares that the speaker is\n“Cuban, aged 35 to 45, educated in the […] eastern United States.” The recording is then fed to a supercomputer that matches\nthe voice to that of a suspect, concluding that the probability of correct identification is 90%. This sequence sums up a good\nnumber of misimpressions about forensic phonetics, which have led to errors in real-life justice. Indeed, that movie scene\nexemplifies the so-called “CSI effect”—the phenomenon in which judges hold unrealistic expectations of the capabilities of\nforensic science.",
+          "options": {
+            "A": "Movies and televisions have led to the belief that the use of forensic phonetics in legal investigations is robust and fool proof.",
+            "B": "Voice recognition as used in many movies to identify criminals has been used to identify criminals in real life also.",
+            "C": "Voice recognition has started to feature prominently in crime-scene intelligence investigations because of movies and television series.",
+            "D": "Although voice recognition is often presented as evidence in legal cases, its scientific basis can be shaky."
+          },
+          "correct_answer": "A",
+          "explanation": "Option 2 takes a positive tone while para calls the expectations from forensic phonetics unrealistic Option 3 is incorrect as it leaves out that the expectations from forensic phonetics unrealistic Option 4 leaves out the part where judges have unrealistic expectations because of movies and TV series"
+        },
+        {
+          "id": "cat-2020-slot1-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Tensions and sometimes conflict remain an issue in and between the 11 states in South East Asia (Brunei Darussalam,\nCambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste and Vietnam).\n2. China’s rise as a regional military power and its claims in the South China Sea have become an increasingly pressing security\nconcern for many South East Asian states.\n3. Since the 1990s, the security environment of South East Asia has seen both continuity and profound changes.\n4. These concerns cause states from outside the region to take an active interest in South East Asian security.",
+          "options": {
+            "A": "3124",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3124",
+          "explanation": "3 is the most generic stt so comes first. 3-12 ‘Tensions and sometimes conflict remain an issue’ in 1 exemplifies ‘continuity in 3’ And ‘China’s rise’ exemplifies ‘profound changes’ in 3 1-4 States from outside take interest because of “China’s rise” in 1"
+        },
+        {
+          "id": "cat-2020-slot1-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Relying on narrative structure alone, indigenous significances of nineteenth century San folktales are hard to determine.\n2. Using their supernatural potency, benign shamans transcend the levels of the San cosmos in order to deal with social conflict\nand to protect material resources and enjoy a measure of respect that sets them apart from ordinary people.\n3. Selected tales reveal that they deal with a form of spiritual conflict that has social implications and concern conflict between\npeople and living or dead malevolent shamans.\n4. Meaning can be elicited, and the tales contextualized, by probing beneath the narrative of verbatim, original-language\nrecords and exploring the connotations of highly significant words and phrases.",
+          "options": {
+            "A": "1432",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1432",
+          "explanation": "1 is the most generic stt so comes first 1-4 4 explains how significance can be understood - by probing beneath the narrative of verbatim 4-3 when tales are probed by method stated in 4, Selected tales reveal that they deal with a form of spiritual conflict 3-2 are linked by Shamans introduced in 3"
+        },
+        {
+          "id": "cat-2020-slot1-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For nearly a century most psychologists have embraced one view of intelligence. Individuals are born with more or less\nintelligence potential (I.Q.); this potential is heavily influenced by heredity and difficult to alter; experts in measurement can\ndetermine a person’s intelligence early in life, currently from paper-and-pencil measures, perhaps eventually from examining\nthe brain in action or even scrutinizing his/her genome. Recently, criticism of this conventional wisdom has mounted. Biologists\nask if speaking of a single entity called “intelligence” is coherent and question the validity of measures used to estimate\nheritability of a trait in humans, who, unlike plants or animals, are not conceived and bred under controlled conditions.",
+          "options": {
+            "A": "Biologists have criticised that conventional wisdom that individuals are born with more or less intelligence potential.",
+            "B": "Biologists have started questioning psychologists' view of 'intelligence' as a measurable immutable characteristic of an individual.",
+            "C": "Biologists have questioned the long-standing view that ‘intelligence’ is a single entity and the attempts to estimate it's heritability.",
+            "D": "Biologists have questioned the view that ‘intelligence’ is a single entity and the ways in which what is inherited."
+          },
+          "correct_answer": "C",
+          "explanation": "Option 1 captures only 1st lines of the para Option 2 talks about immutable but leaves out heredity Option 4 is factually incorrect as biologists aren’t questioning “ways in which that is inherited.”"
+        },
+        {
+          "id": "cat-2020-slot1-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "As Soviet power declined, the world became to some extent multipolar, and Europe strove to define an independent identity.\nWhat a journey Europe has undertaken to reach this point. It had in every century changed its internal structure and invented\nnew ways of thinking about the nature of international order. Now at the culmination of an era, Europe, in order to participate\nin it, felt obliged to set aside the political mechanisms through which it had conducted its affairs for three and a half centuries.\nImpelled also by the desire to cushion the emergent unification of Germany, the new European Union established a common\ncurrency in 2002 and a formal political structure in 2004. It proclaimed a Europe united, whole, and free, adjusting its\ndifferences by peaceful mechanisms.",
+          "options": {
+            "A": "Europe has chosen to lower political and economic heterogeneity, in order to adapt itself to an emerging multi-polar world.",
+            "B": "The establishment of a formal political structure in Europe was hastened by the unification of Germany and the emergence of a multipolar world.",
+            "C": "Europe has consistently changed its internal structure to successfully adapt to the changing world order.",
+            "D": "Europe has consistently changed in keeping with the changing world order and that has culminated in a united Europe."
+          },
+          "correct_answer": "A",
+          "explanation": "Option 2 talks only of politics leaves out economics Option 3 is more generic as compared to option 1. Option 1 correctly captures “lower political and economic heterogeneity” instead of just changing internal structure and “emerging multi-polar world” instead of “changing world order” in 3 Option 4 is too generic esp when compared to option 1. Option 1 talks of “emerging multi-polar world” instead of “changing world order” in option 4. Also, “a united Europe” gives an impression that complete Europe has united which is an inference not warranted by the para"
+        },
+        {
+          "id": "cat-2020-slot1-varc-25",
+          "number": 25,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Talk was the most common way for enslaved men and women to subvert the rules of their bondage, to gain more agency\nthan they were supposed to have.\n2. Even in conditions of extreme violence and unfreedom, their words remained ubiquitous, ephemeral, irrepressible, and\npotentially transgressive.\n3. Slaves came from societies in which oaths, orations, and invocations carried great potency, both between people and as a\nconnection to the all-powerful spirit world.\n4. Freedom of speech and the power to silence may have been preeminent markers of white liberty in Colonies, but at the same\ntime, slavery depended on dialogue: slaves could never be completely muted.\n5. Slave-owners obsessed over slave talk, though they could never control it, yet feared its power to bind and inspire—for, as\neveryone knew, oaths, whispers, and secret conversations bred conspiracy and revolt.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "3 talks about spirit world which isn’t talked about in any other stt 4215 4-2 2 exemplifies how even in the most extreme circumstances slaves couldn’t be muted 1-5 1 gives reason why slave owners obsessed over slave talk because Talk was the most common way for enslaved men and women to subvert the rules of their bondage, to gain more agency than they were supposed to have."
+        },
+        {
+          "id": "cat-2020-slot1-varc-26",
+          "number": 26,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Man has used poisons for assassination purposes ever since the dawn of civilization, against individual enemies but also\noccasionally against armies.\n2. These dangers were soon recognized, and resulted in two international declarations— in 1874 in Brussels and in 1899 in The\nHague—that prohibited the use of poisoned weapons.\n3. The foundation of microbiology by Louis Pasteur and Robert Koch offered new prospects for those interested in biological\nweapons because it allowed agents to be chosen and designed on a rational basis.\n4. Though treaties were all made in good faith, they contained no means of control, and so failed to prevent interested parties\nfrom developing and using biological weapons.",
+          "options": {
+            "A": "1324",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1324",
+          "explanation": "1324 The stts are arranged chronologically 1 has ‘dawn of civilization’ as the time frame 1 is also the most generic stt and also introduces topic under discussion – poison/biological weapons 3-2 ‘these dangers’ in 2 is referring to stt 3 2-4 2 and 4 are linked as both talk about nations working together through declarations in 2 and 4 talks about treaties"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot1-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1000 patients currently suffering from a disease were selected to study the effectiveness of treatment of four types of\nmedicines — A, B, C and D. These patients were first randomly assigned into two groups of equal size, called treatment group\nand control group. The patients in the control group were not treated with any of these medicines; instead they were given a\ndummy medicine, called placebo, containing only sugar and starch. The following information is known about the patients in\nthe treatment group.\na. A total of 250 patients were treated with type A medicine and a total of 210 patients were treated with type C medicine.\nb. 25 patients were treated with type A medicine only. 20 patients were treated with type C medicine only. 10 patients were\ntreated with type D medicine only.\nc. 35 patients were treated with type A and type D medicines only. 20 patients were treated with type A and type B medicines\nonly. 30 patients were treated with type A and type C medicines only. 20 patients were treated with type C and type D\nmedicines only.\nd. 100 patients were treated with exactly three types of medicines.\ne. 40 patients were treated with medicines of types A, B and C, but not with medicines of type D. 20 patients were treated with\nmedicines of types A, C and D, but not with medicines of type B.\nf. 50 patients were given all the four types of medicines. 75 patients were treated with exactly one type of medicine.\nHow many patients were treated with medicine type B?",
+          "options": {
+            "A": "340",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "340",
+          "explanation": "From instruction we can say that these are 500 patients in treatment group and 500 patients in control group. 20 + 20 + 40 + 20 + 50 + 10 + 30 + 150 = 340"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1000 patients currently suffering from a disease were selected to study the effectiveness of treatment of four types of\nmedicines — A, B, C and D. These patients were first randomly assigned into two groups of equal size, called treatment group\nand control group. The patients in the control group were not treated with any of these medicines; instead they were given a\ndummy medicine, called placebo, containing only sugar and starch. The following information is known about the patients in\nthe treatment group.\na. A total of 250 patients were treated with type A medicine and a total of 210 patients were treated with type C medicine.\nb. 25 patients were treated with type A medicine only. 20 patients were treated with type C medicine only. 10 patients were\ntreated with type D medicine only.\nc. 35 patients were treated with type A and type D medicines only. 20 patients were treated with type A and type B medicines\nonly. 30 patients were treated with type A and type C medicines only. 20 patients were treated with type C and type D\nmedicines only.\nd. 100 patients were treated with exactly three types of medicines.\ne. 40 patients were treated with medicines of types A, B and C, but not with medicines of type D. 20 patients were treated with\nmedicines of types A, C and D, but not with medicines of type B.\nf. 50 patients were given all the four types of medicines. 75 patients were treated with exactly one type of medicine.\nThe number of patients who were treated with medicine types B, C and D, but not type A was:",
+          "options": {
+            "A": "10",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "10",
+          "explanation": "From instruction we can say that these are 500 patients in treatment group and 500 patients in control group."
+        },
+        {
+          "id": "cat-2020-slot1-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1000 patients currently suffering from a disease were selected to study the effectiveness of treatment of four types of\nmedicines — A, B, C and D. These patients were first randomly assigned into two groups of equal size, called treatment group\nand control group. The patients in the control group were not treated with any of these medicines; instead they were given a\ndummy medicine, called placebo, containing only sugar and starch. The following information is known about the patients in\nthe treatment group.\na. A total of 250 patients were treated with type A medicine and a total of 210 patients were treated with type C medicine.\nb. 25 patients were treated with type A medicine only. 20 patients were treated with type C medicine only. 10 patients were\ntreated with type D medicine only.\nc. 35 patients were treated with type A and type D medicines only. 20 patients were treated with type A and type B medicines\nonly. 30 patients were treated with type A and type C medicines only. 20 patients were treated with type C and type D\nmedicines only.\nd. 100 patients were treated with exactly three types of medicines.\ne. 40 patients were treated with medicines of types A, B and C, but not with medicines of type D. 20 patients were treated with\nmedicines of types A, C and D, but not with medicines of type B.\nf. 50 patients were given all the four types of medicines. 75 patients were treated with exactly one type of medicine.\nHow many patients were treated with medicine types B and D only?",
+          "options": {
+            "A": "150",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "150",
+          "explanation": "From instruction we can say that these are 500 patients in treatment group and 500 patients in control group."
+        },
+        {
+          "id": "cat-2020-slot1-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1000 patients currently suffering from a disease were selected to study the effectiveness of treatment of four types of\nmedicines — A, B, C and D. These patients were first randomly assigned into two groups of equal size, called treatment group\nand control group. The patients in the control group were not treated with any of these medicines; instead they were given a\ndummy medicine, called placebo, containing only sugar and starch. The following information is known about the patients in\nthe treatment group.\na. A total of 250 patients were treated with type A medicine and a total of 210 patients were treated with type C medicine.\nb. 25 patients were treated with type A medicine only. 20 patients were treated with type C medicine only. 10 patients were\ntreated with type D medicine only.\nc. 35 patients were treated with type A and type D medicines only. 20 patients were treated with type A and type B medicines\nonly. 30 patients were treated with type A and type C medicines only. 20 patients were treated with type C and type D\nmedicines only.\n\nd. 100 patients were treated with exactly three types of medicines.\ne. 40 patients were treated with medicines of types A, B and C, but not with medicines of type D. 20 patients were treated with\nmedicines of types A, C and D, but not with medicines of type B.\nf. 50 patients were given all the four types of medicines. 75 patients were treated with exactly one type of medicine.\nThe number of patients who were treated with medicine type D was:?",
+          "options": {
+            "A": "325",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "325",
+          "explanation": "From instruction we can say that these are 500 patients in treatment group and 500 patients in control group. 20 + 50 + 10 + 20 + 35 + 30 + 150 + 10 = 325"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019.\nThe contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had\nmore than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple\nvendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got\ninto two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes.\nThe following facts are also known about these contracts.\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4- year contract, and A and C had one\n3-year contract each. The other four contracts were single year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010.\nIn which of the following years were there two or more contracts?",
+          "options": {
+            "A": "2015",
+            "B": "2017",
+            "C": "2018",
+            "D": "2016"
+          },
+          "correct_answer": "A",
+          "explanation": "Given that each institute have contract with two vendors From I, II, and III facts given, we have 2010201120122013201420152016201720182019 Z Z Z Z Z Z Z Z Z Z X X X X X X Y Y W W From the IV fact, we can say in 2012 there are five contracts. This means out of Z and X, one must be double. If Z is double then the contract can be split into 3 years and 8 years which is not possible as given contract can be 7 years contract, 4 years contract, 3 years contract or one year contract. ∴ From 2012 to 2015, x will have a four year contract with D, as D did not have any contract in 2010. C did not have a contract in 2011 ∴ A will have contract with C from 2010 to 2012 and C must from contract with Z from 2017 to 2019 and initial 7 years contract of B with Z. Since B and D have only one contract in 2012, ∴ W will have contract with A and C in 2012. A and C already made contract with 2 vendors, we are left with B & D for single year contract. D didn’t have contract in 2010. ∴ D will have contract in 2019 with Y and B will have contract with Y in 2010. Therefore the final table, 2010201120122013201420152016201720182019 BZ BZ BZ BZ BZ BZ BZ CZ CZ CZ AX AX AX DX DX DX DX BY CW DY AW 2015 (BZ and DX)"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is true?",
+          "options": {
+            "A": "D had a contract with Y in 2019",
+            "B": "B had a contract with Z in 2017",
+            "C": "B had a contract with Y in 2019",
+            "D": "D had a contract with X in 2011"
+          },
+          "correct_answer": "A",
+          "explanation": "Given that each institute have contract with two vendors From I, II, and III facts given, we have 2010201120122013201420152016201720182019 Z Z Z Z Z Z Z Z Z Z X X X X X X Y Y W W From the IV fact, we can say in 2012 there are five contracts. This means out of Z and X, one must be double. If Z is double then the contract can be split into 3 years and 8 years which is not possible as given contract can be 7 years contract, 4 years contract, 3 years contract or one year contract. ∴ From 2012 to 2015, x will have a four year contract with D, as D did not have any contract in 2010. C did not have a contract in 2011 ∴ A will have contract with C from 2010 to 2012 and C must from contract with Z from 2017 to 2019 and initial 7 years contract of B with Z. Since B and D have only one contract in 2012, ∴ W will have contract with A and C in 2012. A and C already made contract with 2 vendors, we are left with B & D for single year contract. D didn’t have contract in 2010. ∴ D will have contract in 2019 with Y and B will have contract with Y in 2010. Therefore the final table, 2010201120122013201420152016201720182019 BZ BZ BZ BZ BZ BZ BZ CZ CZ CZ AX AX AX DX DX DX DX BY CW DY AW D had a contract with Y in 2019"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many years during this period was there only one contract?",
+          "options": {
+            "A": "3",
+            "B": "2",
+            "C": "5",
+            "D": "4"
+          },
+          "correct_answer": "A",
+          "explanation": "Given that each institute have contract with two vendors From I, II, and III facts given, we have 2010201120122013201420152016201720182019 Z Z Z Z Z Z Z Z Z Z X X X X X X Y Y W W From the IV fact, we can say in 2012 there are five contracts. This means out of Z and X, one must be double. If Z is double then the contract can be split into 3 years and 8 years which is not possible as given contract can be 7 years contract, 4 years contract, 3 years contract or one year contract. ∴ From 2012 to 2015, x will have a four year contract with D, as D did not have any contract in 2010. C did not have a contract in 2011 ∴ A will have contract with C from 2010 to 2012 and C must from contract with Z from 2017 to 2019 and initial 7 years contract of B with Z. Since B and D have only one contract in 2012, ∴ W will have contract with A and C in 2012. A and C already made contract with 2 vendors, we are left with B & D for single year contract. D didn’t have contract in 2010. ∴ D will have contract in 2019 with Y and B will have contract with Y in 2010. Therefore the final table, 2010201120122013201420152016201720182019 BZ BZ BZ BZ BZ BZ BZ CZ CZ CZ AX AX AX DX DX DX DX BY CW DY AW 3 (2016, 2017, 2018)"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the number of contracts in 2010?",
+          "options": {
+            "A": "at least 3",
+            "B": "at least 4",
+            "C": "exactly 3",
+            "D": "exactly 4"
+          },
+          "correct_answer": "C",
+          "explanation": "Given that each institute have contract with two vendors From I, II, and III facts given, we have 2010201120122013201420152016201720182019 Z Z Z Z Z Z Z Z Z Z X X X X X X Y Y W W From the IV fact, we can say in 2012 there are five contracts. This means out of Z and X, one must be double. If Z is double then the contract can be split into 3 years and 8 years which is not possible as given contract can be 7 years contract, 4 years contract, 3 years contract or one year contract. ∴ From 2012 to 2015, x will have a four year contract with D, as D did not have any contract in 2010. C did not have a contract in 2011 ∴ A will have contract with C from 2010 to 2012 and C must from contract with Z from 2017 to 2019 and initial 7 years contract of B with Z. Since B and D have only one contract in 2012, ∴ W will have contract with A and C in 2012. A and C already made contract with 2 vendors, we are left with B & D for single year contract. D didn’t have contract in 2010. ∴ D will have contract in 2019 with Y and B will have contract with Y in 2010. Therefore the final table, 2010201120122013201420152016201720182019 BZ BZ BZ BZ BZ BZ BZ CZ CZ CZ AX AX AX DX DX DX DX BY CW DY AW Exactly 3"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which institutes had multiple contracts during the same year?",
+          "options": {
+            "A": "B only",
+            "B": "A and B only",
+            "C": "B and C only",
+            "D": "A only"
+          },
+          "correct_answer": "B",
+          "explanation": "Given that each institute have contract with two vendors From I, II, and III facts given, we have 2010201120122013201420152016201720182019 Z Z Z Z Z Z Z Z Z Z X X X X X X Y Y W W From the IV fact, we can say in 2012 there are five contracts. This means out of Z and X, one must be double. If Z is double then the contract can be split into 3 years and 8 years which is not possible as given contract can be 7 years contract, 4 years contract, 3 years contract or one year contract. ∴ From 2012 to 2015, x will have a four year contract with D, as D did not have any contract in 2010. C did not have a contract in 2011 ∴ A will have contract with C from 2010 to 2012 and C must from contract with Z from 2017 to 2019 and initial 7 years contract of B with Z. Since B and D have only one contract in 2012, ∴ W will have contract with A and C in 2012. A and C already made contract with 2 vendors, we are left with B & D for single year contract. D didn’t have contract in 2010. ∴ D will have contract in 2019 with Y and B will have contract with Y in 2010. Therefore the final table, 2010201120122013201420152016201720182019 BZ BZ BZ BZ BZ BZ BZ CZ CZ CZ AX AX AX DX DX DX DX BY CW DY AW A and B only (In 2010 ⇒ BZ and BY, In 2012 ⇒ AX and AW)"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which institutes and vendors had more than one contracts in any year?",
+          "options": {
+            "A": "A, B, W, and X",
+            "B": "A, D, W, and Z",
+            "C": "B, D, W, and X",
+            "D": "B, W, X, and Z"
+          },
+          "correct_answer": "A",
+          "explanation": "Given that each institute have contract with two vendors From I, II, and III facts given, we have 2010201120122013201420152016201720182019 Z Z Z Z Z Z Z Z Z Z X X X X X X Y Y W W From the IV fact, we can say in 2012 there are five contracts. This means out of Z and X, one must be double. If Z is double then the contract can be split into 3 years and 8 years which is not possible as given contract can be 7 years contract, 4 years contract, 3 years contract or one year contract. ∴ From 2012 to 2015, x will have a four year contract with D, as D did not have any contract in 2010. C did not have a contract in 2011 ∴ A will have contract with C from 2010 to 2012 and C must from contract with Z from 2017 to 2019 and initial 7 years contract of B with Z. Since B and D have only one contract in 2012, ∴ W will have contract with A and C in 2012. A and C already made contract with 2 vendors, we are left with B & D for single year contract. D didn’t have contract in 2010. ∴ D will have contract in 2019 with Y and B will have contract with Y in 2010. Therefore the final table, 2010201120122013201420152016201720182019 BZ BZ BZ BZ BZ BZ BZ CZ CZ CZ AX AX AX DX DX DX DX BY CW DY AW A, B, W and X"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a certain board examination, students were to appear for examination in five subjects: English, Hindi, Mathematics, Science\nand Social Science. Due to a certain emergency situation, a few of the examinations could not be conducted for some students.\nHence, some students missed one examination and some others missed two examinations. Nobody missed more than two\nexaminations.\nThe board adopted the following policy for awarding marks to students. If a student appeared in all five examinations, then the\nmarks awarded in each of the examinations were on the basis of the scores obtained by them in those examinations.\nIf a student missed only one examination, then the marks awarded in that examination was the average of the best three\namong the four scores in the examinations they appeared for.\nIf a student missed two examinations, then the marks awarded in each of these examinations was the average of the best two\namong the three scores in the examinations they appeared for.\nThe marks obtained by six students in the examination are given in the table below. Each of them missed either one or two\nexaminations.\nEnglish Hindi Mathematics Science Social Science\nAlva 80 75 70 75 60\nBithi 90 80 55 85 85\nCarl 75 80 90 100 90\nDeep 70 90 100 90 80\nEsha 80 85 95 60 55\nFoni 83 72 78 88 83\nThe following facts are also known.\nI. Four of these students appeared in each of the English, Hindi, Science, and Social Science examinations.\nII. The student who missed the Mathematics examination did not miss any other examination.\nIII. One of the students who missed the Hindi examination did not miss any other examination.\nThe other student who missed the Hindi examination also missed the Science examination.\nWho among the following did not appear for the Mathematics examination?",
+          "options": {
+            "A": "Carl",
+            "B": "Alva",
+            "C": "Foni",
+            "D": "Esha"
+          },
+          "correct_answer": "A",
+          "explanation": "Average cannot be maximum or minimum. Given that the student who missed mathematics exam didn’t miss any other exam. ∴ If Alva miss mathematics then Alva’s average = that’s not equal to 70 ∴ Alva eliminated, if Foni miss Mathematics, then Foni average (of best 3) = Which is not equal to 78. ∴ Foni is eliminated. We can see that Esha got maximum marks in mathematics (which is not possible if she misses mathmatics, as the missed exam is the average of remaining subjects). ∴ Carl will be the right answer as, Carl average = Which is equal to mathematics score."
+        },
+        {
+          "id": "cat-2020-slot1-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which students did not appear for the English examination?",
+          "options": {
+            "A": "Carl and Deep",
+            "B": "Esha and Foni",
+            "C": "Alva and Bithi",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "B",
+          "explanation": "As the marks in the missing exam in the average of the remaining marks (according to different condition) and we know average can neither be least nor maximum. ∴ Alva Bithi, Carl and Deep are eliminated. ∴ Answer will be Esha and Foni"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the students who did not appear for the Hindi examination?",
+          "options": {
+            "A": "Alva and Esha",
+            "B": "Alva and Deep",
+            "C": "Deep and Esha",
+            "D": "Two among Alva, Deep and Esha"
+          },
+          "correct_answer": "B",
+          "explanation": "Let’s check for Esha only, by checking for Esha only we can eliminate all the wrong options. There are two cases with the Hindi; Case I ⇒ only miss Hindi exam ∴ score for Hindi for Esha = ∴ Not equal to 85. Not satisfied Case II ⇒ miss Hindi and Science both. Not possible as score isdiffernt for Hindi and Science. ∴ Alva and Deep will be the answer"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the students who missed the Science examination?",
+          "options": {
+            "A": "Alva and Bithi",
+            "B": "Deep and Bithi",
+            "C": "Alva and Deep",
+            "D": "Bithi and one out of Alva and Deep"
+          },
+          "correct_answer": "D",
+          "explanation": "From the table, we can see Bithi missed the Science paper definitely but we are not sure of Alva and Deep. One out of Alva and Deep will definitely miss the Science exam"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many out of these six students missed exactly one examination?",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "We can see that Esha, Carl and one out of Alva or Deep missed one examination."
+        },
+        {
+          "id": "cat-2020-slot1-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For how many students can we be definite about which examinations they missed?",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "We are definite about Bithi, Carl, Esha and Foni"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The local office of the APP-CAB company evaluates the performance of five cab drivers, Arun, Barun, Chandan, Damodaran, and\nEman for their monthly payment based on ratings in five different parameters (P1 to P5) as given below:\nP1: timely arrival\nP2: behaviour\nP3: comfortable ride\nP4: driver's familiarity with the route\nP5: value for money\nBased on feedback from the customers, the office assigns a rating from 1 to 5 in each of these parameters. Each rating is an\ninteger from a low value of 1 to a high value of 5. The final rating of a driver is the average of his ratings in these five\nparameters. The monthly payment of the drivers has two parts – a fixed payment and final rating-based bonus. If a driver gets a\nrating of 1 in any of the parameters, he is not eligible to get bonus. To be eligible for bonus a driver also needs to get a rating\nof five in at least one of the parameters.\nThe partial information related to the ratings of the drivers in different parameters and the monthly payment structure (in\nrupees) is given in the table below:\nFixed\nP1 P2 P3 P4 P5 Bonus\nPayment\nArun 4 Rs. 1000 Rs. 250 × Final Rating\nBarun 3 Rs. 1200 Rs. 200 × Final Rating\nChandan 2 Rs. 1400 Rs. 100 × Final Rating\nDamodaran 3 Rs. 1300 Rs. 150 × Final Rating\nEman 2 Rs. 1100 Rs. 200 × Final Rating\nThe following additional facts are known.\n1. Arun and Barun have got a rating of 5 in exactly one of the parameters. Chandan has got a rating of 5 in exactly two\nparameters.\n2. None of drivers has got the same rating in three parameters.\nIf Damodaran does not get a bonus, what is the maximum possible value of his final rating?",
+          "options": {
+            "A": "3.6",
+            "B": "3.8",
+            "C": "3.2",
+            "D": "3.4"
+          },
+          "correct_answer": "A",
+          "explanation": "We have to maximize the rating of Damodaran, taking care that he did not get the bonus. ∴ Damodaran = 5 +5 + 3 +4+ 1 = 18 ∴ Rating = 18/5 = 3.6"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Eman gets a bonus, what is the minimum possible value of his final rating?",
+          "options": {
+            "A": "3.4",
+            "B": "2.8",
+            "C": "3.0",
+            "D": "3.2"
+          },
+          "correct_answer": "C",
+          "explanation": "We have to minimize the rating of Eman, taking care that Eman will get bonus. ∴ Eman = 5 + 3 + 3 + 2 + 2 = 15 ∴ Rating = 15/5 = 3.0"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If all five drivers get bonus, what is the minimum possible value of the monthly payment (in rupees) that a driver gets?",
+          "options": {
+            "A": "1700",
+            "B": "1740",
+            "C": "1750",
+            "D": "1600"
+          },
+          "correct_answer": "A",
+          "explanation": "As, we have to find the minimum possible value of monthly payment is mean we need to find the payment of ill the drivers, keeping their rating minimum and all drivers will get the bonus. Arun = 5 + 2 + 2 + 4 3 + = 16 Arun Rating = 16/5 = 3.2 ∴ Arun payment = 1000 + 3.2 × 250 = 1800 Barun = 3 + 5 + 2 + 2 + 3 = 15 Barun Rating = 15/5 = 3.0 ∴ Barun payment = 1200 + 200 × 3 = 1800 Chandan = 5 + 5 + 2 + 2 +3 = 17 Chandan Rating = 17/5 = 3.4 Chandan Payment = 1400+ 3.4 × 100 = 1740 Damodaran = 5 + 3 + 3 + 2 + 2 Damodaran Rating = 15/5 = 3.0 ∴ Damodaran payment = 1300 + 150× 3 = 1750 Eman = 5 + 3 + 3 + 2 +2 = 15 Eman Rating = 15/5 = 3.0 ∴ Eman Payment = 1100+ 200×3 = 1700 ∴ Eman payment will be minimum i.e. 1700"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If all five drivers get bonus, what is the maximum possible value of the monthly payment (in rupees) that a driver gets?",
+          "options": {
+            "A": "1960",
+            "B": "1950",
+            "C": "2050",
+            "D": "1900"
+          },
+          "correct_answer": "A",
+          "explanation": "Now we have to maximize the rating of all five drivers Arun = 5 + 4 + 3 + 4 + 3 = 19. Rating = 19/5 = 3.80 ∴ Arun Payment = 1000 + 3.8 × 250 = 1950 Barun = 3 + 5 + 4 + 4 + 3. Rating = 19/5 = 3.80 ∴ Barun Payment = 1200 + 200 × 3.80 = 1960 Chandan = 5 + 5 + 2 + 4 + 4 = 20. Rating = 20/5 = 4.0 ∴ Chandan Payment = 1400 + 100 × 4 = 1800 Damodaran = 5 + 3 5 + 4 + 4 = 21 Rating = 21/5 = 4.2 ∴ Damodaran Payment = 1300 + 150 × 4.2 = 1930 Eamn = 5 + 5 + 4 + 4 +2 = 20. Rating = 20/5 = 4.0 ∴ Eman payment = 100 + 200 × 4 = 1900 ∴ Barun’s payment is maximum i.e. 1960"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-47",
+          "number": 47,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ten musicians (A, B, C, D, E, F, G, H, I and J) are experts in at least one of the following three percussion instruments: tabla,\nmridangam, and ghatam. Among them, three are experts in tabla but not in mridangam or ghatam, another three are experts in\nmridangam but not in tabla or ghatam, and one is an expert in ghatam but not in tabla or mridangam. Further, two are experts\nin tabla and mridangam but not in ghatam, and one is an expert in tabla and ghatam but not in mridangam.\nThe following facts are known about these ten musicians.\n1. Both A and B are experts in mridangam, but only one of them is also an expert in tabla.\n2. D is an expert in both tabla and ghatam.\n3. Both F and G are experts in tabla, but only one of them is also an expert in mridangam.\n4. Neither I nor J is an expert in tabla.\n5. Neither H nor I is an expert in mridangam, but only one of them is an expert in ghatam.\nWho among the following is DEFINITELY an expert in tabla but not in either mridangam or ghatam?",
+          "options": {
+            "A": "C",
+            "B": "F",
+            "C": "H",
+            "D": "A"
+          },
+          "correct_answer": "C",
+          "explanation": "After Reading the passage After reading instruction point 1, 2, 3 4th point says that neither I nor J is an expert in Tabla. After combing 4th and 5th point. We can definitely say that, I must play only Ghatam, This means H must play only Tabla H"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-48",
+          "number": 48,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ten musicians (A, B, C, D, E, F, G, H, I and J) are experts in at least one of the following three percussion instruments: tabla,\nmridangam, and ghatam. Among them, three are experts in tabla but not in mridangam or ghatam, another three are experts in\nmridangam but not in tabla or ghatam, and one is an expert in ghatam but not in tabla or mridangam. Further, two are experts\nin tabla and mridangam but not in ghatam, and one is an expert in tabla and ghatam but not in mridangam.\nThe following facts are known about these ten musicians.\n1. Both A and B are experts in mridangam, but only one of them is also an expert in tabla.\n2. D is an expert in both tabla and ghatam.\n3. Both F and G are experts in tabla, but only one of them is also an expert in mridangam.\n4. Neither I nor J is an expert in tabla.\n5. Neither H nor I is an expert in mridangam, but only one of them is an expert in ghatam.\nWho among the following is DEFINITELY an expert in mridangam but not in either tabla or ghatam?",
+          "options": {
+            "A": "B",
+            "B": "E",
+            "C": "J",
+            "D": "G"
+          },
+          "correct_answer": "C",
+          "explanation": "After Reading the passage After reading instruction point 1, 2, 3 4th point says that neither I nor J is an expert in Tabla. After combing 4th and 5th point. We can definitely say that, I must play only Ghatam, This means H must play only Tabla J"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-49",
+          "number": 49,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ten musicians (A, B, C, D, E, F, G, H, I and J) are experts in at least one of the following three percussion instruments: tabla,\nmridangam, and ghatam. Among them, three are experts in tabla but not in mridangam or ghatam, another three are experts in\nmridangam but not in tabla or ghatam, and one is an expert in ghatam but not in tabla or mridangam. Further, two are experts\nin tabla and mridangam but not in ghatam, and one is an expert in tabla and ghatam but not in mridangam.\nThe following facts are known about these ten musicians.\n1. Both A and B are experts in mridangam, but only one of them is also an expert in tabla.\n2. D is an expert in both tabla and ghatam.\n3. Both F and G are experts in tabla, but only one of them is also an expert in mridangam.\n4. Neither I nor J is an expert in tabla.\n5. Neither H nor I is an expert in mridangam, but only one of them is an expert in ghatam.\nWhich of the following pairs CANNOT have any musician who is an expert in both tabla and mridangam but not in ghatam?",
+          "options": {
+            "A": "A and B",
+            "B": "F and G",
+            "C": "C and E",
+            "D": "C and F"
+          },
+          "correct_answer": "C",
+          "explanation": "After Reading the passage After reading instruction point 1, 2, 3 4th point says that neither I nor J is an expert in Tabla. After combing 4th and 5th point. We can definitely say that, I must play only Ghatam, This means H must play only Tabla It can only be from A/B, F/G ∴ C and E is the correct options"
+        },
+        {
+          "id": "cat-2020-slot1-dilr-50",
+          "number": 50,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ten musicians (A, B, C, D, E, F, G, H, I and J) are experts in at least one of the following three percussion instruments: tabla,\nmridangam, and ghatam. Among them, three are experts in tabla but not in mridangam or ghatam, another three are experts in\nmridangam but not in tabla or ghatam, and one is an expert in ghatam but not in tabla or mridangam. Further, two are experts\nin tabla and mridangam but not in ghatam, and one is an expert in tabla and ghatam but not in mridangam.\nThe following facts are known about these ten musicians.\n\n1. Both A and B are experts in mridangam, but only one of them is also an expert in tabla.\n2. D is an expert in both tabla and ghatam.\n3. Both F and G are experts in tabla, but only one of them is also an expert in mridangam.\n4. Neither I nor J is an expert in tabla.\n5. Neither H nor I is an expert in mridangam, but only one of them is an expert in ghatam.\nIf C is an expert in mridangam and F is not, then which are the three musicians who are experts in tabla but not in either\nmridangam or ghatam?",
+          "options": {
+            "A": "E, F and H",
+            "B": "C, E and G",
+            "C": "E, G and H",
+            "D": "C, G and H"
+          },
+          "correct_answer": "A",
+          "explanation": "After Reading the passage After reading instruction point 1, 2, 3 4th point says that neither I nor J is an expert in Tabla. After combing 4th and 5th point. We can definitely say that, I must play only Ghatam, This means H must play only Tabla ∴ E, F & H are expert in Tabla only"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot1-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Among 100 students, x have birthdays in January, x have birthday in February, and so on. If x = max (x , x ,……., x ), then the\n1 2 0 1 2 12\nsmallest possible value of x is",
+          "options": {
+            "A": "12",
+            "B": "9",
+            "C": "8",
+            "D": "10"
+          },
+          "correct_answer": "B",
+          "explanation": "We want the least value of the maximum function, which is possible when the values inside the brackets are as close as possible. As number of students must be integer, therefore values of x x ……………..x can be 8 or 9 (i.e 1, 2 12 8,8,8,8,8,8,8,8,9,9,9,9). Therefore max value of x is 9."
+        },
+        {
+          "id": "cat-2020-slot1-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A gentleman decided to treat a few children in the following manner. He gives half of his total stock of toffees and one extra to\nthe first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this\nfashion. His total stock exhausts after he takes care of 5 children. How many toffees were there in his stock initially?",
+          "options": {
+            "A": "62",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "62",
+          "explanation": "Let the number of toffees be x. Toffees Given to first child = (x/2)+1 Toffees given to second child= (1/2) (x- (x/2) -1) + 1 = (x/4)+(1/2) We find the symmetry in the pattern of toffees distribution, Therefore toffees distribution done [(x/2)+1] ,[(x/4)+(1/2)] ,[(x/8)+(1/4)] ,[(x/16)+(1/8)] ,[(x/32)+(1/16)] ⇒ [(x/2)+1] + [(x/4)+(1/2)] + [(x/8)+(1/4)] + [(x/16)+(1/8)] + [(x/32)+(1/16)] = x ⇒ (62/32) = x – (31/32)x ⇒ x=62"
+        },
+        {
+          "id": "cat-2020-slot1-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Veeru invested Rs 10000 at 5% simple annual interest, and exactly after two years, Joy invested Rs 8000 at 10% simple annual\ninterest. How many years after Veeru’s investment, will their balances, i.e., principal plus accumulated interest, be equal?",
+          "options": {
+            "A": "12",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "12",
+          "explanation": "Let x be the number of year after which veeru amount will be equal to Joy amount. So, (principle + Interest) for Veeru after x year = 10,000 + 10,000 and (principle + Interest) for Joy after (x – 2) years = 8000 + 8000 Accroding to given condtion, ⇒ 10000 + 500x = 800 + 800x – 1600 ⇒ x = 12"
+        },
+        {
+          "id": "cat-2020-slot1-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If y is a negative number such that , then y equals",
+          "options": {
+            "A": "−log2(1/5)",
+            "B": "log2(1/5)",
+            "C": "−log2(1/3)",
+            "D": "log2(1/3)"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2020-slot1-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Leaving home at the same time, Amal reaches office at 10:15 am if he travels at 8 km/hr, and at 9:40 am if he travels at 15\nkm/hr. Leaving home at 9:10, at what speed, in km/hr, must be travel so as to reach office exactly at 10 am?",
+          "options": {
+            "A": "14",
+            "B": "11",
+            "C": "13",
+            "D": "12"
+          },
+          "correct_answer": "D",
+          "explanation": "As, distance covered is same with both the speed, (where, t is the time taken in minutes by Amal when his speed is 8km/hr) This means, Amal started from his house at 9:00 AM and taken 75 minutes to reach office with the speed of 8 km/hr. Now, Amal starts at 9:10 Am and wanted to reach office at 10:00 AM, i.e. is 50 minutes."
+        },
+        {
+          "id": "cat-2020-slot1-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A train travelled at one-thirds of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its\nreturn journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The\npercentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time, is nearest\nto",
+          "options": {
+            "A": "58",
+            "B": "61",
+            "C": "50",
+            "D": "67"
+          },
+          "correct_answer": "D",
+          "explanation": "Let usual speed is x and time is t If speed becomes 1/3 time will become 3 times so, time taken is 3t Given that 3t –t = 30. So t is 15 min. On return journey, in 5 minutes, it will cover 1/3rd return journey, in 5 minutes, it will cover 1/3rd distance, Ti cover the remaining distance, it has 10 minutes at usual speed but as it stopped for 4 minutes, remaining time is 6 minutes. Ratio of normal time to new time is 5:3. Ratio of normal speed to new speed is 3:5. So speed increased by 2/3 or 66.77%"
+        },
+        {
+          "id": "cat-2020-slot1-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of real-valued solutions of the equation 2x + 2-x = 2 – (x – 2)2 is",
+          "options": {
+            "A": "1",
+            "B": "0",
+            "C": "Infinite",
+            "D": "2"
+          },
+          "correct_answer": "B",
+          "explanation": "2x + 2-x = 2 –(x-2)2 LHS equation will always be greater than or equal to 2, whereas RHS equation will always be less than or equal to 2. This means this can only be equal when LHS and RHS both are 2, which is not possible as they will be equal to 2 at two different values of x."
+        },
+        {
+          "id": "cat-2020-slot1-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A solution, of volume 40 litres, has dye and water in the proportion 2 : 3. Water is added to the solution to change this\nproportion to 2 : 5. If one-fourths of this diluted solution is taken out, how many litres of dye must be added to the remaining\nsolution to bring the proportion back to 2 : 3?",
+          "options": {
+            "A": "8",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "8",
+          "explanation": "Dye Water 40L ⇒ 2 : 3 ⇒ 16 24 Now, water is added and ratio becomes 2:5 but dye volume in the solution is same Let, x L ⇒ 2 : 5 ⇒ 16 ? ⇒ 16 40 Now, one fourth of solution taken out ⇒ 12 30 Now, dye is added but water volume remain same and ratio become 2:3 Let y2 ⇒ 2 : 3 ? 30 ∴ 50L ⇒ 2 : 3 ⇒ 20 30 This means 8L dye is added."
+        },
+        {
+          "id": "cat-2020-slot1-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let A, B and C be three positive integers such that the sum of A and the mean of B and C is 5. In addition, the sum of B and the\nmean of A and C is 7. Then the sum of A and B is",
+          "options": {
+            "A": "5",
+            "B": "4",
+            "C": "7",
+            "D": "6"
+          },
+          "correct_answer": "D",
+          "explanation": "(2) – (1) ⇒ B – A = 4 This means sum of A and B must be greater than 4 and it should also be even because if the sum of A and B will be odd then value of A and B will not be integer. Therefore, only one option ⇒ A + B = 6"
+        },
+        {
+          "id": "cat-2020-slot1-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many 3-digit numbers are there, for which the product of their digits is more than 2 but less than 7?",
+          "options": {
+            "A": "21",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "21",
+          "explanation": "113, 114, 115, 116, 122 cases for each number. 123 ⇒ 3! = 6 cases for 123. ∴ Total = 15 + 6 = 21"
+        },
+        {
+          "id": "cat-2020-slot1-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A straight road connects points A and B. Car 1 travels from A to B and Car 2 travels from B to A, both leaving at the same time.\nAfter meeting each other, they take 45 minutes and 20 minutes, respectively, to complete their journeys. If Car 1 travels at the\nspeed of 60 km/hr, then the speed of Car 2, in km/hr, is",
+          "options": {
+            "A": "100",
+            "B": "80",
+            "C": "90",
+            "D": "70"
+          },
+          "correct_answer": "C",
+          "explanation": "Time taken to meet together will be the square root of the product of time taken to reach their destination after the meeting point. Distance = Speed × time"
+        },
+        {
+          "id": "cat-2020-slot1-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If log 5 = (log y) (log √5), then y equals\n4 4 6",
+          "options": {
+            "A": "36",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "36",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2020-slot1-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A solid right circular cone of height 27 cm is cut into pieces along a plane parallel to its base at a height of 18 cm from the\nbase. If the difference in volume of the two pieces is 225 cc, the volume, in cc, of the original cone is",
+          "options": {
+            "A": "243",
+            "B": "232",
+            "C": "256",
+            "D": "264"
+          },
+          "correct_answer": "A",
+          "explanation": "⇒ Volume of cone = 243"
+        },
+        {
+          "id": "cat-2020-slot1-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two persons are walking beside a railway track at respective speeds of 2 and 4 km per hour in the same direction. A train came\nfrom behind them and crossed them in 90 and 100 seconds, respectively. The time, in seconds, taken by the train to cross an\nelectric post is nearest to",
+          "options": {
+            "A": "78",
+            "B": "87",
+            "C": "75",
+            "D": "82"
+          },
+          "correct_answer": "D",
+          "explanation": "Time taken Relative speed Length of train → 90 → S - 2 Length of train → 100 → S - 4 Length of train → ? → S ⇒ 9S - 18 = 10S - 40 ⇒ S = 22"
+        },
+        {
+          "id": "cat-2020-slot1-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A circle is inscribed in a rhombus with diagonals 12 cm and 16 cm. The ratio of the area of circle to the area of rhombus is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "C",
+          "explanation": "By Pythagoras, AB will be = 10 cm Now, area of ∆ AOB = ½ × 6 / 8 Also ∆AOB = ½ × 10 × OC ⇒ ½ × 6 × 8 = ½ × 10 × OC ⇒ 4.8cm = r ."
+        },
+        {
+          "id": "cat-2020-slot1-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If f(5 + x) = f(5- x) for every real x, and f(x) = 0 has four distinct real roots, then the sum of these roots is",
+          "options": {
+            "A": "10",
+            "B": "0",
+            "C": "40",
+            "D": "20"
+          },
+          "correct_answer": "D",
+          "explanation": "f(5 + x) = f(5- x) x → x - 5 ⇒ f(5 + x - 5) = f(5- x + 5) ⇒ f (x) = f (10 - x) Given, f (x) = 0 ∴ Also, f (10 - x) = 0 Given that these are four distinct solutions ⇒ f (α) = 0, f (β) = 0 ⇒ f (10 - α) = 0, f (10 - β) = 0 Sum of these roots = α + β + 10 - α + 10 - β = 20"
+        },
+        {
+          "id": "cat-2020-slot1-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x = , then which of the following equals 64?",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "C",
+          "explanation": "x = (4096)7+4√2 ⇒ x = (26)2(7+4√3) ⇒ x = (64)14+8√3"
+        },
+        {
+          "id": "cat-2020-slot1-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches two opposite sides. If the area of\nthe sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the area of circle be x (let, ℓ be the other side of rectangle) Perimeter = 2 (ℓ + b)"
+        },
+        {
+          "id": "cat-2020-slot1-qa-69",
+          "number": 69,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of distinct real roots of the equation equals",
+          "options": {
+            "A": "1",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1",
+          "explanation": "⇒ y2 – 3y + 2 = 0 = 2, 1 ⇒ x2 + 1 – 2x = 0 ⇒ x2+1-x = 0 = 1 Imaginary root ∴ x = 1. Only one real root"
+        },
+        {
+          "id": "cat-2020-slot1-qa-70",
+          "number": 70,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a, b and c are positive integers such that ab = 432, bc = 96 and c < 9, then the smallest possible value of a + b + c is",
+          "options": {
+            "A": "59",
+            "B": "49",
+            "C": "56",
+            "D": "46"
+          },
+          "correct_answer": "D",
+          "explanation": "Case I ⇒ when C = 8 ⇒ bc = 96 ⇒ b = 12 ∴ ab = 432 ⇒ a = 36 ⇒ a + b + c = 8 + 12 + 36 = 56 Case II ⇒ when C = 7 ⇒ bc = 96 ⇒ b will not be integer ∴ c = 7 not possible Case III ⇒ when C = 6 ⇒ bc = 96 ⇒ b = 16 ∴ ab = 432 ⇒ a = 432/16 = 27 ⇒ a + b + c = 49 Case IV ⇒ C = 5 (not possible) because b will not be integer Case V ⇒ C = 4 ∴ bc = 96 ⇒ b = 24 ∴ ab = 432 ⇒ a = 432/24 = 18 ∴ a + b + c = 46 No, need to check further, of 46 is the least option given"
+        },
+        {
+          "id": "cat-2020-slot1-qa-71",
+          "number": 71,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The area of the region satisfying the inequalities |x| - y ≤ 1, y ≥ 0 and y ≤ 1 is (in numerical value)",
+          "options": {
+            "A": "3.5",
+            "B": "C)",
+            "D": "DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "3.5",
+          "explanation": "x| - y ≤ 1, y ≥ 0, y ≤ 1 If x > 0 ⇒ x – y = 1 ……… (1) And x < 0 ⇒ x – y = 1 Or x + y = -1 ……………. (2) Put x = 0 in (1), y = -1 Put y = 0 in (1) x = 1 Put y = 1 in (1), x = 2 Put x = 0 in (2), y = -1 Y = 0 in (2), x = -1 Y = 1 in (2), x = -2 Shaded area is trapezium = ½ [ 2 + 4] × 1 = 3.5 sq. units"
+        },
+        {
+          "id": "cat-2020-slot1-qa-72",
+          "number": 72,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a group of people, 28% of the members are young while the rest are old. If 65% of the members are literates, and 25% of the\nliterates are young, then the percentage of old people among the illiterates is nearest to",
+          "options": {
+            "A": "59",
+            "B": "55",
+            "C": "66",
+            "D": "62"
+          },
+          "correct_answer": "C",
+          "explanation": "65% lit. 35% Illiterates ↓ 25% 16.25% young Given, 28% are young in which 16.25% are literates (from above) and 11.75% are illiterates. ∴ out of 35% illiterates 23.25% are old, that means ⇒ 66.428% old illiterates"
+        },
+        {
+          "id": "cat-2020-slot1-qa-73",
+          "number": 73,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The mean of all 4-digit even natural numbers of the form ‘aabb’, where a > 0, is",
+          "options": {
+            "A": "5050",
+            "B": "4864",
+            "C": "5544",
+            "D": "4466"
+          },
+          "correct_answer": "C",
+          "explanation": "aa bb a > 0 So, numbers are 1100 2200 1122 2222 1144 2244 1166 2266 1188 2288 ↓ ↓ Mean Mean and so on 1144 2244 Average of 1144, 2244, 3344, 4444, 5544, 6644, 7744, 8844, 9944 is 5544"
+        },
+        {
+          "id": "cat-2020-slot1-qa-74",
+          "number": 74,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "An alloy is prepared by mixing three metals A, B and c in the proportion 3 : 4 : 7 by volume. Weights of the same volume of the\nmetals A, B and C are in the ratio 5 : 2 : 6. In 130 kg of the alloy, the weight, in kg, of the metal C is",
+          "options": {
+            "A": "48",
+            "B": "70",
+            "C": "84",
+            "D": "96"
+          },
+          "correct_answer": "C",
+          "explanation": "A B C Volume 3 4 7 Weight of 5 2 6 volume Weight 15 8 42"
+        },
+        {
+          "id": "cat-2020-slot1-qa-75",
+          "number": 75,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A person spent Rs 50000 to purchase a desktop computer and a laptop computer. He sold the desktop at 20% profit and the\nlaptop at 10% loss. If overall he made a 2% profit then the purchase price, in rupees, of the desktop is",
+          "options": {
+            "A": "20000",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "20000",
+          "explanation": "Let the purchase price of develop be x ∴ 1.2x + 0.9 (50000-x) = 1.02 × 50000"
+        },
+        {
+          "id": "cat-2020-slot1-qa-76",
+          "number": 76,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many distinct positive integer-valued solutions exist to the equation",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "2"
+          },
+          "correct_answer": "B",
+          "explanation": "As a0 = 1 ⇒ x2 – 13x + 42 = 0 ⇒ x = 6, 7 Also, x2 – 7x + 11 =1, x2 – 7x + 10 = 0 ⇒ x = 2, 5 Also, x2 – 7x +11 = -1, x2 – 7x + 12 = 0 ⇒ x = 3, 4"
+        }
+      ]
+    }
+  }
+}

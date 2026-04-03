@@ -1,0 +1,1144 @@
+{
+  "id": "cat-2024-slot2",
+  "year": 2024,
+  "slot": 2,
+  "title": "CAT 2024 Slot II",
+  "has_solutions": true,
+  "total_questions": 68,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2024-slot2-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the\noption that best captures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Recent important scientific findings have emerged from crossing the boundaries of scientific fields.\nThey stem from physicists collaborating with biologists, sociologists and others, to answer questions\nabout our world. But physicists and their potential collaborators often find their cultures out of sync.\nFor one, physicists often discard a lot of information while extracting broad patterns; for other\nscientists, information is not readily disposed. Further, many non-physicists are uncomfortable with\nmathematical models. Still, the desire to work on something new and different is real, and there are\nclear benefits from the collision of views.",
+          "options": {
+            "A": "Physicists have successfully buried their differences on research methods applied in other fields in their desire to find answers to baffling scientific questions.",
+            "B": "Large data sets and mathematical models in physics research combined with the research methods of non-physicist collaborators have yielded important scientific findings.",
+            "C": "Despite differences in their research styles, physicists' research collaborations with scholars from other disciplines have yielded important research findings.",
+            "D": "The desire to diversify their research and answer important questions has led to several collaborations between physicists and other social scientists."
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the\nparagraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: [T]he Europeans did not invent globalization.\nParagraph: The first phase of globalization occurred long before the introduction of either steam or\nelectric power...Chinese consumers at all social levels consumed vast quantities of spices, fragrant\nwoods and unusual plants. The peoples of Southeast Asia who lived in forests gave up their traditional\nlivelihoods and completely reoriented their economies to supply Chinese consumers ___(1)___ .\nThese exchanges of the year 1000 opened some of the routes through which goods and peoples\ncontinued to travel after Columbus traversed the mid-Atlantic. ___(2)___. Yet the world of 1000\ndiffered from that of 1492 in important ways....the travellers who encountered one another in the year\n1000 were much closer technologically.\n___(3)___. They changed and augmented what was already there since 1000.\n___(4)___. If globalization hadn't yet begun, Europeans wouldn't have been able to penetrate the\nmarkets in so many places as quickly as they did after 1492.",
+          "options": {
+            "A": "Option 3",
+            "B": "Option 4",
+            "C": "Option 2",
+            "D": "Option 1"
+          },
+          "correct_answer": "38",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the\noption that best captures the essence of the passage.",
+          "passage": "Different from individuals, states conduct warfare operations using the DIME model–– \"diplomacy,\ninformation, military, and economics.\" Most states do everything they can to inflict pain and\nconfusion on their enemies before deploying the military. In fact, attacks on vectors of information are\na well-worn tactic of war and usually are the first target when the charge begins. It's common for\ntelecom data and communications networks to be routinely monitored by governments, which is why\nthe open data policies of the web are so concerning to many advocates of privacy and human rights.\nWith the worldwide adoption of social media, more governments are getting involved in low-grade\ninformation warfare through the use of cyber troops. According to a study by the Oxford Internet",
+          "passage_group": 2,
+          "question": "Slot - II\nInstitute in 2020, cyber troops are \"government or political party actors tasked with manipulating\npublic opinion online.\" The Oxford research group was able to identify 81 countries with active cyber\ntroop operations utilizing many different strategies to spread false information, including spending\nmillions on online advertising.",
+          "options": {
+            "A": "As part of conducting information warfare as per the DIME model, many governments routinely monitor telecom data and communications networks, and use cyber troops on social media to manipulate public opinion.",
+            "B": "Following the DIME model, many governments have taken advantage of open data policies of the web to deploy cyber troops who manipulate domestic public opinion, using advertising and other strategies to spread false information.",
+            "C": "Using the DIME model, together with military operations, many governments simultaneously conduct information warfare with the help of cyber troops and routinely monitor telecom data and communications networks."
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n[S]pices were a global commodity centuries before European voyages. There was a complex chain of\nrelations, yet consumers had little knowledge of producers and vice versa. Desire for spices helped fuel\nEuropean colonial empires to create political, military and commercial networks under a single power.\nHistorians know a fair amount about the supply of spices in Europe during the medieval period – the origins,\nmethods of transportation, the prices – but less about demand. Why go to such extraordinary efforts to procure\nexpensive products from exotic lands? Still, demand was great enough to inspire the voyages of Christopher\nColumbus and Vasco Da Gama, launching the first fateful wave of European colonialism. . . .\nSo, why were spices so highly prized in Europe in the centuries from about 1000 to 1500? One widely\ndisseminated explanation for medieval demand for spices was that they covered the taste of spoiled meat. . . .\nMedieval purchasers consumed meat much fresher than what the average city-dweller in the developed world\nof today has at hand. However, refrigeration was not available, and some hot spices have been shown to serve\nas an anti-bacterial agent. Salting, smoking or drying meat were other means of preservation. Most spices used\nin cooking began as medical ingredients, and throughout the Middle Ages spices were used as both medicines\nand condiments. Above all, medieval recipes involve the combination of medical and culinary lore in order to\nbalance food's humeral properties and prevent disease. Most spices were hot and dry and so appropriate in\nsauces to counteract the moist and wet properties supposedly possessed by most meat and fish. . . .\nWhere spices came from was known in a vague sense centuries before the voyages of Columbus. Just how\nvague may be judged by looking at medieval world maps . . . To the medieval European imagination, the East\nwas exotic and alluring. Medieval maps often placed India close to the so-called Earthly Paradise, the Garden\nof Eden described in the Bible.\nGeographical knowledge has a lot to do with the perceptions of spices' relative scarcity and the reasons for\ntheir high prices. An example of the varying notions of scarcity is the conflicting information about how\npepper is harvested. As far back as the 7th century Europeans thought that pepper in India grew on trees\n\"guarded\" by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to\nharvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore\nwould explain the shriveled black peppercorns, but not white, pink or other colors.\n\nSlot - II\nSpices never had the enduring allure or power of gold and silver or the commercial potential of new products\nsuch as tobacco, indigo or sugar. But the taste for spices did continue for a while beyond the Middle Ages. As\nlate as the 17th century, the English and the Dutch were struggling for control of the Spice Islands: Dutch\nNew Amsterdam, or New York, was exchanged by the British for one of the Moluccan Islands where nutmeg\nwas grown.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a trader brought white peppercorns from India to medieval Europe, all of the following are unlikely\nto happen, EXCEPT:",
+          "options": {
+            "A": "medieval maps would be used as navigational aids.",
+            "B": "Europeans would doubt the story of pepper harvesting.",
+            "C": "the price of spices would decrease.",
+            "D": "pepper would no longer be considered exotic."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n[S]pices were a global commodity centuries before European voyages. There was a complex chain of\nrelations, yet consumers had little knowledge of producers and vice versa. Desire for spices helped fuel\nEuropean colonial empires to create political, military and commercial networks under a single power.\nHistorians know a fair amount about the supply of spices in Europe during the medieval period – the origins,\nmethods of transportation, the prices – but less about demand. Why go to such extraordinary efforts to procure\nexpensive products from exotic lands? Still, demand was great enough to inspire the voyages of Christopher\nColumbus and Vasco Da Gama, launching the first fateful wave of European colonialism. . . .\nSo, why were spices so highly prized in Europe in the centuries from about 1000 to 1500? One widely\ndisseminated explanation for medieval demand for spices was that they covered the taste of spoiled meat. . . .\nMedieval purchasers consumed meat much fresher than what the average city-dweller in the developed world\nof today has at hand. However, refrigeration was not available, and some hot spices have been shown to serve\nas an anti-bacterial agent. Salting, smoking or drying meat were other means of preservation. Most spices used\nin cooking began as medical ingredients, and throughout the Middle Ages spices were used as both medicines\nand condiments. Above all, medieval recipes involve the combination of medical and culinary lore in order to\nbalance food's humeral properties and prevent disease. Most spices were hot and dry and so appropriate in\nsauces to counteract the moist and wet properties supposedly possessed by most meat and fish. . . .\nWhere spices came from was known in a vague sense centuries before the voyages of Columbus. Just how\nvague may be judged by looking at medieval world maps . . . To the medieval European imagination, the East\nwas exotic and alluring. Medieval maps often placed India close to the so-called Earthly Paradise, the Garden\nof Eden described in the Bible.\nGeographical knowledge has a lot to do with the perceptions of spices' relative scarcity and the reasons for\ntheir high prices. An example of the varying notions of scarcity is the conflicting information about how\npepper is harvested. As far back as the 7th century Europeans thought that pepper in India grew on trees\n\"guarded\" by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to\nharvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore\nwould explain the shriveled black peppercorns, but not white, pink or other colors.\n\nSlot - II\nSpices never had the enduring allure or power of gold and silver or the commercial potential of new products\nsuch as tobacco, indigo or sugar. But the taste for spices did continue for a while beyond the Middle Ages. As\nlate as the 17th century, the English and the Dutch were struggling for control of the Spice Islands: Dutch\nNew Amsterdam, or New York, was exchanged by the British for one of the Moluccan Islands where nutmeg\nwas grown.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It can be inferred that all of the following contributed to a decline in the allure of spices, EXCEPT:",
+          "options": {
+            "A": "increase in the availability or spices.",
+            "B": "the development of refrigeration techniques.",
+            "C": "changes in the system of medical treatment.",
+            "D": "changes in European cuisine."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n[S]pices were a global commodity centuries before European voyages. There was a complex chain of\nrelations, yet consumers had little knowledge of producers and vice versa. Desire for spices helped fuel\nEuropean colonial empires to create political, military and commercial networks under a single power.\nHistorians know a fair amount about the supply of spices in Europe during the medieval period – the origins,\nmethods of transportation, the prices – but less about demand. Why go to such extraordinary efforts to procure\nexpensive products from exotic lands? Still, demand was great enough to inspire the voyages of Christopher\nColumbus and Vasco Da Gama, launching the first fateful wave of European colonialism. . . .\nSo, why were spices so highly prized in Europe in the centuries from about 1000 to 1500? One widely\ndisseminated explanation for medieval demand for spices was that they covered the taste of spoiled meat. . . .\nMedieval purchasers consumed meat much fresher than what the average city-dweller in the developed world\nof today has at hand. However, refrigeration was not available, and some hot spices have been shown to serve\nas an anti-bacterial agent. Salting, smoking or drying meat were other means of preservation. Most spices used\nin cooking began as medical ingredients, and throughout the Middle Ages spices were used as both medicines\nand condiments. Above all, medieval recipes involve the combination of medical and culinary lore in order to\nbalance food's humeral properties and prevent disease. Most spices were hot and dry and so appropriate in\nsauces to counteract the moist and wet properties supposedly possessed by most meat and fish. . . .\nWhere spices came from was known in a vague sense centuries before the voyages of Columbus. Just how\nvague may be judged by looking at medieval world maps . . . To the medieval European imagination, the East\nwas exotic and alluring. Medieval maps often placed India close to the so-called Earthly Paradise, the Garden\nof Eden described in the Bible.\nGeographical knowledge has a lot to do with the perceptions of spices' relative scarcity and the reasons for\ntheir high prices. An example of the varying notions of scarcity is the conflicting information about how\npepper is harvested. As far back as the 7th century Europeans thought that pepper in India grew on trees\n\"guarded\" by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to\nharvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore\nwould explain the shriveled black peppercorns, but not white, pink or other colors.\n\nSlot - II\nSpices never had the enduring allure or power of gold and silver or the commercial potential of new products\nsuch as tobacco, indigo or sugar. But the taste for spices did continue for a while beyond the Middle Ages. As\nlate as the 17th century, the English and the Dutch were struggling for control of the Spice Islands: Dutch\nNew Amsterdam, or New York, was exchanged by the British for one of the Moluccan Islands where nutmeg\nwas grown.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the context of the passage, the people who heard the story of pepper trees being guarded by snakes\nwould be least likely to arrive at the conclusion that",
+          "options": {
+            "A": "it is not advisable to go to India to harvest the pepper themselves.",
+            "B": "this is why pepper is so hot.",
+            "C": "pepper is costly for good reason.",
+            "D": "it is no surprise that the pepper supply is so limited."
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n[S]pices were a global commodity centuries before European voyages. There was a complex chain of\nrelations, yet consumers had little knowledge of producers and vice versa. Desire for spices helped fuel\nEuropean colonial empires to create political, military and commercial networks under a single power.\nHistorians know a fair amount about the supply of spices in Europe during the medieval period – the origins,\nmethods of transportation, the prices – but less about demand. Why go to such extraordinary efforts to procure\nexpensive products from exotic lands? Still, demand was great enough to inspire the voyages of Christopher\nColumbus and Vasco Da Gama, launching the first fateful wave of European colonialism. . . .\nSo, why were spices so highly prized in Europe in the centuries from about 1000 to 1500? One widely\ndisseminated explanation for medieval demand for spices was that they covered the taste of spoiled meat. . . .\nMedieval purchasers consumed meat much fresher than what the average city-dweller in the developed world\nof today has at hand. However, refrigeration was not available, and some hot spices have been shown to serve\nas an anti-bacterial agent. Salting, smoking or drying meat were other means of preservation. Most spices used\nin cooking began as medical ingredients, and throughout the Middle Ages spices were used as both medicines\nand condiments. Above all, medieval recipes involve the combination of medical and culinary lore in order to\nbalance food's humeral properties and prevent disease. Most spices were hot and dry and so appropriate in\nsauces to counteract the moist and wet properties supposedly possessed by most meat and fish. . . .\nWhere spices came from was known in a vague sense centuries before the voyages of Columbus. Just how\nvague may be judged by looking at medieval world maps . . . To the medieval European imagination, the East\nwas exotic and alluring. Medieval maps often placed India close to the so-called Earthly Paradise, the Garden\nof Eden described in the Bible.\nGeographical knowledge has a lot to do with the perceptions of spices' relative scarcity and the reasons for\ntheir high prices. An example of the varying notions of scarcity is the conflicting information about how\npepper is harvested. As far back as the 7th century Europeans thought that pepper in India grew on trees\n\"guarded\" by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to\nharvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore\nwould explain the shriveled black peppercorns, but not white, pink or other colors.\n\nSlot - II\nSpices never had the enduring allure or power of gold and silver or the commercial potential of new products\nsuch as tobacco, indigo or sugar. But the taste for spices did continue for a while beyond the Middle Ages. As\nlate as the 17th century, the English and the Dutch were struggling for control of the Spice Islands: Dutch\nNew Amsterdam, or New York, was exchanged by the British for one of the Moluccan Islands where nutmeg\nwas grown.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the context of the passage, which one of the following conclusions CANNOT be reached?",
+          "options": {
+            "A": "India was colonised for its spices and gold.",
+            "B": "Tobacco was more marketable than spices.",
+            "C": "Colonialism was motivated by the demand for spices.",
+            "D": "The spice trade was a driver of colonial expansion."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are\ngiven below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and\nkey in the number of that sentence as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The UK is a world leader in developing cultivated meat and the approval of a cultivated pet food\nis an important milestone.\n2. If we’re to realise the full potential benefits of cultivated meat the government must invest in\nresearch and infrastructure.\n3. The first UK applications for cultivated meat produced for humans remain under assessment with\nthe Food Standards Agency.\n4. The previous UK government had been looking at fast-tracking the approval of cultivated meat\nfor human consumption.\n5. It underscores the potential for new innovation to help reduce the negative impacts of intensive\nanimal agriculture.\n\nSlot - II",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the\nparagraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: Yet each day the flock produced eggs with calcareous shells though they apparently had\nnot ingested any calcium from land which was entirely lacking in limestone.\nParagraph: Early in this century a young Breton schoolboy who preparing himself for a scientific\ncareer began to notice a strange fact about hens in his father’s poultry yard.___ (1) ___. As they\nscratched the soil they constantly seemed to be pecking at specks of mica, a siliceous material dotting\nthe ground. ___ (2) ___. No one could explain to Louis Kervran why the chickens selected the mica,\nor why each time a bird was killed for the family cooking pot no trace of the mica could be found in\nits gizzard. ____ (3) ____. It took Kervran many years to establish that the chickens were transmuting\none element into another. ___ (4) ___.",
+          "options": {
+            "A": "Option 4",
+            "B": "Option 3",
+            "C": "Option 2",
+            "D": "Option 1"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe job of a peer reviewer is thankless. Collectively, academics spend around 70 million hours every year\nevaluating each other’s manuscripts on the behalf of scholarly journals – and they usually receive no monetary\ncompensation and little if any recognition for their effort. Some do it as a way to keep abreast with\ndevelopments in their field; some simply see it as a duty to the discipline. Either way, academic publishing\nwould likely crumble without them.\nIn recent years, some scientists have begun posting their reviews online, mainly to claim credit for their work.\nSites like Publons allow researchers to either share entire referee reports or simply list the journals for whom\nthey've carried out a review....\nThe rise of Publons suggests that academics are increasingly placing value on the work of peer review and\nasking others, such as grant funders, to do the same. While that’s vital in the publish-or-perish culture of\nacademia, there’s also immense value in the data underlying peer review. Sharing peer review data could help\njournals stamp out fraud, inefficiency, and systemic bias in academic publishing.....\nPeer review data could also help root out bias. Last year, a study based on peer review data for nearly 24,000\nsubmissions to the biomedical journal eLife found that women and non-Westerners were vastly\nunderrepresented among peer reviewers. Only around one in every five reviewers was female, and less than\ntwo percent of reviewers were based in developing countries. ... Openly publishing peer review data could\nperhaps also help journals address another problem in academic publishing: fraudulent peer reviews. For\ninstance, a minority of authors have been known to use phony email addresses to pose as an outside expert\nand review their own manuscripts....\nOpponents of open peer review commonly argue that confidentiality is vital to the integrity of the review\nprocess; referees may be less critical of manuscripts if their reports are published, especially if they are\nrevealing their identities by signing them. Some also hold concerns that open reviewing may deter referees\nfrom agreeing to judge manuscripts in the first place, or that they'll take longer to do so out of fear of\nscrutiny...\nEven when the content of reviews and the identity of reviewers can’t be shared publicly, perhaps journals\ncould share the data with outside researchers for study. Or they could release other figures that wouldn’t\ncompromise the anonymity of reviews but that might answer important questions about how long the\nreviewing process takes, how many researchers editors have to reach out to on average to find one who will\ncarry out the work, and the geographic distribution of peer reviewers.\n\nSlot - II\nOf course, opening up data underlying the reviewing process will not fix peer review entirely, and there may\nbe instances in which there are valid reasons to keep the content of peer reviews hidden and the identity of the\nreferees confidential. But the norm should shift from opacity in all cases to opacity only when necessary.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following are listed as reasons why academics choose to review other scholars’ work\nEXCEPT:",
+          "options": {
+            "A": "Some use this as an opportunity to publicise their own review work.",
+            "B": "It is seen as a form of service to the academic community.",
+            "C": "It helps them keep current with cutting-edge ideas in their academic disciplines.",
+            "D": "It is seen as an opportunity to expand their influence in the academic community."
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe job of a peer reviewer is thankless. Collectively, academics spend around 70 million hours every year\nevaluating each other’s manuscripts on the behalf of scholarly journals – and they usually receive no monetary\ncompensation and little if any recognition for their effort. Some do it as a way to keep abreast with\ndevelopments in their field; some simply see it as a duty to the discipline. Either way, academic publishing\nwould likely crumble without them.\nIn recent years, some scientists have begun posting their reviews online, mainly to claim credit for their work.\nSites like Publons allow researchers to either share entire referee reports or simply list the journals for whom\nthey've carried out a review....\nThe rise of Publons suggests that academics are increasingly placing value on the work of peer review and\nasking others, such as grant funders, to do the same. While that’s vital in the publish-or-perish culture of\nacademia, there’s also immense value in the data underlying peer review. Sharing peer review data could help\njournals stamp out fraud, inefficiency, and systemic bias in academic publishing.....\nPeer review data could also help root out bias. Last year, a study based on peer review data for nearly 24,000\nsubmissions to the biomedical journal eLife found that women and non-Westerners were vastly\nunderrepresented among peer reviewers. Only around one in every five reviewers was female, and less than\ntwo percent of reviewers were based in developing countries. ... Openly publishing peer review data could\nperhaps also help journals address another problem in academic publishing: fraudulent peer reviews. For\ninstance, a minority of authors have been known to use phony email addresses to pose as an outside expert\nand review their own manuscripts....\nOpponents of open peer review commonly argue that confidentiality is vital to the integrity of the review\nprocess; referees may be less critical of manuscripts if their reports are published, especially if they are\nrevealing their identities by signing them. Some also hold concerns that open reviewing may deter referees\nfrom agreeing to judge manuscripts in the first place, or that they'll take longer to do so out of fear of\nscrutiny...\nEven when the content of reviews and the identity of reviewers can’t be shared publicly, perhaps journals\ncould share the data with outside researchers for study. Or they could release other figures that wouldn’t\ncompromise the anonymity of reviews but that might answer important questions about how long the\nreviewing process takes, how many researchers editors have to reach out to on average to find one who will\ncarry out the work, and the geographic distribution of peer reviewers.\n\nSlot - II\nOf course, opening up data underlying the reviewing process will not fix peer review entirely, and there may\nbe instances in which there are valid reasons to keep the content of peer reviews hidden and the identity of the\nreferees confidential. But the norm should shift from opacity in all cases to opacity only when necessary.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Based on the passage we can infer that the author would most probably support",
+          "options": {
+            "A": "greater transparency across the peer review process in academic publishing.",
+            "B": "publicising peer review data rather than the publication of actual reviews.",
+            "C": "preserving the anonymity of reviewers to protect them from criticism.",
+            "D": "more careful screening to ensure the recruitment of content-familiar peer reviewers."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe job of a peer reviewer is thankless. Collectively, academics spend around 70 million hours every year\nevaluating each other’s manuscripts on the behalf of scholarly journals – and they usually receive no monetary\ncompensation and little if any recognition for their effort. Some do it as a way to keep abreast with\ndevelopments in their field; some simply see it as a duty to the discipline. Either way, academic publishing\nwould likely crumble without them.\nIn recent years, some scientists have begun posting their reviews online, mainly to claim credit for their work.\nSites like Publons allow researchers to either share entire referee reports or simply list the journals for whom\nthey've carried out a review....\nThe rise of Publons suggests that academics are increasingly placing value on the work of peer review and\nasking others, such as grant funders, to do the same. While that’s vital in the publish-or-perish culture of\nacademia, there’s also immense value in the data underlying peer review. Sharing peer review data could help\njournals stamp out fraud, inefficiency, and systemic bias in academic publishing.....\nPeer review data could also help root out bias. Last year, a study based on peer review data for nearly 24,000\nsubmissions to the biomedical journal eLife found that women and non-Westerners were vastly\nunderrepresented among peer reviewers. Only around one in every five reviewers was female, and less than\ntwo percent of reviewers were based in developing countries. ... Openly publishing peer review data could\nperhaps also help journals address another problem in academic publishing: fraudulent peer reviews. For\ninstance, a minority of authors have been known to use phony email addresses to pose as an outside expert\nand review their own manuscripts....\nOpponents of open peer review commonly argue that confidentiality is vital to the integrity of the review\nprocess; referees may be less critical of manuscripts if their reports are published, especially if they are\nrevealing their identities by signing them. Some also hold concerns that open reviewing may deter referees\nfrom agreeing to judge manuscripts in the first place, or that they'll take longer to do so out of fear of\nscrutiny...\nEven when the content of reviews and the identity of reviewers can’t be shared publicly, perhaps journals\ncould share the data with outside researchers for study. Or they could release other figures that wouldn’t\ncompromise the anonymity of reviews but that might answer important questions about how long the\nreviewing process takes, how many researchers editors have to reach out to on average to find one who will\ncarry out the work, and the geographic distribution of peer reviewers.\n\nSlot - II\nOf course, opening up data underlying the reviewing process will not fix peer review entirely, and there may\nbe instances in which there are valid reasons to keep the content of peer reviews hidden and the identity of the\nreferees confidential. But the norm should shift from opacity in all cases to opacity only when necessary.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, which of the following is the only reason NOT given in favour of making\npeer review data public?",
+          "options": {
+            "A": "It could address various inefficiencies and fraudulent practices that continue in academic publishing process.",
+            "B": "It would highlight the gender and race biases currently existing in the selection of reviewers.",
+            "C": "It will deal with peer review fraud such as authors publishing bogus reviews of their work.",
+            "D": "It can tackle the problem of selecting appropriately qualified reviewers for academic writing."
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe job of a peer reviewer is thankless. Collectively, academics spend around 70 million hours every year\nevaluating each other’s manuscripts on the behalf of scholarly journals – and they usually receive no monetary\ncompensation and little if any recognition for their effort. Some do it as a way to keep abreast with\ndevelopments in their field; some simply see it as a duty to the discipline. Either way, academic publishing\nwould likely crumble without them.\nIn recent years, some scientists have begun posting their reviews online, mainly to claim credit for their work.\nSites like Publons allow researchers to either share entire referee reports or simply list the journals for whom\nthey've carried out a review....\nThe rise of Publons suggests that academics are increasingly placing value on the work of peer review and\nasking others, such as grant funders, to do the same. While that’s vital in the publish-or-perish culture of\nacademia, there’s also immense value in the data underlying peer review. Sharing peer review data could help\njournals stamp out fraud, inefficiency, and systemic bias in academic publishing.....\nPeer review data could also help root out bias. Last year, a study based on peer review data for nearly 24,000\nsubmissions to the biomedical journal eLife found that women and non-Westerners were vastly\nunderrepresented among peer reviewers. Only around one in every five reviewers was female, and less than\ntwo percent of reviewers were based in developing countries. ... Openly publishing peer review data could\nperhaps also help journals address another problem in academic publishing: fraudulent peer reviews. For\ninstance, a minority of authors have been known to use phony email addresses to pose as an outside expert\nand review their own manuscripts....\nOpponents of open peer review commonly argue that confidentiality is vital to the integrity of the review\nprocess; referees may be less critical of manuscripts if their reports are published, especially if they are\nrevealing their identities by signing them. Some also hold concerns that open reviewing may deter referees\nfrom agreeing to judge manuscripts in the first place, or that they'll take longer to do so out of fear of\nscrutiny...\nEven when the content of reviews and the identity of reviewers can’t be shared publicly, perhaps journals\ncould share the data with outside researchers for study. Or they could release other figures that wouldn’t\ncompromise the anonymity of reviews but that might answer important questions about how long the\nreviewing process takes, how many researchers editors have to reach out to on average to find one who will\ncarry out the work, and the geographic distribution of peer reviewers.\n\nSlot - II\nOf course, opening up data underlying the reviewing process will not fix peer review entirely, and there may\nbe instances in which there are valid reasons to keep the content of peer reviews hidden and the identity of the\nreferees confidential. But the norm should shift from opacity in all cases to opacity only when necessary.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, some are opposed to making peer reviews public for all the following\nreasons EXCEPT that it",
+          "options": {
+            "A": "deters reviewers from producing honest, if critical, reviews that are vital to the sound publishing process.",
+            "B": "delays the manuscript evaluation process as reviewers would take longer to write their reviews.",
+            "C": "leaves the reviewers unexposed to unwarranted and unjustified criticism or comments from others.",
+            "D": "makes reviewers reluctant to review manuscripts, especially if these are critical of the submitted work."
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe history of any major technological or industrial advance is inevitably shadowed by a less predictable\nhistory of unintended consequences and secondary effects — what economists sometimes call “externalities.”\nSometimes those consequences are innocuous ones, or even beneficial. Gutenberg invents the printing press,\nand literacy rates rise, which causes a significant part of the reading public to require spectacles for the first\ntime, which creates a surge of investment in lens-making across Europe, which leads to the invention of the\ntelescope and the microscope.\nOftentimes the secondary effects seem to belong to an entirely different sphere of society. When Willis\nCarrier hit upon the idea of air-conditioning, the technology was primarily intended for industrial use:\nensuring cool, dry air for factories that required low-humidity environments. But...it touched off one of the\nlargest migrations in the history of the United States, enabling the rise of metropolitan areas like Phoenix and\nLas Vegas that barely existed when Carrier first started tinkering with the idea in the early 1900s.\n\nSlot - II\nSometimes the unintended consequence comes about when consumers use an invention in a surprising way.\nEdison famously thought his phonograph, which he sometimes called “the talking machine,” would primarily\nbe used to take dictation....But then later innovators... discovered a much larger audience willing to pay for\nmusical recordings made on descendants of Edison's original invention. In other cases, the original innovation\ncomes into the world disguised as a plaything...the way the animatronic dolls of the mid-1700s inspired\nJacquard to invent the first “programmable” loom and Charles Babbage to invent the first machine that fit the\nmodern definition of a computer, setting the stage for the revolution in programmable technology that would\ntransform the 21st century in countless ways.\nWe live under the gathering storm of modern history’s most momentous unintended consequence....carbon-\nbased climate change. Imagine the vast sweep of inventors whose ideas started the Industrial Revolution, all\nthe entrepreneurs and scientists and hobbyists who had a hand in bringing it about. Line up a thousand of them\nand ask them all what they had been hoping to do with their work. Not one would say that their intent had\nbeen to deposit enough carbon in the atmosphere to create a greenhouse effect that trapped heat at the surface\nof the planet. And yet here we are.\nEthyl (leaded fuel) and Freon belonged to the same general class of secondary effect: innovations whose\nunintended consequences stem from some kind of waste by-product that they emit. But the potential health\nthreats of Ethyl (unleaded fuel) were visible in the 1920s, unlike, say, the long-term effects of atmospheric\ncarbon build up in the early days of the Industrial Revolution....\nIndeed, it is reasonable to see CFCs (chlorofluorocarbons) as a forerunner of the kind of threat we will most\nlikely face in the coming decades, as it becomes increasingly possible for individuals or small groups to create\nnew scientific advances — through chemistry or biotechnology or materials science — setting off unintended\nconsequences that reverberate on a global scale.",
+          "passage": "",
+          "passage_group": null,
+          "question": "We can assume that the author would support all of the following views EXCEPT:",
+          "options": {
+            "A": "It has become far easier for people today to bring out innovations with dire worldwide consequences than it was earlier.",
+            "B": "The emissions caused by the large-scale use of leaded fuel ought to have been addressed earlier than they were.",
+            "C": "The by-products of leaded fuel, rather than the fuel itself, were responsible for the build-up of carbon-related gases in the atmosphere.",
+            "D": "While technological advances in the past have had innocuous or beneficial outcomes, more recent advances have the potential to be more threatening globally."
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe history of any major technological or industrial advance is inevitably shadowed by a less predictable\nhistory of unintended consequences and secondary effects — what economists sometimes call “externalities.”\nSometimes those consequences are innocuous ones, or even beneficial. Gutenberg invents the printing press,\nand literacy rates rise, which causes a significant part of the reading public to require spectacles for the first\ntime, which creates a surge of investment in lens-making across Europe, which leads to the invention of the\ntelescope and the microscope.\nOftentimes the secondary effects seem to belong to an entirely different sphere of society. When Willis\nCarrier hit upon the idea of air-conditioning, the technology was primarily intended for industrial use:\nensuring cool, dry air for factories that required low-humidity environments. But...it touched off one of the\nlargest migrations in the history of the United States, enabling the rise of metropolitan areas like Phoenix and\nLas Vegas that barely existed when Carrier first started tinkering with the idea in the early 1900s.\n\nSlot - II\nSometimes the unintended consequence comes about when consumers use an invention in a surprising way.\nEdison famously thought his phonograph, which he sometimes called “the talking machine,” would primarily\nbe used to take dictation....But then later innovators... discovered a much larger audience willing to pay for\nmusical recordings made on descendants of Edison's original invention. In other cases, the original innovation\ncomes into the world disguised as a plaything...the way the animatronic dolls of the mid-1700s inspired\nJacquard to invent the first “programmable” loom and Charles Babbage to invent the first machine that fit the\nmodern definition of a computer, setting the stage for the revolution in programmable technology that would\ntransform the 21st century in countless ways.\nWe live under the gathering storm of modern history’s most momentous unintended consequence....carbon-\nbased climate change. Imagine the vast sweep of inventors whose ideas started the Industrial Revolution, all\nthe entrepreneurs and scientists and hobbyists who had a hand in bringing it about. Line up a thousand of them\nand ask them all what they had been hoping to do with their work. Not one would say that their intent had\nbeen to deposit enough carbon in the atmosphere to create a greenhouse effect that trapped heat at the surface\nof the planet. And yet here we are.\nEthyl (leaded fuel) and Freon belonged to the same general class of secondary effect: innovations whose\nunintended consequences stem from some kind of waste by-product that they emit. But the potential health\nthreats of Ethyl (unleaded fuel) were visible in the 1920s, unlike, say, the long-term effects of atmospheric\ncarbon build up in the early days of the Industrial Revolution....\nIndeed, it is reasonable to see CFCs (chlorofluorocarbons) as a forerunner of the kind of threat we will most\nlikely face in the coming decades, as it becomes increasingly possible for individuals or small groups to create\nnew scientific advances — through chemistry or biotechnology or materials science — setting off unintended\nconsequences that reverberate on a global scale.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following best conveys the main point of the first paragraph?",
+          "options": {
+            "A": "The full impact of technological advances cannot be estimated in the short run as the ripple effects often extend far beyond the original intent.",
+            "B": "It is important to judge an invention not by its immediate outcomes, but by the holistic impact of its secondary effects.",
+            "C": "The secondary effects of most major technological advances in the past, especially if they were unintended, have turned out to be beneficial.",
+            "D": "The entire impact of a technological advance should be evaluated by the boost its secondary effects gives to generating further technological advances. Slot - II"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe history of any major technological or industrial advance is inevitably shadowed by a less predictable\nhistory of unintended consequences and secondary effects — what economists sometimes call “externalities.”\nSometimes those consequences are innocuous ones, or even beneficial. Gutenberg invents the printing press,\nand literacy rates rise, which causes a significant part of the reading public to require spectacles for the first\ntime, which creates a surge of investment in lens-making across Europe, which leads to the invention of the\ntelescope and the microscope.\nOftentimes the secondary effects seem to belong to an entirely different sphere of society. When Willis\nCarrier hit upon the idea of air-conditioning, the technology was primarily intended for industrial use:\nensuring cool, dry air for factories that required low-humidity environments. But...it touched off one of the\nlargest migrations in the history of the United States, enabling the rise of metropolitan areas like Phoenix and\nLas Vegas that barely existed when Carrier first started tinkering with the idea in the early 1900s.\n\nSlot - II\nSometimes the unintended consequence comes about when consumers use an invention in a surprising way.\nEdison famously thought his phonograph, which he sometimes called “the talking machine,” would primarily\nbe used to take dictation....But then later innovators... discovered a much larger audience willing to pay for\nmusical recordings made on descendants of Edison's original invention. In other cases, the original innovation\ncomes into the world disguised as a plaything...the way the animatronic dolls of the mid-1700s inspired\nJacquard to invent the first “programmable” loom and Charles Babbage to invent the first machine that fit the\nmodern definition of a computer, setting the stage for the revolution in programmable technology that would\ntransform the 21st century in countless ways.\nWe live under the gathering storm of modern history’s most momentous unintended consequence....carbon-\nbased climate change. Imagine the vast sweep of inventors whose ideas started the Industrial Revolution, all\nthe entrepreneurs and scientists and hobbyists who had a hand in bringing it about. Line up a thousand of them\nand ask them all what they had been hoping to do with their work. Not one would say that their intent had\nbeen to deposit enough carbon in the atmosphere to create a greenhouse effect that trapped heat at the surface\nof the planet. And yet here we are.\nEthyl (leaded fuel) and Freon belonged to the same general class of secondary effect: innovations whose\nunintended consequences stem from some kind of waste by-product that they emit. But the potential health\nthreats of Ethyl (unleaded fuel) were visible in the 1920s, unlike, say, the long-term effects of atmospheric\ncarbon build up in the early days of the Industrial Revolution....\nIndeed, it is reasonable to see CFCs (chlorofluorocarbons) as a forerunner of the kind of threat we will most\nlikely face in the coming decades, as it becomes increasingly possible for individuals or small groups to create\nnew scientific advances — through chemistry or biotechnology or materials science — setting off unintended\nconsequences that reverberate on a global scale.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author lists all of the following examples as “externalities” of major technical advances\nEXCEPT:",
+          "options": {
+            "A": "build-up of chlorofluorocarbons in the atmosphere",
+            "B": "extension of the phonograph to large-scale recording of music",
+            "C": "cooling and de-humidifying of factories through air-conditioning",
+            "D": "application of the Jacquard loom to modern IT programming"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nThe history of any major technological or industrial advance is inevitably shadowed by a less predictable\nhistory of unintended consequences and secondary effects — what economists sometimes call “externalities.”\nSometimes those consequences are innocuous ones, or even beneficial. Gutenberg invents the printing press,\nand literacy rates rise, which causes a significant part of the reading public to require spectacles for the first\ntime, which creates a surge of investment in lens-making across Europe, which leads to the invention of the\ntelescope and the microscope.\nOftentimes the secondary effects seem to belong to an entirely different sphere of society. When Willis\nCarrier hit upon the idea of air-conditioning, the technology was primarily intended for industrial use:\nensuring cool, dry air for factories that required low-humidity environments. But...it touched off one of the\nlargest migrations in the history of the United States, enabling the rise of metropolitan areas like Phoenix and\nLas Vegas that barely existed when Carrier first started tinkering with the idea in the early 1900s.\n\nSlot - II\nSometimes the unintended consequence comes about when consumers use an invention in a surprising way.\nEdison famously thought his phonograph, which he sometimes called “the talking machine,” would primarily\nbe used to take dictation....But then later innovators... discovered a much larger audience willing to pay for\nmusical recordings made on descendants of Edison's original invention. In other cases, the original innovation\ncomes into the world disguised as a plaything...the way the animatronic dolls of the mid-1700s inspired\nJacquard to invent the first “programmable” loom and Charles Babbage to invent the first machine that fit the\nmodern definition of a computer, setting the stage for the revolution in programmable technology that would\ntransform the 21st century in countless ways.\nWe live under the gathering storm of modern history’s most momentous unintended consequence....carbon-\nbased climate change. Imagine the vast sweep of inventors whose ideas started the Industrial Revolution, all\nthe entrepreneurs and scientists and hobbyists who had a hand in bringing it about. Line up a thousand of them\nand ask them all what they had been hoping to do with their work. Not one would say that their intent had\nbeen to deposit enough carbon in the atmosphere to create a greenhouse effect that trapped heat at the surface\nof the planet. And yet here we are.\nEthyl (leaded fuel) and Freon belonged to the same general class of secondary effect: innovations whose\nunintended consequences stem from some kind of waste by-product that they emit. But the potential health\nthreats of Ethyl (unleaded fuel) were visible in the 1920s, unlike, say, the long-term effects of atmospheric\ncarbon build up in the early days of the Industrial Revolution....\nIndeed, it is reasonable to see CFCs (chlorofluorocarbons) as a forerunner of the kind of threat we will most\nlikely face in the coming decades, as it becomes increasingly possible for individuals or small groups to create\nnew scientific advances — through chemistry or biotechnology or materials science — setting off unintended\nconsequences that reverberate on a global scale.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Carrier, Babbage, and Edison are mentioned in the passage to illustrate the author’s point that",
+          "options": {
+            "A": "these inventors could not have visualised the eventual impact of their inventions on society.",
+            "B": "despite the original intention, the unintended consequences of their inventions were largely beneficial.",
+            "C": "inventions typically end up being used for entirely different purposes than the intended ones.",
+            "D": "the secondary effect of past inventions mostly resulted in the creation of new inventions."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n(...) There are three other common drivers for carnivore–human attacks, some of which are more preventable\nthan others. Natural aggression-based conflicts – such as those involving females protecting their young or\nanimals protecting a food source – can often be avoided as long as people stay away from those animals and\ntheir food.\nCarnivores that recognise humans as a means to get food, are a different story. As they become more reliant\non human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing\nthat instinctive fear response puts them into more situations where they could get into an altercation with a\nhuman, which often results in that bear being put down by humans. “A fed bear is a dead bear,” says\nServheen, referring to a common saying among biologists and conservationists.\nPredatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America\nsince 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it\nuses for food. (…)\nThen there are animal attacks provoked by people taking pictures with them or feeding them in natural\nsettings such as national parks which often end with animals being euthanised out of precaution. “Eventually,\nthat animal becomes habituated to people, and [then] bad things happen to the animal. And the folks who\ninitially wanted to make that connection don’t necessarily realise that,” says Christine Wilkinson, a\npostdoctoral researcher at UC Berkeley, California, who’s been studying coyote-human conflicts.\nAfter conducting countless postmortems on all types of carnivore-human attacks spanning 75 years,\nPenteriani’s team believes 50% could have been avoided if humans reacted differently. A 2017 study co-\nauthored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood\nof an attack.\nTwo of the most common risky behaviours are parents leaving their children to play outside unattended and\nwalking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog.\n“[People] end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they’re\nwalking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.\nExperts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the\ncorrelation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming\ninto more frequent contact, which means that more conflict could occur,” says Jen Miller, international\nprogramme specialist for the US Fish & Wildlife Service. For example, she says, there was an uptick in lion\nattacks in western India during a drought when lions and people were relying on the same water sources.\n\nSlot - II\n(...) The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries\ndominated by vast rural landscapes and farmland, according to Penteriani’s research. “There are a lot of\nworking landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore\nhabitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,”\nsays Wilkinson.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, which of the following scenarios would MOST likely exacerbate the\nfrequency of carnivore-human conflicts?",
+          "options": {
+            "A": "Unleashing dogs by pet owners in areas with known high concentrations of large carnivores.",
+            "B": "Attempting to photograph wild animals from within secured viewing areas in national parks and protected zones.",
+            "C": "Addressing the impact of climate change on the availability of resources for wildlife.",
+            "D": "Implementing ‘food waste’ management strategies to prevent wild animals being attracted to human food sources."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n(...) There are three other common drivers for carnivore–human attacks, some of which are more preventable\nthan others. Natural aggression-based conflicts – such as those involving females protecting their young or\nanimals protecting a food source – can often be avoided as long as people stay away from those animals and\ntheir food.\nCarnivores that recognise humans as a means to get food, are a different story. As they become more reliant\non human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing\nthat instinctive fear response puts them into more situations where they could get into an altercation with a\nhuman, which often results in that bear being put down by humans. “A fed bear is a dead bear,” says\nServheen, referring to a common saying among biologists and conservationists.\nPredatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America\nsince 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it\nuses for food. (…)\nThen there are animal attacks provoked by people taking pictures with them or feeding them in natural\nsettings such as national parks which often end with animals being euthanised out of precaution. “Eventually,\nthat animal becomes habituated to people, and [then] bad things happen to the animal. And the folks who\ninitially wanted to make that connection don’t necessarily realise that,” says Christine Wilkinson, a\npostdoctoral researcher at UC Berkeley, California, who’s been studying coyote-human conflicts.\nAfter conducting countless postmortems on all types of carnivore-human attacks spanning 75 years,\nPenteriani’s team believes 50% could have been avoided if humans reacted differently. A 2017 study co-\nauthored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood\nof an attack.\nTwo of the most common risky behaviours are parents leaving their children to play outside unattended and\nwalking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog.\n“[People] end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they’re\nwalking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.\nExperts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the\ncorrelation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming\ninto more frequent contact, which means that more conflict could occur,” says Jen Miller, international\nprogramme specialist for the US Fish & Wildlife Service. For example, she says, there was an uptick in lion\nattacks in western India during a drought when lions and people were relying on the same water sources.\n\nSlot - II\n(...) The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries\ndominated by vast rural landscapes and farmland, according to Penteriani’s research. “There are a lot of\nworking landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore\nhabitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,”\nsays Wilkinson.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements, if false, would be inconsistent with the concerns raised in the\npassage regarding the drivers of carnivore-human conflicts?",
+          "options": {
+            "A": "Predatory attacks by carnivores are a common occurrence and have steadily increased over the past few decades.",
+            "B": "Human efforts to avoid risky behaviours around large carnivores have proven effective in reducing conflict incidents.",
+            "C": "Carnivores lose their instinctive fear of humans, when consistently exposed to human food sources.",
+            "D": "Climate change has had negligible effects on the frequency of carnivore-human interactions in affected regions."
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n(...) There are three other common drivers for carnivore–human attacks, some of which are more preventable\nthan others. Natural aggression-based conflicts – such as those involving females protecting their young or\nanimals protecting a food source – can often be avoided as long as people stay away from those animals and\ntheir food.\nCarnivores that recognise humans as a means to get food, are a different story. As they become more reliant\non human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing\nthat instinctive fear response puts them into more situations where they could get into an altercation with a\nhuman, which often results in that bear being put down by humans. “A fed bear is a dead bear,” says\nServheen, referring to a common saying among biologists and conservationists.\nPredatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America\nsince 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it\nuses for food. (…)\nThen there are animal attacks provoked by people taking pictures with them or feeding them in natural\nsettings such as national parks which often end with animals being euthanised out of precaution. “Eventually,\nthat animal becomes habituated to people, and [then] bad things happen to the animal. And the folks who\ninitially wanted to make that connection don’t necessarily realise that,” says Christine Wilkinson, a\npostdoctoral researcher at UC Berkeley, California, who’s been studying coyote-human conflicts.\nAfter conducting countless postmortems on all types of carnivore-human attacks spanning 75 years,\nPenteriani’s team believes 50% could have been avoided if humans reacted differently. A 2017 study co-\nauthored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood\nof an attack.\nTwo of the most common risky behaviours are parents leaving their children to play outside unattended and\nwalking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog.\n“[People] end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they’re\nwalking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.\nExperts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the\ncorrelation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming\ninto more frequent contact, which means that more conflict could occur,” says Jen Miller, international\nprogramme specialist for the US Fish & Wildlife Service. For example, she says, there was an uptick in lion\nattacks in western India during a drought when lions and people were relying on the same water sources.\n\nSlot - II\n(...) The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries\ndominated by vast rural landscapes and farmland, according to Penteriani’s research. “There are a lot of\nworking landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore\nhabitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,”\nsays Wilkinson.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Given the insights provided by Penteriani’s research and Wilkinson's statement, which of the\nfollowing conclusions can be drawn about the relationship between landscape heterogeneity and\nhuman-carnivore conflicts?",
+          "options": {
+            "A": "Low-income countries with vast, contiguous wilderness areas are less prone to human-carnivore conflicts because these areas lack the human presence necessary for such encounters.",
+            "B": "Homogeneous landscapes with uniform agricultural practices are more likely to experience high rates of human-carnivore conflicts due to the predictability of resources.",
+            "C": "The diversity and interspersion of working landscapes with carnivore habitats in rural areas increase the statistical probability of encounters between humans and carnivores.",
+            "D": "Landscape heterogeneity, characterized by a mix of farmland and natural habitats, inherently reduces the chances of human-carnivore conflicts by providing more refuge for wildlife away from human activity."
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\n(...) There are three other common drivers for carnivore–human attacks, some of which are more preventable\nthan others. Natural aggression-based conflicts – such as those involving females protecting their young or\nanimals protecting a food source – can often be avoided as long as people stay away from those animals and\ntheir food.\nCarnivores that recognise humans as a means to get food, are a different story. As they become more reliant\non human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing\nthat instinctive fear response puts them into more situations where they could get into an altercation with a\nhuman, which often results in that bear being put down by humans. “A fed bear is a dead bear,” says\nServheen, referring to a common saying among biologists and conservationists.\nPredatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America\nsince 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it\nuses for food. (…)\nThen there are animal attacks provoked by people taking pictures with them or feeding them in natural\nsettings such as national parks which often end with animals being euthanised out of precaution. “Eventually,\nthat animal becomes habituated to people, and [then] bad things happen to the animal. And the folks who\ninitially wanted to make that connection don’t necessarily realise that,” says Christine Wilkinson, a\npostdoctoral researcher at UC Berkeley, California, who’s been studying coyote-human conflicts.\nAfter conducting countless postmortems on all types of carnivore-human attacks spanning 75 years,\nPenteriani’s team believes 50% could have been avoided if humans reacted differently. A 2017 study co-\nauthored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood\nof an attack.\nTwo of the most common risky behaviours are parents leaving their children to play outside unattended and\nwalking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog.\n“[People] end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they’re\nwalking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.\nExperts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the\ncorrelation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming\ninto more frequent contact, which means that more conflict could occur,” says Jen Miller, international\nprogramme specialist for the US Fish & Wildlife Service. For example, she says, there was an uptick in lion\nattacks in western India during a drought when lions and people were relying on the same water sources.\n\nSlot - II\n(...) The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries\ndominated by vast rural landscapes and farmland, according to Penteriani’s research. “There are a lot of\nworking landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore\nhabitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,”\nsays Wilkinson.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, what is a significant factor that contributes to the habituation of carnivores\nto human presence?",
+          "options": {
+            "A": "The predatory perception of humans as potential prey within the carnivores’ food chain.",
+            "B": "The reduction in carnivores’ instinctive fear response, resulting from their reliance upon human- provided food.",
+            "C": "The natural aggression exhibited by carnivores, exacerbated by human interference, particularly when they are safeguarding their offspring or food sources.",
+            "D": "The increased scarcity of resources due to climate change, forcing carnivores to venture outside their natural habitats in search of sustenance. Slot - II"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are\ngiven below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and\nkey in the number of that sentence as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. No known real researcher of human behaviour would say that gender is all nature or all nurture.\n2. The evidence for a biological basis for gender certainly doesn’t mean we should be complacent in\nthe face of sexism.\n3. Many people are uncomfortable with the Idea that gender Is not purely a social construct.\n4. Despite this empirical truth, researchers who study the biological basis of gender often face\npolitical pushback.\n5. There’s a political preference for gender to be only a reflection of social factors and so entirely\nmalleable.",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the\nparagraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: Science has officially crowned us superior to our early-rising brethren.\nParagraph: My fellow night owls, grab a strong cup of coffee and gather around: I have great news.\n___(1)___. For a long time, our kind has been unfairly maligned. Stereotyped as lazy and\nundisciplined. Told we ought to be morning larks. Advised to go to bed early so we can wake before\n5am and run a marathon before breakfast like all high-flyers seem to do. Now, however, we are\nhaving the last laugh. ___(2)___. It may be a tad more complicated than that. A study published last\nweek, which you may have already seen while scrolling at 1am, suggests that staying up late could be\ngood for brain power. ___(3)___. Is this study a thinly veiled PR exercise conducted by a caffeine-pill\ncompany? Nope, it’s legit. ___(4)___. Research led by academics at Imperial College London studied\ndata on more than 26,000 people and found that “self-declared ‘night owls’ generally tend to have\nhigher cognitive scores”.",
+          "options": {
+            "A": "Option 2",
+            "B": "Option 4",
+            "C": "Option 3",
+            "D": "Option 1"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the\noption that best captures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "John Cleese told Fox News Digital that comedians do not have the freedom to be funny in 2022.\n“There’s always been limitations on what they’re allowed to say,” Cleese said. “I think it’s\nparticularly worrying at the moment because you can only create in an atmosphere of freedom, where\nyou're not checking everything you say critically before you move on. What you have to be able to do\nis to build without knowing where you’re going because you've never been there before. That’s what\ncreativity is — you have to be allowed to build. And a lot of comedians now are sitting there and\nwhen they think of something, they say something like, ‘Can I get away with it? I don’t think so. So\nand so got into trouble, and he said that, oh, she said that.’ You see what I mean? And that’s the death\nof creativity.”",
+          "options": {
+            "A": "Freedom and creativity are essential for comedy. Fear about offending people hinders originality.",
+            "B": "Comedians must not check what they think and say. They must go where no one has gone before.",
+            "C": "Comedians are being prevented from saying what they want and that is the death of this art form.",
+            "D": "Creativity and critical thinking cannot work together. Comedians must first be creative, and later"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2024-slot2-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 are placed in ten slots of the following grid based on the\nconditions below.\nColumn 1 Column 2 Column 3 Column 4\nRow 1\nRow 2\nRow 3\nRow 4",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the row number which has the least sum of numbers placed in that row?",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 are placed in ten slots of the following grid based on the\nconditions below.\nColumn 1 Column 2 Column 3 Column 4\nRow 1\nRow 2\nRow 3\nRow 4",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements MUST be true?\nI. 10 is placed in a slot in Row 1.\nII. 1 is placed in a slot in Row 4.",
+          "options": {
+            "A": "Only II",
+            "B": "Both I and II",
+            "C": "Only I",
+            "D": "Neither I nor II"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 are placed in ten slots of the following grid based on the\nconditions below.\nColumn 1 Column 2 Column 3 Column 4\nRow 1\nRow 2\nRow 3\nRow 4",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements MUST be true?\nI. 2 is placed in a slot in Column 2.\nII. 3 is placed in a slot in Column 3.",
+          "options": {
+            "A": "Neither I nor II",
+            "B": "Only I",
+            "C": "Both I and II",
+            "D": "Only II"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 are placed in ten slots of the following grid based on the\nconditions below.\nColumn 1 Column 2 Column 3 Column 4\nRow 1\nRow 2\nRow 3\nRow 4",
+          "passage": "",
+          "passage_group": null,
+          "question": "For how many slots in the grid, placement of numbers CANNOT be determined with certainty?",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 are placed in ten slots of the following grid based on the\nconditions below.\nColumn 1 Column 2 Column 3 Column 4\nRow 1\nRow 2\nRow 3\nRow 4",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the sum of the numbers placed in Column 4?\n\nSlot - II",
+          "options": {},
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nA B C D\nG F\nH E\nK\nI L\nJ\nP O N M\nThe above is a schematic diagram of walkways (indicated by all the straight4ines) and lakes (3 of them, each\nin the shape of rectangles — shaded in the diagram) of a gated area.\nDifferent points on the walkway are indicated by letters (A through P) with distances being\nOP = 150 m, ON = MN = 300 m, ML = 400 m, EL = 200 m, DE = 400 m.\nThe following additional information about the facilities in the area is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One resident whose house is located at L, needs to visit the post office as well as the bank. What is the\nminimum distance (in m) he has to walk starting from his residence and returning to his residence\nafter visiting both the post office and the bank?",
+          "options": {
+            "A": "3200",
+            "B": "3000",
+            "C": "3000",
+            "D": "2700"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nA B C D\nG F\nH E\nK\nI L\nJ\nP O N M\nThe above is a schematic diagram of walkways (indicated by all the straight4ines) and lakes (3 of them, each\nin the shape of rectangles — shaded in the diagram) of a gated area.\nDifferent points on the walkway are indicated by letters (A through P) with distances being\nOP = 150 m, ON = MN = 300 m, ML = 400 m, EL = 200 m, DE = 400 m.\nThe following additional information about the facilities in the area is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One person enters the gated area and decides to walk as much as possible before leaving the area\nwithout walking along any path more than once and always walking next to one of the lakes. Note that\nhe may cross a point multiple times. How much distance (in m) will he walk within the gated area?",
+          "options": {
+            "A": "3200",
+            "B": "2800",
+            "C": "3000",
+            "D": "3800"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nA B C D\nG F\nH E\nK\nI L\nJ\nP O N M\nThe above is a schematic diagram of walkways (indicated by all the straight4ines) and lakes (3 of them, each\nin the shape of rectangles — shaded in the diagram) of a gated area.\nDifferent points on the walkway are indicated by letters (A through P) with distances being\nOP = 150 m, ON = MN = 300 m, ML = 400 m, EL = 200 m, DE = 400 m.\nThe following additional information about the facilities in the area is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One resident takes a walk within the gated area starting from A and returning to A without going\nthrough any point (other than A) more than once. What is the maximum distance (in m) she can walk\nin this way?\n\nSlot - II",
+          "options": {},
+          "correct_answer": "5100",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nA B C D\nG F\nH E\nK\nI L\nJ\nP O N M\nThe above is a schematic diagram of walkways (indicated by all the straight4ines) and lakes (3 of them, each\nin the shape of rectangles — shaded in the diagram) of a gated area.\nDifferent points on the walkway are indicated by letters (A through P) with distances being\nOP = 150 m, ON = MN = 300 m, ML = 400 m, EL = 200 m, DE = 400 m.\nThe following additional information about the facilities in the area is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Visitors coming for morning walks are allowed to enter as long as they do not pass by any of the\nresidences and do not cross any point (except C) more than once. What is the maximum distance (in\nm) that such a visitor can walk within the gated area?",
+          "options": {},
+          "correct_answer": "3500",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nAn online e-commerce firm receives daily integer product ratings from 1 through 5 given by buyers. The daily\naverage is the average of the ratings given on that day. The cumulative average is the average of all ratings\ngiven on or before that day.\nThe rating system began on Day 1, and the cumulative averages were 3 and 3.1 at the end of Day 1 and Day 2,\nrespectively. The distribution of ratings on Day 2 is given in the figure below.\nThe following information is known about ratings on Day 3.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many buyers gave ratings on Day 1?",
+          "options": {},
+          "correct_answer": "150",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nAn online e-commerce firm receives daily integer product ratings from 1 through 5 given by buyers. The daily\naverage is the average of the ratings given on that day. The cumulative average is the average of all ratings\ngiven on or before that day.\nThe rating system began on Day 1, and the cumulative averages were 3 and 3.1 at the end of Day 1 and Day 2,\nrespectively. The distribution of ratings on Day 2 is given in the figure below.\nThe following information is known about ratings on Day 3.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the daily average rating of Day 3?",
+          "options": {
+            "A": "3.6",
+            "B": "3.5",
+            "C": "3.0",
+            "D": "3.2"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nAn online e-commerce firm receives daily integer product ratings from 1 through 5 given by buyers. The daily\naverage is the average of the ratings given on that day. The cumulative average is the average of all ratings\ngiven on or before that day.\nThe rating system began on Day 1, and the cumulative averages were 3 and 3.1 at the end of Day 1 and Day 2,\nrespectively. The distribution of ratings on Day 2 is given in the figure below.\nThe following information is known about ratings on Day 3.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the median of all ratings given on Day 3?\n\nSlot - II",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nAn online e-commerce firm receives daily integer product ratings from 1 through 5 given by buyers. The daily\naverage is the average of the ratings given on that day. The cumulative average is the average of all ratings\ngiven on or before that day.\nThe rating system began on Day 1, and the cumulative averages were 3 and 3.1 at the end of Day 1 and Day 2,\nrespectively. The distribution of ratings on Day 2 is given in the figure below.\nThe following information is known about ratings on Day 3.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is true about the cumulative average ratings of Day 2 and Day 3?\n1. The cumulative average of Day 3 decreased from Day 2.\n2. The cumulative average of Day 3 increased by more than 8% from Day 2.\n3. The cumulative average of Day 3 increased by less than 5% from Day 2.\n4. The cumulative average of Day 3 increased by a percentage between 5% and 8% from Day 2.",
+          "options": {},
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe two plots below give the following information about six firms A, B, C, D, E, and F for 2019 and 2023.\nPAT: The firm's profits after taxes in Rs. crores,\nES: The firm's employee strength, that is the number of employees in the firm, and\nPRD: The percentage of the firm’s PAT that they spend on Research and Development (R&D).\nIn the plots, the horizontal and vertical coordinates of point representing each firm gives their ES and PAT\nvalues respectively. The PRD values of each firm are proportional to the areas around the points representing\neach firm. The areas are comparable between the two plots, i.e., equal areas in the two plots represent the\nsame PRD values for the two years.\n\nSlot - II",
+          "passage": "",
+          "passage_group": null,
+          "question": "Assume that the annual rate of growth in PAT over the previous year (ARG) remained constant over\nthe years for each of the six firms. Which among the firms A, B, C, and E had the highest ARG?",
+          "options": {
+            "A": "Firm E",
+            "B": "Firm B",
+            "C": "Firm A",
+            "D": "Firm C"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe two plots below give the following information about six firms A, B, C, D, E, and F for 2019 and 2023.\nPAT: The firm's profits after taxes in Rs. crores,\nES: The firm's employee strength, that is the number of employees in the firm, and\nPRD: The percentage of the firm’s PAT that they spend on Research and Development (R&D).\nIn the plots, the horizontal and vertical coordinates of point representing each firm gives their ES and PAT\nvalues respectively. The PRD values of each firm are proportional to the areas around the points representing\neach firm. The areas are comparable between the two plots, i.e., equal areas in the two plots represent the\nsame PRD values for the two years.\n\nSlot - II",
+          "passage": "",
+          "passage_group": null,
+          "question": "The ratio of the amount of money spent by Firm C on R&D in 2018 to that in 2023 is closest to",
+          "options": {
+            "A": "5 : 6",
+            "B": "9 : 5",
+            "C": "5 : 9",
+            "D": "9 : 4"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe two plots below give the following information about six firms A, B, C, D, E, and F for 2019 and 2023.\nPAT: The firm's profits after taxes in Rs. crores,\nES: The firm's employee strength, that is the number of employees in the firm, and\nPRD: The percentage of the firm’s PAT that they spend on Research and Development (R&D).\nIn the plots, the horizontal and vertical coordinates of point representing each firm gives their ES and PAT\nvalues respectively. The PRD values of each firm are proportional to the areas around the points representing\neach firm. The areas are comparable between the two plots, i.e., equal areas in the two plots represent the\nsame PRD values for the two years.\n\nSlot - II",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which among the firms A, C, E, and F had the maximum PAT per employee in 2023?",
+          "options": {
+            "A": "Firm C",
+            "B": "Firm A",
+            "C": "Firm F",
+            "D": "Firm E"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nThe two plots below give the following information about six firms A, B, C, D, E, and F for 2019 and 2023.\nPAT: The firm's profits after taxes in Rs. crores,\nES: The firm's employee strength, that is the number of employees in the firm, and\nPRD: The percentage of the firm’s PAT that they spend on Research and Development (R&D).\nIn the plots, the horizontal and vertical coordinates of point representing each firm gives their ES and PAT\nvalues respectively. The PRD values of each firm are proportional to the areas around the points representing\neach firm. The areas are comparable between the two plots, i.e., equal areas in the two plots represent the\nsame PRD values for the two years.\n\nSlot - II",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which among the firms C, D, E, and F had the least amount of R & D spending per employee in\n2023?",
+          "options": {
+            "A": "Firm E",
+            "B": "Firm D",
+            "C": "Firm F",
+            "D": "Firm C"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nEight gymnastics players numbered 1 through 8 underwent a training camp where they were coached by three\ncoaches - Xena, Yuki, and Zara. Each coach trained at least two players.\nYuki trained only even numbered players, while Zara trained only odd numbered players.\nAfter the camp, the coaches evaluated the players and gave integer ratings to the respective players trained by\nthem on a scale of 1 to 7, with 1 being the lowest rating and 7 the highest.\nThe following additional information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What best can be concluded about the number of players coached by Zara?",
+          "options": {
+            "A": "Exactly 2",
+            "B": "Either 2 or 3",
+            "C": "Exactly 3",
+            "D": "Either 2 or 3 or 4"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nEight gymnastics players numbered 1 through 8 underwent a training camp where they were coached by three\ncoaches - Xena, Yuki, and Zara. Each coach trained at least two players.\nYuki trained only even numbered players, while Zara trained only odd numbered players.\nAfter the camp, the coaches evaluated the players and gave integer ratings to the respective players trained by\nthem on a scale of 1 to 7, with 1 being the lowest rating and 7 the highest.\nThe following additional information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the rating of Player-7?",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nEight gymnastics players numbered 1 through 8 underwent a training camp where they were coached by three\ncoaches - Xena, Yuki, and Zara. Each coach trained at least two players.\nYuki trained only even numbered players, while Zara trained only odd numbered players.\nAfter the camp, the coaches evaluated the players and gave integer ratings to the respective players trained by\nthem on a scale of 1 to 7, with 1 being the lowest rating and 7 the highest.\nThe following additional information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the rating of Player-6?\n\nSlot - II",
+          "options": {},
+          "correct_answer": "5",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that\nfollows\nEight gymnastics players numbered 1 through 8 underwent a training camp where they were coached by three\ncoaches - Xena, Yuki, and Zara. Each coach trained at least two players.\nYuki trained only even numbered players, while Zara trained only odd numbered players.\nAfter the camp, the coaches evaluated the players and gave integer ratings to the respective players trained by\nthem on a scale of 1 to 7, with 1 being the lowest rating and 7 the highest.\nThe following additional information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For how many players the ratings can be determined with certainty?",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that\nfollows\nEight gymnastics players numbered 1 through 8 underwent a training camp where they were coached by three\ncoaches - Xena, Yuki, and Zara. Each coach trained at least two players.\nYuki trained only even numbered players, while Zara trained only odd numbered players.\nAfter the camp, the coaches evaluated the players and gave integer ratings to the respective players trained by\nthem on a scale of 1 to 7, with 1 being the lowest rating and 7 the highest.\nThe following additional information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who all were the players trained by Xena?",
+          "options": {
+            "A": "Player-1, Player-4, Player-6, Player-8",
+            "B": "Player-1, Player-3, Player-4, Player-6",
+            "C": "Player-1, Player-3, Player-4, Player-8",
+            "D": "Player-1, Player-3, Player-4"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2024-slot2-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "A company has 40 employees whose names are listed in a certain order. In the year 2022, the average\nbonus of the first 30 employees was Rs. 40000, of the last 30 employees was Rs. 60000, and of the\nfirst 10 and last 10 employees together was Rs. 50000. Next year, the average bonus of the first 10\nemployees increased by 100%, of the last 10 employees increased by 200% and of the remaining\nemployees was unchanged. Then, the average bonus, in rupees, of all the 40 employees together in the\nyear 2023 was",
+          "options": {
+            "A": "90000",
+            "B": "80000",
+            "C": "95000",
+            "D": "85000"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "When 3333 is divide by 11, the remainder is",
+          "options": {
+            "A": "10",
+            "B": "1",
+            "C": "6",
+            "D": "5"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If m and n are natural numbers such that n > 1, and mn = 225 × 340, then m-n equals",
+          "options": {
+            "A": "209937",
+            "B": "109947",
+            "C": "209942",
+            "D": "209932"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "A vessel contained a certain amount of a solution of acid and water. When 2 litres of water was added\nto it, the new solution had 50% acid concentration. When 15 litres of acid was further added to this\nnew solution, the final solution had 80% acid concentration. The ratio of water and acid in the original\nsolution was",
+          "options": {
+            "A": "4 : 5",
+            "B": "3 : 5",
+            "C": "5 : 3",
+            "D": "5 : 4"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If\nx\n 6 2\n 12\n\nx\n 6 2\n 12\n 2 2 , then x equals",
+          "options": {},
+          "correct_answer": "11",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Anil invests Rs 22000 for 6 years in a scheme with 4% interest per annum, compounded half-yearly.\nSeparately, Sunil invests a certain amount in the same scheme for 5 years, and then reinvests the\nentire amount he receives at the end of 5 years, for one year at 10% simple interest. If the amounts\nreceived by both at the end of 6 years are equal, then the initial investment, in rupees, made by Sunil\nis",
+          "options": {
+            "A": "20860",
+            "B": "20808",
+            "C": "20480",
+            "D": "20640"
+          },
+          "correct_answer": "6",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Amal and Vimal together can complete a task in 150 days, while Vimal and Sunil together can\ncomplete the same task in 100 days. Amal starts working on the task and works for 75 days, then\nVimal takes over and works for 135 days. Finally, Sunil takes over and completes the remaining task\nin 45 days. If Amal had started the task alone and worked on all days, Vimal had worked on every\nsecond day, and Sunil had worked on every third day, then the number of days required to complete\nthe task would have been",
+          "options": {},
+          "correct_answer": "139",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "A bus starts at 9 am and follows a fixed route every day. One day, it traveled at a constant speed of 60\nkm per hour and reached its destination 3.5 hours later than its scheduled arrival time. Next day, it\ntraveled two-thirds of its route in one-third of its total scheduled travel time, and the remaining part of\nthe route at 40 km per hour to reach just on time. The scheduled arrival time of the bus is",
+          "options": {
+            "A": "10:30 pm",
+            "B": "7:00 pm",
+            "C": "7:30 pm",
+            "D": "9:00 pm"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "A function f maps the set of natural numbers to whole numbers, such that f (xy) = f (x) f (y) + f (x) + f\n(y) for all x, y and f (p) = 1 for every prime number p. Then, the value of f (160000) is",
+          "options": {
+            "A": "8191",
+            "B": "2047",
+            "C": "4095",
+            "D": "1023"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The sum of the infinite series is\n\n 1\n\n\n\n\n\n 1\n\n\n2 \n 1\n\n\n\n\n 1\n\n\n2 \n\n 1\n\n\n3 \n 1\n\n\n\n\n 1\n\n\n3 \n ..... equal to",
+          "options": {
+            "A": "B. 408 8 1 6",
+            "C": "D. 408 8 1 6"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "A fruit seller has a stock of mangoes, bananas and apples with at least one fruit of each type. At the\nbeginning of a day, the number of mangoes make up 40% of his stock. That day, he sells half of the\nmangoes, 96 bananas and 40% of the apples. At the end of the day, he ends up selling 50% of the\nfruits. The smallest possible total number of fruits in the stock at the beginning of the day is",
+          "options": {},
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Bina incurs 19% loss when she sells a product at Rs. 4860 to Shyam, who in turn sells this product to\nHari. If Bina would have sold this product to Shyam at the purchase price of Hari, she would have\nobtained 17% profit. Then, the profit, in rupees, made by Shyam is",
+          "options": {},
+          "correct_answer": "2160",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Three circles of equal radii touch (but not cross) each other externally. Two other circles, X and Y, are\ndrawn such that both touch (but not cross) each of the three previous circles. If the radius of X is more\nthan that of Y, the ratio of the radii of X and Y is",
+          "options": {
+            "A": "4  2 3 : 1",
+            "B": "7  4 3 : 1",
+            "C": "2 3:1",
+            "D": "4  3 : 1"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If x and y satisfy the equations |x| + x + y = 15 and x + |y| – y = 20, then (x – y) equals",
+          "options": {
+            "A": "20",
+            "B": "10",
+            "C": "15",
+            "D": "5"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The roots α, β of the equation 3x2 + λx – 1 = 0, satisfy\n\n\n\n\n 2\n 1 5 .\nThe value of (α3 + β3)2, is",
+          "options": {
+            "A": "16",
+            "B": "4",
+            "C": "1",
+            "D": "9"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "All the values of x satisfying the inequality  are\nx5 2x3",
+          "options": {
+            "A": "–5 < x < or < x ≤ 8 B. –5 < x < or x >",
+            "C": "x < –5 or x >",
+            "D": "x < –5 or < x ≤ 8"
+          },
+          "correct_answer": "1",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "When Rajesh's age was same as the present age of Garima, the ratio of their ages was 3 : 2. When\nGarima’s age becomes the same as the present age of Rajesh, the ratio of the ages of Rajesh and\nGarima will become",
+          "options": {
+            "A": "2 : 1",
+            "B": "5 : 4",
+            "C": "4 : 3",
+            "D": "3 : 2"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "P, Q, R and S are four towns. One can travel between P and Q along 3 direct paths, between Q and S\nalong 4 direct paths, and between P and R along 4 direct paths. There is no direct path between P and\nS, while there are few direct paths between Q and R, and between R and S. One can travel from P to S\neither via Q, or via R, or via Q followed by R, respectively, in exactly 62 possible ways. One can also\ntravel from Q to R either directly, or via P, or via S, in exactly 27 possible ways. Then, the number of\ndirect paths between Q and R is",
+          "options": {},
+          "correct_answer": "7",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The coordinates of the three vertices of a triangle are: (1, 2), (7, 2), and (1, 10). Then the radius of the\nin circle of the triangle is",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If a, b and c are positive real numbers such that a > 10 ≥ b ≥ c and\nlo g\n\nlo\n(\ng\na\n\n\nc\nb )\n\nlo g (\n2 7\nlo g\na\n\n\nc\nb )\n\n\n, then\nthe greatest possible integer value of a is",
+          "options": {},
+          "correct_answer": "14",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If x and y are real numbers such that 4x2 + 4y2 – 4xy – 6y + 3 = 0, then the value of (4x + 5y) is",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2024-slot2-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "ABCD is a trapezium in which AB is parallel to CD. The sides AD and BC when extended, intersect\nat point E.\nIf AB = 2 cm, CD = 1 cm, and perimeter of ABCD is 6 cm, then the perimeter, in cm, of ∆AEB is",
+          "options": {
+            "A": "8",
+            "B": "10",
+            "C": "9",
+            "D": "7"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        }
+      ]
+    }
+  }
+}
