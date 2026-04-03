@@ -1,0 +1,1143 @@
+{
+  "id": "cat-2025-slot3",
+  "year": 2025,
+  "slot": 3,
+  "title": "CAT 2025 Slot III",
+  "has_solutions": true,
+  "total_questions": 68,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2025-slot3-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four summaries. Choose the\noption that best captures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In investigating memory-beliefs, there are certain points which must be borne in mind. In the first\nplace, everything constituting a memory-belief is happening now, not in that past time to which the\nbelief is said to refer. It is not logically necessary to the existence of a memory-belief that the event\nremembered should have occurred, or even that the past should have existed at all. There is no logical\nimpossibility in the hypothesis that the world sprang into being five minutes ago, exactly as it then\nwas, with a population that “remembered” a wholly unreal past. There is no logically necessary\nconnection between events at different times; therefore nothing that is happening now or will happen\nin the future can disprove the hypothesis that the world began five minutes ago. Hence the\noccurrences which are CALLED knowledge of the past are logically independent of the past; they are\nwholly analysable into present contents, which might, theoretically, be just what they are even if no\npast had existed.",
+          "options": {
+            "A": "That which we call ‘knowledge of the past’ is logically independent of the past, since the act of\nremembering which forms memory-beliefs happens in the present, and does not need to be based\nin real past occurrences, or even need a past at all.",
+            "B": "When we discuss the concept of memory-beliefs, we must understand that it is not logically\nimpossible for the event remembered to have never happened at all; it could just be a figment of\nour imagination.",
+            "C": "When investigating memory beliefs, we must keep in mind that an actual past event is not a\nprerequisite for a memory-belief to exist, and that what we know of the past could theoretically not\nneed a past at all.",
+            "D": "Memory-beliefs depend wholly on what is remembered in the present, and not on anything else;"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled sentences (labelled 1, 2, 3, 4, and 5), related to a topic, are\ngiven below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence out\nand key in the number of that sentence as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The profound emotional impact of music has inspired ongoing research into its relationship with\nemotions.\n2. Music is a universal phenomenon that utilizes a myriad brain resources.\n3. This inherent connection to musical expression is deeply intertwined with human identity and\nexperience.\n4. The proclivity to create and appreciate music is ubiquitous among humans, permeating daily life\nacross diverse societies.\n5. Engaging with music is among the most cognitively demanding tasks a human can undergo, and it\nis identified across cultures.\n\nSlot - III",
+          "options": {
+            "A": "The profound emotional impact of music has inspired ongoing research into its relationship with\nemotions.",
+            "B": "Music is a universal phenomenon that utilizes a myriad brain resources.",
+            "C": "This inherent connection to musical expression is deeply intertwined with human identity and\nexperience.",
+            "D": "The proclivity to create and appreciate music is ubiquitous among humans, permeating daily life"
+          },
+          "correct_answer": "1",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOnce a society accepts a secular mode of creativity, within which the creator replaces God, imaginative\ntransactions assume a self-conscious form. The tribal imagination, on the other hand, is still to a large extent\ndreamlike and hallucinatory. It admits fusion between various planes of existence and levels of time in a\nnatural and artless manner. In tribal stories, oceans fly in the sky as birds, mountains swim in water as fish,\nanimals speak as humans and stars grow like plants. Spatial order and temporal sequence do not restrict the\nnarrative. This is not to say that tribal creations have no conventions or rules, but simply that they admit the\nprinciple of association between emotion and the narrative motif. Thus stars, seas, mountains, trees, men and\nanimals can be angry, sad or happy.\nIt might be said that tribal artists work more on the basis of their racial and sensory memory than on the basis\nof a cultivated imagination. In order to understand this distinction, we must understand the difference between\nimagination and memory. In the animate world, consciousness meets two immediate material realities: space\nand time. We put meaning into space by perceiving it in terms of images. The image-making faculty is a\ngenetic gift to the human mind—this power of imagination helps us understand the space that envelops us.\nWith regard to time, we make connections with the help of memory; one remembers being the same person\ntoday as one was yesterday.\nThe tribal mind has a more acute sense of time than the sense of space. Somewhere along the history of\nhuman civilization, tribal communities seem to have realized that domination over territorial space was not\ntheir lot. Thus, they seem to have turned almost obsessively to gaining domination over time. This urge is\nsubstantiated in their ritual of conversing with their dead ancestors: year after year, tribals in many parts of\nIndia worship terracotta or carved-wood objects representing their ancestors, aspiring to enter a trance in\nwhich they can converse with the dead. Over the centuries, an amazingly sharp memory has helped tribals\nclassify material and natural objects into a highly complex system of knowledge. . . .\nOne of the main characteristics of the tribal arts is their distinct manner of constructing space and imagery,\nwhich might be described as ‘hallucinatory’. In both oral and visual forms of representation, tribal artists seem\nto interpret verbal or pictorial space as demarcated by an extremely flexible ‘frame’. The boundaries between\nart and non-art become almost invisible. A tribal epic can begin its narration from a trivial everyday event;\ntribal paintings merge with living space as if the two were one and the same. And within the narrative itself, or\nwithin the painted imagery, there is no deliberate attempt to follow a sequence. The episodes retold and the\nimages created take on the apparently chaotic shapes of dreams. In a way, the syntax of language and the\ngrammar of painting are the same, as if literature were painted words and painting were a song of images.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following, if true, would weaken the passage’s claims about the hallucinatory tribal\nimagination EXCEPT that:\n1. tribal stories depict the natural world in accordance with rational scientific knowledge.\n2. tribal narratives exhibit a chronological beginning, middle, and end.\n3. shamanic rituals involving conversing with the dead often feature in tribal stories.",
+          "options": {},
+          "correct_answer": "55",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOnce a society accepts a secular mode of creativity, within which the creator replaces God, imaginative\ntransactions assume a self-conscious form. The tribal imagination, on the other hand, is still to a large extent\ndreamlike and hallucinatory. It admits fusion between various planes of existence and levels of time in a\nnatural and artless manner. In tribal stories, oceans fly in the sky as birds, mountains swim in water as fish,\nanimals speak as humans and stars grow like plants. Spatial order and temporal sequence do not restrict the\nnarrative. This is not to say that tribal creations have no conventions or rules, but simply that they admit the\nprinciple of association between emotion and the narrative motif. Thus stars, seas, mountains, trees, men and\nanimals can be angry, sad or happy.\nIt might be said that tribal artists work more on the basis of their racial and sensory memory than on the basis\nof a cultivated imagination. In order to understand this distinction, we must understand the difference between\nimagination and memory. In the animate world, consciousness meets two immediate material realities: space\nand time. We put meaning into space by perceiving it in terms of images. The image-making faculty is a\ngenetic gift to the human mind—this power of imagination helps us understand the space that envelops us.\nWith regard to time, we make connections with the help of memory; one remembers being the same person\ntoday as one was yesterday.\nThe tribal mind has a more acute sense of time than the sense of space. Somewhere along the history of\nhuman civilization, tribal communities seem to have realized that domination over territorial space was not\ntheir lot. Thus, they seem to have turned almost obsessively to gaining domination over time. This urge is\nsubstantiated in their ritual of conversing with their dead ancestors: year after year, tribals in many parts of\nIndia worship terracotta or carved-wood objects representing their ancestors, aspiring to enter a trance in\nwhich they can converse with the dead. Over the centuries, an amazingly sharp memory has helped tribals\nclassify material and natural objects into a highly complex system of knowledge. . . .\nOne of the main characteristics of the tribal arts is their distinct manner of constructing space and imagery,\nwhich might be described as ‘hallucinatory’. In both oral and visual forms of representation, tribal artists seem\nto interpret verbal or pictorial space as demarcated by an extremely flexible ‘frame’. The boundaries between\nart and non-art become almost invisible. A tribal epic can begin its narration from a trivial everyday event;\ntribal paintings merge with living space as if the two were one and the same. And within the narrative itself, or\nwithin the painted imagery, there is no deliberate attempt to follow a sequence. The episodes retold and the\nimages created take on the apparently chaotic shapes of dreams. In a way, the syntax of language and the\ngrammar of painting are the same, as if literature were painted words and painting were a song of images.",
+          "passage": "",
+          "passage_group": null,
+          "question": "tribal art excludes the depiction of the mundane reality of everyday life and objects.\n4. On the basis of the passage, which one of the following explains the main difference between\nimagination and memory?",
+          "options": {
+            "A": "Imagination needs to be cultivated whereas memory is more intuitive because it is racial and\nsensory.",
+            "B": "Imagination helps humans make sense of space while memory helps them understand time.",
+            "C": "Tribal groups value memory over imagination when it comes to creating art and literature.",
+            "D": "Imagination is a genetic gift to humans whereas memory is central to human consciousness."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOnce a society accepts a secular mode of creativity, within which the creator replaces God, imaginative\ntransactions assume a self-conscious form. The tribal imagination, on the other hand, is still to a large extent\ndreamlike and hallucinatory. It admits fusion between various planes of existence and levels of time in a\nnatural and artless manner. In tribal stories, oceans fly in the sky as birds, mountains swim in water as fish,\nanimals speak as humans and stars grow like plants. Spatial order and temporal sequence do not restrict the\nnarrative. This is not to say that tribal creations have no conventions or rules, but simply that they admit the\nprinciple of association between emotion and the narrative motif. Thus stars, seas, mountains, trees, men and\nanimals can be angry, sad or happy.\nIt might be said that tribal artists work more on the basis of their racial and sensory memory than on the basis\nof a cultivated imagination. In order to understand this distinction, we must understand the difference between\nimagination and memory. In the animate world, consciousness meets two immediate material realities: space\nand time. We put meaning into space by perceiving it in terms of images. The image-making faculty is a\ngenetic gift to the human mind—this power of imagination helps us understand the space that envelops us.\nWith regard to time, we make connections with the help of memory; one remembers being the same person\ntoday as one was yesterday.\nThe tribal mind has a more acute sense of time than the sense of space. Somewhere along the history of\nhuman civilization, tribal communities seem to have realized that domination over territorial space was not\ntheir lot. Thus, they seem to have turned almost obsessively to gaining domination over time. This urge is\nsubstantiated in their ritual of conversing with their dead ancestors: year after year, tribals in many parts of\nIndia worship terracotta or carved-wood objects representing their ancestors, aspiring to enter a trance in\nwhich they can converse with the dead. Over the centuries, an amazingly sharp memory has helped tribals\nclassify material and natural objects into a highly complex system of knowledge. . . .\nOne of the main characteristics of the tribal arts is their distinct manner of constructing space and imagery,\nwhich might be described as ‘hallucinatory’. In both oral and visual forms of representation, tribal artists seem\nto interpret verbal or pictorial space as demarcated by an extremely flexible ‘frame’. The boundaries between\nart and non-art become almost invisible. A tribal epic can begin its narration from a trivial everyday event;\ntribal paintings merge with living space as if the two were one and the same. And within the narrative itself, or\nwithin the painted imagery, there is no deliberate attempt to follow a sequence. The episodes retold and the\nimages created take on the apparently chaotic shapes of dreams. In a way, the syntax of language and the\ngrammar of painting are the same, as if literature were painted words and painting were a song of images.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Non-human living forms exhibit human emotions in tribal narratives because tribal narratives:",
+          "options": {
+            "A": "are rudimentary and underdeveloped.",
+            "B": "have a self-conscious form.",
+            "C": "accommodate existential fluidity.",
+            "D": "abandon all rules and regulations."
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOnce a society accepts a secular mode of creativity, within which the creator replaces God, imaginative\ntransactions assume a self-conscious form. The tribal imagination, on the other hand, is still to a large extent\ndreamlike and hallucinatory. It admits fusion between various planes of existence and levels of time in a\nnatural and artless manner. In tribal stories, oceans fly in the sky as birds, mountains swim in water as fish,\nanimals speak as humans and stars grow like plants. Spatial order and temporal sequence do not restrict the\nnarrative. This is not to say that tribal creations have no conventions or rules, but simply that they admit the\nprinciple of association between emotion and the narrative motif. Thus stars, seas, mountains, trees, men and\nanimals can be angry, sad or happy.\nIt might be said that tribal artists work more on the basis of their racial and sensory memory than on the basis\nof a cultivated imagination. In order to understand this distinction, we must understand the difference between\nimagination and memory. In the animate world, consciousness meets two immediate material realities: space\nand time. We put meaning into space by perceiving it in terms of images. The image-making faculty is a\ngenetic gift to the human mind—this power of imagination helps us understand the space that envelops us.\nWith regard to time, we make connections with the help of memory; one remembers being the same person\ntoday as one was yesterday.\nThe tribal mind has a more acute sense of time than the sense of space. Somewhere along the history of\nhuman civilization, tribal communities seem to have realized that domination over territorial space was not\ntheir lot. Thus, they seem to have turned almost obsessively to gaining domination over time. This urge is\nsubstantiated in their ritual of conversing with their dead ancestors: year after year, tribals in many parts of\nIndia worship terracotta or carved-wood objects representing their ancestors, aspiring to enter a trance in\nwhich they can converse with the dead. Over the centuries, an amazingly sharp memory has helped tribals\nclassify material and natural objects into a highly complex system of knowledge. . . .\nOne of the main characteristics of the tribal arts is their distinct manner of constructing space and imagery,\nwhich might be described as ‘hallucinatory’. In both oral and visual forms of representation, tribal artists seem\nto interpret verbal or pictorial space as demarcated by an extremely flexible ‘frame’. The boundaries between\nart and non-art become almost invisible. A tribal epic can begin its narration from a trivial everyday event;\ntribal paintings merge with living space as if the two were one and the same. And within the narrative itself, or\nwithin the painted imagery, there is no deliberate attempt to follow a sequence. The episodes retold and the\nimages created take on the apparently chaotic shapes of dreams. In a way, the syntax of language and the\ngrammar of painting are the same, as if literature were painted words and painting were a song of images.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following best explains why tribals in India worship their dead ancestors?",
+          "options": {
+            "A": "Tribals show respect to their ancestors through terracotta and carved-wood objects.",
+            "B": "For tribals, conversing with the dead becomes a way of seeking control over time.",
+            "C": "Tribals possess a sophisticated knowledge system that is based on memory.",
+            "D": "Tribals seek territorial domination over the spaces that they inhabit."
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nImagine a world in which artificial intelligence is entrusted with the highest moral responsibilities: sentencing\ncriminals, allocating medical resources, and even mediating conflicts between nations. This might seem like\nthe pinnacle of human progress: an entity unburdened by emotion, prejudice or inconsistency, making ethical\ndecisions with impeccable precision. . . .\nYet beneath this vision of an idealised moral arbiter lies a fundamental question: can a machine understand\nmorality as humans do, or is it confined to a simulacrum of ethical reasoning? AI might replicate human\ndecisions without improving on them, carrying forward the same biases, blind spots and cultural distortions\nfrom human moral judgment. In trying to emulate us, it might only reproduce our limitations, not transcend\nthem. But there is a deeper concern. Moral judgment draws on intuition, historical awareness and context –\nqualities that resist formalisation. Ethics may be so embedded in lived experience that any attempt to encode it\ninto formal structures risks flattening its most essential features. If so, AI would not merely reflect human\nshortcomings; it would strip morality of the very depth that makes ethical reflection possible in the first place.\nStill, many have tried to formalise ethics, by treating certain moral claims not as conclusions, but as starting\npoints. A classic example comes from utilitarianism, which often takes as a foundational axiom the principle\nthat one should act to maximise overall wellbeing. From this, more specific principles can be derived, for\nexample, that it is right to benefit the greatest number, or that actions should be judged by their consequences\nfor total happiness. As computational resources increase, AI becomes increasingly well-suited to the task of\nstarting from fixed ethical assumptions and reasoning through their implications in complex situations. But\nwhat, exactly, does it mean to formalise something like ethics? The question is easier to grasp by looking at\nfields in which formal systems have long played a central role. Physics, for instance, has relied on\nformalisation for centuries. There is no single physical theory that explains everything. Instead, we have many\nphysical theories, each designed to describe specific aspects of the Universe: from the behaviour of quarks and\nelectrons to the motion of galaxies. These theories often diverge. Aristotelian physics, for instance, explained\nfalling objects in terms of natural motion toward Earth’s centre; Newtonian mechanics replaced this with a\nuniversal force of gravity. These explanations are not just different; they are incompatible. Yet both share a\ncommon structure: they begin with basic postulates – assumptions about motion, force or mass – and derive\nincreasingly complex consequences. . . .\nEthical theories have a similar structure. Like physical theories, they attempt to describe a domain – in this\ncase, the moral landscape. They aim to answer questions about which actions are right or wrong, and why.\nThese theories also diverge and, even when they recommend similar actions, such as giving to charity, they\njustify them in different ways. Ethical theories also often begin with a small set of foundational principles or\nclaims, from which they reason about more complex moral problems.\n\nSlot - III",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the options below best summarises the passage?",
+          "options": {
+            "A": "The passage rejects formal methods in principle. It holds that moral judgement cannot be expressed\nin disciplined terms and concludes that AI should not serve in courts, medicine, or diplomacy\nunder any conditions.",
+            "B": "The passage highlights administrative gains from automation. It treats reproducing human moral\njudgement as progress and argues that, as computational resources increase, AI can be responsible\nfor decision-making across varied institutional settings.",
+            "C": "The passage weighs the appeal of an impersonal AI judge against doubts about moral grasp. It\nwarns that codification can erode case-sensitive judgement, allow axiom-led reasoning at scale,\nand use a physics analogy to model structured plurality.",
+            "D": "The passage weighs the appeal of an impersonal AI judge against doubts about moral grasp. It"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nImagine a world in which artificial intelligence is entrusted with the highest moral responsibilities: sentencing\ncriminals, allocating medical resources, and even mediating conflicts between nations. This might seem like\nthe pinnacle of human progress: an entity unburdened by emotion, prejudice or inconsistency, making ethical\ndecisions with impeccable precision. . . .\nYet beneath this vision of an idealised moral arbiter lies a fundamental question: can a machine understand\nmorality as humans do, or is it confined to a simulacrum of ethical reasoning? AI might replicate human\ndecisions without improving on them, carrying forward the same biases, blind spots and cultural distortions\nfrom human moral judgment. In trying to emulate us, it might only reproduce our limitations, not transcend\nthem. But there is a deeper concern. Moral judgment draws on intuition, historical awareness and context –\nqualities that resist formalisation. Ethics may be so embedded in lived experience that any attempt to encode it\ninto formal structures risks flattening its most essential features. If so, AI would not merely reflect human\nshortcomings; it would strip morality of the very depth that makes ethical reflection possible in the first place.\nStill, many have tried to formalise ethics, by treating certain moral claims not as conclusions, but as starting\npoints. A classic example comes from utilitarianism, which often takes as a foundational axiom the principle\nthat one should act to maximise overall wellbeing. From this, more specific principles can be derived, for\nexample, that it is right to benefit the greatest number, or that actions should be judged by their consequences\nfor total happiness. As computational resources increase, AI becomes increasingly well-suited to the task of\nstarting from fixed ethical assumptions and reasoning through their implications in complex situations. But\nwhat, exactly, does it mean to formalise something like ethics? The question is easier to grasp by looking at\nfields in which formal systems have long played a central role. Physics, for instance, has relied on\nformalisation for centuries. There is no single physical theory that explains everything. Instead, we have many\nphysical theories, each designed to describe specific aspects of the Universe: from the behaviour of quarks and\nelectrons to the motion of galaxies. These theories often diverge. Aristotelian physics, for instance, explained\nfalling objects in terms of natural motion toward Earth’s centre; Newtonian mechanics replaced this with a\nuniversal force of gravity. These explanations are not just different; they are incompatible. Yet both share a\ncommon structure: they begin with basic postulates – assumptions about motion, force or mass – and derive\nincreasingly complex consequences. . . .\nEthical theories have a similar structure. Like physical theories, they attempt to describe a domain – in this\ncase, the moral landscape. They aim to answer questions about which actions are right or wrong, and why.\nThese theories also diverge and, even when they recommend similar actions, such as giving to charity, they\njustify them in different ways. Ethical theories also often begin with a small set of foundational principles or\nclaims, from which they reason about more complex moral problems.\n\nSlot - III",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following can reasonably be inferred from the passage EXCEPT:",
+          "options": {
+            "A": "the appeal of an AI judge rests on immunity to bribery, partiality, and fatigue; yet the text\nquestions whether procedural cleanliness amounts to moral understanding without lived context\nand interpretive depth.",
+            "B": "with fixed moral starting points and expanding computational resources, the argument forecasts\nconvergence on one ethical system and treats contextual judgement as unnecessary once formal\nreasoning scales across domains and cultures.",
+            "C": "encoding ethics into fixed structures risks stripping away intuition, history, and context and, if that\noccurs, the depth that enables reflective judgement disappears. So, machines would mirror our\nlimits rather than exceed them.",
+            "D": "by analogy with physics, compact postulates can yield broad predictions across incompatible"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nImagine a world in which artificial intelligence is entrusted with the highest moral responsibilities: sentencing\ncriminals, allocating medical resources, and even mediating conflicts between nations. This might seem like\nthe pinnacle of human progress: an entity unburdened by emotion, prejudice or inconsistency, making ethical\ndecisions with impeccable precision. . . .\nYet beneath this vision of an idealised moral arbiter lies a fundamental question: can a machine understand\nmorality as humans do, or is it confined to a simulacrum of ethical reasoning? AI might replicate human\ndecisions without improving on them, carrying forward the same biases, blind spots and cultural distortions\nfrom human moral judgment. In trying to emulate us, it might only reproduce our limitations, not transcend\nthem. But there is a deeper concern. Moral judgment draws on intuition, historical awareness and context –\nqualities that resist formalisation. Ethics may be so embedded in lived experience that any attempt to encode it\ninto formal structures risks flattening its most essential features. If so, AI would not merely reflect human\nshortcomings; it would strip morality of the very depth that makes ethical reflection possible in the first place.\nStill, many have tried to formalise ethics, by treating certain moral claims not as conclusions, but as starting\npoints. A classic example comes from utilitarianism, which often takes as a foundational axiom the principle\nthat one should act to maximise overall wellbeing. From this, more specific principles can be derived, for\nexample, that it is right to benefit the greatest number, or that actions should be judged by their consequences\nfor total happiness. As computational resources increase, AI becomes increasingly well-suited to the task of\nstarting from fixed ethical assumptions and reasoning through their implications in complex situations. But\nwhat, exactly, does it mean to formalise something like ethics? The question is easier to grasp by looking at\nfields in which formal systems have long played a central role. Physics, for instance, has relied on\nformalisation for centuries. There is no single physical theory that explains everything. Instead, we have many\nphysical theories, each designed to describe specific aspects of the Universe: from the behaviour of quarks and\nelectrons to the motion of galaxies. These theories often diverge. Aristotelian physics, for instance, explained\nfalling objects in terms of natural motion toward Earth’s centre; Newtonian mechanics replaced this with a\nuniversal force of gravity. These explanations are not just different; they are incompatible. Yet both share a\ncommon structure: they begin with basic postulates – assumptions about motion, force or mass – and derive\nincreasingly complex consequences. . . .\nEthical theories have a similar structure. Like physical theories, they attempt to describe a domain – in this\ncase, the moral landscape. They aim to answer questions about which actions are right or wrong, and why.\nThese theories also diverge and, even when they recommend similar actions, such as giving to charity, they\njustify them in different ways. Ethical theories also often begin with a small set of foundational principles or\nclaims, from which they reason about more complex moral problems.\n\nSlot - III",
+          "passage": "",
+          "passage_group": null,
+          "question": "The passage compares ethics to physics, where different theories apply to different aspects of a\ndomain and says AI can reason from fixed starting points in complex cases. Which one of the\nassumptions below must hold for that comparison to guide practice?",
+          "options": {
+            "A": "A single master framework replaces all others after translation into one code, so domain\nboundaries disappear in application.",
+            "B": "Real cases never straddle different areas, so a case always fits exactly one framework without any\noverlap whatsoever.",
+            "C": "Once formalised, all ethical frameworks yield the same recommendation in every case, so selection\namong them is unnecessary.",
+            "D": "There is a principled way to decide which ethical framework applies to which class of cases, so the"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nImagine a world in which artificial intelligence is entrusted with the highest moral responsibilities: sentencing\ncriminals, allocating medical resources, and even mediating conflicts between nations. This might seem like\nthe pinnacle of human progress: an entity unburdened by emotion, prejudice or inconsistency, making ethical\ndecisions with impeccable precision. . . .\nYet beneath this vision of an idealised moral arbiter lies a fundamental question: can a machine understand\nmorality as humans do, or is it confined to a simulacrum of ethical reasoning? AI might replicate human\ndecisions without improving on them, carrying forward the same biases, blind spots and cultural distortions\nfrom human moral judgment. In trying to emulate us, it might only reproduce our limitations, not transcend\nthem. But there is a deeper concern. Moral judgment draws on intuition, historical awareness and context –\nqualities that resist formalisation. Ethics may be so embedded in lived experience that any attempt to encode it\ninto formal structures risks flattening its most essential features. If so, AI would not merely reflect human\nshortcomings; it would strip morality of the very depth that makes ethical reflection possible in the first place.\nStill, many have tried to formalise ethics, by treating certain moral claims not as conclusions, but as starting\npoints. A classic example comes from utilitarianism, which often takes as a foundational axiom the principle\nthat one should act to maximise overall wellbeing. From this, more specific principles can be derived, for\nexample, that it is right to benefit the greatest number, or that actions should be judged by their consequences\nfor total happiness. As computational resources increase, AI becomes increasingly well-suited to the task of\nstarting from fixed ethical assumptions and reasoning through their implications in complex situations. But\nwhat, exactly, does it mean to formalise something like ethics? The question is easier to grasp by looking at\nfields in which formal systems have long played a central role. Physics, for instance, has relied on\nformalisation for centuries. There is no single physical theory that explains everything. Instead, we have many\nphysical theories, each designed to describe specific aspects of the Universe: from the behaviour of quarks and\nelectrons to the motion of galaxies. These theories often diverge. Aristotelian physics, for instance, explained\nfalling objects in terms of natural motion toward Earth’s centre; Newtonian mechanics replaced this with a\nuniversal force of gravity. These explanations are not just different; they are incompatible. Yet both share a\ncommon structure: they begin with basic postulates – assumptions about motion, force or mass – and derive\nincreasingly complex consequences. . . .\nEthical theories have a similar structure. Like physical theories, they attempt to describe a domain – in this\ncase, the moral landscape. They aim to answer questions about which actions are right or wrong, and why.\nThese theories also diverge and, even when they recommend similar actions, such as giving to charity, they\njustify them in different ways. Ethical theories also often begin with a small set of foundational principles or\nclaims, from which they reason about more complex moral problems.\n\nSlot - III",
+          "passage": "",
+          "passage_group": null,
+          "question": "Choose the one option below that comes closest to being the opposite of “utilitarianism”.",
+          "options": {
+            "A": "The authors advocated an absolutist stance, following exception less rules regardless of outcomes\nand evaluating choices by broadest societal benefit.",
+            "B": "The committee adopted a non-egoist framework, ranking policies by their contribution to overall\nsocial welfare and treating self-interest as a derivative concern within institutional evaluation.",
+            "C": "The policy was cast as deontological ethics, selecting the option that delivered the highest total\nbenefit to citizens while presenting duty as a secondary consideration in public decision-making.",
+            "D": "The council followed a prioritarian approach, assigning greater moral weight to improvements for"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOver the course of the twentieth century, humans built, on average, one large dam a day, hulking structures of\nsteel and concrete designed to control flooding, facilitate irrigation, and generate electricity. Dams were also\nlucrative contracts, large-scale employers, and the physical instantiation of a messianic drive to conquer\nterritories and control nature. Some of the results of that drive were charismatic mega-infrastructure—the\nHoover on the Colorado River or the Aswan on the Nile—but most of the tens of thousands of dams that dot\nthe Earth’s landscape have drawn little attention. These are the smaller, though not inconsequential, barriers\nthat today impede the flow of water on nearly two-thirds of the world’s large waterways. Chances are, what\nyour map calls a “lake” is actually a reservoir, and that thin blue line that emerges from it once flowed very\ndifferently.\nDamming a river is always a partisan act. Even when explicit infrastructure goals— irrigation, flood control,\nelectrification—were met, other consequences were significant and often deleterious. Across the world, river\ncontrol displaced millions of people, threatening livelihoods, foodways, and cultures. In the western United\nStates, dams were often an instrument of colonialism, used to dispossess Indigenous people and subsidize\nsettler agriculture. And as dams slowed the flow of water, inhibited the movement of nutrients, and increased\nthe amount of toxic algae and other parasites, they snuffed out entire river ecologies. Declining fish\npopulations are the most evident effect, but dams also threaten a host of other animals—from birds and\nreptiles to fungi and plants—with extinction. Every major dam, then, is also a sacrifice zone, a place where\nlives, livelihoods, and ways of life are eliminated so that new sorts of landscapes can support water-intensive\nagriculture and cities that sprout downstream of new reservoirs.\nSuch sacrifices have been justified as offerings at the temples of modernity. Justified by—and for—whom,\nthough? Over the course of the twentieth century, rarely were the costs and benefits weighed thoughtfully and\ndecided democratically. As Kader Asmal, chair of the landmark 2000 World Commission on Dams,\nconcluded, “There have been precious few, if any, comprehensive, independent analyses as to why dams came\nabout, how dams perform over time, and whether we are getting a fair return from our $2 trillion investment.”\nA quarter century later, Asmal’s words ring ever truer. A litany of dams built in the mid-twentieth century are\napproaching the end of their expected lives, with worrying prospects for their durability. Droughts, magnified\nand multiplied by the effects of climate change, have forced more and more to run below capacity. If ever\nthere were a time to rethink the mania for dams, it would be now.\nThere is some evidence that a combination of opposition, alternative energy sources, and a lack of viable\nprojects has slowed the construction of major dams.\nBut a wave of recent and ongoing construction, from India and China to Ethiopia and Canada, continues to tilt\nthe global balance firmly in favor of water impoundment.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What does the author wish to communicate by referring to the Hoover and Aswan dams in the first\nparagraph?",
+          "options": {
+            "A": "The designers and builders of these mega-structures were highly charismatic individuals.",
+            "B": "The Colorado and Nile rivers may be seen as thin blue lines on a map.",
+            "C": "By building dams like the Hoover and Aswan dams, large-scale employers became messianic\nfigures.",
+            "D": "The drive to control nature is evident not only in mega-infrastructures like the Hoover and Aswan"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOver the course of the twentieth century, humans built, on average, one large dam a day, hulking structures of\nsteel and concrete designed to control flooding, facilitate irrigation, and generate electricity. Dams were also\nlucrative contracts, large-scale employers, and the physical instantiation of a messianic drive to conquer\nterritories and control nature. Some of the results of that drive were charismatic mega-infrastructure—the\nHoover on the Colorado River or the Aswan on the Nile—but most of the tens of thousands of dams that dot\nthe Earth’s landscape have drawn little attention. These are the smaller, though not inconsequential, barriers\nthat today impede the flow of water on nearly two-thirds of the world’s large waterways. Chances are, what\nyour map calls a “lake” is actually a reservoir, and that thin blue line that emerges from it once flowed very\ndifferently.\nDamming a river is always a partisan act. Even when explicit infrastructure goals— irrigation, flood control,\nelectrification—were met, other consequences were significant and often deleterious. Across the world, river\ncontrol displaced millions of people, threatening livelihoods, foodways, and cultures. In the western United\nStates, dams were often an instrument of colonialism, used to dispossess Indigenous people and subsidize\nsettler agriculture. And as dams slowed the flow of water, inhibited the movement of nutrients, and increased\nthe amount of toxic algae and other parasites, they snuffed out entire river ecologies. Declining fish\npopulations are the most evident effect, but dams also threaten a host of other animals—from birds and\nreptiles to fungi and plants—with extinction. Every major dam, then, is also a sacrifice zone, a place where\nlives, livelihoods, and ways of life are eliminated so that new sorts of landscapes can support water-intensive\nagriculture and cities that sprout downstream of new reservoirs.\nSuch sacrifices have been justified as offerings at the temples of modernity. Justified by—and for—whom,\nthough? Over the course of the twentieth century, rarely were the costs and benefits weighed thoughtfully and\ndecided democratically. As Kader Asmal, chair of the landmark 2000 World Commission on Dams,\nconcluded, “There have been precious few, if any, comprehensive, independent analyses as to why dams came\nabout, how dams perform over time, and whether we are getting a fair return from our $2 trillion investment.”\nA quarter century later, Asmal’s words ring ever truer. A litany of dams built in the mid-twentieth century are\napproaching the end of their expected lives, with worrying prospects for their durability. Droughts, magnified\nand multiplied by the effects of climate change, have forced more and more to run below capacity. If ever\nthere were a time to rethink the mania for dams, it would be now.\nThere is some evidence that a combination of opposition, alternative energy sources, and a lack of viable\nprojects has slowed the construction of major dams.\nBut a wave of recent and ongoing construction, from India and China to Ethiopia and Canada, continues to tilt\nthe global balance firmly in favor of water impoundment.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The word “instantiation” is used in the first paragraph. Which one of the following pairs of terms\nwould be the best substitute for it in the context of its usage in the paragraph?",
+          "options": {
+            "A": "Exemplification and manifestation",
+            "B": "Durability and timeliness",
+            "C": "Development and construction",
+            "D": "Concreteness and viability"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOver the course of the twentieth century, humans built, on average, one large dam a day, hulking structures of\nsteel and concrete designed to control flooding, facilitate irrigation, and generate electricity. Dams were also\nlucrative contracts, large-scale employers, and the physical instantiation of a messianic drive to conquer\nterritories and control nature. Some of the results of that drive were charismatic mega-infrastructure—the\nHoover on the Colorado River or the Aswan on the Nile—but most of the tens of thousands of dams that dot\nthe Earth’s landscape have drawn little attention. These are the smaller, though not inconsequential, barriers\nthat today impede the flow of water on nearly two-thirds of the world’s large waterways. Chances are, what\nyour map calls a “lake” is actually a reservoir, and that thin blue line that emerges from it once flowed very\ndifferently.\nDamming a river is always a partisan act. Even when explicit infrastructure goals— irrigation, flood control,\nelectrification—were met, other consequences were significant and often deleterious. Across the world, river\ncontrol displaced millions of people, threatening livelihoods, foodways, and cultures. In the western United\nStates, dams were often an instrument of colonialism, used to dispossess Indigenous people and subsidize\nsettler agriculture. And as dams slowed the flow of water, inhibited the movement of nutrients, and increased\nthe amount of toxic algae and other parasites, they snuffed out entire river ecologies. Declining fish\npopulations are the most evident effect, but dams also threaten a host of other animals—from birds and\nreptiles to fungi and plants—with extinction. Every major dam, then, is also a sacrifice zone, a place where\nlives, livelihoods, and ways of life are eliminated so that new sorts of landscapes can support water-intensive\nagriculture and cities that sprout downstream of new reservoirs.\nSuch sacrifices have been justified as offerings at the temples of modernity. Justified by—and for—whom,\nthough? Over the course of the twentieth century, rarely were the costs and benefits weighed thoughtfully and\ndecided democratically. As Kader Asmal, chair of the landmark 2000 World Commission on Dams,\nconcluded, “There have been precious few, if any, comprehensive, independent analyses as to why dams came\nabout, how dams perform over time, and whether we are getting a fair return from our $2 trillion investment.”\nA quarter century later, Asmal’s words ring ever truer. A litany of dams built in the mid-twentieth century are\napproaching the end of their expected lives, with worrying prospects for their durability. Droughts, magnified\nand multiplied by the effects of climate change, have forced more and more to run below capacity. If ever\nthere were a time to rethink the mania for dams, it would be now.\nThere is some evidence that a combination of opposition, alternative energy sources, and a lack of viable\nprojects has slowed the construction of major dams.\nBut a wave of recent and ongoing construction, from India and China to Ethiopia and Canada, continues to tilt\nthe global balance firmly in favor of water impoundment.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following statements may be considered valid inferences from the passage EXCEPT that:",
+          "options": {
+            "A": "smaller, though not inconsequential, dams are safer than large dam projects.",
+            "B": "dam-building has proved to be an extremely costly enterprise that may not be justifiable.",
+            "C": "processes of colonisation have used dam-building to make people vacate their territories.",
+            "D": "despite increasing evidence of opposition to dams as well as alternatives to them, they continue to"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nOver the course of the twentieth century, humans built, on average, one large dam a day, hulking structures of\nsteel and concrete designed to control flooding, facilitate irrigation, and generate electricity. Dams were also\nlucrative contracts, large-scale employers, and the physical instantiation of a messianic drive to conquer\nterritories and control nature. Some of the results of that drive were charismatic mega-infrastructure—the\nHoover on the Colorado River or the Aswan on the Nile—but most of the tens of thousands of dams that dot\nthe Earth’s landscape have drawn little attention. These are the smaller, though not inconsequential, barriers\nthat today impede the flow of water on nearly two-thirds of the world’s large waterways. Chances are, what\nyour map calls a “lake” is actually a reservoir, and that thin blue line that emerges from it once flowed very\ndifferently.\nDamming a river is always a partisan act. Even when explicit infrastructure goals— irrigation, flood control,\nelectrification—were met, other consequences were significant and often deleterious. Across the world, river\ncontrol displaced millions of people, threatening livelihoods, foodways, and cultures. In the western United\nStates, dams were often an instrument of colonialism, used to dispossess Indigenous people and subsidize\nsettler agriculture. And as dams slowed the flow of water, inhibited the movement of nutrients, and increased\nthe amount of toxic algae and other parasites, they snuffed out entire river ecologies. Declining fish\npopulations are the most evident effect, but dams also threaten a host of other animals—from birds and\nreptiles to fungi and plants—with extinction. Every major dam, then, is also a sacrifice zone, a place where\nlives, livelihoods, and ways of life are eliminated so that new sorts of landscapes can support water-intensive\nagriculture and cities that sprout downstream of new reservoirs.\nSuch sacrifices have been justified as offerings at the temples of modernity. Justified by—and for—whom,\nthough? Over the course of the twentieth century, rarely were the costs and benefits weighed thoughtfully and\ndecided democratically. As Kader Asmal, chair of the landmark 2000 World Commission on Dams,\nconcluded, “There have been precious few, if any, comprehensive, independent analyses as to why dams came\nabout, how dams perform over time, and whether we are getting a fair return from our $2 trillion investment.”\nA quarter century later, Asmal’s words ring ever truer. A litany of dams built in the mid-twentieth century are\napproaching the end of their expected lives, with worrying prospects for their durability. Droughts, magnified\nand multiplied by the effects of climate change, have forced more and more to run below capacity. If ever\nthere were a time to rethink the mania for dams, it would be now.\nThere is some evidence that a combination of opposition, alternative energy sources, and a lack of viable\nprojects has slowed the construction of major dams.\nBut a wave of recent and ongoing construction, from India and China to Ethiopia and Canada, continues to tilt\nthe global balance firmly in favor of water impoundment.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following sets of terms is closest to mapping the key arguments of the passage?",
+          "options": {
+            "A": "Lucrative contracts – Sacrifice zone – Expected lives – Global balance",
+            "B": "Physical instantiation – Partisan act – Decided democratically – Alternative energy",
+            "C": "Mega-infrastructure – Sacrifice zone – Worshipping modernity – Water impoundment",
+            "D": "Partisan act – Threatened livelihoods – Toxic algae – Quarter century"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1, 2, 3, and 4) given below, when properly\nsequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences\nand key in the sequence of the four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The effigy of a candidate establishes a personal link between him and the voters; the candidate\ndoes not only offer a programme for judgement, he suggests a physical climate, a set of daily\nchoices expressed in a morphology, a way of dressing, a posture.\n2. Some candidates for Parliament adorn their electoral prospectus with a portrait; this presupposes\nthat photography has a power to convert which must be analysed.\n3. Inasmuch as photography is an ellipse of language and a condensation of an ‘ineffable’ social\nwhole, it constitutes an antiintellectual weapon and tends to spirit away ‘politics’ (that is to say a\nbody of problems and solutions) to the advantage of a ‘manner of being’, a socio-moral status.\n4. Photography tends to restore the paternalistic nature of elections, whose elitist essence has been\ndisrupted by proportional representation and the rule of parties (the Right seems to use it more than\nthe Left).",
+          "options": {
+            "A": "The effigy of a candidate establishes a personal link between him and the voters; the candidate\ndoes not only offer a programme for judgement, he suggests a physical climate, a set of daily\nchoices expressed in a morphology, a way of dressing, a posture.",
+            "B": "Some candidates for Parliament adorn their electoral prospectus with a portrait; this presupposes\nthat photography has a power to convert which must be analysed.",
+            "C": "Inasmuch as photography is an ellipse of language and a condensation of an ‘ineffable’ social\nwhole, it constitutes an antiintellectual weapon and tends to spirit away ‘politics’ (that is to say a\nbody of problems and solutions) to the advantage of a ‘manner of being’, a socio-moral status.",
+            "D": "Photography tends to restore the paternalistic nature of elections, whose elitist essence has been"
+          },
+          "correct_answer": "2143",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four summaries. Choose the\noption that best captures the essence of the passage.",
+          "passage": "The return to the tailor is the juxtaposition of three key things for the mindful Indian shopper. The\nfirst is the conscious shift away from the homogeneity of fast fashion, the idea of a hundred other\npeople owning exactly the same Zara trench coat or H&M pleated skirt. The second is an actual\nunderstanding of the waste behind the fast fashion market, and wanting not to contribute to that\nanymore. The last is the shift toward customisation and fit—the idea of having imaginations brought\nto life and to have them fit exactly; without paying exorbitant rates for that bespoke tailoring. For the\nindividual with a keen fashion sense and a genuine desire to move away from the waste and\nuniformity of fast fashion without paying the premium for it that indie brands would invariably\ndemand, the tailor is the perfect crossover.",
+          "passage_group": 5,
+          "question": "Slot - III",
+          "options": {
+            "A": "The mindful Indian shopper is shifting away from convenience and uniformity of clothing, and\nwaste in fashion, to customisation and less exorbitantly priced clothing.",
+            "B": "The mindful Indian shoppers are returning to the tailor with a genuine desire to wear clothes which\nare less expensive, fit them well and are yet fashionable.",
+            "C": "All Indian shoppers are opting for customisation and a shift away from homogeneity over\nexpensive clothing brands like Zara and H&M.",
+            "D": "In the Indian retail market, people believe that expensive branded clothes are wasteful and,"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1, 2, 3, and 4) given below, when properly\nsequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences\nand key in the sequence of the four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. When I ask the distinguished LGBTQ activist and writer Cherie Moraga whether she uses Latinx\nto refer to herself, she tells me, ‘I worked too hard for the “a” in Latina to give it up! I refer to\nmyself as Xicana.’\n2. Of our accumulated ethnic population, only a third use Hispanic to identify themselves, a mere 14\npercent use Latino, and less than 2 percent recognize Latinx.\n3. They have done this, although gender in languages is grammatical, not sociological or sexual, and\nfound in linguistic families throughout the world, from French to Russian to Japanese.\n4. More recently, activists seeking to render our name gender neutral, out of respect for our LGBTQ\nmembers, have devised yet another name for us: Latinx.",
+          "options": {
+            "A": "When I ask the distinguished LGBTQ activist and writer Cherie Moraga whether she uses Latinx\nto refer to herself, she tells me, ‘I worked too hard for the “a” in Latina to give it up! I refer to\nmyself as Xicana.’",
+            "B": "Of our accumulated ethnic population, only a third use Hispanic to identify themselves, a mere 14\npercent use Latino, and less than 2 percent recognize Latinx.",
+            "C": "They have done this, although gender in languages is grammatical, not sociological or sexual, and\nfound in linguistic families throughout the world, from French to Russian to Japanese.",
+            "D": "More recently, activists seeking to render our name gender neutral, out of respect for our LGBTQ"
+          },
+          "correct_answer": "4312",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled sentences (labelled 1, 2, 3, 4, and 5), related to a topic,\nare given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence out\nand key in the number of that sentence as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. About half of all the oxygen we breathe is made near the surface of the ocean by phytoplankton\nthat photosynthesize just like land-dwelling plants.\n2. A team of scientists that includes Boston University experts has discovered they also produce\noxygen on the seafloor.\n3. The research team used deep-sea chambers that land on the seafloor and enclose the seawater,\nsediment, polymetallic nodules, and living organisms.\n4. The discovery is a surprise considering oxygen is typically created by plants and organisms with\nhelp from the sun—not by rocks on the ocean floor.\n5. The deep-sea rocks, called polymetallic nodules, don’t only host a surprising number of sea\ncritters.\n\nSlot - III",
+          "options": {
+            "A": "About half of all the oxygen we breathe is made near the surface of the ocean by phytoplankton\nthat photosynthesize just like land-dwelling plants.",
+            "B": "A team of scientists that includes Boston University experts has discovered they also produce\noxygen on the seafloor.",
+            "C": "The research team used deep-sea chambers that land on the seafloor and enclose the seawater,\nsediment, polymetallic nodules, and living organisms.",
+            "D": "The discovery is a surprise considering oxygen is typically created by plants and organisms with"
+          },
+          "correct_answer": "3",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The given sentence is missing in the paragraph below. Decide where\nit best fits among the options 1, 2, 3, or 4 indicated in the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: Productivity gains, once expected to feed through to broader living standards, now\nprimarily serve to enhance returns to wealth.\nParagraph: Economists now argue that inequality is no longer a by-product of growth but a condition\nof it. ____ (1) ____. Unlike wages, wealth reflects not just income but also access to assets,\nfavourable institutional conditions – such as low interest rates – and public policies like low taxes and\nhousing shortages. ____ (2) ____. In other words, wealth depends on political choices in ways that\nincome currently does not. It’s not just the inequality itself that is the issue but the erosion of\nmechanisms that once constrained it. ____ (3) ____. Wealth and income inequality are linked, but\nwhere wages have stagnated and collective bargaining has weakened, capital income – derived from\nprofits, rents and interest – has been boosted by design. ____ (4) ____.",
+          "options": {
+            "A": "Option 4",
+            "B": "Option 2",
+            "C": "Option 1",
+            "D": "Option 3"
+          },
+          "correct_answer": "60",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The given sentence is missing in the paragraph below. Decide where\nit best fits among the options 1, 2, 3, or 4 indicated in the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: In each of the affected males, the genetic defect was located to the X chromosome in the\nregion of p11-12.\nParagraph: The first suggested evidence of a human genetic mutation associated with aggressive\nbehaviour came from a study in 1993. _____(1)____. Genetic and metabolic studies were conducted\non a large Dutch family in which several of the males has a syndrome of borderline mental retardation\nand abnormal behaviour. _____(2)____. The undesirable behaviour included impulsive aggression,\narson and exhibitionism. _____(3)____. A point mutation was identified in the eighth exon of the\nmonoamine oxidase A (MAOA) structural gene which changes glutamine to a termination codon.\n_____(4)____.",
+          "options": {
+            "A": "Option 3",
+            "B": "Option 4",
+            "C": "Option 1",
+            "D": "Option 2"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nIn 1982, a raging controversy broke out over a forest act drafted by the Government of India. This act sought\nto strengthen the already extensive powers enjoyed by the forest bureaucracy in controlling the extraction,\ndisposal and sale of forest produce. It also gave forest officials greater powers to strictly regulate the entry of\nany person into reserved forest areas. While forest officials justified the act on the grounds that it was\nnecessary to stop the continuing deforestation, it was bitterly opposed by representatives of grassroots\norganisations, who argued that it was a major violation of the rights of peasants and tribals living in and\naround forest areas. . . .\nThe debate over the draft forest act fuelled a larger controversy over the orientation of state forest policy. It\nwas pointed out, for example, that the draft act was closely modelled on its predecessor, the Forest Act of\n1878. The earlier Act rested on a usurpation of rights of ownership by the colonial state which had little\nprecedent in precolonial history. It was further argued that the system of forestry introduced by the British—\nand continued, with little modification, after 1947 —emphasised revenue generation and commercial\nexploitation, while its policing orientation excluded villagers who had the most longstanding claim on forest\nresources. Critics called for a complete overhaul of forest administration, pressing the government to\nformulate policy and legislation more appropriate to present needs. . . .\nThat debate is not over yet. The draft act was shelved, though it has not as yet been formally withdrawn.\nMeanwhile, the 1878 Act (as modified by an amendment in 1927) continues to be in operation. In response to\nits critics, the government has made some important changes in forest policy, e.g., no longer treating forests as\na source of revenue, and stopping ecologically hazardous practices such as the clearfelling of natural forests.\n\nSlot - III\nAt the same time, it has shown little inclination to meet the major demand of the critics of forest policy—\nnamely, abandoning the principle of state monopoly over forest land by handing over areas of degraded\nforests to individuals and communities for afforestation.\n. . . [The] 1878 Forest Act itself was passed only after a bitter and prolonged debate within the colonial\nbureaucracy, in which protagonists put forward arguments strikingly similar to those being advanced today.\nAs is well known, the Indian Forest Department owes its origin to the requirements of railway companies. The\nearly years of the expansion of the railway network, c. 1853 onwards, led to tremendous deforestation in\npeninsular India owing to the railway’s requirements of fuelwood and construction timber. Huge quantities of\ndurable timbers were also needed for use as sleepers across the newly laid tracks. Inexperienced in forestry,\nthe British called in German experts to commence systematic forest management. The Indian Forest\nDepartment was started in 1864, with Dietrich Brandis, formerly a Lecturer at Bonn, as the first Inspector\nGeneral of Forests. The new department needed legislative backing to function effectively, and in the\nfollowing year, 1865, the first forest act was passed. . . .",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following best encapsulates the reason for the “raging controversy” developing into\na “larger controversy”?",
+          "options": {
+            "A": "The 1982 draft forest act further enabled the commercial exploitation of forest resources by the\nforest bureaucracy.",
+            "B": "The 1982 draft forest act violated the rights of tribals and peasants who lived in and around forest\nareas.",
+            "C": "The 1982 draft forest act was unjustifiably defended by forest officials in the face of bitter\nopposition by grassroots organisations.",
+            "D": "The 1982 draft forest act replicated colonial measures of control and regulation of forest resources."
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nIn 1982, a raging controversy broke out over a forest act drafted by the Government of India. This act sought\nto strengthen the already extensive powers enjoyed by the forest bureaucracy in controlling the extraction,\ndisposal and sale of forest produce. It also gave forest officials greater powers to strictly regulate the entry of\nany person into reserved forest areas. While forest officials justified the act on the grounds that it was\nnecessary to stop the continuing deforestation, it was bitterly opposed by representatives of grassroots\norganisations, who argued that it was a major violation of the rights of peasants and tribals living in and\naround forest areas. . . .\nThe debate over the draft forest act fuelled a larger controversy over the orientation of state forest policy. It\nwas pointed out, for example, that the draft act was closely modelled on its predecessor, the Forest Act of\n1878. The earlier Act rested on a usurpation of rights of ownership by the colonial state which had little\nprecedent in precolonial history. It was further argued that the system of forestry introduced by the British—\nand continued, with little modification, after 1947 —emphasised revenue generation and commercial\nexploitation, while its policing orientation excluded villagers who had the most longstanding claim on forest\nresources. Critics called for a complete overhaul of forest administration, pressing the government to\nformulate policy and legislation more appropriate to present needs. . . .\nThat debate is not over yet. The draft act was shelved, though it has not as yet been formally withdrawn.\nMeanwhile, the 1878 Act (as modified by an amendment in 1927) continues to be in operation. In response to\nits critics, the government has made some important changes in forest policy, e.g., no longer treating forests as\na source of revenue, and stopping ecologically hazardous practices such as the clearfelling of natural forests.\n\nSlot - III\nAt the same time, it has shown little inclination to meet the major demand of the critics of forest policy—\nnamely, abandoning the principle of state monopoly over forest land by handing over areas of degraded\nforests to individuals and communities for afforestation.\n. . . [The] 1878 Forest Act itself was passed only after a bitter and prolonged debate within the colonial\nbureaucracy, in which protagonists put forward arguments strikingly similar to those being advanced today.\nAs is well known, the Indian Forest Department owes its origin to the requirements of railway companies. The\nearly years of the expansion of the railway network, c. 1853 onwards, led to tremendous deforestation in\npeninsular India owing to the railway’s requirements of fuelwood and construction timber. Huge quantities of\ndurable timbers were also needed for use as sleepers across the newly laid tracks. Inexperienced in forestry,\nthe British called in German experts to commence systematic forest management. The Indian Forest\nDepartment was started in 1864, with Dietrich Brandis, formerly a Lecturer at Bonn, as the first Inspector\nGeneral of Forests. The new department needed legislative backing to function effectively, and in the\nfollowing year, 1865, the first forest act was passed. . . .",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following, if true, would weaken the narrative presented in the passage EXCEPT that:",
+          "options": {
+            "A": "before British rule, peasants and tribal groups were denied access to forest resources by Indian\nrulers and their administrations.",
+            "B": "the timber requirement for railway works in nineteenth century India was met through import from\nChina, in exchange for spices.",
+            "C": "certain tribal groups in India are responsible for climate change because their sustenance has\nhistorically depended on mass scale deforestation.",
+            "D": "nineteenth century German forestry experts were infamous for violating the rights of indigenous"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nIn 1982, a raging controversy broke out over a forest act drafted by the Government of India. This act sought\nto strengthen the already extensive powers enjoyed by the forest bureaucracy in controlling the extraction,\ndisposal and sale of forest produce. It also gave forest officials greater powers to strictly regulate the entry of\nany person into reserved forest areas. While forest officials justified the act on the grounds that it was\nnecessary to stop the continuing deforestation, it was bitterly opposed by representatives of grassroots\norganisations, who argued that it was a major violation of the rights of peasants and tribals living in and\naround forest areas. . . .\nThe debate over the draft forest act fuelled a larger controversy over the orientation of state forest policy. It\nwas pointed out, for example, that the draft act was closely modelled on its predecessor, the Forest Act of\n1878. The earlier Act rested on a usurpation of rights of ownership by the colonial state which had little\nprecedent in precolonial history. It was further argued that the system of forestry introduced by the British—\nand continued, with little modification, after 1947 —emphasised revenue generation and commercial\nexploitation, while its policing orientation excluded villagers who had the most longstanding claim on forest\nresources. Critics called for a complete overhaul of forest administration, pressing the government to\nformulate policy and legislation more appropriate to present needs. . . .\nThat debate is not over yet. The draft act was shelved, though it has not as yet been formally withdrawn.\nMeanwhile, the 1878 Act (as modified by an amendment in 1927) continues to be in operation. In response to\nits critics, the government has made some important changes in forest policy, e.g., no longer treating forests as\na source of revenue, and stopping ecologically hazardous practices such as the clearfelling of natural forests.\n\nSlot - III\nAt the same time, it has shown little inclination to meet the major demand of the critics of forest policy—\nnamely, abandoning the principle of state monopoly over forest land by handing over areas of degraded\nforests to individuals and communities for afforestation.\n. . . [The] 1878 Forest Act itself was passed only after a bitter and prolonged debate within the colonial\nbureaucracy, in which protagonists put forward arguments strikingly similar to those being advanced today.\nAs is well known, the Indian Forest Department owes its origin to the requirements of railway companies. The\nearly years of the expansion of the railway network, c. 1853 onwards, led to tremendous deforestation in\npeninsular India owing to the railway’s requirements of fuelwood and construction timber. Huge quantities of\ndurable timbers were also needed for use as sleepers across the newly laid tracks. Inexperienced in forestry,\nthe British called in German experts to commence systematic forest management. The Indian Forest\nDepartment was started in 1864, with Dietrich Brandis, formerly a Lecturer at Bonn, as the first Inspector\nGeneral of Forests. The new department needed legislative backing to function effectively, and in the\nfollowing year, 1865, the first forest act was passed. . . .",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, which one of the following is not common to the 1878 Forest Act and the\n1982 draft forest act?",
+          "options": {
+            "A": "Both resulted in large scale deforestation.",
+            "B": "Both sought to establish the state’s monopoly over forest resources.",
+            "C": "Both reflect a colonial mindset.",
+            "D": "Both sparked controversy and debate among the various stakeholders."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by four questions. Based on the\npassage, choose the best answer for each question.\nIn 1982, a raging controversy broke out over a forest act drafted by the Government of India. This act sought\nto strengthen the already extensive powers enjoyed by the forest bureaucracy in controlling the extraction,\ndisposal and sale of forest produce. It also gave forest officials greater powers to strictly regulate the entry of\nany person into reserved forest areas. While forest officials justified the act on the grounds that it was\nnecessary to stop the continuing deforestation, it was bitterly opposed by representatives of grassroots\norganisations, who argued that it was a major violation of the rights of peasants and tribals living in and\naround forest areas. . . .\nThe debate over the draft forest act fuelled a larger controversy over the orientation of state forest policy. It\nwas pointed out, for example, that the draft act was closely modelled on its predecessor, the Forest Act of\n1878. The earlier Act rested on a usurpation of rights of ownership by the colonial state which had little\nprecedent in precolonial history. It was further argued that the system of forestry introduced by the British—\nand continued, with little modification, after 1947 —emphasised revenue generation and commercial\nexploitation, while its policing orientation excluded villagers who had the most longstanding claim on forest\nresources. Critics called for a complete overhaul of forest administration, pressing the government to\nformulate policy and legislation more appropriate to present needs. . . .\nThat debate is not over yet. The draft act was shelved, though it has not as yet been formally withdrawn.\nMeanwhile, the 1878 Act (as modified by an amendment in 1927) continues to be in operation. In response to\nits critics, the government has made some important changes in forest policy, e.g., no longer treating forests as\na source of revenue, and stopping ecologically hazardous practices such as the clearfelling of natural forests.\n\nSlot - III\nAt the same time, it has shown little inclination to meet the major demand of the critics of forest policy—\nnamely, abandoning the principle of state monopoly over forest land by handing over areas of degraded\nforests to individuals and communities for afforestation.\n. . . [The] 1878 Forest Act itself was passed only after a bitter and prolonged debate within the colonial\nbureaucracy, in which protagonists put forward arguments strikingly similar to those being advanced today.\nAs is well known, the Indian Forest Department owes its origin to the requirements of railway companies. The\nearly years of the expansion of the railway network, c. 1853 onwards, led to tremendous deforestation in\npeninsular India owing to the railway’s requirements of fuelwood and construction timber. Huge quantities of\ndurable timbers were also needed for use as sleepers across the newly laid tracks. Inexperienced in forestry,\nthe British called in German experts to commence systematic forest management. The Indian Forest\nDepartment was started in 1864, with Dietrich Brandis, formerly a Lecturer at Bonn, as the first Inspector\nGeneral of Forests. The new department needed legislative backing to function effectively, and in the\nfollowing year, 1865, the first forest act was passed. . . .",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, which one of the following reforms is yet to happen in India’s forest\npolicies?",
+          "options": {
+            "A": "Involving local people in cultivating forests.",
+            "B": "A ban on deforestation.",
+            "C": "Recognising the state’s claim to forest land use.",
+            "D": "Recognising the significance of forests to ecology."
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2025-slot3-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAnu, Bijay, Chetan, Deepak, Eshan, and Faruq are six friends. Each of them uses a mobile number from\nexactly one of the two mobile operators - Xitel and Yocel. During the last month, the six friends made several\ncalls to each other. Each call was made by one of these six friends to another. The table below summarizes the\nnumber of minutes of calls that each of the six made to (outgoing minutes) and received from (incoming\nminutes) these friends, grouped by the operators. Some of the entries are missing.\nOutgoing minutes to Incoming minutes from\nFriend Operator\nOperator Xitel Operator Yocel Operator Xitel Operator Yocel\nAnu Xitel 100 50 225\nBijay Xitel 200 125\nChetan Yocel 50 175 250 150\nDeepak Yocel 100 150 275 100\nEshan Yocel 100 100 375\nFaruq Yocel 0 100 150\nIt is known that the duration of calls from Faruq to Eshan was 200 minutes. Also, there were no calls from:\ni. Bijay to Eshan,\nii. Chetan to Anu and Chetan to Deepak,\niii. Deepak to Bijay and Deepak to Faruq,\niv. Eshan to Chetan and Eshan to Deepak.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the duration of calls (in minutes) from Bijay to Anu?",
+          "options": {},
+          "correct_answer": "50",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAnu, Bijay, Chetan, Deepak, Eshan, and Faruq are six friends. Each of them uses a mobile number from\nexactly one of the two mobile operators - Xitel and Yocel. During the last month, the six friends made several\ncalls to each other. Each call was made by one of these six friends to another. The table below summarizes the\nnumber of minutes of calls that each of the six made to (outgoing minutes) and received from (incoming\nminutes) these friends, grouped by the operators. Some of the entries are missing.\nOutgoing minutes to Incoming minutes from\nFriend Operator\nOperator Xitel Operator Yocel Operator Xitel Operator Yocel\nAnu Xitel 100 50 225\nBijay Xitel 200 125\nChetan Yocel 50 175 250 150\nDeepak Yocel 100 150 275 100\nEshan Yocel 100 100 375\nFaruq Yocel 0 100 150\nIt is known that the duration of calls from Faruq to Eshan was 200 minutes. Also, there were no calls from:\ni. Bijay to Eshan,\nii. Chetan to Anu and Chetan to Deepak,\niii. Deepak to Bijay and Deepak to Faruq,\niv. Eshan to Chetan and Eshan to Deepak.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the total duration of calls (in minutes) made by Anu to friends having mobile numbers from\nOperator Yocel?",
+          "options": {},
+          "correct_answer": "525",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAnu, Bijay, Chetan, Deepak, Eshan, and Faruq are six friends. Each of them uses a mobile number from\nexactly one of the two mobile operators - Xitel and Yocel. During the last month, the six friends made several\ncalls to each other. Each call was made by one of these six friends to another. The table below summarizes the\nnumber of minutes of calls that each of the six made to (outgoing minutes) and received from (incoming\nminutes) these friends, grouped by the operators. Some of the entries are missing.\nOutgoing minutes to Incoming minutes from\nFriend Operator\nOperator Xitel Operator Yocel Operator Xitel Operator Yocel\nAnu Xitel 100 50 225\nBijay Xitel 200 125\nChetan Yocel 50 175 250 150\nDeepak Yocel 100 150 275 100\nEshan Yocel 100 100 375\nFaruq Yocel 0 100 150\nIt is known that the duration of calls from Faruq to Eshan was 200 minutes. Also, there were no calls from:\ni. Bijay to Eshan,\nii. Chetan to Anu and Chetan to Deepak,\niii. Deepak to Bijay and Deepak to Faruq,\niv. Eshan to Chetan and Eshan to Deepak.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the total duration of calls (in minutes) made by Faruq to friends having mobile numbers\nfrom Operator Yocel?",
+          "options": {},
+          "correct_answer": "350",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nAnu, Bijay, Chetan, Deepak, Eshan, and Faruq are six friends. Each of them uses a mobile number from\nexactly one of the two mobile operators - Xitel and Yocel. During the last month, the six friends made several\ncalls to each other. Each call was made by one of these six friends to another. The table below summarizes the\nnumber of minutes of calls that each of the six made to (outgoing minutes) and received from (incoming\nminutes) these friends, grouped by the operators. Some of the entries are missing.\nOutgoing minutes to Incoming minutes from\nFriend Operator\nOperator Xitel Operator Yocel Operator Xitel Operator Yocel\nAnu Xitel 100 50 225\nBijay Xitel 200 125\nChetan Yocel 50 175 250 150\nDeepak Yocel 100 150 275 100\nEshan Yocel 100 100 375\nFaruq Yocel 0 100 150\nIt is known that the duration of calls from Faruq to Eshan was 200 minutes. Also, there were no calls from:\ni. Bijay to Eshan,\nii. Chetan to Anu and Chetan to Deepak,\niii. Deepak to Bijay and Deepak to Faruq,\niv. Eshan to Chetan and Eshan to Deepak.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the duration of calls (in minutes) from Deepak to Chetan?",
+          "options": {
+            "A": "100",
+            "B": "0",
+            "C": "125",
+            "D": "50"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAurevia, Brelosia, Cyrenia and Zerathania are four countries with their currencies being Aurels, Brins,\nCrowns, and Zentars, respectively. The currencies have different exchange values. Crown’s currency\nexchange rate with Zentars = 0.5, i.e., 1 Crown is worth 0.5 Zentars.\nThree travelers, Jano, Kira, and Lian set out from Zerathania visiting exactly two of the countries. Each\ncountry is visited by exactly two travelers. Each traveler has a unique Flight Cost, which represents the total\ncost of airfare in traveling to both the countries and back to Zerathania. The Flight Cost of Jano was 4000\nZentars, while that of the other two travelers were 5000 and 6000 Zentars, not necessarily in that order.\nWhen visiting a country, a traveler spent either 1000, 2000 or 3000 in the country’s local currency. Each\ntraveler had different spends (in the country’s local currency) in the two countries he/she visited. Across all\nthe visits, there were exactly two spends of 1000 and exactly one spend of 3000 (in the country’s local\ncurrency).\nThe total “Travel Cost” for a traveler is the sum of his/her Flight Cost and the money spent in the countries\nvisited.\nThe citizens of the four countries with knowledge of these travels made a few observations, with spends\nmeasured in their respective local currencies:\ni. Aurevia citizen: Jano and Kira visited our country, and their Travel Costs were 3500 and 8000,\nrespectively.\nii. Brelosia citizen: Kira and Lian visited our country, spending 2000 and 3000, respectively. Kira’s Travel\nCost was 4000.\niii. Cyrenia citizen: Lian visited our country and her Travel Cost was 36000.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the sum of Travel Costs for all travelers in Zentars?",
+          "options": {},
+          "correct_answer": "41000",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAurevia, Brelosia, Cyrenia and Zerathania are four countries with their currencies being Aurels, Brins,\nCrowns, and Zentars, respectively. The currencies have different exchange values. Crown’s currency\nexchange rate with Zentars = 0.5, i.e., 1 Crown is worth 0.5 Zentars.\nThree travelers, Jano, Kira, and Lian set out from Zerathania visiting exactly two of the countries. Each\ncountry is visited by exactly two travelers. Each traveler has a unique Flight Cost, which represents the total\ncost of airfare in traveling to both the countries and back to Zerathania. The Flight Cost of Jano was 4000\nZentars, while that of the other two travelers were 5000 and 6000 Zentars, not necessarily in that order.\nWhen visiting a country, a traveler spent either 1000, 2000 or 3000 in the country’s local currency. Each\ntraveler had different spends (in the country’s local currency) in the two countries he/she visited. Across all\nthe visits, there were exactly two spends of 1000 and exactly one spend of 3000 (in the country’s local\ncurrency).\nThe total “Travel Cost” for a traveler is the sum of his/her Flight Cost and the money spent in the countries\nvisited.\nThe citizens of the four countries with knowledge of these travels made a few observations, with spends\nmeasured in their respective local currencies:\ni. Aurevia citizen: Jano and Kira visited our country, and their Travel Costs were 3500 and 8000,\nrespectively.\nii. Brelosia citizen: Kira and Lian visited our country, spending 2000 and 3000, respectively. Kira’s Travel\nCost was 4000.\niii. Cyrenia citizen: Lian visited our country and her Travel Cost was 36000.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many Zentars did Lian spend in the two countries he visited?",
+          "options": {},
+          "correct_answer": "13000",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAurevia, Brelosia, Cyrenia and Zerathania are four countries with their currencies being Aurels, Brins,\nCrowns, and Zentars, respectively. The currencies have different exchange values. Crown’s currency\nexchange rate with Zentars = 0.5, i.e., 1 Crown is worth 0.5 Zentars.\nThree travelers, Jano, Kira, and Lian set out from Zerathania visiting exactly two of the countries. Each\ncountry is visited by exactly two travelers. Each traveler has a unique Flight Cost, which represents the total\ncost of airfare in traveling to both the countries and back to Zerathania. The Flight Cost of Jano was 4000\nZentars, while that of the other two travelers were 5000 and 6000 Zentars, not necessarily in that order.\nWhen visiting a country, a traveler spent either 1000, 2000 or 3000 in the country’s local currency. Each\ntraveler had different spends (in the country’s local currency) in the two countries he/she visited. Across all\nthe visits, there were exactly two spends of 1000 and exactly one spend of 3000 (in the country’s local\ncurrency).\nThe total “Travel Cost” for a traveler is the sum of his/her Flight Cost and the money spent in the countries\nvisited.\nThe citizens of the four countries with knowledge of these travels made a few observations, with spends\nmeasured in their respective local currencies:\ni. Aurevia citizen: Jano and Kira visited our country, and their Travel Costs were 3500 and 8000,\nrespectively.\nii. Brelosia citizen: Kira and Lian visited our country, spending 2000 and 3000, respectively. Kira’s Travel\nCost was 4000.\niii. Cyrenia citizen: Lian visited our country and her Travel Cost was 36000.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was Jano’s total spend in the two countries he visited, in Aurels?",
+          "options": {},
+          "correct_answer": "1500",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nAurevia, Brelosia, Cyrenia and Zerathania are four countries with their currencies being Aurels, Brins,\nCrowns, and Zentars, respectively. The currencies have different exchange values. Crown’s currency\nexchange rate with Zentars = 0.5, i.e., 1 Crown is worth 0.5 Zentars.\nThree travelers, Jano, Kira, and Lian set out from Zerathania visiting exactly two of the countries. Each\ncountry is visited by exactly two travelers. Each traveler has a unique Flight Cost, which represents the total\ncost of airfare in traveling to both the countries and back to Zerathania. The Flight Cost of Jano was 4000\nZentars, while that of the other two travelers were 5000 and 6000 Zentars, not necessarily in that order.\nWhen visiting a country, a traveler spent either 1000, 2000 or 3000 in the country’s local currency. Each\ntraveler had different spends (in the country’s local currency) in the two countries he/she visited. Across all\nthe visits, there were exactly two spends of 1000 and exactly one spend of 3000 (in the country’s local\ncurrency).\nThe total “Travel Cost” for a traveler is the sum of his/her Flight Cost and the money spent in the countries\nvisited.\nThe citizens of the four countries with knowledge of these travels made a few observations, with spends\nmeasured in their respective local currencies:\ni. Aurevia citizen: Jano and Kira visited our country, and their Travel Costs were 3500 and 8000,\nrespectively.\nii. Brelosia citizen: Kira and Lian visited our country, spending 2000 and 3000, respectively. Kira’s Travel\nCost was 4000.\niii. Cyrenia citizen: Lian visited our country and her Travel Cost was 36000.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One Brin is equivalent to how many Crowns?",
+          "options": {
+            "A": "0.5",
+            "B": "8",
+            "C": "0.125",
+            "D": "4"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nAurevia, Brelosia, Cyrenia and Zerathania are four countries with their currencies being Aurels, Brins,\nCrowns, and Zentars, respectively. The currencies have different exchange values. Crown’s currency\nexchange rate with Zentars = 0.5, i.e., 1 Crown is worth 0.5 Zentars.\nThree travelers, Jano, Kira, and Lian set out from Zerathania visiting exactly two of the countries. Each\ncountry is visited by exactly two travelers. Each traveler has a unique Flight Cost, which represents the total\ncost of airfare in traveling to both the countries and back to Zerathania. The Flight Cost of Jano was 4000\nZentars, while that of the other two travelers were 5000 and 6000 Zentars, not necessarily in that order.\nWhen visiting a country, a traveler spent either 1000, 2000 or 3000 in the country’s local currency. Each\ntraveler had different spends (in the country’s local currency) in the two countries he/she visited. Across all\nthe visits, there were exactly two spends of 1000 and exactly one spend of 3000 (in the country’s local\ncurrency).\nThe total “Travel Cost” for a traveler is the sum of his/her Flight Cost and the money spent in the countries\nvisited.\nThe citizens of the four countries with knowledge of these travels made a few observations, with spends\nmeasured in their respective local currencies:\ni. Aurevia citizen: Jano and Kira visited our country, and their Travel Costs were 3500 and 8000,\nrespectively.\nii. Brelosia citizen: Kira and Lian visited our country, spending 2000 and 3000, respectively. Kira’s Travel\nCost was 4000.\niii. Cyrenia citizen: Lian visited our country and her Travel Cost was 36000.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is NOT true about money spent in the local currency?",
+          "options": {
+            "A": "Jano spent 2000 in Aurevia",
+            "B": "Lian spent 2000 in Cyrenia",
+            "C": "Jano spent 2000 in Cyrenia",
+            "D": "Kira spent 1000 in Aurevia"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nAnirbid, Chandranath, Koushik, and Suranjan participated in a puzzle solving competition. The competition\ncomprised 10 puzzles that had to be solved in the same sequence, i.e., a competitor got access to a puzzle as\nsoon as they solved the previous puzzle. Some of the puzzles were visual puzzles and the others were number-\nbased puzzles. The winner of the competition was the one who solved all puzzles in the least time.\nThe following charts describe their progress in the competition. The chart on the left shows the number of\npuzzles solved by each competitor at a given time (in minutes) after the start of the competition. The chart on\nthe right shows the number of visual puzzles solved by each competitor at a given time (in minutes) after the\nstart of the competition.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who had solved the largest number of puzzles by the 20-th minute from the start of the competition?",
+          "options": {
+            "A": "Suranjan",
+            "B": "Chandranath",
+            "C": "Koushik",
+            "D": "Anirbid"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAnirbid, Chandranath, Koushik, and Suranjan participated in a puzzle solving competition. The competition\ncomprised 10 puzzles that had to be solved in the same sequence, i.e., a competitor got access to a puzzle as\nsoon as they solved the previous puzzle. Some of the puzzles were visual puzzles and the others were number-\nbased puzzles. The winner of the competition was the one who solved all puzzles in the least time.\nThe following charts describe their progress in the competition. The chart on the left shows the number of\npuzzles solved by each competitor at a given time (in minutes) after the start of the competition. The chart on\nthe right shows the number of visual puzzles solved by each competitor at a given time (in minutes) after the\nstart of the competition.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many minutes did Suranjan take to solve the third visual puzzle in the competition?",
+          "options": {},
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nAnirbid, Chandranath, Koushik, and Suranjan participated in a puzzle solving competition. The competition\ncomprised 10 puzzles that had to be solved in the same sequence, i.e., a competitor got access to a puzzle as\nsoon as they solved the previous puzzle. Some of the puzzles were visual puzzles and the others were number-\nbased puzzles. The winner of the competition was the one who solved all puzzles in the least time.\nThe following charts describe their progress in the competition. The chart on the left shows the number of\npuzzles solved by each competitor at a given time (in minutes) after the start of the competition. The chart on\nthe right shows the number of visual puzzles solved by each competitor at a given time (in minutes) after the\nstart of the competition.",
+          "passage": "",
+          "passage_group": null,
+          "question": "At what number in the sequence was the fourth number-based puzzle?",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nAnirbid, Chandranath, Koushik, and Suranjan participated in a puzzle solving competition. The competition\ncomprised 10 puzzles that had to be solved in the same sequence, i.e., a competitor got access to a puzzle as\nsoon as they solved the previous puzzle. Some of the puzzles were visual puzzles and the others were number-\nbased puzzles. The winner of the competition was the one who solved all puzzles in the least time.\nThe following charts describe their progress in the competition. The chart on the left shows the number of\npuzzles solved by each competitor at a given time (in minutes) after the start of the competition. The chart on\nthe right shows the number of visual puzzles solved by each competitor at a given time (in minutes) after the\nstart of the competition.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is the closest to the average time taken by Anirbid to solve the number-based\npuzzles in the competition?",
+          "options": {
+            "A": "3.3 minutes",
+            "B": "2.5 minutes",
+            "C": "4.0 minutes",
+            "D": "3.8 minutes"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nThree countries — Pumpland (P), Xiland (X) and Cheeseland (C) — trade among themselves and with the\n(other countries in) Rest of World (ROW). All trade volumes are given in IC (international currency). The\nfollowing terminology is used:\n Trade balance = Exports – Imports\n Total trade = Exports + Imports\n Normalized trade balance = Trade balance / Total trade, expressed in percentage terms\nThe following information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How much is exported from C to X, in IC?",
+          "options": {},
+          "correct_answer": "48",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nThree countries — Pumpland (P), Xiland (X) and Cheeseland (C) — trade among themselves and with the\n(other countries in) Rest of World (ROW). All trade volumes are given in IC (international currency). The\nfollowing terminology is used:\n Trade balance = Exports – Imports\n Total trade = Exports + Imports\n Normalized trade balance = Trade balance / Total trade, expressed in percentage terms\nThe following information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How much is exported from P to ROW, in IC?",
+          "options": {},
+          "correct_answer": "200",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.\nThree countries — Pumpland (P), Xiland (X) and Cheeseland (C) — trade among themselves and with the\n(other countries in) Rest of World (ROW). All trade volumes are given in IC (international currency). The\nfollowing terminology is used:\n Trade balance = Exports – Imports\n Total trade = Exports + Imports\n Normalized trade balance = Trade balance / Total trade, expressed in percentage terms\nThe following information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How much is exported from ROW to ROW, in IC?\n\nSlot - III",
+          "options": {},
+          "correct_answer": "1008",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nThree countries — Pumpland (P), Xiland (X) and Cheeseland (C) — trade among themselves and with the\n(other countries in) Rest of World (ROW). All trade volumes are given in IC (international currency). The\nfollowing terminology is used:\n Trade balance = Exports – Imports\n Total trade = Exports + Imports\n Normalized trade balance = Trade balance / Total trade, expressed in percentage terms\nThe following information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the trade balance of ROW?",
+          "options": {
+            "A": "200",
+            "B": "0",
+            "C": "-200",
+            "D": "100"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nThree countries — Pumpland (P), Xiland (X) and Cheeseland (C) — trade among themselves and with the\n(other countries in) Rest of World (ROW). All trade volumes are given in IC (international currency). The\nfollowing terminology is used:\n Trade balance = Exports – Imports\n Total trade = Exports + Imports\n Normalized trade balance = Trade balance / Total trade, expressed in percentage terms\nThe following information is known.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which among the countries P, X, and C has/have the least total trade?",
+          "options": {
+            "A": "Only P",
+            "B": "Both X and C",
+            "C": "Only C",
+            "D": "Only X"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nSeven children, Aarav, Bina, Chirag, Diya, Eshan, Farhan, and Gaurav, are sitting in a circle facing inside (not\nnecessarily in the same order) and playing a game of ‘Passing the Buck’.\nThe game is played over 10 rounds. In each round, the child holding the Buck must pass it directly to a child\nsitting in one of the following positions:\n• Immediately to the left;\n• Immediate to the right;\n• Second to the left; or\n• Second to the right.\nThe game starts with Bina passing the Buck and ends with Chirag receiving the Buck. The table below\nprovides some information about the pass types and the child receiving the Buck. Some information is missing\nand labelled as ‘?’.\nRound Pass Type Received by\n1 Immediately to the left Aarav\n2 Second to the right ?\n3 Immediately to the right Diya\n4 ? ?\n5 ? Aarav\n6 Second to the left ?\n7 Immediately to the left Gaurav\n8 Immediately to the left ?\n9 ? Farhan\n10 ? Chirag",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who is sitting immediately to the right of Bina?",
+          "options": {
+            "A": "Eshan",
+            "B": "Farhan",
+            "C": "Aarav",
+            "D": "Chirag"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nSeven children, Aarav, Bina, Chirag, Diya, Eshan, Farhan, and Gaurav, are sitting in a circle facing inside (not\nnecessarily in the same order) and playing a game of ‘Passing the Buck’.\nThe game is played over 10 rounds. In each round, the child holding the Buck must pass it directly to a child\nsitting in one of the following positions:\n• Immediately to the left;\n• Immediate to the right;\n• Second to the left; or\n• Second to the right.\nThe game starts with Bina passing the Buck and ends with Chirag receiving the Buck. The table below\nprovides some information about the pass types and the child receiving the Buck. Some information is missing\nand labelled as ‘?’.\nRound Pass Type Received by\n1 Immediately to the left Aarav\n2 Second to the right ?\n3 Immediately to the right Diya\n4 ? ?\n5 ? Aarav\n6 Second to the left ?\n7 Immediately to the left Gaurav\n8 Immediately to the left ?\n9 ? Farhan\n10 ? Chirag",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who is sitting third to the left of Eshan?",
+          "options": {
+            "A": "Gaurav",
+            "B": "Chirag",
+            "C": "Divya",
+            "D": "Aarav"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nSeven children, Aarav, Bina, Chirag, Diya, Eshan, Farhan, and Gaurav, are sitting in a circle facing inside (not\nnecessarily in the same order) and playing a game of ‘Passing the Buck’.\nThe game is played over 10 rounds. In each round, the child holding the Buck must pass it directly to a child\nsitting in one of the following positions:\n• Immediately to the left;\n• Immediate to the right;\n• Second to the left; or\n• Second to the right.\nThe game starts with Bina passing the Buck and ends with Chirag receiving the Buck. The table below\nprovides some information about the pass types and the child receiving the Buck. Some information is missing\nand labelled as ‘?’.\nRound Pass Type Received by\n1 Immediately to the left Aarav\n2 Second to the right ?\n3 Immediately to the right Diya\n4 ? ?\n5 ? Aarav\n6 Second to the left ?\n7 Immediately to the left Gaurav\n8 Immediately to the left ?\n9 ? Farhan\n10 ? Chirag",
+          "passage": "",
+          "passage_group": null,
+          "question": "For which of the following pass types can the total number of occurrences be uniquely determined?",
+          "options": {
+            "A": "Immediately to the right",
+            "B": "Second to the right",
+            "C": "Second to the left",
+            "D": "Immediately to the left"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.\nSeven children, Aarav, Bina, Chirag, Diya, Eshan, Farhan, and Gaurav, are sitting in a circle facing inside (not\nnecessarily in the same order) and playing a game of ‘Passing the Buck’.\nThe game is played over 10 rounds. In each round, the child holding the Buck must pass it directly to a child\nsitting in one of the following positions:\n• Immediately to the left;\n• Immediate to the right;\n• Second to the left; or\n• Second to the right.\nThe game starts with Bina passing the Buck and ends with Chirag receiving the Buck. The table below\nprovides some information about the pass types and the child receiving the Buck. Some information is missing\nand labelled as ‘?’.\nRound Pass Type Received by\n1 Immediately to the left Aarav\n2 Second to the right ?\n3 Immediately to the right Diya\n4 ? ?\n5 ? Aarav\n6 Second to the left ?\n7 Immediately to the left Gaurav\n8 Immediately to the left ?\n9 ? Farhan\n10 ? Chirag",
+          "passage": "",
+          "passage_group": null,
+          "question": "For which of the following children is it possible to determine how many times they received the\nBuck?",
+          "options": {
+            "A": "Bina",
+            "B": "Eshan",
+            "C": "Farhan",
+            "D": "Gaurav"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2025-slot3-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If\n\nx 2 \nx\n\n\n= 25 and x > 0, then the value of\n\nx 7 \nx\n\n\nis",
+          "options": {
+            "A": "4 4 8 5 0 3",
+            "B": "4 4 8 5 3 3",
+            "C": "4 4 8 5 9 3",
+            "D": "4 4 8 5 6 3"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "For real values of x, the range of the function f ( x ) \n2 x\n\nx\n\n\n\nx  6\nis\n1.    , 1\n\n  1 ,   2.    , 1\n\n  1 ,   3.    , 1\n\n   1\n\n,   4.    , 1\n\n   1\n\n,  ",
+          "options": {},
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "For a 4-digit number (greater than 1000), sum of the digits in the thousands, hundreds, and tens places\nis 15. Sum of the digits in the hundreds, tens, and units places is 16. Also, the digit in the tens place is\n6 more than the digit in the units place. The difference between the largest and smallest possible value\nof the number is",
+          "options": {
+            "A": "811",
+            "B": "4078",
+            "C": "735",
+            "D": "3289"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Teams A, B, and C consist of five, eight, and ten members, respectively, such that every member\nwithin a team is equally productive. Working separately, teams A, B, and C can complete a certain job\nin 40 hours, 50 hours, and 4 hours, respectively. Two members from team A, three members from\nteam B, and one member from team C together start the job, and the member from team C leaves after\n23 hours. The number of additional member(s) from team B, that would be required to replace the\nmember from team C, to finish the job in the next one hour, is",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "1",
+            "D": "3"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The average salary of 5 managers and 25 engineers in a company is 60000 rupees. If each of the\nmanagers received 20% salary increase while the salary of the engineers remained unchanged, the\naverage salary of all 30 employees would have increased by 5%. The average salary, in rupees, of the\nengineers is",
+          "options": {
+            "A": "50000",
+            "B": "45000",
+            "C": "40000",
+            "D": "54000"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The monthly sales of a product from January to April were 120, 135, 150 and 165 units, respectively.\nThe cost price of the product was Rs. 240 per unit, and a fixed marked price was used for the product\nin all the four months. Discounts of 20%, 10% and 5% were given on the marked price per unit in\nJanuary, February and March, respectively, while no discounts were given in April. If the total profit\nfrom January to April was Rs. 138825, then the marked price per unit, in rupees, was",
+          "options": {
+            "A": "525",
+            "B": "515",
+            "C": "520",
+            "D": "510"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "In a class of 150 students, 75 students chose physics, 111students chose mathematics and 40 students\nchose chemistry. All students chose at least one of the three subjects and at least one student chose all\nthree subjects. The number of students who chose both physics and chemistry is equal to the number\nof students who chose both chemistry and mathematics, and this is half the number of students who\nchose both physics and mathematics. The maximum possible number of students who chose physics\nbut not mathematics, is",
+          "options": {
+            "A": "35",
+            "B": "30",
+            "C": "40",
+            "D": "55"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If f(x)(x2 3x)(x2 3x2),then the sum of all real roots of the equation f ( x )  1  9 7 0 1 , is",
+          "options": {
+            "A": "-3",
+            "B": "3",
+            "C": "6",
+            "D": "-6"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Rahul starts on his journey at 5 pm at a constant speed so that he reaches his destination at 11 pm the\nsame day. However, on his way, he stops for 20 minutes, and after that, increases his speed by 3 km\nper hour to reach on time. If he had stopped for 10 minutes more, he would have had to increase his\nspeed by 5 km per hour to reach on time. His initial speed, in km per hour, was",
+          "options": {
+            "A": "12",
+            "B": "20",
+            "C": "18",
+            "D": "15"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Ankita walks from A to C through B, and runs back through the same route at a speed that is 40%\nmore than her walking speed. She takes exactly 3 hours 30 minutes to walk from B to C as well as to\nrun from B to A. The total time, in minutes, she would take to walk from A to B and run from B to C,\nis",
+          "options": {},
+          "correct_answer": "444",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The sum of all the digits of the number (1050 + 1025 - 123), is",
+          "options": {
+            "A": "324",
+            "B": "255",
+            "C": "212",
+            "D": "221"
+          },
+          "correct_answer": "1050",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "A triangle ABC is formed with AB = AC = 50 cm and BC = 80 cm. Then, the sum of the lengths, in\ncm, of all three altitudes of the triangle ABC is",
+          "options": {},
+          "correct_answer": "126",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Vessels A and B contain 60 litres of alcohol and 60 litres of water, respectively. A certain volume is\ntaken out from A and poured into B. After stirring, the same volume is taken out from B and poured\ninto A. If the resultant ratio of alcohol and water in A is 15 : 4, then the volume, in litres, initially\ntaken out from A is",
+          "options": {},
+          "correct_answer": "16",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "In an arithmetic progression, if the sum of fourth, seventh and tenth terms is 99, and the sum of the\nfirst fourteen terms is 497, then the sum of first five terms is",
+          "options": {},
+          "correct_answer": "65",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "Let p, q and r be three natural numbers such that their sum is 900, and r is a perfect square whose\nvalue lies between 150 and 500. If p is not less than 0.3q and not more than 0.7q, then the sum of the\nmaximum and minimum possible values of p is\n\nSlot - III",
+          "options": {},
+          "correct_answer": "205",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The ratio of the number of coins in boxes A and B was 17:7. After 108 coins were shifted from box A\nto box B, this ratio became 37:20. The number of coins that needs to be shifted further from A to B, to\nmake this ratio 1:1, is",
+          "options": {},
+          "correct_answer": "272",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The rate of water flow through three pipes A, B and C are in the ratio 4 : 9 : 36. An empty tank can be\nfilled up completely by pipe A in 15 hours. If all the three pipes are used simultaneously to fill up this\nempty tank, the time, in minutes, required to fill up the entire tank completely is nearest to",
+          "options": {
+            "A": "71",
+            "B": "78",
+            "C": "73",
+            "D": "76"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "ABCD is a trapezium in which AB is parallel to DC, AD is perpendicular to AB, and AB = 3DC. If a\ncircle inscribed in the trapezium touching all the sides has a radius of 3 cm, then the area, in sq. cm, of\nthe trapezium is",
+          "options": {
+            "A": "30√3",
+            "B": "54",
+            "C": "48",
+            "D": "36√2"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "In ∆ABC, AB = AC = 12 cm and D is a point on side BC such that AD = 8 cm. If AD is extended to a\npoint E such that ∠ACB = ∠AEB, then the length, in cm, of AE is",
+          "options": {
+            "A": "16",
+            "B": "18",
+            "C": "20",
+            "D": "14"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "If 1212x × 424x +12 × 52y = 84z × 2012x × 2433x-6, where x, y and z are natural numbers, then x + y + z\nequals",
+          "options": {},
+          "correct_answer": "112",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "In a school with 1500 students, each student chooses any one of the streams out of science, arts, and\ncommerce, by paying a fee of Rs 1100, Rs 1000, and Rs 800, respectively. The total fee paid by all\nthe students is Rs 15,50,000. If the number of science students is not more than the number of arts\nstudents, then the maximum possible number of science students in the school is",
+          "options": {},
+          "correct_answer": "700",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2025-slot3-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "",
+          "passage": null,
+          "passage_group": null,
+          "question": "The sum of all possible real values of x for which log (x2 - 9) = log (x + 1) + 2, is\nx-3 x-3\n3 33\n1. -3 2. √33 3. 4. 3",
+          "options": {},
+          "correct_answer": "C",
+          "explanation": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1374 @@
+{
+  "id": "cat-2020-slot3",
+  "year": 2020,
+  "slot": 3,
+  "title": "CAT 2020 Slot III",
+  "has_solutions": true,
+  "total_questions": 76,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot3-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Mode of transportation affects the travel experience and thus can produce new types of travel writing and perhaps even new\n“identities.” Modes of transportation determine the types and duration of social encounters; affect the organization and\npassage of space and time; . . . and also affect perception and knowledge—how and what the traveler comes to know and write\nabout. The completion of the first U.S. transcontinental highway during the 1920s . . . for example, inaugurated a new genre of\ntravel literature about the United States—the automotive or road narrative. Such narratives highlight the experiences of mostly\nmale protagonists “discovering themselves” on their journeys, emphasizing the independence of road travel and the value of\nrural folk traditions.\nTravel writing’s relationship to empire building— as a type of “colonialist discourse”—has drawn the most attention from\nacademicians. Close connections have been observed between European (and American) political, economic, and administrative\ngoals for the colonies and their manifestations in the cultural practice of writing travel books. Travel writers’ descriptions of\nforeign places have been analyzed as attempts to validate, promote, or challenge the ideologies and practices of colonial or\nimperial domination and expansion. Mary Louise Pratt’s study of the genres and conventions of 18th- and 19th-century\nexploration narratives about South America and Africa (e.g., the “monarch of all I survey” trope) offered ways of thinking about\ntravel writing as embedded within relations of power between metropole and periphery, as did Edward Said’s theories of\nrepresentation and cultural imperialism. Particularly Said’s book, Orientalism, helped scholars understand ways in which\nrepresentations of people in travel texts were intimately bound up with notions of self, in this case, that the Occident defined\nitself through essentialist, ethnocentric, and racist representations of the Orient. Said’s work became a model for demonstrating\ncultural forms of imperialism in travel texts, showing how the political, economic, or administrative fact of dominance relies on\nlegitimating discourses such as those articulated through travel writing.\nFeminist geographers’ studies of travel writing challenge the masculinist history of geography by questioning who and what are\nrelevant subjects of geographic study and, indeed, what counts as geographic knowledge itself. Such questions are worked\nthrough ideological constructs that posit men as explorers and women as travelers—or, conversely, men as travelers and\nwomen as tied to the home. Studies of Victorian women who were professional travel writers, tourists, wives of colonial\nadministrators, and other (mostly) elite women who wrote narratives about their experiences abroad during the 19th century\nhave been particularly revealing. From a “liberal” feminist perspective, travel presented one means toward female liberation for\nmiddle- and upper-class Victorian women. Many studies from the 1970s onward demonstrated the ways in which women’s\ngendered identities were negotiated differently “at home” than they were “away,” thereby showing women’s self-development\nthrough travel. The more recent poststructural turn in studies of Victorian travel writing has focused attention on women’s\ndiverse and fragmented identities as they narrated their travel experiences, emphasizing women’s sense of themselves as\nwomen in new locations, but only as they worked through their ties to nation, class, whiteness, and colonial and imperial power\nstructures.\nAccording to the passage, Said’s book, “Orientalism”:",
+          "options": {
+            "A": "explained the difference between the representation of people and the actual fact.",
+            "B": "illustrated how narrow minded and racist westerners were.",
+            "C": "argued that cultural imperialism was more significant than colonial domination.",
+            "D": "demonstrated how cultural imperialism was used to justify colonial domination"
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to this line of the second paragraph - that the Occident defined itself through essentialist, ethnocentric, and racist representations of the Orient. Orientalism means style, artefacts, or traits considered characteristic of the peoples and cultures of Asia. The representation of Asia in a stereotyped way that is regarded as embodying a colonialist attitude."
+        },
+        {
+          "id": "cat-2020-slot3-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From the passage, it can be inferred that scholars argue that Victorian women experienced self-development through their\ntravels because:",
+          "options": {
+            "A": "their identity was redefined when they were away from home.",
+            "B": "they were on a quest to discover their diverse identities.",
+            "C": "they were from the progressive middle- and upper-classes of society.",
+            "D": "they developed a feminist perspective of the world"
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to this line of the last paragraph – Many studies from the 1970s onward demonstrated the ways in which women’s gendered identities were negotiated differently “at home” than they were “away,”"
+        },
+        {
+          "id": "cat-2020-slot3-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From the passage, we can infer that feminist scholars’ understanding of the experiences of Victorian women travellers is\ninfluenced by all of the following EXCEPT scholars':",
+          "options": {
+            "A": "awareness of gender issues in Victorian society",
+            "B": "awareness of the ways in which identity is formed",
+            "C": "perspective that they bring to their research",
+            "D": "knowledge of class tensions in Victorian society"
+          },
+          "correct_answer": "D",
+          "explanation": "There isn’t any significant mention or stress laid upon the class conflict or class tensions in the passage."
+        },
+        {
+          "id": "cat-2020-slot3-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "American travel literature of the 1920s:",
+          "options": {
+            "A": "developed the male protagonists’ desire for independence.",
+            "B": "showed participation in local traditions.",
+            "C": "presented travellers’ discovery of their identity as different from others.",
+            "D": "celebrated the freedom that travel gives."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to the last line of the first paragraph – “male protagonists “discovering themselves” on their journeys, emphasizing the independence of road travel and the value of rural folk traditions.” So travel literature of the 1920s may or may not have developed the male protagonists’ desire for independence but they definitely enjoyed the freedom that it gave. Also they did discover themselves, similar or different than others is not mentioned in the passage. To participate and to value something are different things."
+        },
+        {
+          "id": "cat-2020-slot3-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From the passage, we can infer that travel writing is most similar to:",
+          "options": {
+            "A": "historical fiction",
+            "B": "political journalism",
+            "C": "feminist writing",
+            "D": "autobiographical writing"
+          },
+          "correct_answer": "D",
+          "explanation": "As travel writing is what travelers wrote about their experiences hence Option 4 is the correct answer."
+        },
+        {
+          "id": "cat-2020-slot3-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Although one of the most contested concepts in political philosophy, human nature is something on which most people seem\nto agree. By and large, according to Rutger Bregman in his new book Humankind, we have a rather pessimistic view – not of\nourselves exactly, but of everyone else. We see other people as selfish, untrustworthy and dangerous and therefore we behave\ntowards them with defensiveness and suspicion. This was how the 17th-century philosopher Thomas Hobbes conceived our\nnatural state to be, believing that all that stood between us and violent anarchy was a strong state and firm leadership.\nBut in following Hobbes, argues Bregman, we ensure that the negative view we have of human nature is reflected back at us.\nHe instead puts his faith in Jean-Jacques Rousseau, the 18th-century French thinker, who famously declared that man was born\nfree and it was civilisation – with its coercive powers, social classes and restrictive laws – that put him in chains.\nHobbes and Rousseau are seen as the two poles of the human nature argument and it’s no surprise that Bregman strongly\nsides with the Frenchman. He takes Rousseau’s intuition and paints a picture of a prelapsarian idyll in which, for the better part\nof 300,000 years, Homo sapiens lived a fulfilling life in harmony with nature . . . Then we discovered agriculture and for the next\n10,000 years it was all property, war, greed and injustice. . . .\nIt was abandoning our nomadic lifestyle and then domesticating animals, says Bregman, that brought about infectious diseases\nsuch as measles, smallpox, tuberculosis, syphilis, malaria, cholera and plague. This may be true, but what Bregman never really\nseems to get to grips with is that pathogens were not the only things that grew with agriculture – so did the number of\nhumans. It’s one thing to maintain friendly relations and a property-less mode of living when you’re 30 or 40 hunter-gatherers\nfollowing the food. But life becomes a great deal more complex and knowledge far more extensive when there are settlements\nof many thousands.\n“Civilisation has become synonymous with peace and progress and wilderness with war and decline,” writes Bregman. “In\nreality, for most of human existence, it was the other way around.” Whereas traditional history depicts the collapse of\ncivilisations as “dark ages” in which everything gets worse, modern scholars, he claims, see them more as a reprieve, in which\nthe enslaved gain their freedom and culture flourishes. Like much else in this book, the truth is probably somewhere between\nthe two stated positions.\nIn any case, the fear of civilisational collapse, Bregman believes, is unfounded. It’s the result of what the Dutch biologist Frans\nde Waal calls “veneer theory” – the idea that just below the surface, our bestial nature is waiting to break out. There’s a great\ndeal of reassuring human decency to be taken from this bold and thought-provoking book and a wealth of evidence in support\nof the contention that the sense of who we are as a species has been deleteriously distorted. But it seems equally misleading to\noffer the false choice of Rousseau and Hobbes when, clearly, humanity encompasses both.\nThe author has differing views from Bregman regarding:",
+          "options": {
+            "A": "a civilised society being coercive and unjust.",
+            "B": "a property-less mode of living being socially harmonious.",
+            "C": "the role of agriculture in the advancement of knowledge.",
+            "D": "the role of pathogens in the spread of infectious diseases."
+          },
+          "correct_answer": "A",
+          "explanation": "This line of the last paragraph reflects the author’s viewpoit – “In any case, the fear of civilisational collapse, Bregman believes, is unfounded. It’s the result of what the Dutch biologist Frans de Waal calls “veneer theory” – the idea that just below the surface, our bestial nature is waiting to break out.” This line of first paragraph reflects the thought process of Bregman - “By and large, according to Rutger Bregman in his new book Humankind, we have a rather pessimistic view – not of ourselves exactly, but of everyone else.”"
+        },
+        {
+          "id": "cat-2020-slot3-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the author, the main reason why Bregman contrasts life in pre- agricultural societies with agricultural societies is\nto:",
+          "options": {
+            "A": "make the argument that an environmentally conscious lifestyle is a more harmonious way of living.",
+            "B": "bolster his argument that people are basically decent, but progress as we know it can make them selfish.",
+            "C": "advocate the promotion of less complex societies as a basis for greater security and prosperity.",
+            "D": "highlight the enormous impact that settled farming had on population growth."
+          },
+          "correct_answer": "B",
+          "explanation": "Refer to this line of the third paragraph – “Then we discovered agriculture and for the next 10,000 years it was all property, war, greed and injustice. . . .“"
+        },
+        {
+          "id": "cat-2020-slot3-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, the “collapse of civilisations” is viewed by Bregman as:",
+          "options": {
+            "A": "a time that enables changes in societies and cultures.",
+            "B": "a sign of regression in society’s trajectory.",
+            "C": "a temporary phase which can be rectified by social action.",
+            "D": "resulting from a breakdown in the veneer of human nature."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to this line of the second last paragraph – “he claims, see them more as a reprieve, in which the enslaved gain their freedom and culture flourishes.”"
+        },
+        {
+          "id": "cat-2020-slot3-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "None of the following views is expressed in the passage EXCEPT that:",
+          "options": {
+            "A": "Bregman agrees with Hobbes that firm leadership is needed to ensure property rights and regulate strife.",
+            "B": "Hobbes and Rousseau disagreed on the fundamental nature of humans, but both believed in the need for a strong state.",
+            "C": "the author of the review believes in the veneer theory of human nature.",
+            "D": "most people agree with Hobbes’ pessimistic view of human nature as being intrinsically untrustworthy and selfish."
+          },
+          "correct_answer": "D",
+          "explanation": "This question is asking to point out something which is mentioned in the passage. Option 4 finds reference in this line of the first paragraph – “By and large, according to Rutger Bregman in his new book Humankind, we have a rather pessimistic view – not of ourselves exactly, but of everyone else.”"
+        },
+        {
+          "id": "cat-2020-slot3-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "[There is] a curious new reality: Human contact is becoming a luxury good. As more screens appear in the lives of the poor,\nscreens are disappearing from the lives of the rich. The richer you are, the more you spend to be off-screen. . . .\nThe joy — at least at first — of the internet revolution was its democratic nature. Facebook is the same Facebook whether you\nare rich or poor. Gmail is the same Gmail. And it’s all free. There is something mass market and unappealing about that. And as\nstudies show that time on these advertisement-support platforms is unhealthy, it all starts to seem déclassé, like drinking soda\nor smoking cigarettes, which wealthy people do less than poor people. The wealthy can afford to opt out of having their data\nand their attention sold as a product. The poor and middle class don’t have the same kind of resources to make that happen.\nScreen exposure starts young. And children who spent more than two hours a day looking at a screen got lower scores on\nthinking and language tests, according to early results of a landmark study on brain development of more than 11,000 children\nthat the National Institutes of Health is supporting. Most disturbingly, the study is finding that the brains of children who spend\na lot of time on screens are different. For some kids, there is premature thinning of their cerebral cortex. In adults, one study\nfound an association between screen time and depression. . . .\nTech companies worked hard to get public schools to buy into programs that required schools to have one laptop per student,\narguing that it would better prepare children for their screen- based future. But this idea isn’t how the people who actually\nbuild the screen-based future raise their own children. In Silicon Valley, time on screens is increasingly seen as unhealthy. Here,\nthe popular elementary school is the local Waldorf School, which promises a back-to- nature, nearly screen-free education. So\nas wealthy kids are growing up with less screen time, poor kids are growing up with more. How comfortable someone is with\nhuman engagement could become a new class marker.\nHuman contact is, of course, not exactly like organic food But with screen time, there has been a concerted effort on the part of\nSilicon Valley behemoths to confuse the public. The poor and the middle class are told that screens are good and important for\nthem and their children. There are fleets of psychologists and neuroscientists on staff at big tech companies working to hook\neyes and minds to the screen as fast as possible and for as long as possible. And so human contact is rare. . . .\nThere is a small movement to pass a “right to disconnect” bill, which would allow workers to turn their phones off, but for now\na worker can be punished for going offline and not being available. There is also the reality that in our culture of increasing\nisolation, in which so many of the traditional gathering places and social structures have disappeared, screens are filling a\ncrucial void.\nWhich of the following statements about the negative effects of screen time is the author least likely to endorse?",
+          "options": {
+            "A": "It can cause depression in viewers.",
+            "B": "It is designed to be addictive.",
+            "C": "It increases human contact as it fills an isolation void.",
+            "D": "It is shown to have adverse effects on young children’s learning."
+          },
+          "correct_answer": "C",
+          "explanation": "The question asks which the negative effects of screen time are the author least likely to endorse i.e. it is asking for a positive effect, which is presented in Option C only."
+        },
+        {
+          "id": "cat-2020-slot3-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author is least likely to agree with the view that the increase in screen-time is fuelled by the fact that:",
+          "options": {
+            "A": "screens provide social contact in an increasingly isolating world.",
+            "B": "with falling costs, people are streaming more content on their devices.",
+            "C": "some workers face punitive action if they are not online.",
+            "D": "there is a growth in computer-based teaching in public schools"
+          },
+          "correct_answer": "B",
+          "explanation": "There is no mention of the ‘cost’ factor playing any role for increased screen time, mentioned in the passage."
+        },
+        {
+          "id": "cat-2020-slot3-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author claims that Silicon Valley tech companies have tried to “confuse the public” by:",
+          "options": {
+            "A": "promoting screen time in public schools while opting for a screen-free education for their own children.",
+            "B": "developing new work-efficiency programmes while lobbying for the “right to disconnect” bill.",
+            "C": "concealing the findings of psychologists and neuroscientists on screen-time use from the public.",
+            "D": "pushing for greater privacy while working with advertisement-support platforms to mine data."
+          },
+          "correct_answer": "A",
+          "explanation": "Confusion would happen only when one says or does two different things, which is reflected only in option A."
+        },
+        {
+          "id": "cat-2020-slot3-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The statement “The richer you are, the more you spend to be off-screen” is supported by which other line from the passage?",
+          "options": {
+            "A": "“How comfortable someone is with human engagement could become a new class marker.”",
+            "B": "screens are filling a crucial void.”",
+            "C": ". . studies show that time on these advertisement-support platforms is unhealthy .",
+            "D": "“Gmail is the same Gmail. And it’s all free.”"
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to the first line of the passage – “[There is] a curious new reality: Human contact is becoming a luxury good”"
+        },
+        {
+          "id": "cat-2020-slot3-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "I’ve been following the economic crisis for more than two years now. I began working on the subject as part of the background\nto a novel, and soon realized that I had stumbled across the most interesting story I’ve ever found. While I was beginning to\nwork on it, the British bank Northern Rock blew up, and it became clear that, as I wrote at the time, “If our laws are not\nextended to control the new kinds of super-powerful, super-complex, and potentially super- risky investment vehicles, they will\none day cause a financial disaster of global-systemic proportions.” . . . I was both right and too late, because all the groundwork\nfor the crisis had already been done—though the sluggishness of the world’s governments, in not preparing for the great\nunraveling of autumn 2008, was then and still is stupefying. But this is the first reason why I wrote this book: because what’s\nhappened is extraordinarily interesting. It is an absolutely amazing story, full of human interest and drama, one whose byways\nof mathematics, economics, and psychology are both central to the story of the last decades and mysteriously unknown to the\ngeneral public. We have heard a lot about “the two cultures” of science and the arts—we heard a particularly large amount\nabout it in 2009, because it was the fiftieth anniversary of the speech during which C. P. Snow first used the phrase. But I’m not\nsure the idea of a huge gap between science and the arts is as true as it was half a century ago—it’s certainly true, for instance,\nthat a general reader who wants to pick up an education in the fundamentals of science will find it easier than ever before. It\nseems to me that there is a much bigger gap between the world of finance and that of the general public and that there is a\nneed to narrow that gap, if the financial industry is not to be a kind of priesthood, administering to its own mysteries and\nfeared and resented by the rest of us. Many bright, literate people have no idea about all sorts of economic basics, of a type\nthat financial insiders take as elementary facts of how the world works. I am an outsider to finance and economics, and my\nhope is that I can talk across that gulf.\nMy need to understand is the same as yours, whoever you are. That’s one of the strangest ironies of this story: after decades in\nwhich the ideology of the Western world was personally and economically individualistic, we’ve suddenly been hit by a crisis\nwhich shows in the starkest terms that whether we like it or not—and there are large parts of it that you would have to be crazy\nto like—we’re all in this together. The aftermath of the crisis is going to dominate the economics and politics of our societies\nfor at least a decade to come and perhaps longer.\nWhich one of the following best captures the main argument of the last paragraph of the passage?",
+          "options": {
+            "A": "Whoever you are, you would be crazy to think that there is no crisis.",
+            "B": "The aftermath of the crisis will strengthen the central ideology of individualism in the Western world.",
+            "C": "The ideology of individualism must be set aside in order to deal with the crisis.",
+            "D": "In the decades to come, other ideologies will emerge in the aftermath of the crisis."
+          },
+          "correct_answer": "C",
+          "explanation": "Refer to the last line of the paragraph – “we’ve suddenly been hit by a crisis which shows in the starkest terms that whether we like it or not—and there are large parts of it that you would have to be crazy to like—we’re all in this together.” All the information stated before by the author is to lead the discussion to this end."
+        },
+        {
+          "id": "cat-2020-slot3-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following, if true, would be an accurate inference from the first sentence of the passage?",
+          "options": {
+            "A": "The author’s preoccupation with the economic crisis is not less than two years old.",
+            "B": "The economic crisis outlasted the author’s preoccupation with it.",
+            "C": "The author has witnessed many economic crises by travelling a lot for two years.",
+            "D": "The author is preoccupied with the economic crisis because he is being followed."
+          },
+          "correct_answer": "A",
+          "explanation": "As the author has been occupied with the economic crisis for more than two years, so it cannot definitely be less than 2 years."
+        },
+        {
+          "id": "cat-2020-slot3-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following, if false, could be seen as supporting the author’s claims?",
+          "options": {
+            "A": "Most people are yet to gain any real understanding of the workings of the financial world.",
+            "B": "The global economic crisis lasted for more than two years.",
+            "C": "The huge gap between science and the arts has steadily narrowed over time.",
+            "D": "The economic crisis was not a failure of collective action to rectify economic problems."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to this line of the first paragraph – “—though the sluggishness of the world’s governments, in not preparing for the great unraveling of autumn 2008, was then and still is stupefying”. Negating Option 4 will strengthen author’s viewpoint."
+        },
+        {
+          "id": "cat-2020-slot3-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following, if true, could be seen as supporting the arguments in the passage, EXCEPT:",
+          "options": {
+            "A": "The difficulty with understanding financial matters is that they have become so arcane.",
+            "B": "Economic crises could be averted by changing prevailing ideologies and beliefs.",
+            "C": "The story of the economic crisis is also one about international relations, global financial security, and mass psychology.",
+            "D": "The failure of economic systems does not necessarily mean the failure of their ideologies."
+          },
+          "correct_answer": "D",
+          "explanation": "Option A is supported by this line of the passage – “Many bright, literate people have no idea about all sorts of economic basic” Option B is supported by “after decades in which the ideology of the Western world was personally and economically individualistic………………………….we’re all in this together.” Option C is supported by this line of the passage – “It is an absolutely amazing story, full of human interest and drama, one whose byways of mathematics, economics, and psychology ……….”"
+        },
+        {
+          "id": "cat-2020-slot3-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, the author is likely to be supportive of which one of the following programmes?",
+          "options": {
+            "A": "An educational curriculum that promotes economic research.",
+            "B": "Economic policies that are more sensitively calibrated to the fluctuations of the market.",
+            "C": "An educational curriculum that promotes developing financial literacy in the masses.",
+            "D": "The complete nationalisation of all financial institutions."
+          },
+          "correct_answer": "C",
+          "explanation": "Option A points to research whereas a generic program would serve the purpose. Option B does not mention anything about raising awareness among masses. Option D is too extreme."
+        },
+        {
+          "id": "cat-2020-slot3-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Machine learning models are prone to learning human-like biases from the training data that feeds these algorithms.\n2. Hate speech detection is part of the on-going effort against oppressive and abusive language on social media.\n3. The current automatic detection models miss out on something vital: context.\n4. It uses complex algorithms to flag racist or violent speech faster and better than human beings alone.\n5. For instance, algorithms struggle to determine if group identifiers like \"gay\" or \"black\" are used in offensive or prejudiced\nways because they're trained on imbalanced datasets with unusually high rates of hate speech.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "The context is about the software (AI) to detect hate speech and to stop the spread of abusive language on social media. One sentence tells that what exactly it is based on. The flip side is that this machine learning models are prone to biases as seen in data fed to them. An example is also given to substantiate the same. 3 is odd one out as it talks about the ‘context’ which is nowhere mentioned i.e. machine cannot understand the context in which the word or the language has been used."
+        },
+        {
+          "id": "cat-2020-slot3-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph and write the key for most\nappropriate option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Aesthetic political representation urges us to realize that ‘the representative has autonomy with regard to the people\nrepresented’ but autonomy then is not an excuse to abandon one’s responsibility. Aesthetic autonomy requires cultivation of\n‘disinterestedness’ on the part of actors which is not indifference. To have disinterestedness, that is, to have comportment\ntowards the beautiful that is devoid of all ulterior references to use – requires a kind of aesthetic commitment; it is the\nliberation of ourselves for the release of what has proper worth only in itself.",
+          "options": {
+            "A": "Aesthetic political representation advocates autonomy for the representatives drawing from disinterestedness, which itself is different from indifference.",
+            "B": "Aesthetic political representation advocates autonomy for the representatives manifested through disinterestedness which itself is different from indifference.",
+            "C": "Disinterestedness is different from indifference as the former means a non-subjective evaluation of things which is what constitutes aesthetic political representation.",
+            "D": "Disinterestedness, as distinct from indifference, is the basis of political representation."
+          },
+          "correct_answer": "A",
+          "explanation": "The context moves around ‘political representatives should have disinterested approach along with responsibility towards job and people. Also being ‘disinterested ‘does not mean ‘being indifferent."
+        },
+        {
+          "id": "cat-2020-slot3-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The logic of displaying one’s inner qualities through outward appearance was based on a distinction between being a woman\nand being feminine.\n2. 'Appearance' became a signifier of conduct - to look was to be and conformity to the feminine ideal was measured by how\nwell women could use the tools of the fashion and beauty industries.\n3. The makeover-centric media sets out subtly and not-so-subtly, ‘good’ and ‘bad’ ways to be a woman, layering these over\ninequalities of race and class.\n4. The denigration of working-class women and women of colour often centres on their perceived failure to embody feminine\nbeauty.\n5. ‘Woman’ was considered a biological category, but femininity was a ‘process’ by which women became specific kinds of\nwomen.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "The context moves around the distinction between being a woman and ‘being feminine’ To signify this difference, ‘appearance’ became the standard and ability to use the tools of fashion and beauty industries gained significance. Those who were not able to use them effectively to enhance feminine grace were denigrated. 3 talks about the role played by the media to fuel this thought process. Hence odd one out."
+        },
+        {
+          "id": "cat-2020-slot3-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Each one personified a different aspect of good fortune.\n2. The others were versions of popular Buddhist gods, Hindu gods and Daoist gods.\n3. Seven popular Japanese deities, the Shichi Fukujin, were considered to bring good luck and happiness.\n4. Although they were included in the Shinto pantheon, only two of them, Daikoku and Ebisu, were indigenous Japanese gods.",
+          "options": {
+            "A": "3142",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3142",
+          "explanation": "The opener is this case is 3 as it introduces the idea of seven popular Japanese deities. ‘Each one’ is linked to 3 as it is telling us ‘what each signifies’. Then 4 will come as it tells that only two are Japanese and ‘others’ are popular Buddhist or Hindu gods."
+        },
+        {
+          "id": "cat-2020-slot3-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Complex computational elements of the CNS are organized according to a “nested” hierarchic criterion; the organization is\nnot permanent and can change dynamically from moment to moment as they carry out a computational task.\n2. Echolocation in bats exemplifies adaptation produced by natural selection; a function not produced by natural selection for\nits current use is exaptation -- feathers might have originally arisen in the context of selection for insulation.\n3. From a structural standpoint, consistent with exaptation, the living organism is organized as a complex of “Russian\nMatryoshka Dolls” -- smaller structures are contained within larger ones in multiple layers.\n4. The exaptation concept, and the Russian-doll organization concept of living beings deduced from studies on evolution of the\nvarious apparatuses in mammals, can be applied for the most complex human organ: the central nervous system (CNS).",
+          "options": {
+            "A": "2431",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2431",
+          "explanation": "The context moves around the result of ‘adaptation’ and ‘exaptation’. That is a few of the features shown by animals may not have basis in natural selection. Hence the sentence 2 will be an opener. After this 4 will come as it further explains the basis of ‘The exaptation concept, and the Russian-doll organization concept’ can be applied to understand CNS. 3 explain another way of looking at these two processes. 1 will conclude as it tells that how CNS is not permanent in structural set up but changes from moment to moment."
+        },
+        {
+          "id": "cat-2020-slot3-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph and write the key for most\nappropriate option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The dominant hypotheses in modern science believe that language evolved to allow humans to exchange factual information\nabout the physical world. But an alternative view is that language evolved, in modern humans at least, to facilitate social\nbonding. It increased our ancestors’ chances of survival by enabling them to hunt more successfully or to cooperate more\nextensively. Language meant that things could be explained and that plans and past experiences could be shared efficiently.",
+          "options": {
+            "A": "Most believe that language originated from a need to articulate facts, but others think it emerged from the need to promote social cohesion and cooperation, thus enabling human survival.",
+            "B": "From the belief that humans invented language to process factual information, scholars now think that language was the outcome of the need to ensure social cohesion and thus human survival.",
+            "C": "Since its origin, language has been continuously evolving to higher forms, from being used to identify objects to ensuring human survival by enabling our ancestors to bond and cooperate.",
+            "D": "Experts are challenging the narrow view of the origin of language, as being merely used to describe facts and label objects, to being necessary to promote more complex interactions among humans."
+          },
+          "correct_answer": "A",
+          "explanation": "The paragraph has highlighted two definitions of ‘how language evolved and its underlying purpose. Both the aspects have been captured well by option A."
+        },
+        {
+          "id": "cat-2020-slot3-varc-25",
+          "number": 25,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph and write the key for most\nappropriate option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Brown et al. (2001) suggest that ‘metabolic theory may provide a conceptual foundation for much of ecology just as genetic\ntheory provides a foundation for much of evolutionary biology’. One of the successes of genetic theory is the diversity of\ntheoretical approaches and models that have been developed and applied. A Web of Science (v. 5.9. Thomson Reuters) search\non genetic* + theor* + evol* identifies more than 12000 publications between 2005 and 2012. Considering only the 10 most-\ncited papers within this 12000 publication set, genetic theory can be seen to focus on genome dynamics, phylogenetic\ninference, game theory and the regulation of gene expression. There is no one fundamental genetic equation, but rather a wide\narray of genetic models, ranging from simple to complex, with differing inputs and outputs, and divergent areas of application,\nloosely connected to each other through the shared conceptual foundation of heritable variation.",
+          "options": {
+            "A": "Genetic theory has a wide range of theoretical approaches and applications and Metabolic theory must have the same in the field of ecology.",
+            "B": "Genetic theory has evolved to spawn a wide range of theoretical models and applications but Metabolic theory need not evolve in a similar manner in the field of ecology.",
+            "C": "Genetic theory has a wide range of theoretical approaches and application and is foundational to evolutionary biology and Metabolic theory has the potential to do the same for ecology.",
+            "D": "Genetic theory provides an example of how a range of theoretical approaches and applications can make a theory successful."
+          },
+          "correct_answer": "C",
+          "explanation": "The key line is ‘metabolic theory may provide a conceptual foundation for much of ecology just as genetic theory provides a foundation for much of evolutionary biology’ Another important line ‘, genetic theory can be seen to focus on genome dynamics, phylogenetic inference, game theory and the regulation of gene expression."
+        },
+        {
+          "id": "cat-2020-slot3-varc-26",
+          "number": 26,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. It advocated a conservative approach to antitrust enforcement that espouses faith in efficient markets and voiced suspicion\nregarding the merits of judicial intervention to correct anticompetitive practices.\n2. Many industries have consistently gained market share, the lion’s share - without any official concern; the most successful\ntechnology companies have grown into veritable titans, on the premise that they advance ‘public interest’.\n3. That the new anticompetitive risks posed by tech giants like Google, Facebook, and Amazon, necessitate new legal solutions\ncould be attributed to the dearth of enforcement actions against monopolies and the few cases challenging mergers in the\nUSA.\n4. The criterion of ‘consumer welfare standard’ and the principle that antitrust law should serve consumer interests and that it\nshould protect competition rather than individual competitors was an antitrust law introduced by, and named after, the\n'Chicago school'.",
+          "options": {
+            "A": "4123",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4123",
+          "explanation": "The context talks about ‘antitrust law’ and how it has not served its purpose. After this 1 will come as it explains the approach adopted by this law. 2 shows the consequences. And finally new regulations are required to curb the tendencies to use loopholes in the existing system , which is evident from ‘the dearth of enforcement actions against monopolies and the few cases challenging mergers in the USA’."
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot3-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sixteen patients in a hospital must undergo a blood test for a disease. It is known that exactly one of them has the disease. The\nhospital has only eight testing kits and has decided to pool blood samples of patients into eight vials for the tests. The patients\nare numbered 1 through 16, and the vials are labelled A, B, C, D, E, F, G, and H. The following table shows the vials into which\neach patient’s blood sample is distributed.\nPatient Vials Patient Vials\n1 B, D, F, H 9 A, D, F, H\n2 B, D, F, G 10 A, D, F, G\n3 B, D, E, H 11 A, D, E, H\n4 B, D, E, G 12 A, D, E, G\n5 B, C, F, H 13 A, C, F, H\n6 B, C, F, G 14 A, C, F, G\n7 B, C, E, H 15 A, C, E, H\n8 B, C, E, G 16 A, C, E, G\nIf a patient has the disease, then each vial containing his/her blood sample will test positive. If a vial tests positive, one of the\npatients whose blood samples were mixed in the vial has the disease. If a vial tests negative, then none of the patients whose\nblood samples were mixed in the vial has the disease.\nSuppose vial C tests positive and vials A, E and H test negative. Which patient has the disease?",
+          "options": {
+            "A": "Patient 2",
+            "B": "Patient 6",
+            "C": "Patient 14",
+            "D": "Patient 8"
+          },
+          "correct_answer": "B",
+          "explanation": "Since vial C tests positive so the patient who has the disease has to be one of the following:- 5, 6, 7, 8, 13, 14, 15, 16, but as vial E tests negative so patients 15, 16, 7 and 8 are ruled out, similarly as vial H tests negative so patients 5 and 13 are also ruled out. Also as vial A tests negative so patients 13, 14, 15,16 are ruled out. Hence we are only left with patient 6 who has the disease."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose vial A tests positive and vials D and G test negative. Which of the following vials should we test next to identify the\npatient with the disease?",
+          "options": {
+            "A": "Vial C",
+            "B": "Vial H",
+            "C": "Vial B",
+            "D": "Vial E"
+          },
+          "correct_answer": "D",
+          "explanation": "Since vial A tests positive and vials D and G test negative so from the given table the only possible patients with the disease can be 13 or 15. To eliminate between 13 and 15 numbered patients vial E or F can be tested as they both have vials A, C and H, as common vials. So answer is 4th option"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following combinations of test results is NOT possible?",
+          "options": {
+            "A": "Vial B positive, vials C, F and H negative",
+            "B": "Vials B and D positive, vials F and H negative",
+            "C": "Vials A and E positive, vials C and D negative",
+            "D": "Vials A and G positive, vials D and E negative"
+          },
+          "correct_answer": "C",
+          "explanation": "Going by options, 1st option is possible and it will result into patient 4 being diseased. 2nd option is possible and it will result into patient 4, 8 or 12 being diseased 3rd option is not possible is not possible as it will result into making all the patients free from disease. 4th option is possible as it will result into patient 14 being diseased. So, 3rd option is the correct answer."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose one of the lab assistants accidentally mixed two patients' blood samples before they were distributed to the vials.\nWhich of the following correctly represents the set of all possible numbers of positive test results out of the eight vials?",
+          "options": {
+            "A": "{5,6,7,8}",
+            "B": "{4,5}",
+            "C": "{4,5,6,7,8}",
+            "D": "{4,5,6,7}"
+          },
+          "correct_answer": "C",
+          "explanation": "Since every patient’s blood sample is there in 4 vials so with a mixing of two non-diseased patient’s blood samples there will be 4 vials with positive test result. If the mixing of samples includes the sample of the patient suffering from disease then the number of vials testing positive can increase and become 5, 6, 7 or 8 depending upon the number of vials further testing positive because of the mix-up being 1, 2, 3 or 4 whish were earlier testing negative in case of no mix up. So the correct answer is 3rd option"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The Hi-Lo game is a four-player game played in six rounds. In every round, each player chooses to bid Hi or Lo. The bids are\nmade simultaneously. If all four bid Hi, then all four lose 1 point each. If three players bid Hi and one bids Lo, then the players\nbidding Hi gain 1 point each and the player bidding Lo loses 3 points. If two players bid Hi and two bid Lo, then the players\nbidding Hi gain 2 points each and the players bidding Lo lose 2 points each. If one player bids Hi and three bid Lo, then the\nplayer bidding Hi gains 3 points and the players bidding Lo lose 1 point each. If all four bid Lo, then all four gain 1 point each.\nFour players Arun, Bankim, Charu, and Dipak played the Hi-Lo game. The following facts are known about their game:\n1. At the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points\neach.\n2. At the end of six rounds, Arun had scored 7 points, Bankim and Dipak had scored -1 point each, and Charu had scored -5\npoints.\n3. Dipak’s score in the third round was less than his score in the first round but was more than his score in the second round.\n4. In exactly two out of the six rounds, Arun was the only player who bid Hi.\n\nWhat were the bids by Arun, Bankim, Charu and Dipak, respectively in the first round?",
+          "options": {
+            "A": "Lo, Lo, Lo, Hi",
+            "B": "Hi, Lo, Lo, Hi",
+            "C": "Hi, Hi, Lo, Lo",
+            "D": "Hi, Lo, Lo, Lo"
+          },
+          "correct_answer": "B",
+          "explanation": "As per the given conditions the table of first three rounds is given below Table - I Arun Bankim Charu Dipak Round 1 Hi (+2) Lo (-2) Lo (-2) Hi (+2) Round 2 Hi (+3) Lo (-1) Lo (-1) Lo (-1) Round 3 Lo (+1) Lo (+1) Lo (+1) Lo (+1) Total 6 -2 -2 2 So, at the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each. Now with the further condition being given that at the end of six rounds, Arun had scored 7 points. Bankim and Dipak had scored 7 points, also with the condition that there has to be one more round after the first three rounds in which Arun was the only player who bid Hi, we can have the following combinations for Rounds 4, 5 & 6. Table - II Arun Bankim Charu Dipak Hi (+3) Lo (-1) Lo (-1) Lo (-1) Hi (-1) Hi (-1) Hi (-1) Hi (-1) Lo (-1) Hi (+1) Lo (-1) Lo (-1) Refer to table I."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many rounds did Arun bid Hi? (in numerical value)",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "As per the given conditions the table of first three rounds is given below Table - I Arun Bankim Charu Dipak Round 1 Hi (+2) Lo (-2) Lo (-2) Hi (+2) Round 2 Hi (+3) Lo (-1) Lo (-1) Lo (-1) Round 3 Lo (+1) Lo (+1) Lo (+1) Lo (+1) Total 6 -2 -2 2 So, at the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each. Now with the further condition being given that at the end of six rounds, Arun had scored 7 points. Bankim and Dipak had scored 7 points, also with the condition that there has to be one more round after the first three rounds in which Arun was the only player who bid Hi, we can have the following combinations for Rounds 4, 5 & 6. Table - II Arun Bankim Charu Dipak Hi (+3) Lo (-1) Lo (-1) Lo (-1) Hi (-1) Hi (-1) Hi (-1) Hi (-1) Lo (-1) Hi (+1) Lo (-1) Lo (-1) Arun bid Hi in 4 rounds."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many rounds did Bankim bid Lo? (in numerical value)",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "As per the given conditions the table of first three rounds is given below Table - I Arun Bankim Charu Dipak Round 1 Hi (+2) Lo (-2) Lo (-2) Hi (+2) Round 2 Hi (+3) Lo (-1) Lo (-1) Lo (-1) Round 3 Lo (+1) Lo (+1) Lo (+1) Lo (+1) Total 6 -2 -2 2 So, at the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each. Now with the further condition being given that at the end of six rounds, Arun had scored 7 points. Bankim and Dipak had scored 7 points, also with the condition that there has to be one more round after the first three rounds in which Arun was the only player who bid Hi, we can have the following combinations for Rounds 4, 5 & 6. Table - II Arun Bankim Charu Dipak Hi (+3) Lo (-1) Lo (-1) Lo (-1) Hi (-1) Hi (-1) Hi (-1) Hi (-1) Lo (-1) Hi (+1) Lo (-1) Lo (-1) Bankim bid Lo in 4 rounds"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many rounds did all four players make identical bids? (in numerical value)",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "As per the given conditions the table of first three rounds is given below Table - I Arun Bankim Charu Dipak Round 1 Hi (+2) Lo (-2) Lo (-2) Hi (+2) Round 2 Hi (+3) Lo (-1) Lo (-1) Lo (-1) Round 3 Lo (+1) Lo (+1) Lo (+1) Lo (+1) Total 6 -2 -2 2 So, at the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each. Now with the further condition being given that at the end of six rounds, Arun had scored 7 points. Bankim and Dipak had scored 7 points, also with the condition that there has to be one more round after the first three rounds in which Arun was the only player who bid Hi, we can have the following combinations for Rounds 4, 5 & 6. Table - II Arun Bankim Charu Dipak Hi (+3) Lo (-1) Lo (-1) Lo (-1) Hi (-1) Hi (-1) Hi (-1) Hi (-1) Lo (-1) Hi (+1) Lo (-1) Lo (-1) All four players made identical bids in Round 3 and once again in one of rounds 4, 5 or 6. So this happened in 2 rounds."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many rounds did Dipak gain exactly 1 point? (in numerical value)",
+          "options": {
+            "A": "1",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1",
+          "explanation": "As per the given conditions the table of first three rounds is given below Table - I Arun Bankim Charu Dipak Round 1 Hi (+2) Lo (-2) Lo (-2) Hi (+2) Round 2 Hi (+3) Lo (-1) Lo (-1) Lo (-1) Round 3 Lo (+1) Lo (+1) Lo (+1) Lo (+1) Total 6 -2 -2 2 So, at the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each. Now with the further condition being given that at the end of six rounds, Arun had scored 7 points. Bankim and Dipak had scored 7 points, also with the condition that there has to be one more round after the first three rounds in which Arun was the only player who bid Hi, we can have the following combinations for Rounds 4, 5 & 6. Table - II Arun Bankim Charu Dipak Hi (+3) Lo (-1) Lo (-1) Lo (-1) Hi (-1) Hi (-1) Hi (-1) Hi (-1) Lo (-1) Hi (+1) Lo (-1) Lo (-1) Dipak gained exactly 1 point only in round 3. So this happened only in one of the rounds."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In which of the following rounds, was Arun DEFINITELY the only player to bid Hi?",
+          "options": {
+            "A": "Second",
+            "B": "Fourth",
+            "C": "Third",
+            "D": "First"
+          },
+          "correct_answer": "A",
+          "explanation": "As per the given conditions the table of first three rounds is given below Table - I Arun Bankim Charu Dipak Round 1 Hi (+2) Lo (-2) Lo (-2) Hi (+2) Round 2 Hi (+3) Lo (-1) Lo (-1) Lo (-1) Round 3 Lo (+1) Lo (+1) Lo (+1) Lo (+1) Total 6 -2 -2 2 So, at the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each. Now with the further condition being given that at the end of six rounds, Arun had scored 7 points. Bankim and Dipak had scored 7 points, also with the condition that there has to be one more round after the first three rounds in which Arun was the only player who bid Hi, we can have the following combinations for Rounds 4, 5 & 6. Table - II Arun Bankim Charu Dipak Hi (+3) Lo (-1) Lo (-1) Lo (-1) Hi (-1) Hi (-1) Hi (-1) Hi (-1) Lo (-1) Hi (+1) Lo (-1) Lo (-1) The only round we are sure about Arun being the only player to bid Hi so answer is 1st option."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A survey of 600 schools in India was conducted to gather information about their online teaching learning processes (OTLP).\nThe following four facilities were studied.\nF1: Own software for OTLP\nF2: Trained teachers for OTLP\nF3: Training materials for OTLP\nF4: All students having Laptops\nThe following observations were summarized from the survey.\n1. 80 schools did not have any of the four facilities – F1, F2, F3, F4.\n2. 40 schools had all four facilities.\n3. The number of schools with only F1, only F2, only F3, and only F4 was 25, 30, 26 and 20 respectively.\n4. The number of schools with exactly three of the facilities was the same irrespective of which three were considered.\n5. 313 schools had F2.\n6. 26 schools had only F2 and F3 (but neither F1 nor F4).\n7. Among the schools having F4, 24 had only F3, and 45 had only F2.\n8. 162 schools had both F1 and F2.\n9. The number of schools having F1 was the same as the number of schools having F4.\nWhat was the total number of schools having exactly three of the four facilities?",
+          "options": {
+            "A": "200",
+            "B": "50",
+            "C": "64",
+            "D": "80"
+          },
+          "correct_answer": "A",
+          "explanation": "Number of schools who do not have any of these 4 facilities = 80 2a + 40 + b = 162……….(1) 162 + 30 + 26 + a + 45 = 313…….(2). So a = 50. Putting this value of a in equation (1), we get b = 22. As the number of schools having F1 was the same as the number of schools having F4, so 25 + c + a + d + b + a + 40 + a = a + 40 + a + 24 + d + a + 45 + 20 Þ25 + c + 22 + 40 = 129 Þ c = 42. Also 25 + c + a + d + 162 + 30 + 26 + a + 45 + 26 + 24 + 20 + 80 = 600 ⇒ 25 + 42 + 50 + d + 162 + 30 + 26 + 50 + 45 + 26 + 24 + 20 + 20 + 80 = 600 ⇒ d = 20 So we get the final diagram as follows: Number of schools having exactly three of the four facilities = 50 + 50 + 50 + 50 = 200"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the number of schools having facilities F2 and F4?",
+          "options": {
+            "A": "85",
+            "B": "95",
+            "C": "45",
+            "D": "185"
+          },
+          "correct_answer": "D",
+          "explanation": "Number of schools who do not have any of these 4 facilities = 80 2a + 40 + b = 162……….(1) 162 + 30 + 26 + a + 45 = 313…….(2). So a = 50. Putting this value of a in equation (1), we get b = 22. As the number of schools having F1 was the same as the number of schools having F4, so 25 + c + a + d + b + a + 40 + a = a + 40 + a + 24 + d + a + 45 + 20 Þ25 + c + 22 + 40 = 129 Þ c = 42. Also 25 + c + a + d + 162 + 30 + 26 + a + 45 + 26 + 24 + 20 + 80 = 600 ⇒ 25 + 42 + 50 + d + 162 + 30 + 26 + 50 + 45 + 26 + 24 + 20 + 20 + 80 = 600 ⇒ d = 20 So we get the final diagram as follows: Number of schools having facilities F and F = 40 + 50 + 50 + 45 = 185 2 4"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the number of schools having only facilities F1 and F3? (in numerical value)",
+          "options": {
+            "A": "42",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "42",
+          "explanation": "Number of schools who do not have any of these 4 facilities = 80 2a + 40 + b = 162……….(1) 162 + 30 + 26 + a + 45 = 313…….(2). So a = 50. Putting this value of a in equation (1), we get b = 22. As the number of schools having F1 was the same as the number of schools having F4, so 25 + c + a + d + b + a + 40 + a = a + 40 + a + 24 + d + a + 45 + 20 Þ25 + c + 22 + 40 = 129 Þ c = 42. Also 25 + c + a + d + 162 + 30 + 26 + a + 45 + 26 + 24 + 20 + 80 = 600 ⇒ 25 + 42 + 50 + d + 162 + 30 + 26 + 50 + 45 + 26 + 24 + 20 + 20 + 80 = 600 ⇒ d = 20 So we get the final diagram as follows: Number of schools having only facilities F and F = 42 1 3"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the number of schools having only facilities F1 and F4? (in numerical value)",
+          "options": {
+            "A": "20",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "20",
+          "explanation": "Number of schools who do not have any of these 4 facilities = 80 2a + 40 + b = 162……….(1) 162 + 30 + 26 + a + 45 = 313…….(2). So a = 50. Putting this value of a in equation (1), we get b = 22. As the number of schools having F1 was the same as the number of schools having F4, so 25 + c + a + d + b + a + 40 + a = a + 40 + a + 24 + d + a + 45 + 20 Þ25 + c + 22 + 40 = 129 Þ c = 42. Also 25 + c + a + d + 162 + 30 + 26 + a + 45 + 26 + 24 + 20 + 80 = 600 ⇒ 25 + 42 + 50 + d + 162 + 30 + 26 + 50 + 45 + 26 + 24 + 20 + 20 + 80 = 600 ⇒ d = 20 So we get the final diagram as follows: Number of schools having only facilities F and F = 20 1 4"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "XYZ organization got into the business of delivering groceries to home at the beginning of the last month. They have a two-day\ndelivery promise. However, their deliveries are unreliable. An order booked on a particular day may be delivered the next day or\nthe day after. If the order is not delivered at the end of two days, then the order is declared as lost at the end of the second\nday. XYZ then does not deliver the order, but informs the customer, marks the order as lost, returns the payment and pays a\npenalty for non-delivery.\nThe following table provides details about the operations of XYZ for a week of the last month. The first column gives the date,\nthe second gives the cumulative number of orders that were booked up to and including that day. The third column represents\nthe number of orders delivered on that day. The last column gives the cumulative number of orders that were lost up to and\nincluding that day.\nIt is known that the numbers of orders that were booked on the 11th, 12th, and 13th of the last month that took two days to\ndeliver were 4, 6, and 8 respectively.\nOrders\nCumulative Cumulative\nDay delivered on\norders booked orders lost\nday\n13th 219 11 91\n14th 249 27 92\n15th 277 23 94\n16th 302 11 106\n17th 327 21 118\n18th 332 13 120\n19th 337 14 129\nAmong the following days, the largest fraction of orders booked on which day was lost?",
+          "options": {
+            "A": "13th",
+            "B": "16th",
+            "C": "15th",
+            "D": "14th"
+          },
+          "correct_answer": "C",
+          "explanation": "Firstly we will convert the cumulative values to normal frequency model. So the new table becomes DayOrders BookedOrders DeliveredOrders Lost 13th 11 14th30 27 1 15th28 23 2 16th25 11 12 17th25 21 12 18th5 13 2 19th5 14 9 As is given that number of orders that were booked on 11th, 12th and 13th of the last month that took 2 days to deliver were 4, 6 and 8 respectively, so we can say that on the 13th day, the breakup of 11 orders which were delivered will be 4 + 7. Hence the remaining 7 orders must have been booked on 12th day. Similarly, we can get the breakup of 27 orders which were delivered on 14th day will be 6 + 21. Hence the remaining 21 orders must have been booked on 13th day. Similarly, we can get the breakup of 23 orders which were delivered on 15th day will be 8 + 15. Hence the remaining 15 orders must have been booked on 14th day. But we can see that there are 2 orders which are lost on 15th day. These must have been booked on 13th day. As 12 orders on 16th day are lost, so they must have been booked on 14th day. So we can say that breakup of 11 orders on day 16 will be 3 + 8. Hence 3 orders delivered on 16th day must have been ordered on 14th day and remaining 8 orders must have been booked on 15th day. Moving in this pattern, we can find the breakup of 17th, 18th and 19th day and we can get the final table as follows:: Day Orders Booked Orders Delivered (Day wise)Orders Lost 13th 4 (11th day) + 7 (12th day) 14th 30 6 (12th day) + 21 (13th day) 1 15th 28 8 (13th day) + 15 (14th day) 2 (13th day) 16th 25 3 (14th day) + 8 (15th day) 12 (14th day) 17th 25 8 (15th day) + 13 (16th day) 12 (15th day) 18th 5 10 (16th day) + 3 (17th day) 2 (16th day) 19th 5 13 (17th day) + 1 (18th day) 9 (17th day) Now we can find the number of orders booked on 13th day = 21 + 8 + 2 = 31. Now we can find all the answers: Orders lost as a fraction of orders booked was maximum on 15th day which is equal to 12/28."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On which of the following days was the number of orders booked the highest?",
+          "options": {
+            "A": "15th",
+            "B": "13th",
+            "C": "14th",
+            "D": "12th"
+          },
+          "correct_answer": "B",
+          "explanation": "Firstly we will convert the cumulative values to normal frequency model. So the new table becomes DayOrders BookedOrders DeliveredOrders Lost 13th 11 14th30 27 1 15th28 23 2 16th25 11 12 17th25 21 12 18th5 13 2 19th5 14 9 As is given that number of orders that were booked on 11th, 12th and 13th of the last month that took 2 days to deliver were 4, 6 and 8 respectively, so we can say that on the 13th day, the breakup of 11 orders which were delivered will be 4 + 7. Hence the remaining 7 orders must have been booked on 12th day. Similarly, we can get the breakup of 27 orders which were delivered on 14th day will be 6 + 21. Hence the remaining 21 orders must have been booked on 13th day. Similarly, we can get the breakup of 23 orders which were delivered on 15th day will be 8 + 15. Hence the remaining 15 orders must have been booked on 14th day. But we can see that there are 2 orders which are lost on 15th day. These must have been booked on 13th day. As 12 orders on 16th day are lost, so they must have been booked on 14th day. So we can say that breakup of 11 orders on day 16 will be 3 + 8. Hence 3 orders delivered on 16th day must have been ordered on 14th day and remaining 8 orders must have been booked on 15th day. Moving in this pattern, we can find the breakup of 17th, 18th and 19th day and we can get the final table as follows:: Day Orders Booked Orders Delivered (Day wise)Orders Lost 13th 4 (11th day) + 7 (12th day) 14th 30 6 (12th day) + 21 (13th day) 1 15th 28 8 (13th day) + 15 (14th day) 2 (13th day) 16th 25 3 (14th day) + 8 (15th day) 12 (14th day) 17th 25 8 (15th day) + 13 (16th day) 12 (15th day) 18th 5 10 (16th day) + 3 (17th day) 2 (16th day) 19th 5 13 (17th day) + 1 (18th day) 9 (17th day) Now we can find the number of orders booked on 13th day = 21 + 8 + 2 = 31. Now we can find all the answers: We can see that highest number of orders were booked on 13th day i.e 31."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The delivery ratio for a given day is defined as the ratio of the number of orders booked on that day which are delivered on the\nnext day to the number of orders booked on that day which are delivered on the second day after booking. On which of the\nfollowing days, was the delivery ratio the highest?",
+          "options": {
+            "A": "13th",
+            "B": "15th",
+            "C": "14th",
+            "D": "16th"
+          },
+          "correct_answer": "C",
+          "explanation": "Firstly we will convert the cumulative values to normal frequency model. So the new table becomes DayOrders BookedOrders DeliveredOrders Lost 13th 11 14th30 27 1 15th28 23 2 16th25 11 12 17th25 21 12 18th5 13 2 19th5 14 9 As is given that number of orders that were booked on 11th, 12th and 13th of the last month that took 2 days to deliver were 4, 6 and 8 respectively, so we can say that on the 13th day, the breakup of 11 orders which were delivered will be 4 + 7. Hence the remaining 7 orders must have been booked on 12th day. Similarly, we can get the breakup of 27 orders which were delivered on 14th day will be 6 + 21. Hence the remaining 21 orders must have been booked on 13th day. Similarly, we can get the breakup of 23 orders which were delivered on 15th day will be 8 + 15. Hence the remaining 15 orders must have been booked on 14th day. But we can see that there are 2 orders which are lost on 15th day. These must have been booked on 13th day. As 12 orders on 16th day are lost, so they must have been booked on 14th day. So we can say that breakup of 11 orders on day 16 will be 3 + 8. Hence 3 orders delivered on 16th day must have been ordered on 14th day and remaining 8 orders must have been booked on 15th day. Moving in this pattern, we can find the breakup of 17th, 18th and 19th day and we can get the final table as follows:: Day Orders Booked Orders Delivered (Day wise)Orders Lost 13th 4 (11th day) + 7 (12th day) 14th 30 6 (12th day) + 21 (13th day) 1 15th 28 8 (13th day) + 15 (14th day) 2 (13th day) 16th 25 3 (14th day) + 8 (15th day) 12 (14th day) 17th 25 8 (15th day) + 13 (16th day) 12 (15th day) 18th 5 10 (16th day) + 3 (17th day) 2 (16th day) 19th 5 13 (17th day) + 1 (18th day) 9 (17th day) Now we can find the number of orders booked on 13th day = 21 + 8 + 2 = 31. Now we can find all the answers: Delivery Ratio is highest for 14th day which is equal to 15 : 3 Þ 5 : 1. Hence 3rd option."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The average time taken to deliver orders booked on a particular day is computed as follows. Let the number of orders delivered\nthe next day be x and the number of orders delivered the day after be y. Then the average time to deliver order is (x+2y)/(x+y).\nOn which of the following days was the average time taken to deliver orders booked the least?",
+          "options": {
+            "A": "16th",
+            "B": "15th",
+            "C": "13th",
+            "D": "14th"
+          },
+          "correct_answer": "D",
+          "explanation": "Firstly we will convert the cumulative values to normal frequency model. So the new table becomes DayOrders BookedOrders DeliveredOrders Lost 13th 11 14th30 27 1 15th28 23 2 16th25 11 12 17th25 21 12 18th5 13 2 19th5 14 9 As is given that number of orders that were booked on 11th, 12th and 13th of the last month that took 2 days to deliver were 4, 6 and 8 respectively, so we can say that on the 13th day, the breakup of 11 orders which were delivered will be 4 + 7. Hence the remaining 7 orders must have been booked on 12th day. Similarly, we can get the breakup of 27 orders which were delivered on 14th day will be 6 + 21. Hence the remaining 21 orders must have been booked on 13th day. Similarly, we can get the breakup of 23 orders which were delivered on 15th day will be 8 + 15. Hence the remaining 15 orders must have been booked on 14th day. But we can see that there are 2 orders which are lost on 15th day. These must have been booked on 13th day. As 12 orders on 16th day are lost, so they must have been booked on 14th day. So we can say that breakup of 11 orders on day 16 will be 3 + 8. Hence 3 orders delivered on 16th day must have been ordered on 14th day and remaining 8 orders must have been booked on 15th day. Moving in this pattern, we can find the breakup of 17th, 18th and 19th day and we can get the final table as follows:: Day Orders Booked Orders Delivered (Day wise)Orders Lost 13th 4 (11th day) + 7 (12th day) 14th 30 6 (12th day) + 21 (13th day) 1 15th 28 8 (13th day) + 15 (14th day) 2 (13th day) 16th 25 3 (14th day) + 8 (15th day) 12 (14th day) 17th 25 8 (15th day) + 13 (16th day) 12 (15th day) 18th 5 10 (16th day) + 3 (17th day) 2 (16th day) 19th 5 13 (17th day) + 1 (18th day) 9 (17th day) Now we can find the number of orders booked on 13th day = 21 + 8 + 2 = 31. Now we can find all the answers: Average time taken as given in the question is least for 14th day which is equal to"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\nand Dipti by dividing the land into twelve plots along three rows (X,Y,Z) and four Columns (1,2,3,4) as shown in the figure\nbelow:\nThe plots in rows X, Y, Z contained mango, teak and pine trees respectively. Each plot had trees in non-zero multiples of 3 or 4\nand none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the\nnumber mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is\nthe first letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing\n21 trees). Some information in the figure got erased, but the following is known:\n1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n2. The largest number of trees in a plot was 32, but it was not with Abha.\n3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n4. Both Abha and Bina got a higher number of plots than Dipti.\n5. Only Bina, Chitra and Dipti got corner plots.\n6. Dipti got two adjoining plots in the same row.\n7. Bina was the only one who got a plot in each row and each column.\n8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n9. The number of mango trees was double the number of teak trees.\nHow many mango trees were there in total?",
+          "options": {
+            "A": "49",
+            "B": "98",
+            "C": "126",
+            "D": "84"
+          },
+          "correct_answer": "B",
+          "explanation": "1 2 3 4 X C Y A A Z 9 28 B C Given Total number of trees = 205 A – C = 20 and D – A = 6 (from condition 1) Let number of teak trees in column 2,3 and 4 is x, 2x and 4x respectively (from condition 3) From condition 6 and 8, only possible plots for D is Row 1, column 3 and 4 From condition 7, plots for Bina are Row 1 column 2, Row 3 column 4 and Row 2 column 3. So Bina got 4 plots. From condition 4 Abha and Dipti got 4 and 2 plots respectively. (as each daughter got an even number of plots) Using all conditions we get, number of plots as A = 4, B = 4, C = 2 and D = 2 1 2 3 4 X M(2a) C B D D Y T(a) A A B A 9 28 Z P B C A B x 2x 4x Now as each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. So we cannot take x as 3 or 6. If x = 4 then 2x = 8 and 4x = 16 1 2 3 4 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 9 28 Z P B C A B x 2x 4x So we have A = 50 From condition 1, C = 30 and D = 56 Þ B = 69 So we have 1 2 3 4 12 30 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 3 18 9 28 Z P B C A B There are 98 mango trees in total"
+        },
+        {
+          "id": "cat-2020-slot3-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is the correct sequence of trees received by Abha, Bina, Chitra and Dipti in that order?",
+          "options": {
+            "A": "60, 39, 40, 66",
+            "B": "50, 69, 30, 56",
+            "C": "44, 87, 24, 50",
+            "D": "54, 57, 34, 60"
+          },
+          "correct_answer": "B",
+          "explanation": "1 2 3 4 X C Y A A Z 9 28 B C Given Total number of trees = 205 A – C = 20 and D – A = 6 (from condition 1) Let number of teak trees in column 2,3 and 4 is x, 2x and 4x respectively (from condition 3) From condition 6 and 8, only possible plots for D is Row 1, column 3 and 4 From condition 7, plots for Bina are Row 1 column 2, Row 3 column 4 and Row 2 column 3. So Bina got 4 plots. From condition 4 Abha and Dipti got 4 and 2 plots respectively. (as each daughter got an even number of plots) Using all conditions we get, number of plots as A = 4, B = 4, C = 2 and D = 2 1 2 3 4 X M(2a) C B D D Y T(a) A A B A 9 28 Z P B C A B x 2x 4x Now as each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. So we cannot take x as 3 or 6. If x = 4 then 2x = 8 and 4x = 16 1 2 3 4 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 9 28 Z P B C A B x 2x 4x So we have A = 50 From condition 1, C = 30 and D = 56 Þ B = 69 So we have 1 2 3 4 12 30 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 3 18 9 28 Z P B C A B 50, 69, 30, 56 is the correct sequence of trees received by Abha, Bina, Chitra and Dipti."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-47",
+          "number": 47,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many pine trees did Chitra receive?",
+          "options": {
+            "A": "18",
+            "B": "15",
+            "C": "21",
+            "D": "30"
+          },
+          "correct_answer": "A",
+          "explanation": "1 2 3 4 X C Y A A Z 9 28 B C Given Total number of trees = 205 A – C = 20 and D – A = 6 (from condition 1) Let number of teak trees in column 2,3 and 4 is x, 2x and 4x respectively (from condition 3) From condition 6 and 8, only possible plots for D is Row 1, column 3 and 4 From condition 7, plots for Bina are Row 1 column 2, Row 3 column 4 and Row 2 column 3. So Bina got 4 plots. From condition 4 Abha and Dipti got 4 and 2 plots respectively. (as each daughter got an even number of plots) Using all conditions we get, number of plots as A = 4, B = 4, C = 2 and D = 2 1 2 3 4 X M(2a) C B D D Y T(a) A A B A 9 28 Z P B C A B x 2x 4x Now as each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. So we cannot take x as 3 or 6. If x = 4 then 2x = 8 and 4x = 16 1 2 3 4 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 9 28 Z P B C A B x 2x 4x So we have A = 50 From condition 1, C = 30 and D = 56 Þ B = 69 So we have 1 2 3 4 12 30 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 3 18 9 28 Z P B C A B Chitra receives 18 pine trees."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-48",
+          "number": 48,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who got the plot with the smallest number of trees and how many trees did that plot have?",
+          "options": {
+            "A": "Bina, 3 trees",
+            "B": "Dipti, 6 trees",
+            "C": "Abha, 4 trees",
+            "D": "Bina, 4 trees"
+          },
+          "correct_answer": "A",
+          "explanation": "1 2 3 4 X C Y A A Z 9 28 B C Given Total number of trees = 205 A – C = 20 and D – A = 6 (from condition 1) Let number of teak trees in column 2,3 and 4 is x, 2x and 4x respectively (from condition 3) From condition 6 and 8, only possible plots for D is Row 1, column 3 and 4 From condition 7, plots for Bina are Row 1 column 2, Row 3 column 4 and Row 2 column 3. So Bina got 4 plots. From condition 4 Abha and Dipti got 4 and 2 plots respectively. (as each daughter got an even number of plots) Using all conditions we get, number of plots as A = 4, B = 4, C = 2 and D = 2 1 2 3 4 X M(2a) C B D D Y T(a) A A B A 9 28 Z P B C A B x 2x 4x Now as each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. So we cannot take x as 3 or 6. If x = 4 then 2x = 8 and 4x = 16 1 2 3 4 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 9 28 Z P B C A B x 2x 4x So we have A = 50 From condition 1, C = 30 and D = 56 Þ B = 69 So we have 1 2 3 4 12 30 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 3 18 9 28 Z P B C A B Bina got the plot with smallest number of trees i.e. 3."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-49",
+          "number": 49,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is NOT true?",
+          "options": {
+            "A": "Bina got 32 pine trees",
+            "B": "Dipti got 56 mango trees",
+            "C": "Chitra got 12 mango trees",
+            "D": "Abha got 41 teak trees"
+          },
+          "correct_answer": "A",
+          "explanation": "1 2 3 4 X C Y A A Z 9 28 B C Given Total number of trees = 205 A – C = 20 and D – A = 6 (from condition 1) Let number of teak trees in column 2,3 and 4 is x, 2x and 4x respectively (from condition 3) From condition 6 and 8, only possible plots for D is Row 1, column 3 and 4 From condition 7, plots for Bina are Row 1 column 2, Row 3 column 4 and Row 2 column 3. So Bina got 4 plots. From condition 4 Abha and Dipti got 4 and 2 plots respectively. (as each daughter got an even number of plots) Using all conditions we get, number of plots as A = 4, B = 4, C = 2 and D = 2 1 2 3 4 X M(2a) C B D D Y T(a) A A B A 9 28 Z P B C A B x 2x 4x Now as each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. So we cannot take x as 3 or 6. If x = 4 then 2x = 8 and 4x = 16 1 2 3 4 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 9 28 Z P B C A B x 2x 4x So we have A = 50 From condition 1, C = 30 and D = 56 Þ B = 69 So we have 1 2 3 4 12 30 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 3 18 9 28 Z P B C A B Statement 1 is wrong as Bina got 3 pine trees."
+        },
+        {
+          "id": "cat-2020-slot3-dilr-50",
+          "number": 50,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which column had the highest number of trees?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "3",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "B",
+          "explanation": "1 2 3 4 X C Y A A Z 9 28 B C Given Total number of trees = 205 A – C = 20 and D – A = 6 (from condition 1) Let number of teak trees in column 2,3 and 4 is x, 2x and 4x respectively (from condition 3) From condition 6 and 8, only possible plots for D is Row 1, column 3 and 4 From condition 7, plots for Bina are Row 1 column 2, Row 3 column 4 and Row 2 column 3. So Bina got 4 plots. From condition 4 Abha and Dipti got 4 and 2 plots respectively. (as each daughter got an even number of plots) Using all conditions we get, number of plots as A = 4, B = 4, C = 2 and D = 2 1 2 3 4 X M(2a) C B D D Y T(a) A A B A 9 28 Z P B C A B x 2x 4x Now as each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. So we cannot take x as 3 or 6. If x = 4 then 2x = 8 and 4x = 16 1 2 3 4 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 9 28 Z P B C A B x 2x 4x So we have A = 50 From condition 1, C = 30 and D = 56 Þ B = 69 So we have 1 2 3 4 12 30 X M(98) C B D D 21 4 8 16 Y T(49) A A B A 3 18 9 28 Z P B C A B Total trees in column 1 = 36 Total trees in column 2 = 52 As Dipti got 32 trees in one of her plots. We can see taking 32 trees in either column 3 or 4, number of trees in column 4 is always more than all other columns. So column 4 is the answer."
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot3-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two alcohol solutions, A and B, are mixed in the proportion 1:3 by volume. The volume of the mixture is then doubled by\nadding solution A such that the resulting mixture has 72% alcohol. If solution A has 60% alcohol, then the percentage of\nalcohol in solution B is",
+          "options": {
+            "A": "90%",
+            "B": "92%",
+            "C": "94%",
+            "D": "89%"
+          },
+          "correct_answer": "B",
+          "explanation": "Let initial volume of A and B be 1 lt and 3 lt. Now 4lt of A is added. Now A = 5 lt and B = 3lt. Let % of alcohol in B is p%. So according to the question: 8×72/100 = (5 × 60/100) + (3 × p/100) On solving this we get p= 92"
+        },
+        {
+          "id": "cat-2020-slot3-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil, Sunil, and Ravi run along a circular path of length 3 km, starting from the same point at the same time, and going in the\nclockwise direction. If they run at speeds of 15 km/hr, 10 km/hr, and 8 km/hr, respectively, how much distance in km will Ravi\nhave run when Anil and Sunil meet again for the first time at the starting point?",
+          "options": {
+            "A": "5.2",
+            "B": "4.6",
+            "C": "4.8",
+            "D": "4.2"
+          },
+          "correct_answer": "C",
+          "explanation": "Time taken by Anil to complete one round = 3/15 Time taken by Sunil to complete one round = 3/10 Time taken by Anil and Sunil to meet at the starting point first time = 3/5 hrs Distance travelled by Ravi in 3/5 hrs = 8×3/5 = 4.8 kms"
+        },
+        {
+          "id": "cat-2020-slot3-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The area, in sq. units, enclosed by the lines x = 2, y = |x - 2| + 4, the X-axis and the Y-axis is equal to",
+          "options": {
+            "A": "10",
+            "B": "8",
+            "C": "6",
+            "D": "12"
+          },
+          "correct_answer": "A",
+          "explanation": "The figure is a trapezium Area = ½ x (4 + 6) × 2 = 10"
+        },
+        {
+          "id": "cat-2020-slot3-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A and B are two railway stations 90 km apart. A train leaves A at 9:00 am, heading towards B at a speed of 40 km/hr. Another\ntrain leaves B at 10:30 am, heading towards A at a speed of 20 km/hr. The trains meet each other at",
+          "options": {
+            "A": "11 : 45 am",
+            "B": "10 : 45 am",
+            "C": "11 : 00 am",
+            "D": "11 : 20 am DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "C",
+          "explanation": "Distance covered by Train from point A till 10:30 = 40 × 1.5 = 60 km So remaining distance = 90 – 60 = 30 km Time = 30/(40+20) = ½ hrs So trains meet each other at 11:00 am"
+        },
+        {
+          "id": "cat-2020-slot3-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the final examination, Bishnu scored 52% and Asha scored 64%. The marks obtained by Bishnu is 23 less, and that by Asha is\n34 more than the marks obtained by Ramesh. The marks obtained by Geeta, who scored 84%, is",
+          "options": {
+            "A": "399",
+            "B": "417",
+            "C": "439",
+            "D": "357"
+          },
+          "correct_answer": "A",
+          "explanation": "Bishnu scored 52% and Asha scored 64%. Difference between their actual marks = 23 + 34 =57 Difference in their percentages = 12% So 12% of Total = 57 Total = 57×100/12 Score of Geeta = (57 × 100/12) × 84/100 = 399"
+        },
+        {
+          "id": "cat-2020-slot3-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If log 30 = A, log (5/3) = - B and log a = 1 /3, then log a equals\na a 2 3",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "B",
+          "explanation": "A+B = log 5 + log 6 - log 5 + log 3 = log 18 a a a a a log 2 =3 a So log 18 = log 2 +2 log 3 a a a So A+B = 3 + 2log 3 a log 3 = (A+B-3)/2 a So log a = 2/(A+B-3)"
+        },
+        {
+          "id": "cat-2020-slot3-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a trapezium ABCD, AB is parallel to DC, BC is perpendicular to DC and ∠BAD = 45°. If DC = 5 cm, BC = 4cm, the area of the\ntrapezium in sq cm is (in numerical value)",
+          "options": {
+            "A": "28",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "28",
+          "explanation": "Required Area = (5 × 4) + ½ x 4 x 4 = 28"
+        },
+        {
+          "id": "cat-2020-slot3-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If f(x + y) = f (x) f (y) and f(5) = 4, then f (10) - f (-10) is equal to",
+          "options": {
+            "A": "14.0625",
+            "B": "3",
+            "C": "0",
+            "D": "15.9375"
+          },
+          "correct_answer": "D",
+          "explanation": "F(5 + 5) = F(5)2 = 16 similarly F(-5)= 1/4 , So F(-10) = 1/16 So 16 - 1/16 = 15.9375"
+        },
+        {
+          "id": "cat-2020-slot3-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "(in numerical value)",
+          "options": {
+            "A": "24",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "24",
+          "explanation": "(2 × 4 × 8 × 16) / (4 × 27/8 × 256/81) = 24"
+        },
+        {
+          "id": "cat-2020-slot3-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let N, x and y be positive integers such that N = x + y, 2 < x < 10 and 14 < y < 23. If N > 25, then how many distinct values are\npossible for N? (in numerical value)",
+          "options": {
+            "A": "6",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "6",
+          "explanation": "N=x + y Minimum of x + y = 3 + 15 =18 Maximum value of x + y = 9 + 22 = 31 Now as N > 25, so all values from 26 to 31 are possible. 6 values are possible"
+        },
+        {
+          "id": "cat-2020-slot3-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A man buys 35 kg of sugar and sets a marked price in order to make a 20% profit. He sells 5 kg at this price, and 15 kg at a 10%\ndiscount. Accidentally, 3 kg of sugar is wasted. He sells the remaining sugar by raising the marked price by p percent so as to\nmake an overall profit of 15%. Then p is nearest to",
+          "options": {
+            "A": "25",
+            "B": "22",
+            "C": "31",
+            "D": "35"
+          },
+          "correct_answer": "A",
+          "explanation": "Let cost per kg = 1 Mark Price = 1.2/kg Total cost = 35 Total selling price = 35x 1.15 = 40.25 [(5x1.2 )+ (15x 1.2 x 0.9)+ (3× 0) + (12×1.2× (1 + p/100 ))] = 40.25 p= 25"
+        },
+        {
+          "id": "cat-2020-slot3-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Vimla starts for office every day at 9 am and reaches exactly on time if she drives at her usual speed of 40 km/hr. She is late by\n6 minutes if she drives at 35 km/hr. One day, she covers two-thirds of her distance to office in one-thirds of her usual time to\nreach office, and then stops for 8 minutes. The speed, in km/hr, at which she should drive the remaining distance to reach office\nexactly on time is",
+          "options": {
+            "A": "27",
+            "B": "28",
+            "C": "26",
+            "D": "29"
+          },
+          "correct_answer": "B",
+          "explanation": "Let usual time taken is t 40 x t = 35 x (t + 6) So t = 42 mins Distance = 40 x 42/60 = 28kms So 28 x 2/3 = 56/3 kms are covered in 42/3 = 14 mins Vimla stops for 8 mins. Time left = 42 – 14 – 8 = 20 mins So 28/3 kms are to be covered in 20 mins. Speed = (28/3)/(20/60) = 28kmph"
+        },
+        {
+          "id": "cat-2020-slot3-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many integers in the set {100, 101, 102, ..., 999} have at least one digit repeated? (in numerical value)",
+          "options": {
+            "A": "252",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "252",
+          "explanation": "Three digit numbers without repetition = 9 × 9 × 8 = 648 So three digit numbers with at least one digit repeated = 900 – 648 = 252"
+        },
+        {
+          "id": "cat-2020-slot3-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A batsman played n + 2 innings and got out on all occasions. His average score in these n + 2 innings was 29 runs and he\nscored 38 and 15 runs in the last two innings. The batsman scored less than 38 runs in each of the first n innings. In these n\ninnings, his average score was 30 runs and lowest score was x runs. The smallest possible value of x is",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "B",
+          "explanation": "Total score of (n+2) innings = 29x(n+2) = 29n + 58 Total score of n innings = 29n + 58 – 38 – 15 = 30n So n=5 So total score in 5 innings = 30 × 5 = 150 Maximum score in any inning = 37 So 150 – (37× 4) = 2"
+        },
+        {
+          "id": "cat-2020-slot3-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let k be a constant. The equations kx + y = 3 and 4x + ky = 4 have a unique solution if and only if",
+          "options": {
+            "A": "k ≠ 2",
+            "B": "|k| = 2",
+            "C": "k = 2",
+            "D": "|k| ≠ 2"
+          },
+          "correct_answer": "D",
+          "explanation": "K/4 = 1/K So K2 = 4 |K| = 2"
+        },
+        {
+          "id": "cat-2020-slot3-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Dick is thrice as old as Tom and Harry is twice as old as Dick. If Dick's age is 1 year less than the average age of all three, then\nHarry's age, in years, is (in numerical value)",
+          "options": {
+            "A": "18",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "18",
+          "explanation": "Let age of Tom = x So age of Dick = 3x and Harry = 6x So (x + 3x + 6x)/3 - 3x = 1 x = 3 So Harry’s age = 18"
+        },
+        {
+          "id": "cat-2020-slot3-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The vertices of a triangle are (0, 0), and (4, 0) and (3, 9). The area of the circle passing through these three points is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "C",
+          "explanation": "Let coordinates of the circumcenter be (x, y) Now just equating the distance of this point from the vertices of the triangle. x2 + y2 = (x – 4)2 + y2 x2 + y2 = (x – 3)2 + (y – 9)2 On solving these two equations we get x=2 and y= 13/3 So R2 = (22 + (13/3)2) = 205/9 Area = 205π/9"
+        },
+        {
+          "id": "cat-2020-slot3-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A person invested a certain amount of money at 10% annual interest, compounded half-yearly. After one and a half years, the\ninterest and principal together became Rs 18522. The amount, in rupees, that the person had invested is (in numerical value)",
+          "options": {
+            "A": "16000",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "16000",
+          "explanation": "P (1 +5/100)3 = 18522 P = 16000"
+        },
+        {
+          "id": "cat-2020-slot3-qa-69",
+          "number": 69,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "(in numerical value)",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "14a = 36b = 84c = K 14 = k1/a 84 = k1/c 36 = k1/b (84/14)2 = 36 K(2/c – 2/a) = K1/b 2(1/c – 1/a) = 1/b 2b(1/c - 1/a) = 1 So 6b(1/c - 1/a) = 3"
+        },
+        {
+          "id": "cat-2020-slot3-qa-70",
+          "number": 70,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The points (2, 1) and (-3, -4) are opposite vertices of a parallelogram. If the other two vertices lie on the line x + 9y + c = 0, then\nc is",
+          "options": {
+            "A": "14",
+            "B": "15",
+            "C": "12",
+            "D": "13"
+          },
+          "correct_answer": "A",
+          "explanation": "The diagonals will intersect at the midpoint of the line joining (2,1) and (-3,-4). This point will be (-1/2 , -3/2). The line x+9y +c =0 will also pass through (-1/2 , -3/2) so -1/2 + 9x-3/2 + c = 0 c = 14"
+        },
+        {
+          "id": "cat-2020-slot3-qa-71",
+          "number": 71,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Then m - 2n equals",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "3",
+            "D": "1"
+          },
+          "correct_answer": "D",
+          "explanation": "As N is even and N/11 lies between 0.2 and 0.5, So N has to be 4. N/M is less than 0.5, So M has to be greater than 8 but has to be less than 10 as M/20 is also less than 0.5 So M = 9 M – 2N = 9 – 8= 1"
+        },
+        {
+          "id": "cat-2020-slot3-qa-72",
+          "number": 72,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x = -1 and x = x + (m + 1) for every positive integer m, then x equals\n1 m m+1 100",
+          "options": {
+            "A": "-5150",
+            "B": "-5051",
+            "C": "-5050",
+            "D": "-5151"
+          },
+          "correct_answer": "C",
+          "explanation": "X = -1, X = -3 , X = -6, X = -10 1 2 3 4 So you can observe the pattern X = -n(n+1)/2 n X = -100x101/2 = - 5050"
+        },
+        {
+          "id": "cat-2020-slot3-qa-73",
+          "number": 73,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many of the integers 1, 2, ….., 120, are divisible by none of 2, 5 and 7?",
+          "options": {
+            "A": "40",
+            "B": "42",
+            "C": "41",
+            "D": "43"
+          },
+          "correct_answer": "C",
+          "explanation": "Euler Number of 120 is 120 x 1/2 x 4/5 = 48. So 48 numbers are there which are neither divisible by 2, nor by 5. But since the question is asking for the numbers which are not divisible by 7 also, so we need to find odd multiples of 7 but not to take multiples of 5 in them. So the numbers which have to be deleted are 7 x 1 = 7, 7 x 3 = 21, 7 x 7 = 49, 7 x 9 = 63, 7 x 11 = 77, 7 x 13 = 91 and 7 x 17 = 119. Hence these 7 numbers will be subtracted from the 48 numbers which we have just calculated. Hence required answer = 48 - 7 = 41."
+        },
+        {
+          "id": "cat-2020-slot3-qa-74",
+          "number": 74,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A contractor agreed to construct a 6 km road in 200 days. He employed 140 persons for the work. After 60 days, he realized\nthat only 1.5 km road has been completed. How many additional people would he need to employ in order to finish the work\nexactly on time? (in numerical value)",
+          "options": {
+            "A": "40",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "40",
+          "explanation": "To complete 1.5 km, 140 persons took 60 days So to complete the remaining 4.5 km, 140 persons would have taken = 60×3 = 180 days Now to complete 180 days work in (200 – 60) = 140 days: Number of persons required = 140 × 180/140 = 180 Additional persons = 180 – 140 = 40"
+        },
+        {
+          "id": "cat-2020-slot3-qa-75",
+          "number": 75,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many pairs (a, b) of positive integers are there such that a ≤ b and ab = 42017?",
+          "options": {
+            "A": "2017",
+            "B": "2019",
+            "C": "2018",
+            "D": "2020"
+          },
+          "correct_answer": "C",
+          "explanation": "Ax B = 42017 A x B = 24034 Now A and B are factors of 24034 Total factors of the above number are 4035 So there are 4035 cases possible So there will be one case where A= B. (4035 – 1)/2 = 2017 cases will be there A>B, these cases are invalid. So 4035 – 2017 = 2018 cases"
+        },
+        {
+          "id": "cat-2020-slot3-qa-76",
+          "number": 76,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let m and n be positive integers, If x2 + mx + 2n = 0 and x2 + 2nx + m = 0 have real roots, then the smallest possible value of\nm + n is",
+          "options": {
+            "A": "5",
+            "B": "8",
+            "C": "7",
+            "D": "6"
+          },
+          "correct_answer": "D",
+          "explanation": "m2 – 8n > = 0 and 4n2 – 4m > = 0 Now the smallest value m can take for the first equation is m=3 and n =1, but this will not satisfy the second equation. If m= 4 then n= 2 So m + n = 6"
+        }
+      ]
+    }
+  }
+}

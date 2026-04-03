@@ -1,0 +1,1799 @@
+{
+  "id": "cat-2017-slot2",
+  "year": 2017,
+  "slot": 2,
+  "title": "CAT 2017 Slot II",
+  "has_solutions": true,
+  "total_questions": 100,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2017-slot2-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Creativity is at once our most precious resource and our most inexhaustible one. As anyone who has ever spent any time with\nchildren knows, every single human being is born creative; every human being is innately endowed with the ability to combine\nand recombine data, perceptions, materials and ideas, and devise new ways of thinking and doing. What fosters creativity?\nMore than anything else: the presence of other creative people. The big myth is that creativity is the province of great individual\ngeniuses. In fact creativity is a social process. Our biggest creative breakthroughs come when people learn from, compete with,\nand collaborate with other people.\nCities are the true fonts of creativity... With their diverse populations, dense social networks, and public spaces where people\ncan meet spontaneously and serendipitously, they spark and catalyze new ideas. With their infrastructure for finance,\norganization and trade, they allow those ideas to be swiftly actualized.\nAs for what staunches creativity, that's easy, if ironic. It's the very institutions that we build to manage, exploit and perpetuate\nthe fruits of creativity — our big bureaucracies, and sad to say, too many of our schools. Creativity is disruptive; schools and\norganizations are regimented, standardized and stultifying.\nThe education expert Sir Ken Robinson points to a 1968 study reporting on a group of 1,600 children who were tested over\ntime for their ability to think in out-of-the-box ways. When the children were between 3 and 5 years old, 98 percent achieved\npositive scores. When they were 8 to 10, only 32 percent passed the same test, and only 10 percent at 13 to 15. When 280,000\n25-year-olds took the test, just 2 percent passed. By the time we are adults, our creativity has been wrung out of us.\nI once asked the great urbanist Jane Jacobs what makes some places more creative than others. She said, essentially, that the\nquestion was an easy one. All cities, she said, were filled with creative people; that's our default state as people. But some cities\nhad more than their shares of leaders, people and institutions that blocked out that creativity. She called them \"squelchers.\"\nCreativity (or the lack of it) follows the same general contours of the great socio-economic divide - our rising inequality - that\nplagues us. According to my own estimates, roughly a third of us across the United States, and perhaps as much as half of us in\nour most creative cities - are able to do work which engages our creative faculties to some extent, whether as artists, musicians,\nwriters, techies, innovators, entrepreneurs, doctors, lawyers, journalists or educators - those of us who work with our minds.\nThat leaves a group that I term \"the other 66 percent,\" who toil in low-wage rote and rotten jobs — if they have jobs at all — in\nwhich their creativity is subjugated, ignored or wasted.\nCreativity itself is not in danger. It's flourishing is all around us - in science and technology, arts and culture, in our rapidly\nrevitalizing cities. But we still have a long way to go if we want to build a truly creative society that supports and rewards the\ncreativity of each and every one of us.\nIn the author's view, cities promote human creativity for all the following reasons EXCEPT that they",
+          "options": {
+            "A": "contain spaces that enable people to meet and share new ideas.",
+            "B": "expose people to different and novel ideas, because they are home to varied groups of people.",
+            "C": "provide the financial and institutional networks that enable ideas to become reality.",
+            "D": "provide access to cultural activities that promote new and creative ways of thinking."
+          },
+          "correct_answer": "D",
+          "explanation": "(1), (2) and (3) are mentioned in the second paragraph, refer to “diverse populations” - (2), “new ideas” - (1) and “infrastructure for finance, organization” - (3)."
+        },
+        {
+          "id": "cat-2017-slot2-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author uses 'ironic' in the third paragraph to point out that",
+          "options": {
+            "A": "people need social contact rather than isolation to nurture their creativity",
+            "B": "institutions created to promote creativity eventually stifle it",
+            "C": "the larger the creative population in a city, the more likely it is to be stifled",
+            "D": "large bureaucracies and institutions are the inevitable outcome of successful cities"
+          },
+          "correct_answer": "B",
+          "explanation": "While (4) is beside the point, (1) does not address the question at hand. (3) goes contrary to received wisdom in the passage. (2) is explicitly mentioned in the third paragraph, refer to “what staunches creativity …. It's the very institutions”."
+        },
+        {
+          "id": "cat-2017-slot2-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The central idea of this passage is that",
+          "options": {
+            "A": "social interaction is necessary to nurture creativity",
+            "B": "creativity and ideas are gradually declining in all societies",
+            "C": "the creativity divide is widening in societies in line with socio-economic trends",
+            "D": "more people should work in jobs that engage their creative faculties"
+          },
+          "correct_answer": "A",
+          "explanation": "Neither (2) nor (3) are mentioned as such in the passage. (4) is a recommendation, not the central idea of the passage. The passage is on creativity, and the central idea can be found in the first paragraph itself - “What fosters creativity? … the presence of other creative people”, a theme that resonates throughout the passage."
+        },
+        {
+          "id": "cat-2017-slot2-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Jane Jacobs believed that cities that are more creative",
+          "options": {
+            "A": "have to struggle to retain their creativity",
+            "B": "have to 'squelch' unproductive people and promote creative ones",
+            "C": "have leaders and institutions that do not block creativity",
+            "D": "typically do not start off as creative hubs"
+          },
+          "correct_answer": "C",
+          "explanation": "The alarming view in (2) is not echoed in the passage. (4) also runs contrary to the passage, Jane Jacobs argues in the fifth paragraph that all cities are filled with creative people. (1) is a lay opinion. Jane Jacobs argues that “some cities had more than their shares of leaders, people and institutions that blocked out that creativity”, hence we can safely infer that the more creative cities have leaders and institutions that do not block creativity."
+        },
+        {
+          "id": "cat-2017-slot2-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The 1968 study is used here to show that",
+          "options": {
+            "A": "as they get older, children usually learn to be more creative",
+            "B": "schooling today does not encourage creative thinking in children",
+            "C": "the more children learn, the less creative they become",
+            "D": "technology today prevents children from being creative."
+          },
+          "correct_answer": "B",
+          "explanation": "(1) again runs contrary to the passage, which places creativity as inversely proportional to age. (4) is not mentioned in the passage. (3) paints with too brand a brush. (2) is resonated in the third paragraph, “staunches creativity … many of our schools”."
+        },
+        {
+          "id": "cat-2017-slot2-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author's conclusions about the most 'creative cities' in the US (paragraph 6) are based on his assumption that",
+          "options": {
+            "A": "people who work with their hands are not doing creative work.",
+            "B": "more than half the population works in non-creative jobs.",
+            "C": "only artists, musicians., writers., and so on should be valued in a society.",
+            "D": "most cities ignore or waste the creativity of low-wage workers"
+          },
+          "correct_answer": "A",
+          "explanation": "(2) is not supported by the passage, refer to “the other 66 percent who toil” in the sixth paragraph. The recommendation in (3) is not the author's. (4) assumes that low-wage workers are creative, which is suspect. The author mentions “work which engages our creative faculties … those of us who work with our minds”, the assumption then being that those who work with their hands are not creative."
+        },
+        {
+          "id": "cat-2017-slot2-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "During the frigid season...it's often necessary to nestle under a blanket to try to stay warm. The temperature difference between\nthe blanket and the air outside is so palpable that we often have trouble leaving our warm refuge. Many plants and animals\nsimilarly hunker down, relying on snow cover for safety from winter's harsh conditions. The small area between the snowpack\nand the ground, called the subnivium...might be the most important ecosystem that you have never heard of.\nThe subnivium is so well-insulated and stable that its temperature holds steady at around 32 degree Fahrenheit (0 degree\nCelsius). Although that might still sound cold, a constant temperature of 32 degree Fahrenheit can often be 30 to 40 degrees\nwarmer than the air temperature during the peak of winter. Because of this large temperature difference, a wide variety of\nspecies...depend on the subnivium for winter protection.\nFor many organisms living in temperate and Arctic regions, the difference between being under the snow or outside it is a\nmatter of life and death. Consequently, disruptions to the subnivium brought about by climate change will affect everything\nfrom population dynamics to nutrient cycling through the ecosystem.\nThe formation and stability of the subnivium requires more than a few flurries. Winter ecologists have suggested that eight\ninches of snow is necessary to develop a stable layer of insulation. Depth is not the only factor, however. More accurately, the\nstability of the subnivium depends on the interaction between snow depth and snow density. Imagine being under a stack of\nblankets that are all flattened and pressed together. When compressed, the blankets essentially form one compacted layer. In\ncontrast, when they are lightly placed on top of one another, their insulative capacity increases because the air pockets\nbetween them trap heat. Greater depths of low-density snow are therefore better at insulating the ground.\nBoth depth and density of snow are sensitive to temperature. Scientists are now beginning to explore how climate change will\naffect the subnivium, as well as the species that depend on it. At first glance, warmer winters seem beneficial for species that\nhave difficulty surviving subzero temperatures; however, as with most ecological phenomena, the consequences are not so\nstraightforward. Research has shown that the snow season (the period when snow is more likely than rain) has become shorter\nsince 1970. When rain falls on snow, it increases the density of the snow and reduces its insulative capacity. Therefore, even\nthough winters are expected to become warmer overall from future climate change, the subnivium will tend to become colder\nand more variable with less protection from the above-ground temperatures.\nThe effects of a colder subnivium are complex...For example, shrubs such as crowberry and alpine a2alea that grow along the",
+          "passage_group": 2,
+          "question": "forest floor tend to block the wind and so retain higher depths of snow around them. This captured snow helps to keep soils\ninsulated and in turn increases plant decomposition and nutrient release. In field experiments, researchers removed a portion of\nthe snow cover to investigate the importance of the subnivium's insulation. They found that soil frost in the snow-free area\nresulted in damage to plant roots and sometimes even the death of the plant.\nThe purpose of this passage is to",
+          "options": {
+            "A": "introduce readers to a relatively unknown ecosystem: the subnivium",
+            "B": "explain how the subnivium works to provide shelter and food to several species.",
+            "C": "outline the effects of climate change on the subnivium.",
+            "D": "draw an analogy between the effect of blankets on humans and of snow cover on species living in the subnivium."
+          },
+          "correct_answer": "C",
+          "explanation": "(4) refers to an analogy, which by itself cannot be the purpose of the passage. (2) does not mention how the subnivium is compromised by climate change. (1) also occupies a safe orbit. Paragraph 5 comes to the point - refer to “Scientists are now beginning to explore how climate change will affect the subnivium”. Hence, (3) is the answer."
+        },
+        {
+          "id": "cat-2017-slot2-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "During the frigid season...it's often necessary to nestle under a blanket to try to stay warm. The temperature difference between\nthe blanket and the air outside is so palpable that we often have trouble leaving our warm refuge. Many plants and animals\nsimilarly hunker down, relying on snow cover for safety from winter's harsh conditions. The small area between the snowpack\nand the ground, called the subnivium...might be the most important ecosystem that you have never heard of.\nThe subnivium is so well-insulated and stable that its temperature holds steady at around 32 degree Fahrenheit (0 degree\nCelsius). Although that might still sound cold, a constant temperature of 32 degree Fahrenheit can often be 30 to 40 degrees\nwarmer than the air temperature during the peak of winter. Because of this large temperature difference, a wide variety of\nspecies...depend on the subnivium for winter protection.\nFor many organisms living in temperate and Arctic regions, the difference between being under the snow or outside it is a\nmatter of life and death. Consequently, disruptions to the subnivium brought about by climate change will affect everything\nfrom population dynamics to nutrient cycling through the ecosystem.\nThe formation and stability of the subnivium requires more than a few flurries. Winter ecologists have suggested that eight\ninches of snow is necessary to develop a stable layer of insulation. Depth is not the only factor, however. More accurately, the\nstability of the subnivium depends on the interaction between snow depth and snow density. Imagine being under a stack of\nblankets that are all flattened and pressed together. When compressed, the blankets essentially form one compacted layer. In\ncontrast, when they are lightly placed on top of one another, their insulative capacity increases because the air pockets\nbetween them trap heat. Greater depths of low-density snow are therefore better at insulating the ground.\nBoth depth and density of snow are sensitive to temperature. Scientists are now beginning to explore how climate change will\naffect the subnivium, as well as the species that depend on it. At first glance, warmer winters seem beneficial for species that\nhave difficulty surviving subzero temperatures; however, as with most ecological phenomena, the consequences are not so\nstraightforward. Research has shown that the snow season (the period when snow is more likely than rain) has become shorter\nsince 1970. When rain falls on snow, it increases the density of the snow and reduces its insulative capacity. Therefore, even\nthough winters are expected to become warmer overall from future climate change, the subnivium will tend to become colder\nand more variable with less protection from the above-ground temperatures.\nThe effects of a colder subnivium are complex...For example, shrubs such as crowberry and alpine a2alea that grow along the",
+          "passage_group": 2,
+          "question": "All of the following statements are true EXCEPT",
+          "options": {
+            "A": "Snow depth and snow density both influence the stability of the subnivium.",
+            "B": "Climate change has some positive effects on the subnivium.",
+            "C": "The subnivium maintains a steady temperature that can be 30 to 40 degrees warmer than the winter air temperature.",
+            "D": "Researchers have established the adverse effects of dwindling snow cover on the subnivium."
+          },
+          "correct_answer": "B",
+          "explanation": "(1) finds mention in paragraph 5 - “Both depth and density of snow are sensitive to temperature”. (3) is mentioned in paragraph 2 - “a constant temperature of 32 degrees Fahrenheit can often be 30 to 40 degrees warmer than the air temperature”. (4) finds mention in the last paragraph - “In field experiments, researchers removed a portion of the snow cover to investigate the importance of the subnivium's insulation. They found that soil frost in the snow-free area resulted in damage to plant roots”. But positive effects of climate change, if any, cannot be discerned in the passage."
+        },
+        {
+          "id": "cat-2017-slot2-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "During the frigid season...it's often necessary to nestle under a blanket to try to stay warm. The temperature difference between\nthe blanket and the air outside is so palpable that we often have trouble leaving our warm refuge. Many plants and animals\nsimilarly hunker down, relying on snow cover for safety from winter's harsh conditions. The small area between the snowpack\nand the ground, called the subnivium...might be the most important ecosystem that you have never heard of.\nThe subnivium is so well-insulated and stable that its temperature holds steady at around 32 degree Fahrenheit (0 degree\nCelsius). Although that might still sound cold, a constant temperature of 32 degree Fahrenheit can often be 30 to 40 degrees\nwarmer than the air temperature during the peak of winter. Because of this large temperature difference, a wide variety of\nspecies...depend on the subnivium for winter protection.\nFor many organisms living in temperate and Arctic regions, the difference between being under the snow or outside it is a\nmatter of life and death. Consequently, disruptions to the subnivium brought about by climate change will affect everything\nfrom population dynamics to nutrient cycling through the ecosystem.\nThe formation and stability of the subnivium requires more than a few flurries. Winter ecologists have suggested that eight\ninches of snow is necessary to develop a stable layer of insulation. Depth is not the only factor, however. More accurately, the\nstability of the subnivium depends on the interaction between snow depth and snow density. Imagine being under a stack of\nblankets that are all flattened and pressed together. When compressed, the blankets essentially form one compacted layer. In\ncontrast, when they are lightly placed on top of one another, their insulative capacity increases because the air pockets\nbetween them trap heat. Greater depths of low-density snow are therefore better at insulating the ground.\nBoth depth and density of snow are sensitive to temperature. Scientists are now beginning to explore how climate change will\naffect the subnivium, as well as the species that depend on it. At first glance, warmer winters seem beneficial for species that\nhave difficulty surviving subzero temperatures; however, as with most ecological phenomena, the consequences are not so\nstraightforward. Research has shown that the snow season (the period when snow is more likely than rain) has become shorter\nsince 1970. When rain falls on snow, it increases the density of the snow and reduces its insulative capacity. Therefore, even\nthough winters are expected to become warmer overall from future climate change, the subnivium will tend to become colder\nand more variable with less protection from the above-ground temperatures.\nThe effects of a colder subnivium are complex...For example, shrubs such as crowberry and alpine a2alea that grow along the",
+          "passage_group": 2,
+          "question": "Based on this extract, the author would support which one of the following actions?",
+          "options": {
+            "A": "The use of snow machines in .winter to ensure snow cover of at least eight inches.",
+            "B": "Government action to curb climate change.",
+            "C": "Adding nutrients to the soil in winter.",
+            "D": "Planting more shrubs in areas of short snow season."
+          },
+          "correct_answer": "B",
+          "explanation": "If climate change is the critical factor, then regulations have to curb global warming. (1), (3) and (4) are stop-gap measures at best, and completely uncertain at worst. Hence, (2) is the apt answer."
+        },
+        {
+          "id": "cat-2017-slot2-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "During the frigid season...it's often necessary to nestle under a blanket to try to stay warm. The temperature difference between\nthe blanket and the air outside is so palpable that we often have trouble leaving our warm refuge. Many plants and animals\nsimilarly hunker down, relying on snow cover for safety from winter's harsh conditions. The small area between the snowpack\nand the ground, called the subnivium...might be the most important ecosystem that you have never heard of.\nThe subnivium is so well-insulated and stable that its temperature holds steady at around 32 degree Fahrenheit (0 degree\nCelsius). Although that might still sound cold, a constant temperature of 32 degree Fahrenheit can often be 30 to 40 degrees\nwarmer than the air temperature during the peak of winter. Because of this large temperature difference, a wide variety of\nspecies...depend on the subnivium for winter protection.\nFor many organisms living in temperate and Arctic regions, the difference between being under the snow or outside it is a\nmatter of life and death. Consequently, disruptions to the subnivium brought about by climate change will affect everything\nfrom population dynamics to nutrient cycling through the ecosystem.\nThe formation and stability of the subnivium requires more than a few flurries. Winter ecologists have suggested that eight\ninches of snow is necessary to develop a stable layer of insulation. Depth is not the only factor, however. More accurately, the\nstability of the subnivium depends on the interaction between snow depth and snow density. Imagine being under a stack of\nblankets that are all flattened and pressed together. When compressed, the blankets essentially form one compacted layer. In\ncontrast, when they are lightly placed on top of one another, their insulative capacity increases because the air pockets\nbetween them trap heat. Greater depths of low-density snow are therefore better at insulating the ground.\nBoth depth and density of snow are sensitive to temperature. Scientists are now beginning to explore how climate change will\naffect the subnivium, as well as the species that depend on it. At first glance, warmer winters seem beneficial for species that\nhave difficulty surviving subzero temperatures; however, as with most ecological phenomena, the consequences are not so\nstraightforward. Research has shown that the snow season (the period when snow is more likely than rain) has become shorter\nsince 1970. When rain falls on snow, it increases the density of the snow and reduces its insulative capacity. Therefore, even\nthough winters are expected to become warmer overall from future climate change, the subnivium will tend to become colder\nand more variable with less protection from the above-ground temperatures.\nThe effects of a colder subnivium are complex...For example, shrubs such as crowberry and alpine a2alea that grow along the",
+          "passage_group": 2,
+          "question": "In paragraph 6, the author provides the examples of crowberry and alpine azalea to demonstrate that",
+          "options": {
+            "A": "Despite frigid temperatures, several species survive in temperate and Arctic regions.",
+            "B": "Due to frigid temperatures in the temperate and Arctic regions., plant species that survive tend to be shrubs rather than trees.",
+            "C": "The crowberry and alpine azalea are abundant in temperate and Arctic regions.",
+            "D": "The stability of the subnivium depends on several interrelated factors, including shrubs on the forest floor."
+          },
+          "correct_answer": "D",
+          "explanation": "Examples of crowberry and alpine azalea demonstrate that shrubs help maintain higher depths of snow, which in turn keeps soils insulated and increases plant decomposition and nutrient release. Conversely, lower depths of snow results in soil frost which damages plants. (1) does not address this aspect at all. (2) also misses the point. Nor does (3) address the impact shrubs have on the subnivium. (4) mentions how shrubs can protect the subnivium, among other factors."
+        },
+        {
+          "id": "cat-2017-slot2-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "During the frigid season...it's often necessary to nestle under a blanket to try to stay warm. The temperature difference between\nthe blanket and the air outside is so palpable that we often have trouble leaving our warm refuge. Many plants and animals\nsimilarly hunker down, relying on snow cover for safety from winter's harsh conditions. The small area between the snowpack\nand the ground, called the subnivium...might be the most important ecosystem that you have never heard of.\nThe subnivium is so well-insulated and stable that its temperature holds steady at around 32 degree Fahrenheit (0 degree\nCelsius). Although that might still sound cold, a constant temperature of 32 degree Fahrenheit can often be 30 to 40 degrees\nwarmer than the air temperature during the peak of winter. Because of this large temperature difference, a wide variety of\nspecies...depend on the subnivium for winter protection.\nFor many organisms living in temperate and Arctic regions, the difference between being under the snow or outside it is a\nmatter of life and death. Consequently, disruptions to the subnivium brought about by climate change will affect everything\nfrom population dynamics to nutrient cycling through the ecosystem.\nThe formation and stability of the subnivium requires more than a few flurries. Winter ecologists have suggested that eight\ninches of snow is necessary to develop a stable layer of insulation. Depth is not the only factor, however. More accurately, the\nstability of the subnivium depends on the interaction between snow depth and snow density. Imagine being under a stack of\nblankets that are all flattened and pressed together. When compressed, the blankets essentially form one compacted layer. In\ncontrast, when they are lightly placed on top of one another, their insulative capacity increases because the air pockets\nbetween them trap heat. Greater depths of low-density snow are therefore better at insulating the ground.\nBoth depth and density of snow are sensitive to temperature. Scientists are now beginning to explore how climate change will\naffect the subnivium, as well as the species that depend on it. At first glance, warmer winters seem beneficial for species that\nhave difficulty surviving subzero temperatures; however, as with most ecological phenomena, the consequences are not so\nstraightforward. Research has shown that the snow season (the period when snow is more likely than rain) has become shorter\nsince 1970. When rain falls on snow, it increases the density of the snow and reduces its insulative capacity. Therefore, even\nthough winters are expected to become warmer overall from future climate change, the subnivium will tend to become colder\nand more variable with less protection from the above-ground temperatures.\nThe effects of a colder subnivium are complex...For example, shrubs such as crowberry and alpine a2alea that grow along the",
+          "passage_group": 2,
+          "question": "Which one of the following statements can be inferred from the passage?",
+          "options": {
+            "A": "In an ecosystem, altering any one element has a ripple effect on all others.",
+            "B": "Climate change affects temperate and Artie regions more than equatorial or arid ones.",
+            "C": "A compact layer of wool is warmer than a similarly compact layer of goose down.",
+            "D": "The loss of the subnivium, while tragic, will affect only temperate and Artie regions."
+          },
+          "correct_answer": "A",
+          "explanation": "Since equatorial and arid regions are not discussed in the passage, no conclusions as in (2) can be drawn. Likewise, we have no information to conclude whether the loss of the subnivium would affect only temperate and Arctic regions, so (4) is suspect. Which kind of blanket will provide maximum protection from the cold would trivialize the passage, hence (3) is ruled out. (1), however, can be inferred from the third paragraph of the passage. Refer to “disruptions to the subnivium brought about by climate change will affect everything from population dynamics to nutrient cycling through the ecosystem”."
+        },
+        {
+          "id": "cat-2017-slot2-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "During the frigid season...it's often necessary to nestle under a blanket to try to stay warm. The temperature difference between\nthe blanket and the air outside is so palpable that we often have trouble leaving our warm refuge. Many plants and animals\nsimilarly hunker down, relying on snow cover for safety from winter's harsh conditions. The small area between the snowpack\nand the ground, called the subnivium...might be the most important ecosystem that you have never heard of.\nThe subnivium is so well-insulated and stable that its temperature holds steady at around 32 degree Fahrenheit (0 degree\nCelsius). Although that might still sound cold, a constant temperature of 32 degree Fahrenheit can often be 30 to 40 degrees\nwarmer than the air temperature during the peak of winter. Because of this large temperature difference, a wide variety of\nspecies...depend on the subnivium for winter protection.\nFor many organisms living in temperate and Arctic regions, the difference between being under the snow or outside it is a\nmatter of life and death. Consequently, disruptions to the subnivium brought about by climate change will affect everything\nfrom population dynamics to nutrient cycling through the ecosystem.\nThe formation and stability of the subnivium requires more than a few flurries. Winter ecologists have suggested that eight\ninches of snow is necessary to develop a stable layer of insulation. Depth is not the only factor, however. More accurately, the\nstability of the subnivium depends on the interaction between snow depth and snow density. Imagine being under a stack of\nblankets that are all flattened and pressed together. When compressed, the blankets essentially form one compacted layer. In\ncontrast, when they are lightly placed on top of one another, their insulative capacity increases because the air pockets\nbetween them trap heat. Greater depths of low-density snow are therefore better at insulating the ground.\nBoth depth and density of snow are sensitive to temperature. Scientists are now beginning to explore how climate change will\naffect the subnivium, as well as the species that depend on it. At first glance, warmer winters seem beneficial for species that\nhave difficulty surviving subzero temperatures; however, as with most ecological phenomena, the consequences are not so\nstraightforward. Research has shown that the snow season (the period when snow is more likely than rain) has become shorter\nsince 1970. When rain falls on snow, it increases the density of the snow and reduces its insulative capacity. Therefore, even\nthough winters are expected to become warmer overall from future climate change, the subnivium will tend to become colder\nand more variable with less protection from the above-ground temperatures.\nThe effects of a colder subnivium are complex...For example, shrubs such as crowberry and alpine a2alea that grow along the",
+          "passage_group": 2,
+          "question": "In paragraph 1, the author uses blankets as a device to",
+          "options": {
+            "A": "evoke the bitter cold of winter in the minds of readers.",
+            "B": "explain how blankets work to keep us warm.",
+            "C": "draw an analogy between blankets and the snowpack.",
+            "D": "alert readers to the fatal effects of excessive exposure to the cold."
+          },
+          "correct_answer": "C",
+          "explanation": "The example of blankets is used to demonstrate the benefits of greater depths of low-density snow to insulate the ground. Hence, (1), (2) and (4) which explain the mechanics of winter bedtime are rejected. The answer is thus (3)."
+        },
+        {
+          "id": "cat-2017-slot2-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The end of the age of the internal combustion engine is in sight. There are small signs everywhere: the shift to hybrid vehicles is\nalready under way among manufacturers. Volvo has announced it will make no purely petrol-engined cars after 2019...and Tesla\nhas just started selling its first electric car aimed squarely at the middle classes: the Tesla 3 sells for $35,000 in the US, and\n400,000 people have put down a small, refundable deposit towards one. Several thousand have already taken delivery, and the\ncompany hopes to sell half a million more next year. This is a remarkable figure for a machine with a fairly short range and a",
+          "passage_group": 3,
+          "question": "very limited number of specialised charging stations.\nSome of it reflects the remarkable abilities of Elon Musk, the company's founder, as a salesman, engineer, and a man able to\nget the most out his factory workers and the governments he deals with...Mr Musk is selling a dream that the world wants to\nbelieve in.\nThis last may be the most important factor in the story. The private car is...a device of immense practical help and economic\nsignificance, but at the same time a theatre for myths of unattainable self-fulfilment. The one thing you will never see in a car\nadvertisement is traffic, even though that is the element in which drivers spend their lives. Every single driver in a traffic jam is\ntrying to escape from it, yet it is the inevitable consequence of mass car ownership.\nThe sleek and swift electric car is at one level merely the most contemporary fantasy of autonomy and power. But it might also\ndisrupt our exterior landscapes nearly as much as the fossil fuel-engined car did in the last century. Electrical cars would of\ncourse pollute far less than fossil fuel-driven ones; instead of oil reserves, the rarest materials for batteries would make\nundeserving despots and their dynasties fantastically rich. Petrol stations would disappear. The air in cities would once more be\nbreathable and their streets as quiet as those of Venice. This isn't an unmixed good. Cars that were as silent as bicycles would\nstill be as dangerous as they are now to anyone they hit without audible warning.\nThe dream goes further than that. The electric cars of the future will be so thoroughly equipped with sensors and reaction\nmechanisms that they will never hit anyone. Just as brakes don't let you skid today, the steering wheel of tomorrow will swerve\nyou away from danger before you have even noticed it...\nThis is where the fantasy of autonomy comes full circle. The logical outcome of cars which need no driver is that they will\nbecome cars which need no owner either. Instead, they will work as taxis do, summoned at will but only for the journeys we\nactually need. This the future towards which Uber...is working. The ultimate development of the private car will be to reinvent\npublic transport. Traffic jams will be abolished only when the private car becomes a public utility. What then will happen to our\nfantasies of independence? We'll all have to take to electrically powered bicycles.\nWhich of the following statements best reflects the author's argument?",
+          "options": {
+            "A": "Hybrid and electric vehicles signal the end of the age of internal combustion engines.",
+            "B": "Elon Musk is a remarkably gifted salesman.",
+            "C": "The private car represents an unattainable myth of independence.",
+            "D": "The future Uber car will be environmentally friendlier than even the Tesla."
+          },
+          "correct_answer": "C",
+          "explanation": "The sentence “ Ms Musk is selling a dream that the world wants to believe in” in the second paragraph gives a peep into the author's scepticism. The second sentence of the third paragraph talks about “unattainable self-fulfilment”. The subsequent sentences talk about how the potential car- buyer is never told of the traffic jams which will rob him of independence. Thus, the myth of independence of the private car is perpetuated."
+        },
+        {
+          "id": "cat-2017-slot2-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The end of the age of the internal combustion engine is in sight. There are small signs everywhere: the shift to hybrid vehicles is\nalready under way among manufacturers. Volvo has announced it will make no purely petrol-engined cars after 2019...and Tesla\nhas just started selling its first electric car aimed squarely at the middle classes: the Tesla 3 sells for $35,000 in the US, and\n400,000 people have put down a small, refundable deposit towards one. Several thousand have already taken delivery, and the\ncompany hopes to sell half a million more next year. This is a remarkable figure for a machine with a fairly short range and a",
+          "passage_group": 3,
+          "question": "The author points out all of the following about electric cars EXCEPT",
+          "options": {
+            "A": "Their reliance on rare materials for batteries will support despotic rule.",
+            "B": "They will reduce air and noise pollution.",
+            "C": "They will not decrease the number of traffic jams.",
+            "D": "They will ultimately undermine rather than further driver autonomy."
+          },
+          "correct_answer": "D",
+          "explanation": "The 4th paragraph mentions clearly that in place of today's oil despots, there will be new undeserving despots – those who control these rare material for batteries - who will become fantastically rich. This makes 1 true; thus 1 is ruled out. “...once more breathable ..” in the same paragraph makes 2 true ; thus 2 is ruled out. “Traffic jams will be abolished only when. . . . ” in the last paragraph makes 3 true ; thus 3 is ruled out."
+        },
+        {
+          "id": "cat-2017-slot2-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The end of the age of the internal combustion engine is in sight. There are small signs everywhere: the shift to hybrid vehicles is\nalready under way among manufacturers. Volvo has announced it will make no purely petrol-engined cars after 2019...and Tesla\nhas just started selling its first electric car aimed squarely at the middle classes: the Tesla 3 sells for $35,000 in the US, and\n400,000 people have put down a small, refundable deposit towards one. Several thousand have already taken delivery, and the\ncompany hopes to sell half a million more next year. This is a remarkable figure for a machine with a fairly short range and a",
+          "passage_group": 3,
+          "question": "According to the author, the main reason for Tesla's remarkable sales is that",
+          "options": {
+            "A": "in the long run, the Tesla is more cost effective than fossil fuel-driven cars.",
+            "B": "the US government has announced a tax subsidy for Tesla buyers.",
+            "C": "the company is rapidly upscaling the number of specialised charging stations for customer convenience.",
+            "D": "people believe in the autonomy represented by private cars."
+          },
+          "correct_answer": "D",
+          "explanation": "“The sleek and swift .... autonomy and power” at the beginning of the 4th paragraph makes 4 the right choice. The other points : “ more cost-effective than fossil fuel-driven cars”, “tax subsidy for Tesla” or “ the company upscaling charging stations ...” are not explicitly mentioned in the passage ."
+        },
+        {
+          "id": "cat-2017-slot2-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The end of the age of the internal combustion engine is in sight. There are small signs everywhere: the shift to hybrid vehicles is\nalready under way among manufacturers. Volvo has announced it will make no purely petrol-engined cars after 2019...and Tesla\nhas just started selling its first electric car aimed squarely at the middle classes: the Tesla 3 sells for $35,000 in the US, and\n400,000 people have put down a small, refundable deposit towards one. Several thousand have already taken delivery, and the\ncompany hopes to sell half a million more next year. This is a remarkable figure for a machine with a fairly short range and a",
+          "passage_group": 3,
+          "question": "The author comes to the conclusion that",
+          "options": {
+            "A": "car drivers will no longer own cars but will have to use public transport.",
+            "B": "cars will be controlled by technology that is more efficient than car drivers.",
+            "C": "car drivers dream of autonomy but the future may be public transport.",
+            "D": "electrically powered bicycles are the only way to achieve autonomy in transportation."
+          },
+          "correct_answer": "C",
+          "explanation": "At the beginning of the last paragraph, the author says “the fantasy of autonomy comes full circle” . What the author suggests by the use of the term “comes full circle,” is that it completes a cycle and returns to its beginnings. That is, there will be no autonomy. He goes on to say, through the balance part of the paragraph, that public transport will be reinvented. Thus, the future may well be public transport."
+        },
+        {
+          "id": "cat-2017-slot2-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The end of the age of the internal combustion engine is in sight. There are small signs everywhere: the shift to hybrid vehicles is\nalready under way among manufacturers. Volvo has announced it will make no purely petrol-engined cars after 2019...and Tesla\nhas just started selling its first electric car aimed squarely at the middle classes: the Tesla 3 sells for $35,000 in the US, and\n400,000 people have put down a small, refundable deposit towards one. Several thousand have already taken delivery, and the\ncompany hopes to sell half a million more next year. This is a remarkable figure for a machine with a fairly short range and a",
+          "passage_group": 3,
+          "question": "In paragraphs 5 and 6, the author provides the example of Uber to argue that",
+          "options": {
+            "A": "in the future, electric cars will be equipped with mechanisms that prevent collisions.",
+            "B": "in the future, traffic jams will not exist.",
+            "C": "in the future, the private car will be transformed into a form of public transport.",
+            "D": "in the future, Uber rides will outstrip Tesla sales."
+          },
+          "correct_answer": "C",
+          "explanation": "In the last paragraph, the author says through the sentence “The logical outcome of cars which need no driver is that they will need no owner either”. This means that they will become public transport. The author clinches his point through phrases like “summoned at will”."
+        },
+        {
+          "id": "cat-2017-slot2-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The end of the age of the internal combustion engine is in sight. There are small signs everywhere: the shift to hybrid vehicles is\nalready under way among manufacturers. Volvo has announced it will make no purely petrol-engined cars after 2019...and Tesla\nhas just started selling its first electric car aimed squarely at the middle classes: the Tesla 3 sells for $35,000 in the US, and\n400,000 people have put down a small, refundable deposit towards one. Several thousand have already taken delivery, and the\ncompany hopes to sell half a million more next year. This is a remarkable figure for a machine with a fairly short range and a",
+          "passage_group": 3,
+          "question": "In paragraph 6, the author mentions electrically powered bicycles to argue that",
+          "options": {
+            "A": "if Elon Musk were a true visionary, he would invest funds in developing electric bicycles.",
+            "B": "our fantasies of autonomy might unexpectedly require us to consider electric bicycles.",
+            "C": "in terms of environmental friendliness and safety, electric bicycles rather than electric cars are the future.",
+            "D": "electric buses are the best form of public transport."
+          },
+          "correct_answer": "B",
+          "explanation": "Note the sentences in the last paragraph, “Traffic jams will be abolished only when the car becomes a public utility. What will happen to our fantasies of independence? We will all have to take to electrically powered bicycles”. Since independence and autonomy are synonymous, the author suggests that we will need to consider bicycles if we want autonomy."
+        },
+        {
+          "id": "cat-2017-slot2-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Typewriters are the epitome of a technology that has been comprehensively rendered obsolete by the digital age. The ink\ncomes off the ribbon, they weigh a ton, and second thoughts are a disaster. But they are also personal, portable and, above all,\nprivate. Type a document and lock it away and more or less the only way anyone else can get it is if you give it to them. That is\nwhy the Russians have decided to go back to typewriters in some government offices, and why in the US, some departments\nhave never abandoned them. Yet it is not just their resistance to algorithms and secret surveillance that keeps typewriter\nproduction lines - well one, at least - in business (the last British one closed a year ago). Nor is it only the nostalgic appeal of\nthe metal body and the stout well-defined keys that make them popular on eBay. A typewriter demands something particular:\nattentiveness. By the time the paper is loaded, the ribbon tightened, the carriage returned, the spacing and the margins set,\nthere's a big premium on hitting the right key. That means sorting out ideas, pulling together a kind of order and organising\ndetails before actually striking off. There can be no thinking on screen with a typewriter. Nor are there any easy distractions. No\nonline shopping. No urgent emails. No Twitter. No need even for electricity - perfect for writing in a remote hideaway. The\nthinking process is accompanied by the encouraging clack of keys, and the ratchet of the carriage return. Ping!\nWhich one of the following best describes what the passage is trying to do?",
+          "options": {
+            "A": "It describes why people continue to use typewriters even in the digital age.",
+            "B": "It argues that typewriters will continue to be used even though they are an obsolete technology.",
+            "C": "It highlights the personal benefits of using typewriters.uture.",
+            "D": "It shows that computers offer fewer options than typewriters."
+          },
+          "correct_answer": "A",
+          "explanation": "Throughout the passage, the author is explaining why the typewriter continues to be used even in today's digital age. Some of the reasons he has given are that they are personal and private. The information typed on a typewriter cannot be leaked out. He also talks about its nostalgic value. It does not need electricity and can, therefore, be used even in remote locations."
+        },
+        {
+          "id": "cat-2017-slot2-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, some governments still use typewriters because:",
+          "options": {
+            "A": "they do not want to abandon old technologies that may be useful in the future.",
+            "B": "they want to ensure that typewriter production lines remain in business.",
+            "C": "they like the nostalgic appeal of typewriter.",
+            "D": "they can control who reads the document."
+          },
+          "correct_answer": "D",
+          "explanation": "The fourth sentence of the passage “Type a document and lock it away and more or less the only way anyone else can get it is if you give it to them” clearly shows that it is possible to control who reads the document."
+        },
+        {
+          "id": "cat-2017-slot2-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The writer praises typewriters for all the following reasons EXCEPT",
+          "options": {
+            "A": "Unlike computers, they can only be used for typing.",
+            "B": "You cannot revise what you have typed on a typewriter.",
+            "C": "Typewriters are noisier than computers.",
+            "D": "Typewriters are messier to use than computers."
+          },
+          "correct_answer": "D",
+          "explanation": "Options 1, 2 and 3 are positive in connotation. Even “noisier than computers” seems to be a welcome thing; look at “encouraging clack” of keys. Clearly, the only thing that is not welcome about the typewriter is that it is messier than that the computer."
+        },
+        {
+          "id": "cat-2017-slot2-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Despite their fierce reputation. Vikings may not have always been the plunderers and pillagers popular culture imagines them\nto be. In fact, they got their start trading in northern European markets, researchers suggest.\nCombs carved from animal antlers, as well as comb manufacturing waste and raw antler material has turned up at three\narchaeological sites in Denmark, including a medieval marketplace in the city of Ribe. A team of researchers from Denmark and\nthe U.K. hoped to identify the species of animal to which the antlers once belonged by analyzing collagen proteins in the",
+          "passage_group": 5,
+          "question": "samples and comparing them across the animal kingdom, Laura Geggel reports for LiveScience. Somewhat surprisingly,\nmolecular analysis of the artifacts revealed that some combs and other material had been carved from reindeer antlers.... Given\nthat reindeer (Rangifer tarandus) don't live in Denmark, the researchers posit that it arrived on Viking ships from Norway. Antler\ncraftsmanship, in the form of decorative combs, was part of Viking culture. Such combs served as symbols of good health,\nGeggel writes. The fact that the animals shed their antlers also made them easy to collect from the large herds that inhabited\nNorway.\nSince the artifacts were found in marketplace areas at each site it's more likely that the Norsemen came to trade rather than\npillage. Most of the artifacts also date to the 780s, but some are as old as 725. That predates the beginning of Viking raids on\nGreat Britain by about 70 years. (Traditionally, the so-called \"Viking Age\" began with these raids in 793 and ended with the\nNorman conquest of Great Britain in 1066.) Archaeologists had suspected that the Vikings had experience with long maritime\nvoyages [that] might have preceded their raiding days. Beyond Norway, these combs would have been a popular industry in\nScandinavia as well. It's possible that the antler combs represent a larger trade network, where the Norsemen supplied raw\nmaterial to craftsmen in Denmark and elsewhere.\nThe primary purpose of the passage is:",
+          "options": {
+            "A": "to explain the presence of reindeer antler combs in Denmark.",
+            "B": "to contradict the widely-accepted beginning date for the Viking Age in Britain, and propose an alternate one.",
+            "C": "to challenge the popular perception of Vikings as raiders by using evidence that suggests their early trade relations with Europe.",
+            "D": "to argue that besides being violent pillagers, Vikings were also skilled craftsmen and efficient traders."
+          },
+          "correct_answer": "C",
+          "explanation": "The passage begins with “Despite their fierce reputation...”. It goes on to suggest that the Vikings were traders too. The second paragraph begins with “Since the artifacts were found in marketplaces...”. Thus, they had trade relations with Europe."
+        },
+        {
+          "id": "cat-2017-slot2-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Despite their fierce reputation. Vikings may not have always been the plunderers and pillagers popular culture imagines them\nto be. In fact, they got their start trading in northern European markets, researchers suggest.\nCombs carved from animal antlers, as well as comb manufacturing waste and raw antler material has turned up at three\narchaeological sites in Denmark, including a medieval marketplace in the city of Ribe. A team of researchers from Denmark and\nthe U.K. hoped to identify the species of animal to which the antlers once belonged by analyzing collagen proteins in the",
+          "passage_group": 5,
+          "question": "The evidence - \"Most of the artifacts also date to the 780s, but some are as old as 725\" - has been used in the passage to argue\nthat:",
+          "options": {
+            "A": "the beginning date of the Viking Age should be changed from 793 to 725.",
+            "B": "the Viking raids started as early as 725.",
+            "C": "some of the antler artifacts found in Denmark and Great Britain could have come from Scandinavia.",
+            "D": "the Vikings' trade relations with Europe pre-dates the Viking raids."
+          },
+          "correct_answer": "D",
+          "explanation": "The second paragraph clearly says that the raids began in 793 while some of the artifacts are as old as 725. Clearly, the trade relations of the Vikings with Europe predated the raids."
+        },
+        {
+          "id": "cat-2017-slot2-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Despite their fierce reputation. Vikings may not have always been the plunderers and pillagers popular culture imagines them\nto be. In fact, they got their start trading in northern European markets, researchers suggest.\nCombs carved from animal antlers, as well as comb manufacturing waste and raw antler material has turned up at three\narchaeological sites in Denmark, including a medieval marketplace in the city of Ribe. A team of researchers from Denmark and\nthe U.K. hoped to identify the species of animal to which the antlers once belonged by analyzing collagen proteins in the",
+          "passage_group": 5,
+          "question": "All of the following hold true for Vikings EXCEPT",
+          "options": {
+            "A": "Vikings brought reindeer from Norway to Denmark for trade purposes.",
+            "B": "Before becoming the raiders of northern Europe, Vikings had trade relations with European nations.",
+            "C": "Antler combs, regarded by the Vikings as a symbol of good health, were part of the Viking culture.",
+            "D": "Vikings, once upon a. time, had trade relations with Denmark and Scandinavia."
+          },
+          "correct_answer": "A",
+          "explanation": "Options 2, 3 and 4 are explicitly mentioned in the passage. Read the lines” it arrived on Viking ships from Norway.” The author says reindeer antlers arrived on ships from Norway not reindeer. Hence 1 is the right choice."
+        },
+        {
+          "id": "cat-2017-slot2-varc-25",
+          "number": 25,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "North American walnut sphinx moth caterpillars (Amorpha juglandis) look like easy meals for birds, but they have a trick up\ntheir sleeves—they produce whistles that sound like bird alarm calls, scaring potential predators away. At first, scientists\nsuspected birds were simply startled by the loud noise. But a new study suggests a more sophisticated mechanism: the\ncaterpillar's whistle appears to mimic a bird alarm call, sending avian predators scrambling for cover. When pecked by a bird,\nthe caterpillars whistle by compressing their bodies like an accordion and forcing air out through specialized holes in their\nsides. The whistles are impressively loud - they have been measured at over 80 dB from 5 cm away from the caterpillar -\nconsidering they are made by a two-inch long insect.",
+          "options": {
+            "A": "North American walnut sphinx moth caterpillars will whistle periodically to ward off predator birds - they have a specialized vocal tract that helps them whistle.",
+            "B": "North American walnut sphinx moth caterpillars can whistle very loudly; the loudness of their whistles is shocking as they are very small insects.",
+            "C": "North American walnut sphinx moth caterpillars, in a case of acoustic deception, produce whistles that mimic bird alarm calls to defend themselves.",
+            "D": "North American walnut sphinx moth caterpillars, in a case of deception and camouflage, produce whistles that mimic bird alarm calls to defend themselves."
+          },
+          "correct_answer": "C",
+          "explanation": "Option 1 cannot be the appropriate summary because it fails to mention that the walnut sphinx moth caterpillars make use of acoustic deception to ward off predators. Further, it is not stated in the paragraph that they have specialized vocal cords. Even option 2 fails to capture the essence of the paragraph as it does not mention the point – the acoustic deception used by the caterpillars to mimic bird alarm calls Between options 3 and 4, the former is appropriate as option 4 talks about deception and not “acoustic deception” which is employed by the birds. Further, it is not mentioned in the paragraph that the caterpillars use “camouflage” to trick the predators. Hence option 3 captures the essence of the paragraph."
+        },
+        {
+          "id": "cat-2017-slot2-varc-26",
+          "number": 26,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Both Socrates and Bacon were very good at asking useful questions. In fact, Socrates is largely credited with corning up with a\nway of asking questions, 'the Socratic method/ which itself is at the core of the 'scientific method, 'popularised by Bacon. The\nSocratic method disproves arguments by finding exceptions to them, and can therefore lead your opponent to a point where\nthey admit something that contradicts their original position. In common with Socrates, Bacon stressed it was as important to\ndisprove a theory as it was to prove one - and real-world observation and experimentation were key to achieving both aims.\nBacon also saw science as a collaborative affair, with scientists working together, challenging each other.",
+          "options": {
+            "A": "Both Socrates and Bacon advocated clever questioning of the opponents to disprove their arguments and theories.",
+            "B": "Both Socrates and Bacon advocated challenging arguments and theories by observation and experimentation.",
+            "C": "Both Socrates and Bacon advocated confirming arguments and theories by finding exceptions.",
+            "D": "Both Socrates and Bacon advocated examining arguments and theories from both sides to prove them."
+          },
+          "correct_answer": "D",
+          "explanation": "It can be understood from the paragraph that both Socrates and Bacon believed that arguments and theories can be validated only by examining them from both sides. This point is stated only in option 4. Option 1, which states that Socrates and Bacon advocated clever questioning in order to disprove the arguments and theories put forth by opponents, is not the appropriate summary of the paragraph. Option 2 captures only a part of the argument. Option 3 is a distortion of the paragraph."
+        },
+        {
+          "id": "cat-2017-slot2-varc-27",
+          "number": 27,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A fundamental property of language is that it is slippery and messy and more liquid than solid, a gelatinous mass that changes\nshape to fit. As Wittgenstein would remind us, \"usage has no sharp boundary.\" Oftentimes, the only way to determine the\nmeaning of a word is to examine how it is used. This insight is often described as the \"meaning is use\" doctrine. There are\ndifferences between the \"meaning is use\" doctrine and a dictionary-first theory of meaning. \"The dictionary's careful fixing of\nwords to definitions, like butterflies pinned under glass, can suggest that this is how language works. The definitions can seem\nto ensure and fix the meaning of words, just as the gold standard can back a country's currency.\" What Wittgenstein found in\nthe circulation of ordinary language, however, was a free-floating currency of meaning. The value of each word arises out of the\nexchange. The lexicographer abstracts a meaning from that exchange, which is then set within the conventions of the dictionary\ndefinition.",
+          "options": {
+            "A": "Dictionary definitions are like 'gold standards' - artificial, theoretical and dogmatic. Actual meaning of words is their free- exchange value.",
+            "B": "Language is already slippery; given this, accounting for 'meaning in use' will only exasperate the problem. That is why lexicographers 'fix' meanings",
+            "C": "Meaning is dynamic; definitions are static. The 'meaning in use' theory helps us understand that definitions of words are culled from their meaning in exchange and use and not vice versa.",
+            "D": "The meaning of words in dictionaries is clear, fixed and less dangerous and ambiguous than the meaning that arises when words are exchanged between people."
+          },
+          "correct_answer": "C",
+          "explanation": "The main point of the paragraph is that language is fluid and its meaning is derived from usage and exchange. Lexicographers abstract the meaning from that exchange and this meaning is then set within the meaning of the dictionary definition. This point is covered only in option 3. Options 2 and 4, which suggest the converse of what is stated in the paragraph, are easy eliminations. Option 1 captures only a part of the paragraph as it does not mention that the definitions of words are extracted from their meaning in exchange."
+        },
+        {
+          "id": "cat-2017-slot2-varc-28",
+          "number": 28,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The implications of retelling of Indian stories, hence, take on new meaning in a modern India.\n2. The stories we tell reflect the world around us.\n3. We cannot help but retell the stories that we value - after all, they are never quite right for us - in our time.\n4. And even if we manage to get them quite right, they are only right for us - other people living around us will have different\nreasons for telling similar stories.\n5. As soon as we capture a story, the world we were trying to capture has changed.",
+          "options": {
+            "A": "25341",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "25341",
+          "explanation": "Statement 2, which is general statement, begins the paragraph declaring that the stories that we tell reflect the world around us. 5 complements 2 stating that as soon as we capture a story, the world we were trying to capture has changed. 3 carries the discussion forward by emphasizing that we cannot but retell the stories that we value. 4 is linked to 3 - “never quite right” (statement 3) and “even if we manage to get them quite right” (statement 4). 1 concludes the para stating that the implications of retelling stories take on a new meaning in a modern India. Therefore, 25341 is the appropriate sequence."
+        },
+        {
+          "id": "cat-2017-slot2-varc-29",
+          "number": 29,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1.Before plants can take life from atmosphere, nitrogen must undergo transformations similar to ones that food undergoes in\nour digestive machinery.\n2. In its aerial form nitrogen is insoluble, unusable and is in need of transformation.\n3. Lightning starts the series of chemical reactions that need to happen to nitrogen, ultimately helping it nourish our earth.\n4. Nitrogen - an essential food for plants - is an abundant resource, with about 22 million tons of it floating over each square\nmile of earth.\n5. One of the most dramatic examples in nature of ill wind that blows goodness is lightning.",
+          "options": {
+            "A": "53421",
+            "B": "C)",
+            "D": "DIRECTION for the question: The six sentences (labelled 1,2,3,4,5 and 6) given in this question, when properly sequenced, form a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of six numbers as your answer."
+          },
+          "correct_answer": "53421",
+          "explanation": "5 begins the paragraph by talking about the importance of lightning. 3, which states that lightning starts the series of chemical reactions that need to happen to nitrogen, and ultimately helps it to nourish the earth, is a continuation of 5. 4 follows 3 by explaining how nitrogen nourishes the earth with its ubiquitous presence over each square mile on earth. 2 follows by describing that nitrogen, in its aerial form is insoluble and that it is in need of transformation. 1 complements 2 explaining how nitrogen must undergo transformation similar to the way that food undergoes transformation in our digestive machinery. The logical sequence is 53421."
+        },
+        {
+          "id": "cat-2017-slot2-varc-30",
+          "number": 30,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1.This has huge implications for the health care system as it operates today, where depleted resources and time lead to patients\nrotating in and out of doctor's offices, oftentimes receiving minimal care or concern (what is commonly referred to as \"bed side\nmanner\") from doctors.\n2. The placebo effect is when an individual's medical condition or pain shows signs of improvement based on a fake\nintervention that has been presented to them as a real one and used to be regularly dismissed by researchers as a\npsychological effect.\n3. The placebo effect is not solely based on believing in treatment, however, as the clinical setting in which treatments are\nadministered is also paramount.\n4. That the mind has the power to trigger biochemical changes because the individual believes that a given drug or intervention\nwill be effective could empower chronic patients through the notion of our bodies' capacity for self-healing.\n5. Placebo effects are now studied not just as foils for \"real\" interventions but as a potential portal into the self-healing powers\nof the body.",
+          "options": {
+            "A": "25431",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "25431",
+          "explanation": "2 begins the paragraph describing placebo effect and goes on to state that placebo effect used to be dismissed by researchers as a psychological effect. 5 follows 2 stating that placebo effects are now being studied as a potential portal into the self-healing powers of the body. 4 follows 5 elaborating on the effectiveness of placebo effect in empowering chronic patients to believe in the notion of our bodies' capacity for self-healing. 3 carries forward the discussion stating that the placebo effect is not based only on believing in treatment and that the clinical setting in which treatments are administered is also important. 1 concludes the paragraph reiterating the importance of placebo effect in providing effective treatment. The appropriate sequence is 25431."
+        },
+        {
+          "id": "cat-2017-slot2-varc-31",
+          "number": 31,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Johnson treated English very practically, as a living language, with many different shades of meaning and adopted his\ndefinitions on the principle of English common law - according to precedent.\n2. Masking a profound inner torment, Johnson found solace in compiling the words of a language that was, in its coarse\ncomplexity and comprehensive genius, the precise analogue of his character.\n3. Samuel Johnson was a pioneer who raised common sense to heights of genius, and a man of robust popular instincts whose\nwatchwords were clarity, precision and simplicity.\n4. The 18th century English reader, in the new world of global trade and global warfare, needed a dictionary with authoritative\nacts of definition of words of a language that was becoming seeded throughout the first British empire by a vigorous and\npractical champion.\n5. The Johnson who challenged Bishop Berkeley's solipsist theory of the nonexistence of matter by kicking a large stone (\"I\nrefute it thus\") is the same Johnson for whom language must have a daily practical use.",
+          "options": {
+            "A": "43512",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "43512",
+          "explanation": "4 begins the paragraph describing how the dictionary was a necessity for the 18th century reader and this cause was championed by a vigorous and practical champion. 3 follows 4 describing this champion – Samuel Johnson and goes on to describe Johnson's qualities. 5 follows 3 by elaborating on Johnson's watchwords, stating that Johnson believed that language must have a daily practical use. 1 complements 5 elaborating on how Johnson treated English very practically. 2 concludes the paragraph with the statement that Johnson masked a profound inner torment and found solace in compiling words."
+        },
+        {
+          "id": "cat-2017-slot2-varc-32",
+          "number": 32,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Although we are born with the gift of language, research shows that we are surprisingly unskilled when it comes to\ncommunicating with others.\n2. We must carefully orchestrate our speech if we want to achieve our goals and bring our dreams to fruition.\n3. We often choose our words without thought, oblivious of the emotional effects they can have on others.\n4. We talk more than we need to, ignoring the effect we are having on those listening to us.\n\n5. We listen poorly, without realizing it, and we often fail to pay attention to the subtle meanings conveyed by facial\nexpressions, body gestures, and the tone and cadence of our voice.",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "Statement 1, which states that although we are born with the gift of language, we are not skilled when it comes to communicating with others. 5 follows 1 explaining how we end up being unskilled in communicating with others. 3 and 4 further elaborate on how we are unskilled while communicating others. Therefore, 1,5,3 and 4 form a sequence and 2, which has an advisory tone and mentions how we must orchestrate our speech if we want to achieve our goals, conveys a different idea and is, therefore, the odd man out."
+        },
+        {
+          "id": "cat-2017-slot2-varc-33",
+          "number": 33,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Over the past fortnight, one of its finest champions managed to pull off a similar impression.\n2. Wimbledon's greatest illusion is the sense of timelessness it evokes.\n3. At 35 years and 342 days, Roger Federer became the oldest man to win the singles title in the Open Era - a full 14 years after\nhe first claimed the title as a scruffy, pony-tailed upstart.\n4. Once he had survived the opening week, the second week witnessed the range of a rested Federer's genius.\n5. Given that his method isn't reliant on explosive athleticism or muscular ball-striking, both vulnerable to decay, there is cause\nto believe that Federer will continue to enchant for a while longer.",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "It's elementary to pair (2) and (1) as “similar impression” in (1) refers to “the sense of timelessness” in (2). (3) comes to the point and identifies the “one ...finest champions” as Roger Federer. (5) follows by giving reasonable reasons for his longevity. However, (4) refers to match specifics, which is out of the broad scope of this particular paragraph."
+        },
+        {
+          "id": "cat-2017-slot2-varc-34",
+          "number": 34,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Those geometric symbols and aerodynamic swooshes are more than just skin deep.\n2. The Commonwealth Bank logo - a yellow diamond, with a black chunk sliced out in one corner - is so recognisable that the\nbank doesn't even use its full name in its advertising.\n3. It's not just logos with hidden shapes; sometimes brands will have meanings or stories within them that are deliberately\nvague or lost in time, urging you to delve deeper to solve the riddle.\n4. Graphic designers embed cryptic references because it adds a story to the brand; they want people to spend more time with\na brand and have that idea that they are an insider if they can understand the hidden message.\n5. But the Comm Bank logo has more to it than meets the eye, as squirrelled away in that diamond is the Southern Cross\nconstellation.",
+          "options": {
+            "A": "1",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1",
+          "explanation": "(2) introduces the Commonwealth Bank logo and (5) ups the ante for the bank logo. (4) explains what designers do thus to enhance a brand value and (3) takes the paragraph into a “deeper” context. Again, (1) makes reference to symbols, whereas only a 'logo' is specified in the passage, hence the answer is (1)."
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2017-slot2-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Funky Pizzaria was required to supply pizzas to three different parties. The total number of pizzas it had to deliver was 800, 70%\nof which were to be delivered to Party 3 and the rest equally divided between Party 1 and Party 2.\nPizzas could be of Thin Crust (T) or Deep Dish (D) variety and come in either Normal Cheese (NC) or Extra Cheese (EC) versions.\nHence, there are four types of pizzas: T-NC, T-EC, D-NC and D-EC. Partial information about proportions of T and NC pizzas\nordered by the three parties is given below:\nNormal Cheese\nThin Crust (T)\n(NC)\nParty 1 0.6\nParty 2 0.55 0.3\nParty 3 0.65\nTotal 0.375 0.52\nHow many Thin Crust pizzas were to be delivered to Party 3?",
+          "options": {
+            "A": "398",
+            "B": "162",
+            "C": "196",
+            "D": "364"
+          },
+          "correct_answer": "B",
+          "explanation": "Thin Crust Deep Dish Normal Cheese Extra Cheese Normal Cheese Extra Cheese Party 1 x 72 - x w 48 - w 120 Party 2 y 66 - y 36 - y 18 + y 120 Party 3 z 162 - z 364 - z 34 + z 560 Total 800 300 500 Thin Crust pizzas delivered to party 3 = z + 162 – z = 162."
+        },
+        {
+          "id": "cat-2017-slot2-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many Normal Cheese pizzas were required to be delivered to Party 1?",
+          "options": {
+            "A": "104",
+            "B": "84",
+            "C": "16",
+            "D": "196"
+          },
+          "correct_answer": "C",
+          "explanation": "Thin Crust Deep Dish Normal Cheese Extra Cheese Normal Cheese Extra Cheese Party 1 x 72 - x w 48 - w 120 Party 2 y 66 - y 36 - y 18 + y 120 Party 3 z 162 - z 364 - z 34 + z 560 Total 800 300 500 Total Normal Cheese pizzas delivered to the three parties = 0.52 (800) = 416 From the table, 416 = (x + y +z) + (w +36 –y + 364 – z) 416 = 400 + w + x ⇒ w + x = 16 So, party 1 ordered 16 Normal Cheese pizzas"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For Party 2, if 50% of the Normal Cheese pizzas were of Thin Crust variety, what was the difference between the numbers of T-\nEC and D-EC pizzas to be delivered to Party 2?",
+          "options": {
+            "A": "18",
+            "B": "12",
+            "C": "30",
+            "D": "24"
+          },
+          "correct_answer": "B",
+          "explanation": "Thin Crust Deep Dish Normal Cheese Extra Cheese Normal Cheese Extra Cheese Party 1 x 72 - x w 48 - w 120 Party 2 y 66 - y 36 - y 18 + y 120 Party 3 z 162 - z 364 - z 34 + z 560 Total 800 300 500 Given, of the 36 Normal Cheese pizzas delivered to party 2, 50% or 18 were of Thin Crust variety ∴ y = 18. Difference between 66 – y and 18 + y = 48 –2y = 48 – 36 = 12"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose that a T-NC pizza cost as much as a D-NC pizza, but 3/5th of the price of a D-EC pizza. A D-EC pizza costs Rs. 50 more\nthan a T-EC pizza, and the latter costs Rs. 500.\nIf 25% of the Normal Cheese pizzas delivered to Party 1 were of Deep Dish variety, what was the total bill for Party 1?",
+          "options": {
+            "A": "Rs. 59480",
+            "B": "Rs. 59840",
+            "C": "Rs. 42520",
+            "D": "Rs. 45240"
+          },
+          "correct_answer": "A",
+          "explanation": "Thin Crust Deep Dish Normal Cheese Extra Cheese Normal Cheese Extra Cheese Party 1 x 72 - x w 48 - w 120 Party 2 y 66 - y 36 - y 18 + y 120 Party 3 z 162 - z 364 - z 34 + z 560 Total 800 300 500 We already know, w + x = 16 Further, we’re told that of the x + w Normal Cheese pizzas delivered to party 1, 25% are of Deep Dish variety. So, x = 12 and w = 4 Cost of a T-EC pizza = Rs. 500 Cost of a D-EC pizza = Rs. 550 Cost of a T-NC pizza = Rs. 330 Cost of a D-NC pizza = Rs. 330 Total pizza bill for part 1 = 12 (330) + 60(500) + 4(330) + 44(550) = Rs. 59,480"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There were seven elective courses - El to E7 - running in a specific term in a college. Each of the 300 students enrolled had\nchosen just one elective from among these seven. However, before the start of the term, E7 was withdrawn as the instructor\nconcerned had left the college. The students who had opted for E7 were allowed to join any of the remaining electives. Also,\nthe students who had chosen other electives were given one chance to change their choice. The table below captures the\nmovement of the students from one elective to another during this process. Movement from one elective to the same elective\nsimply means no movement. Some numbers in the table got accidentally erased; however, it is known that these were either 0\nor 1.\nTo Elective\nEl E2 E3 E4 E5 E6\nEl 9 5 10 1 4 2\nE2 34 8 2 2\nE3 2 6 25 2\nFrom\nE4 3 2 14 4\nElective\nE5 5 30\nE6 7 3 2 9\nE7 4 16 30 5 5 41\nFurther, the following are known:\n1. Before the change process there were 6 more students in E1 than in E4, but after the reshuffle, the number of students in E4\nwas 3 more than that in E1.\n2. The number of students in E2 increased by 30 after the change process.\n3. Before the change process, E4 had 2 more students than E6, while E2 had 10 more students than E3.\nHow many elective courses among E1 to E6 had a decrease in their enrollments after the change process?",
+          "options": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "correct_answer": "C",
+          "explanation": "STEP I: Given that after change, E2 is 30 more than before. E2 before was at least 46. E2 (after was 76). So, E2 before must have been 76- 30 = 46. That indicates that the two empty cells can be filled as 0 each across the row E2. Hence, the table will be as follows (after this condition). STEP II: Given that before change E1 = E4 + 6. Now, E1 (before) = 31. Further, E4 (before) must be more than 23 (3 + 2 + 14 + 4 + data in two empty cells). That indicates, the two empty cells across E4 must be 1 and 1. So, after this step, the cells can be filled up as follows. STEP III: Given that after change, E1 = E4 -3. It is to be noted that E1 (afterwards) can be at least 16 and at most 18. E4 (column) cannot be 20, as in that case, the total number of zeroes will cross 4. E4 must be 21. So, that E1 (afterwards) will be 18. This indicates, there must be 3 zeroes in E4 and one entry as “1” in the column E4. All other entries will be “1”. The electives which had a decrease in the enrollments after the change process are E1, E4. So, a total of 2 electives."
+        },
+        {
+          "id": "cat-2017-slot2-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "After the change process, which of the following is the correct sequence of number of students in the six electives El to E6?",
+          "options": {
+            "A": "19, 76, 79, 21, 45, 60",
+            "B": "19, 76, 78, 22, 45, 60",
+            "C": "18, 76, 79, 23, 43, 61",
+            "D": "18, 76, 79, 21, 45, 61"
+          },
+          "correct_answer": "D",
+          "explanation": "STEP I: Given that after change, E2 is 30 more than before. E2 before was at least 46. E2 (after was 76). So, E2 before must have been 76- 30 = 46. That indicates that the two empty cells can be filled as 0 each across the row E2. Hence, the table will be as follows (after this condition). STEP II: Given that before change E1 = E4 + 6. Now, E1 (before) = 31. Further, E4 (before) must be more than 23 (3 + 2 + 14 + 4 + data in two empty cells). That indicates, the two empty cells across E4 must be 1 and 1. So, after this step, the cells can be filled up as follows. STEP III: Given that after change, E1 = E4 -3. It is to be noted that E1 (afterwards) can be at least 16 and at most 18. E4 (column) cannot be 20, as in that case, the total number of zeroes will cross 4. E4 must be 21. So, that E1 (afterwards) will be 18. This indicates, there must be 3 zeroes in E4 and one entry as “1” in the column E4. All other entries will be “1”. After the change process, correct sequence of number of persons in electives E1 to E6 is as shown below: ⇒ 18, 76, 79, 21, 45 and 61."
+        },
+        {
+          "id": "cat-2017-slot2-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "After the change process, which course among El to E6 had the largest change in its enrollment as a percentage of its original\nenrollment?",
+          "options": {
+            "A": "El",
+            "B": "E2",
+            "C": "E3",
+            "D": "E6"
+          },
+          "correct_answer": "D",
+          "explanation": "STEP I: Given that after change, E2 is 30 more than before. E2 before was at least 46. E2 (after was 76). So, E2 before must have been 76- 30 = 46. That indicates that the two empty cells can be filled as 0 each across the row E2. Hence, the table will be as follows (after this condition). STEP II: Given that before change E1 = E4 + 6. Now, E1 (before) = 31. Further, E4 (before) must be more than 23 (3 + 2 + 14 + 4 + data in two empty cells). That indicates, the two empty cells across E4 must be 1 and 1. So, after this step, the cells can be filled up as follows. STEP III: Given that after change, E1 = E4 -3. It is to be noted that E1 (afterwards) can be at least 16 and at most 18. E4 (column) cannot be 20, as in that case, the total number of zeroes will cross 4. E4 must be 21. So, that E1 (afterwards) will be 18. This indicates, there must be 3 zeroes in E4 and one entry as “1” in the column E4. All other entries will be “1”. The maximum change occurs in E6. From 23 to 61. A change of 38 and a % change of approx 165%"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Later, the college imposed a condition that if after the change of electives, the enrollment in any elective (other than E7)\ndropped to less than 20 students, all the students who had left that course will be required to re-enroll for that elective.\nWhich of the following is a correct sequence of electives in decreasing order of their final enrollments?",
+          "options": {
+            "A": "E2, E3, E6, E5, El, E4",
+            "B": "E3, E2, E6, E5, E4, El",
+            "C": "E2, E5, E3, El, E4, E6",
+            "D": "E2, E3, E5, E6, El, E3"
+          },
+          "correct_answer": "A",
+          "explanation": "STEP I: Given that after change, E2 is 30 more than before. E2 before was at least 46. E2 (after was 76). So, E2 before must have been 76- 30 = 46. That indicates that the two empty cells can be filled as 0 each across the row E2. Hence, the table will be as follows (after this condition). STEP II: Given that before change E1 = E4 + 6. Now, E1 (before) = 31. Further, E4 (before) must be more than 23 (3 + 2 + 14 + 4 + data in two empty cells). That indicates, the two empty cells across E4 must be 1 and 1. So, after this step, the cells can be filled up as follows. STEP III: Given that after change, E1 = E4 -3. It is to be noted that E1 (afterwards) can be at least 16 and at most 18. E4 (column) cannot be 20, as in that case, the total number of zeroes will cross 4. E4 must be 21. So, that E1 (afterwards) will be 18. This indicates, there must be 3 zeroes in E4 and one entry as “1” in the column E4. All other entries will be “1”. Total number of persons in E1 (after the shift) is less than 20. All the 31 persons (earlier in E1) stayed back in E1. This implies no one shifted to E2, E3, E4, E5 and E6. In this scenario, total number of persons is as shown below. The number of persons in decreasing order: E2, E3, E6, E5, E1, E4."
+        },
+        {
+          "id": "cat-2017-slot2-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "An old woman had the following assets:\n(a) Rs. 70 lakh in bank deposits\n(b) 1 house worth Rs. 50 lakh\n(c) 3 flats, each worth Rs. 30 lakh\n(d) Certain number of gold coins, each worth Rs. 1 lakh\nShe wanted to distribute her assets among her three children; Neeta, Seeta and Geeta.\nThe house, any of the flats or any of the coins were not to be split. That is, the house went entirely to one child; a flat went to\none child and similarly, a gold coin went to one child.\nAmong the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets\nwas distributed equally among the children, as were the gold coins.\nHow much did Seeta receive in bank deposits (in lakhs of rupees)?",
+          "options": {
+            "A": "30",
+            "B": "40",
+            "C": "20",
+            "D": "10"
+          },
+          "correct_answer": "C",
+          "explanation": "Total amount distributed by the old woman = Rs.70 lakh (bank deposits) + Rs.50 lakh (House) + Rs.90 lakhs (3 flats) i.e Rs.210 lakhs + Gold coins worth Rs.1 lakh each Given that Neeta received the least amount and Geeta received the highest amount in bank deposits. Given, all assets are equally distributed. Hence each one should get Rs.70 lakh. Neeta should get 2 flats (Rs.60 lakh), Seetha should get the house and Geeta should get 1 flat (Rs.30 lakh). Hence the bank deposits received by the three are Rs.10 lakh, Rs.20 lakh and Rs.40 lakh respectively. Choice (3)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Among the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets\nwas distributed equally among the children, as were the gold coins.\nHow many flats did Neeta receive?",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "Total amount distributed by the old woman = Rs.70 lakh (bank deposits) + Rs.50 lakh (House) + Rs.90 lakhs (3 flats) i.e Rs.210 lakhs + Gold coins worth Rs.1 lakh each Given that Neeta received the least amount and Geeta received the highest amount in bank deposits. Given, all assets are equally distributed. Hence each one should get Rs.70 lakh. Neeta should get 2 flats (Rs.60 lakh), Seetha should get the house and Geeta should get 1 flat (Rs.30 lakh). So Neeta should get 2 flats."
+        },
+        {
+          "id": "cat-2017-slot2-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were\ndistributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than\nGeeta, got Rs. 30 lakh in bank deposits.\nHow many gold coins did the old woman have?",
+          "options": {
+            "A": "72",
+            "B": "90",
+            "C": "180",
+            "D": "216"
+          },
+          "correct_answer": "B",
+          "explanation": "Total amount distributed by the old woman = Rs.70 lakh (bank deposits) + Rs.50 lakh (House) + Rs.90 lakhs (3 flats) i.e Rs.210 lakhs + Gold coins worth Rs.1 lakh each. From the given data, the gold coins were distributed in the ratio 2 : 3 : 4, and the total assets were distributed in the ratio 1 : 2 : 3. From both the ratios, we can see that Seeta received 1/3 of the total property and 1/3 of the gold coins. This means her share is 1/3 (Bank deposits + house + flats) = Rs.70 lakhs. Also, one child got all the three flats but not the house. One child other than Geeta got Rs.30 lakhs in bank deposits. From this we can conclude that Seeta cannot get all the three flats. As her share is Rs.70 lakhs + 1/3 (gold coins). ∴Seeta should receive one house and bank deposits of Rs.20 lakhs. This implies Neeta should get Rs.30 lakhs in bank deposits. Hence Geeta should get Rs.20 lakhs in bank deposits. From this all the three flats should be received by Geeta. Let the number of gold coins received by Neeta, Seeta and Geeta be 2x, 3x and 4x respectively. ∴Number of gold coins must be 90. Choice (2)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were\ndistributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than\nGeeta, got Rs. 30 lakh in bank deposits.\nHow much did Geeta get in bank deposits (in lakhs of rupees)?",
+          "options": {
+            "A": "20",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "20",
+          "explanation": "Total amount distributed by the old woman = Rs.70 lakh (bank deposits) + Rs.50 lakh (House) + Rs.90 lakhs (3 flats) i.e Rs.210 lakhs + Gold coins worth Rs.1 lakh each From the given data, the gold coins were distributed in the ratio 2 : 3 : 4, and the total assets were distributed in the ratio 1 : 2 : 3. From both the ratios, we can see that Seeta received 1/3 of the total property and 1/3 of the gold coins. This means her share is 1/3 (Bank deposits + house + flats) = Rs.70 lakhs. Also, one child got all the three flats but not the house. One child other than Geeta got Rs.30 lakhs in bank deposits. From this we can conclude that Seeta cannot get all the three flats. As her share is Rs.70 lakhs + 1/3 (gold coins). ∴Seeta should receive one house and bank deposits of Rs.20 lakhs. This implies Neeta should get Rs.30 lakhs in bank deposits. Hence Geeta should get Rs.20 lakhs in bank deposits."
+        },
+        {
+          "id": "cat-2017-slot2-dilr-47",
+          "number": 47,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "At a management school, the oldest 10 dorms, numbered 1 to 10, need to be repaired urgently, The following diagram\nrepresents the estimated repair costs (in Rs. Crores) for the 10 dorms. For any dorm, the estimated repair cost (in Rs. Crores) is\nan integer. Repairs with estimated cost Rs. 1 or 2 Crores are considered light repairs, repairs with estimated cost Rs. 3 or 4 are\nconsidered moderate repairs and repairs with estimated cost Rs. 5 or 6 Crores are considered extensive repairs.\nFurther, the following are known:\n1. Odd-numbered dorms do not need light repair; even-numbered dorms do not need moderate repair and dorms, whose\nnumbers are divisible by 3, do not need extensive repair.\n2. Dorms 4 to 9 all need different repair costs, with Dorm 7 needing the maximum and Dorm 8 needing the minimum\nWhich of the following is NOT necessarily true?",
+          "options": {
+            "A": "Dorm 1 needs a moderate repair",
+            "B": "Dorm 5 repair will cost no more than Rs. 4 Crores",
+            "C": "Dorm 7 needs an extensive repair",
+            "D": "Dorm 10 repair will cost no more than Rs. 4 Crores"
+          },
+          "correct_answer": "D",
+          "explanation": "From the data, there are 2 dorms which require Rs.1 crore, 1 dorm which requires Rs.2 crore, 3 dorms which require Rs.3 crore, 1 dorm which requires Rs.4 crore, 1 dorm which requires Rs.5 crore and two dorms which require Rs.6 crore. Hence the total amount needed is Rs.34 crore. Dorms 4 to 9 have different repair costs. Dorm 7 needs the maximum and Dorm 8 needs the minimum. From the other conditions given, we have the following table with partial data. Dorm Number 1 2 3 4 5 6 7 8 9 10 Repair Type H/M L /H M L/H M/H L M/H L/H M L /H Conclusion 3 1/6 3 5 3/4 2 6 1 4/3 6/1 (Rs. in Cr) L = Light M = Moderate H = Extensive Going by the options, Dorm 1 needs a moderate repair is possibly true. Dorm 5 not needing more than Rs.4 crore is true. Hence Dorm 10’s repair not costing more than Rs.4 crore is not necessarily true as it may require Rs.6 crore or Rs.1 crore. Choice (4)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-48",
+          "number": 48,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the total cost of repairing the odd-numbered dorms (in Rs. Crores)?",
+          "options": {
+            "A": "19",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "19",
+          "explanation": "From the data, there are 2 dorms which require Rs.1 crore, 1 dorm which requires Rs.2 crore, 3 dorms which require Rs.3 crore, 1 dorm which requires Rs.4 crore, 1 dorm which requires Rs.5 crore and two dorms which require Rs.6 crore. Hence the total amount needed is Rs.34 crore. Dorms 4 to 9 have different repair costs. Dorm 7 needs the maximum and Dorm 8 needs the minimum. From the other conditions given, we have the following table with partial data. Dorm Number 1 2 3 4 5 6 7 8 9 10 Repair Type H/M L /H M L/H M/H L M/H L/H M L /H Conclusion 3 1/6 3 5 3/4 2 6 1 4/3 6/1 (Rs. in Cr) L= Light M= Moderate H = Extensive The total cost for the odd numbered dorms are 3 + 3 + 3 (or) 4 + 6 + 4 (or) 3 i.e. Rs.19 crore Ans : 19"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-49",
+          "number": 49,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose further that:\n1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair.\n2. Only one of Dorms 1 to 5 is a women's dorm.\nWhat is the cost for repairing Dorm 9 (in Rs. Crores)?",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "From the data, there are 2 dorms which require Rs.1 crore, 1 dorm which requires Rs.2 crore, 3 dorms which require Rs.3 crore, 1 dorm which requires Rs.4 crore, 1 dorm which requires Rs.5 crore and two dorms which require Rs.6 crore. Hence the total amount needed is Rs.34 crore. Dorms 4 to 9 have different repair costs. Dorm 7 needs the maximum and Dorm 8 needs the minimum. From the other conditions given, we have the following table with partial data. Dorm Number 1 2 3 4 5 6 7 8 9 10 Repair Type H/M L /H M L/H M/H L M/H L/H M L /H Conclusion 3 1/6 3 5 3/4 2 6 1 4/3 6/1 (Rs. in Cr) L= Light M= Moderate H = Extensive Additional data for Solutions 4 of the 10 dorms are women's dorms which need Rs.20 crore for repairs. Also from 1 to 5 there is only one women's dorm. This is possible with repairing costs Rs.6, Rs.6, Rs.5 and Rs.3 crore. Among the first 5, dorm 4 should be women's dorm. Rs.6 cr dorms can only be dorm 7 and dorm 10. Rs.3 crore can be from dorm 1, 3, 5 or 9. But 1, 3 or 5 are not women's dorm. So it has to be dorm 9. From the above, the repair cost for dorm 9 is Rs.3 crore Ans : 3"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-50",
+          "number": 50,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose further that:\n1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair.\n2. Only one of Dorms 1 to 5 is a women's dorm.\n\nWhich of the following is a women's dorm?",
+          "options": {
+            "A": "Dorm 2",
+            "B": "Dorm 5",
+            "C": "Dorm 8",
+            "D": "Dorm 10"
+          },
+          "correct_answer": "D",
+          "explanation": "From the data, there are 2 dorms which require Rs.1 crore, 1 dorm which requires Rs.2 crore, 3 dorms which require Rs.3 crore, 1 dorm which requires Rs.4 crore, 1 dorm which requires Rs.5 crore and two dorms which require Rs.6 crore. Hence the total amount needed is Rs.34 crore. Dorms 4 to 9 have different repair costs. Dorm 7 needs the maximum and Dorm 8 needs the minimum. From the other conditions given, we have the following table with partial data. Dorm Number 1 2 3 4 5 6 7 8 9 10 Repair Type H/M L /H M L/H M/H L M/H L/H M L /H Conclusion 3 1/6 3 5 3/4 2 6 1 4/3 6/1 (Rs. in Cr) L= Light M= Moderate H = Extensive Additional data for Solutions 4 of the 10 dorms are women's dorms which need Rs.20 crore for repairs. Also from 1 to 5 there is only one women's dorm. This is possible with repairing costs Rs.6, Rs.6, Rs.5 and Rs.3 crore. Among the first 5, dorm 4 should be women's dorm. Rs.6 cr dorms can only be dorm 7 and dorm 10. Rs.3 crore can be from dorm 1, 3, 5 or 9. But 1, 3 or 5 are not women's dorm. So it has to be dorm 9. From the above, dorm 10 should be women's dorm. Choice (4)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-51",
+          "number": 51,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tea taster was assigned to rate teas from six different locations - Munnar, Wayanad, Ooty, Darjeeling, Assam and Himachal.\nThese teas were placed in six cups, numbered 1 to 6, not necessarily in the same order. The tea taster was asked to rate these\nteas on the strength of their flavour on a scale of 1 to 10. He gave a unique integer rating to each tea. Some other information\nis given below:\n1. Cup 6 contained tea from Himachal.\n2. Tea from Ooty got the highest rating, but it was not in Cup 3.\n3. The rating of tea in Cup 3 was double the rating of the tea in Cup 5.\n4. Only two cups got ratings in even numbers.\n5. Cup 2 got the minimum rating and this rating was an even number.\n6. Tea in Cup 3 got a higher rating than that in Cup 1.\n7. The rating of tea from Wayanad was more than the rating of tea from Munnar, but less than that from Assam.\nWhat was the second highest rating given?",
+          "options": {
+            "A": "7",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "7",
+          "explanation": "Let the ratings be such that the tea with the highest rating is ranked 1 and the tea with the lowest rating is ranked 6. From (2) and (5), we get the following: Ranking Place Cup No Rating 1 Ooty 6 Cup 2 From (4), only two cups have been given even numbered ratings and one of them is given to the tea in Cup 2 (from (5)) From (3), it can be inferred that the rating of the tea in Cup 3, is an even number. Hence, the rating of the tea in Cup 5 is an odd number. Besides, the tea in Cup 3 has a higher rating than those in Cup 5, Cup 2 and Cup 1 (from (6)) Therefore, the ranking of Cup 3 is either 2 or 3. It cannot be 1 since the tea from Ooty is not in Cup 6. From (5), the rating of the tea in Cup 2 can either be 2 or 4. Any other even number below 10 cannot be assigned to it since there are five other cups in which the tea has been rated from 1 to 10 and all the ratings are distinct numbers. If the rating of the tea in Cup 2 is 4, the minimum possible rating for the tea in Cup 5 will be 5 and from that, the rating of the tea in Cup 3 will be 10. But 10 is the highest rating and it is not given to the tea in Cup 3 (from (2)). Therefore, the tea in Cup 2 has a rating of 2. The only rating that can be given to the tea in Cup 5 is 3. (Since it cannot be an even number and it has to be less than 5). Therefore, the rank of the tea in Cup 5 will be 5 with a rating of 3. Hence, the rating of the tea in Cup 3 will be 6. Between the ratings 3 and 6, only one rating is possible i.e. 5, because there are only two even ratings that are given to the tea in Cup 3 and Cup 2. Also, the tea in Cup 1 has a less rating than the tea in Cup 3. So the only possibility is that the tea in Cup 1 has a rating of 5 and is ranked fourth and the tea in Cup 3 has a rating of 6 and is ranked third. From (1), only the tea which has got the second highest rating can belong to Himachal and it is the tea in Cup 6. Therefore, the tea from Himachal is in Cup 6 and it has the second highest rating. The rating has to be an odd number greater than 6 and less than 10. The only number possible is 7. If it were 9, then the tea from Ooty has to be given a rating of 10 but there are only two even ratings. Hence, the tea from Himachal has got a rating of 7. The tea from Ooty will be in Cup 4. The rating of the tea from Ooty should be an odd number greater than 7 and less than 10. The only possible value is 9. The final table will be as follows: Ranking Place Cup No Rating 1 Ooty Cup 4 9 2 Himachal Cup 6 7 3 Cup 3 6 4 Cup 1 5 5 Cup 5 3 6 Cup 2 2 The second highest rating is given to the tea from Himachal and it is 7. Ans: 7"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-52",
+          "number": 52,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tea taster was assigned to rate teas from six different locations - Munnar, Wayanad, Ooty, Darjeeling, Assam and Himachal.\nThese teas were placed in six cups, numbered 1 to 6, not necessarily in the same order. The tea taster was asked to rate these\nteas on the strength of their flavour on a scale of 1 to 10. He gave a unique integer rating to each tea. Some other information\nis given below:\n1. Cup 6 contained tea from Himachal.\n2. Tea from Ooty got the highest rating, but it was not in Cup 3.\n3. The rating of tea in Cup 3 was double the rating of the tea in Cup 5.\n4. Only two cups got ratings in even numbers.\n5. Cup 2 got the minimum rating and this rating was an even number.\n6. Tea in Cup 3 got a higher rating than that in Cup 1.\n7. The rating of tea from Wayanad was more than the rating of tea from Munnar, but less than that from Assam.\nWhat was the number of the cup that contained tea from Ooty?",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "Let the ratings be such that the tea with the highest rating is ranked 1 and the tea with the lowest rating is ranked 6. From (2) and (5), we get the following: Ranking Place Cup No Rating 1 Ooty 6 Cup 2 From (4), only two cups have been given even numbered ratings and one of them is given to the tea in Cup 2 (from (5)) From (3), it can be inferred that the rating of the tea in Cup 3, is an even number. Hence, the rating of the tea in Cup 5 is an odd number. Besides, the tea in Cup 3 has a higher rating than those in Cup 5, Cup 2 and Cup 1 (from (6)) Therefore, the ranking of Cup 3 is either 2 or 3. It cannot be 1 since the tea from Ooty is not in Cup 6. From (5), the rating of the tea in Cup 2 can either be 2 or 4. Any other even number below 10 cannot be assigned to it since there are five other cups in which the tea has been rated from 1 to 10 and all the ratings are distinct numbers. If the rating of the tea in Cup 2 is 4, the minimum possible rating for the tea in Cup 5 will be 5 and from that, the rating of the tea in Cup 3 will be 10. But 10 is the highest rating and it is not given to the tea in Cup 3 (from (2)). Therefore, the tea in Cup 2 has a rating of 2. The only rating that can be given to the tea in Cup 5 is 3. (Since it cannot be an even number and it has to be less than 5). Therefore, the rank of the tea in Cup 5 will be 5 with a rating of 3. Hence, the rating of the tea in Cup 3 will be 6. Between the ratings 3 and 6, only one rating is possible i.e. 5, because there are only two even ratings that are given to the tea in Cup 3 and Cup 2. Also, the tea in Cup 1 has a less rating than the tea in Cup 3. So the only possibility is that the tea in Cup 1 has a rating of 5 and is ranked fourth and the tea in Cup 3 has a rating of 6 and is ranked third. From (1), only the tea which has got the second highest rating can belong to Himachal and it is the tea in Cup 6. Therefore, the tea from Himachal is in Cup 6 and it has the second highest rating. The rating has to be an odd number greater than 6 and less than 10. The only number possible is 7. If it were 9, then the tea from Ooty has to be given a rating of 10 but there are only two even ratings. Hence, the tea from Himachal has got a rating of 7. The tea from Ooty will be in Cup 4. The rating of the tea from Ooty should be an odd number greater than 7 and less than 10. The only possible value is 9. The final table will be as follows: Ranking Place Cup No Rating 1 Ooty Cup 4 9 2 Himachal Cup 6 7 3 Cup 3 6 4 Cup 1 5 5 Cup 5 3 6 Cup 2 2 The number of the cup that contained tea from Ooty is Cup 4. Ans: 4"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-53",
+          "number": 53,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tea taster was assigned to rate teas from six different locations - Munnar, Wayanad, Ooty, Darjeeling, Assam and Himachal.\nThese teas were placed in six cups, numbered 1 to 6, not necessarily in the same order. The tea taster was asked to rate these\nteas on the strength of their flavour on a scale of 1 to 10. He gave a unique integer rating to each tea. Some other information\nis given below:\n1. Cup 6 contained tea from Himachal.\n2. Tea from Ooty got the highest rating, but it was not in Cup 3.\n3. The rating of tea in Cup 3 was double the rating of the tea in Cup 5.\n4. Only two cups got ratings in even numbers.\n5. Cup 2 got the minimum rating and this rating was an even number.\n6. Tea in Cup 3 got a higher rating than that in Cup 1.\n7. The rating of tea from Wayanad was more than the rating of tea from Munnar, but less than that from Assam.\nIf the tea from Munnar did not get the minimum rating, what was the rating of the tea from Wayanad?",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "1",
+            "D": "6"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the ratings be such that the tea with the highest rating is ranked 1 and the tea with the lowest rating is ranked 6. From (2) and (5), we get the following: Ranking Place Cup No Rating 1 Ooty 6 Cup 2 From (4), only two cups have been given even numbered ratings and one of them is given to the tea in Cup 2 (from (5)) From (3), it can be inferred that the rating of the tea in Cup 3, is an even number. Hence, the rating of the tea in Cup 5 is an odd number. Besides, the tea in Cup 3 has a higher rating than those in Cup 5, Cup 2 and Cup 1 (from (6)) Therefore, the ranking of Cup 3 is either 2 or 3. It cannot be 1 since the tea from Ooty is not in Cup 6. From (5), the rating of the tea in Cup 2 can either be 2 or 4. Any other even number below 10 cannot be assigned to it since there are five other cups in which the tea has been rated from 1 to 10 and all the ratings are distinct numbers. If the rating of the tea in Cup 2 is 4, the minimum possible rating for the tea in Cup 5 will be 5 and from that, the rating of the tea in Cup 3 will be 10. But 10 is the highest rating and it is not given to the tea in Cup 3 (from (2)). Therefore, the tea in Cup 2 has a rating of 2. The only rating that can be given to the tea in Cup 5 is 3. (Since it cannot be an even number and it has to be less than 5). Therefore, the rank of the tea in Cup 5 will be 5 with a rating of 3. Hence, the rating of the tea in Cup 3 will be 6. Between the ratings 3 and 6, only one rating is possible i.e. 5, because there are only two even ratings that are given to the tea in Cup 3 and Cup 2. Also, the tea in Cup 1 has a less rating than the tea in Cup 3. So the only possibility is that the tea in Cup 1 has a rating of 5 and is ranked fourth and the tea in Cup 3 has a rating of 6 and is ranked third. From (1), only the tea which has got the second highest rating can belong to Himachal and it is the tea in Cup 6. Therefore, the tea from Himachal is in Cup 6 and it has the second highest rating. The rating has to be an odd number greater than 6 and less than 10. The only number possible is 7. If it were 9, then the tea from Ooty has to be given a rating of 10 but there are only two even ratings. Hence, the tea from Himachal has got a rating of 7. The tea from Ooty will be in Cup 4. The rating of the tea from Ooty should be an odd number greater than 7 and less than 10. The only possible value is 9. The final table will be as follows: Ranking Place Cup No Rating 1 Ooty Cup 4 9 2 Himachal Cup 6 7 3 Cup 3 6 4 Cup 1 5 5 Cup 5 3 6 Cup 2 2 It is given that the rating of the tea from Munnar is less than that of the teas from Wayanad and Assam. So it can be ranked either fifth or sixth. If the tea from Munnar did not get the minimum rating, it will be ranked fifth with a rating of 3. Therefore, the teas from Assam and Wayanad will be ranked third and fourth respectively. Hence, the rating of the tea from Wayanad will be 5. Choice (2)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-54",
+          "number": 54,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tea taster was assigned to rate teas from six different locations - Munnar, Wayanad, Ooty, Darjeeling, Assam and Himachal.\nThese teas were placed in six cups, numbered 1 to 6, not necessarily in the same order. The tea taster was asked to rate these\nteas on the strength of their flavour on a scale of 1 to 10. He gave a unique integer rating to each tea. Some other information\nis given below:\n1. Cup 6 contained tea from Himachal.\n2. Tea from Ooty got the highest rating, but it was not in Cup 3.\n3. The rating of tea in Cup 3 was double the rating of the tea in Cup 5.\n4. Only two cups got ratings in even numbers.\n5. Cup 2 got the minimum rating and this rating was an even number.\n6. Tea in Cup 3 got a higher rating than that in Cup 1.\n7. The rating of tea from Wayanad was more than the rating of tea from Munnar, but less than that from Assam.\nIf cups containing teas from Wayanad and Ooty had consecutive numbers, which of the following statements may be true?",
+          "options": {
+            "A": "Cup 5 contains tea from Assam",
+            "B": "Cup 1 contains tea from Darjeeling",
+            "C": "Tea from Wayanad has got a rating of 6",
+            "D": "Tea from Darjeeling got the minimum rating"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the ratings be such that the tea with the highest rating is ranked 1 and the tea with the lowest rating is ranked 6. From (2) and (5), we get the following: Ranking Place Cup No Rating 1 Ooty 6 Cup 2 From (4), only two cups have been given even numbered ratings and one of them is given to the tea in Cup 2 (from (5)) From (3), it can be inferred that the rating of the tea in Cup 3, is an even number. Hence, the rating of the tea in Cup 5 is an odd number. Besides, the tea in Cup 3 has a higher rating than those in Cup 5, Cup 2 and Cup 1 (from (6)) Therefore, the ranking of Cup 3 is either 2 or 3. It cannot be 1 since the tea from Ooty is not in Cup 6. From (5), the rating of the tea in Cup 2 can either be 2 or 4. Any other even number below 10 cannot be assigned to it since there are five other cups in which the tea has been rated from 1 to 10 and all the ratings are distinct numbers. If the rating of the tea in Cup 2 is 4, the minimum possible rating for the tea in Cup 5 will be 5 and from that, the rating of the tea in Cup 3 will be 10. But 10 is the highest rating and it is not given to the tea in Cup 3 (from (2)). Therefore, the tea in Cup 2 has a rating of 2. The only rating that can be given to the tea in Cup 5 is 3. (Since it cannot be an even number and it has to be less than 5). Therefore, the rank of the tea in Cup 5 will be 5 with a rating of 3. Hence, the rating of the tea in Cup 3 will be 6. Between the ratings 3 and 6, only one rating is possible i.e. 5, because there are only two even ratings that are given to the tea in Cup 3 and Cup 2. Also, the tea in Cup 1 has a less rating than the tea in Cup 3. So the only possibility is that the tea in Cup 1 has a rating of 5 and is ranked fourth and the tea in Cup 3 has a rating of 6 and is ranked third. From (1), only the tea which has got the second highest rating can belong to Himachal and it is the tea in Cup 6. Therefore, the tea from Himachal is in Cup 6 and it has the second highest rating. The rating has to be an odd number greater than 6 and less than 10. The only number possible is 7. If it were 9, then the tea from Ooty has to be given a rating of 10 but there are only two even ratings. Hence, the tea from Himachal has got a rating of 7. The tea from Ooty will be in Cup 4. The rating of the tea from Ooty should be an odd number greater than 7 and less than 10. The only possible value is 9. The final table will be as follows: Ranking Place Cup No Rating 1 Ooty Cup 4 9 2 Himachal Cup 6 7 3 Cup 3 6 4 Cup 1 5 5 Cup 5 3 6 Cup 2 2 If the cups containing teas from Wayanad and Ooty have consecutive numbers, then the Cup containing tea from Wayanad can either be Cup 5 or Cup 3. But the tea from Wayanad cannot be in Cup 3 because the tea from Assam got a higher rating than the tea from Wayanad. Therefore, the tea from Wayanad should be in Cup 5. In this case, the tea from Munnar will be in Cup 2 and the tea from Darjeeling can either be in Cup 1 or Cup 3. Choice (2)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-55",
+          "number": 55,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an 8 X 8 chessboard a queen placed anywhere can attack another piece if the piece is present in the same row, or in the\nsame column or in any diagonal position in any possible 4 directions, provided there is no other piece in between in the path\nfrom the queen to that piece.\nThe columns are labelled a to h (left to right) and the rows are numbered 1 to 8 (bottom to top). The position of a piece is\ngiven by the combination of column and row labels. For example, position c5 means that the piece is in cth column and 5th\nrow.\nIf the queen is at c5, and the other pieces at positions c2, gl, g3, g5 and a3, how many are under attack by the queen? There are\nno other pieces on the board.",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_answer": "C",
+          "explanation": "Following is a chess board for 8 X 8. Queen is at C5 (as shown below). Pieces which are under attack are A3, C2, G1, G5. So, a total of 4 pieces are under attack. QUEEN (G5) Piece (A3) Piece (G3) Piece (C2) Piece A B C D E F (G1) Piece H"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-56",
+          "number": 56,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an 8 X 8 chessboard a queen placed anywhere can attack another piece if the piece is present in the same row, or in the\nsame column or in any diagonal position in any possible 4 directions, provided there is no other piece in between in the path\nfrom the queen to that piece.\nThe columns are labelled a to h (left to right) and the rows are numbered 1 to 8 (bottom to top). The position of a piece is\ngiven by the combination of column and row labels. For example, position c5 means that the piece is in cth column and 5th\nrow.\nIf the other pieces are only at positions al, a3, b4, d7, h7 and h8, then which of the following positions of the queen results in\nthe maximum number of pieces being under attack?",
+          "options": {
+            "A": "f8",
+            "B": "a7",
+            "C": "c1",
+            "D": "d3"
+          },
+          "correct_answer": "D",
+          "explanation": "Pieces are at A1, A3, B4, D7, H7 and H8 (These are as indicated below) Option (1): If Queen is at F8, it will attack H8 and B4. A total of 2 pieces. Option (2): If Queen is at A7, it will attack A3 and D7. A total of 2 pieces. Option (3): If Queen is at C1, it will attack A1 and A3. A total of 2 pieces. Option (4): If Queen is at D3, it will attack A3, D7 and H7, a total of 3 pieces. So, Queen at D3 implies 3 pieces will be under attack (which is the maximum). Piece (H8) Piece (D7) Piece (H7) Piece (B4) Piece (A3) Piece (A1) B C D E F G H"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-57",
+          "number": 57,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an 8 X 8 chessboard a queen placed anywhere can attack another piece if the piece is present in the same row, or in the\nsame column or in any diagonal position in any possible 4 directions, provided there is no other piece in between in the path\nfrom the queen to that piece.\nThe columns are labelled a to h (left to right) and the rows are numbered 1 to 8 (bottom to top). The position of a piece is\ngiven by the combination of column and row labels. For example, position c5 means that the piece is in cth column and 5th\nrow.\nIf the other pieces are only at positions al, a3, b4, d7, h7 and h8, then from how many positions the queen cannot attack any of\nthe pieces?",
+          "options": {
+            "A": "0",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_answer": "C",
+          "explanation": "Queen cannot be placed in Columns -A, B, D, and H. From the remaining columns, it has to be assessed. For e.g. COLUMN C:-> If Queen is placed in C2, it will attack H7. Further, other positions in the column C can be ruled out. Similarly, analyzing other squares, the result is as follows:-> Queen can be placed in E2, F2, G2, G5 (such that the pieces on board are NOT under attack). So, there are a total of 4 such squares for the Queen. Piece (H8) Piece (D7) Piece (H7) Piece (B4) Piece (A3) Piece (A1) B C D E F G H"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-58",
+          "number": 58,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an 8 X 8 chessboard a queen placed anywhere can attack another piece if the piece is present in the same row, or in the\nsame column or in any diagonal position in any possible 4 directions, provided there is no other piece in between in the path\nfrom the queen to that piece.\nThe columns are labelled a to h (left to right) and the rows are numbered 1 to 8 (bottom to top). The position of a piece is\ngiven by the combination of column and row labels. For example, position c5 means that the piece is in cth column and 5th\nrow.\nSuppose the queen is the only piece on the board and it is at position d5. In how many positions can another piece be placed\non the board such that it is safe from attack from the queen?",
+          "options": {
+            "A": "32",
+            "B": "35",
+            "C": "36",
+            "D": "37"
+          },
+          "correct_answer": "C",
+          "explanation": "Given that Queen is at d5. The squares which will be under attack are as indicated below (by the term under Attack). These squares are either lying in the diagonal, or in the row or in the column. The remaining squares are marked safe. A total of 36 such squares are safe (by counting). Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under AttackUnder AttackUnder Attack QUEEN Under AttackUnder AttackUnder AttackUnder Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack Under Attack"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-59",
+          "number": 59,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Eight friends: Ajit, Byomkesh, Gargi, Jayanta, Kikira, Manik, Prodosh and Tapesh are going to Delhi from Kolkata by a flight\noperated by Cheap Air. In the flight, sitting is arranged in 30 rows, numbered 1 to 30, each consisting of 6 seats, marked by\nletters A to F from left to right, respectively. Seats A to C are to the left of the aisle (the passage running from the front of the\naircraft to the back), and seats D to F are to the right of the aisle. Seats A and F are by the windows and referred to as Window\nseats, C and D are by the aisle and are referred to as Aisle seats while B and E are referred to as Middle seats. Seats marked by\nconsecutive letters are called consecutive seats (or seats next to each other). A seat number is a combination of the row\nnumber, followed by the letter indicating the position in the row; e.g., 1A is the left window seat in the first row, while 12E is the\nright middle seat in the 12th row.\nCheap Air charges Rs. 1000 extra for any seats in Rows 1, 12 and 13 as those have extra legroom. For Rows 2-10, it charges Rs.\n300 extra for Window seats and Rs. 500 extra for Aisle seats. For Rows 11 and 14 to 20, it charges Rs. 200 extra for Window\nseats and Rs. 400 extra for Aisle seats. All other seats are available at no extra charge.\nThe following are known:\n1. The eight friends were seated in six different rows.\n2. They occupied 3 Window seats, 4 Aisle seats and 1 Middle seat.\n3. Seven of them had to pay extra amounts, totaling to Rs. 4600, for their choices of seat. One of them did not pay any\nadditional amount for his/her choice of seat.\n4. Jayanta, Ajit and Byomkesh were sitting in seats marked by the same letter, in consecutive rows in increasing order of row\nnumbers; but all of them paid different amounts for their choices of seat. One of these amounts may be zero.\n5. Gargi was sitting next to Kikira, and Manik was sitting next to Jayanta.\n6. Prodosh and Tapesh were sitting in seats marked by the same letter, in consecutive rows in increasing order of row\nnumbers; but they paid different amounts for their choices of seat. One of these amounts may be zero.\nIn which row was Manik sitting?",
+          "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+          },
+          "correct_answer": "A",
+          "explanation": "For discussion we take the initial letter of each friend. From the given data, one can observe that Row number 1 to 20 have extra charges except for middle seat. J, A, B must be in Aisle seats to get the sum as 4600; and we know that J, A, B paid different amount. Therefore, Row/No A B C D E F Remarks 10 J M 500 × 2 = 1000 11 A 400 × 1 = 400 12 B 1000 × 1 = 1000 1000 × 2 = 2000 (6 13 G K persons = 4400) 200 × 1 = 200 (7 persons 20 P = 4600) 21 T No extra charge Note: G, K and K, G can be interchanged. Moreover they can be placed in row 1 to 0. So also the right window positions and aisle seats can be interchanged. Row number (10) Choice (1)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-60",
+          "number": 60,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How much extra did Jayanta pay for his choice of seat?",
+          "options": {
+            "A": "Rs. 300",
+            "B": "Rs. 400",
+            "C": "Rs. 500",
+            "D": "Rs. 1000"
+          },
+          "correct_answer": "C",
+          "explanation": "For discussion we take the initial letter of each friend. From the given data, one can observe that Row number 1 to 20 have extra charges except for middle seat. J, A, B must be in Aisle seats to get the sum as 4600; and we know that J, A, B paid different amount. Therefore, Row/No A B C D E F Remarks 10 J M 500 × 2 = 1000 11 A 400 × 1 = 400 12 B 1000 × 1 = 1000 1000 × 2 = 2000 (6 13 G K persons = 4400) 200 × 1 = 200 (7 person 20 P = 4600) 21 T No extra charge Note: G, K and K G can be interchanged. Moreover they can be placed in row 1 to 0. So also the right window positions and aisle seats can be interchanged. He paid (500) Choice (3)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-61",
+          "number": 61,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How much extra did Gargi pay for her choice of seat?",
+          "options": {
+            "A": "0",
+            "B": "Rs. 300",
+            "C": "Rs. 500",
+            "D": "Rs. 1000"
+          },
+          "correct_answer": "D",
+          "explanation": "For discussion we take the initial letter of each friend. From the given data, one can observe that Row number 1 to 20 have extra charges except for middle seat. J, A, B must be in Aisle seats to get the sum as 4600; and we know that J, A, B paid different amount. Therefore, Row/No A B C D E F Remarks 10 J M 500 × 2 = 1000 11 A 400 × 1 = 400 12 B 1000 × 1 = 1000 1000 × 2 = 2000 (6 13 G K persons = 4400) 200 × 1 = 200 (7 person 20 P = 4600) 21 T No extra charge Note: G, K and K G can be interchanged. Moreover they can be placed in row 1 to 0. So also the right window positions and aisle seats can be interchanged. He paid Rs. (1000) Choice (4)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-62",
+          "number": 62,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who among the following did not pay any extra amount for his/her choice of seat?",
+          "options": {
+            "A": "Kikira",
+            "B": "Manik",
+            "C": "Gargi",
+            "D": "Tapesh"
+          },
+          "correct_answer": "D",
+          "explanation": "For discussion we take the initial letter of each friend. From the given data, one can observe that Row number 1 to 20 have extra charges except for middle seat. J, A, B must be in Aisle seats to get the sum as 4600; and we know that J, A, B paid different amount. Therefore, Row/No A B C D E F Remarks 10 J M 500 × 2 = 1000 11 A 400 × 1 = 400 12 B 1000 × 1 = 1000 1000 × 2 = 2000 (6 13 G K persons = 4400) 200 × 1 = 200 (7 person 20 P = 4600) 21 T No extra charge Note: G, K and K G can be interchanged. Moreover they can be placed in row 1 to 0. So also the right window positions and aisle seats can be interchanged. Tapesh (option 4)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-63",
+          "number": 63,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A high security research lab requires the researchers to set a pass key sequence based on the scan of the five fingers of their\nleft hands. When an employee first joins the lab, her fingers are scanned in an order of her choice, and then when she wants to\nre-enter the facility, she has to scan the five fingers in the same sequence.\nThe lab authorities are considering some relaxations of the scan order requirements, since it is observed that some employees\noften get locked-out because they forget the sequence.\nThe lab has decided to allow a variation in the sequence of scans of the five fingers so that at most two scans (out of five) are\nout of place. For example, if the original sequence is Thumb (T), index finger (I), middle finger (M), ring finger (R) and little\nfinger (L) then TLMRI is also allowed, but TMRLI is not.\nHow many different sequences of scans are allowed for any given person's original scan?",
+          "options": {
+            "A": "11",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "11",
+          "explanation": "Since the order of exactly one out of the five scans can’t be changed, either all the scans are in the correct order or one pair of scans can be varied, i.e. their positions can be interchanged. Case (1): when all the scans are in the correct order = 1 way Case (2): when exactly two are interchanged: We can choose any two of the five scans that can be interchanged in 5C2 ways, viz. 10 Both case (1) and case (2) together = 11. Ans: (11)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-64",
+          "number": 64,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A high security research lab requires the researchers to set a pass key sequence based on the scan of the five fingers of their\nleft hands. When an employee first joins the lab, her fingers are scanned in an order of her choice, and then when she wants to\nre-enter the facility, she has to scan the five fingers in the same sequence.\nThe lab authorities are considering some relaxations of the scan order requirements, since it is observed that some employees\noften get locked-out because they forget the sequence.\nThe lab has decided to allow variations of the original sequence so that input of the scanned sequence of five fingers is allowed\nto vary from the original sequence by one place for any of the fingers. Thus, for example, if TIMRL is the original sequence, then\nITRML is also allowed, but LIMRT is not.\nHow many different sequences are allowed for any given person's original scan?",
+          "options": {
+            "A": "7",
+            "B": "5",
+            "C": "8",
+            "D": "13"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the original scan be: TIMRL (1) All sequence as original = 1 way (2) Interchange of TI = 1 way (TI) + (RL) = 1 way → 2 way (3) Interchange of IM = 1 way (IM) + (RL) = 1 way →2 way (4) Interchange of MR = 1 way (MR) + (TI) = 1 way →2 way (5) Interchange of RL = 1 way Total = 1 + 2 + 2 + 2 + 1 = 8 ways. Choice (3)"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-65",
+          "number": 65,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A high security research lab requires the researchers to set a pass key sequence based on the scan of the five fingers of their\nleft hands. When an employee first joins the lab, her fingers are scanned in an order of her choice, and then when she wants to\nre-enter the facility, she has to scan the five fingers in the same sequence.\nThe lab authorities are considering some relaxations of the scan order requirements, since it is observed that some employees\noften get locked-out because they forget the sequence.\nThe lab has now decided to require six scans in the pass key sequence, where exactly one finger is scanned twice, and the other\nfingers are scanned exactly once, which can be done in any order. For example, a possible sequence is TIMTRL.\nSuppose the lab allows a variation of the original sequence (of six inputs) where at most two scans (out of six) are out of place,\nas long as the finger originally scanned twice is scanned twice and other fingers are scanned once.\nHow many different sequences of scans are allowed for any given person's original scan?",
+          "options": {
+            "A": "15",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "15",
+          "explanation": "Let us say original input: TIMTRL. Case (1): None of them misplaced : 1. Case (2): When exactly two are misplaced. T can be misplaced →4 ways. I can be misplaced →4 ways. M can be misplaced →3 ways. T can be misplaced →2 ways. R can be misplaced →1 way. Total ways in case (2) = 4 + 4 + 3 + 2 + 1 = 14 ways. Both case (1) and case (2) = 14 + 1 = 15 ways"
+        },
+        {
+          "id": "cat-2017-slot2-dilr-66",
+          "number": 66,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A high security research lab requires the researchers to set a pass key sequence based on the scan of the five fingers of their\nleft hands. When an employee first joins the lab, her fingers are scanned in an order of her choice, and then when she wants to\nre-enter the facility, she has to scan the five fingers in the same sequence.\nThe lab authorities are considering some relaxations of the scan order requirements, since it is observed that some employees\noften get locked-out because they forget the sequence.\nThe lab has now decided to require six scans in the pass key sequence, where exactly one finger is scanned twice, and the other\n\nfingers are scanned exactly once, which can be done in any order. For example, a possible sequence is TIMTRL.\nSuppose the lab allows a variation of the original sequence (of six inputs) so that input in the form of scanned sequence of six\nfingers is allowed to vary from the original sequence by one place for any of the fingers, as long as the finger originally scanned\ntwice is scanned twice and other fingers are scanned once.\nHow many different sequences of scans are allowed if the original scan sequence is LRLTIM?",
+          "options": {
+            "A": "8",
+            "B": "11",
+            "C": "13",
+            "D": "14"
+          },
+          "correct_answer": "C",
+          "explanation": "Given LRLTIM The distinct possibilities are: 1. No shift = 1 way 2. (a) LR = 1 way (b) LR + LT = 1 way (c) LR + LT + IM = 1 way (d) LR + IM = 1 way (e) LR + IT = 1 way (Total 5 ways) 3. (a) RL = 1 way (b) RL + TI = 1 way (c) RL + IM = 1 way (Total 3 ways) 4. (a) LT = 1 way (b) LT + IM = 1 way (Total 2 way) 5. TI = 1 way 6. IM = 1 way Total ways = 1 + 5 + 3 +2 +1 + 1 = 13 ways. Choice (3)"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2017-slot2-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The numbers 1, 2,..., 9 are arranged in a 3 X 3 square grid in such a way that each number occurs once and the entries along\neach column, each row, and each of the two diagonals add up to the same value.\nIf the top left and the top right entries of the grid are 6 and 2, respectively, then the bottom middle entry is",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "The square grid is filled by 9 numbers from 1 to 9. Their sum (1 + 2 + 3 +... 9) equals 45. Since the sum of numbers in each row and each column and each diagonal must be equal, the sum of terms in each row and in each column and in each diagonal, must be 15. For this to happen, the middle element in the 2nd row and the 2nd column must be the middle-most term of the 9 terms, i.e. 5. The corner elements in the first row are 6 and 2 (given), so the middle element in the first row must be 7. In the 2nd column, the top most element is 7 and the middle element is 5, so the bottom row middle element must be 3."
+        },
+        {
+          "id": "cat-2017-slot2-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a 10 km race. A, B, and C, each running at uniform speed, get the gold, silver, and bronze medals, respectively. If A beats B by\n1 km and B beats C by 1 km, then by how many metres does A beat C?",
+          "options": {
+            "A": "1900",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1900",
+          "explanation": "A beats B by 1 km, means A travels 10 km in the same time that B travels 9 km. The ratio of speeds of A and B is 10 : 9. Similarly, the ratio of speeds of B and C is 10 : 9. A : B = 10 : 9 B : C = 10 : 9 ⇒ The ratio of speeds of A : B : C = 100 : 90 : 81 In the same time that A travels 100 m, C travels 81 metres ⇒ In the same time that A travels 10000 m, C would travel 8100 m or A would beat C by 1900 m. Ans: (1900)"
+        },
+        {
+          "id": "cat-2017-slot2-qa-69",
+          "number": 69,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Bottle 1 contains a mixture of milk and water in 7 : 2 ratio and Bottle 2 contains a mixture of milk and water in 9 : 4 ratio. In\nwhat ratio of volumes should the liquids in Bottle 1 and Bottle 2 be combined to obtain a mixture of milk and water in 3 : 1\nratio?",
+          "options": {
+            "A": "27 : 14",
+            "B": "27 : 13",
+            "C": "27 : 16",
+            "D": "27 : 18"
+          },
+          "correct_answer": "B",
+          "explanation": "Concentration of milk in the first bottle is 7/9 and that in the second bottle is 9/13. They need to be mixed in a certain ratio to get a solution which has 3/4th milk. Applying alligation, (Liquid taken from bottle 1)/(Liquid taken from bottle 2) ="
+        },
+        {
+          "id": "cat-2017-slot2-qa-70",
+          "number": 70,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Arun drove from home to his hostel at 60 miles per hour. While returning home he drove half way along the same route at a\nspeed of 25 miles per hour and then took a bypass road which increased his driving distance by 5 miles, but allowed him to\ndrive at 50 miles per hour along this bypass road. If his return journey took 30 minutes more than his onward journey, then the\ntotal distance traveled by him is",
+          "options": {
+            "A": "55 miles",
+            "B": "60 miles",
+            "C": "65 miles",
+            "D": "70 miles DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "C",
+          "explanation": "Let the distance from his home to his hostel be x miles. Time taken on his onward journey = x/60 hours Time taken on his return journey = (x/2)/25 + (x/2 + 5)/50 Given, his return journey took 0.5 hours more than his onward journey ⇒ x/60 + 0.5 = x/50 + (x/2 + 5)/50 Upon solving, x = 30 Therefore, total distance travelled = 30 + 15 + 20 = 65 miles."
+        },
+        {
+          "id": "cat-2017-slot2-qa-71",
+          "number": 71,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Out of the shirts produced in a factory, 15% are defective, while 20% of the rest are sold in the domestic market. If the\nremaining 8840 shirts are left for export, then the number of shirts produced in the factory is",
+          "options": {
+            "A": "13600",
+            "B": "13000",
+            "C": "13400",
+            "D": "14000"
+          },
+          "correct_answer": "B",
+          "explanation": "A total of 15% shirts are defective. Of the remaining 85%, 20% are sold in the domestic market. So, 20% of 85%, i.e. 17% are sold in the domestic market and the remaining 68% are exported. But, it is given that 8840 shirts were exported."
+        },
+        {
+          "id": "cat-2017-slot2-qa-72",
+          "number": 72,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The average height of 22 toddlers increases by 2 inches when two of them leave this group. If the average height of these two\ntoddlers is one-third the average height of the original 22, then the average height, in inches, of the remaining 20 toddlers is",
+          "options": {
+            "A": "30",
+            "B": "28",
+            "C": "32",
+            "D": "26"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the average height of the 20 toddlers be x inches. When the 2 toddlers are included, the average of the group comes down by 2, i.e. it becomes x – 2. Also, given, that the average height of the 2 toddlers is one-third of the average height of the 22 toddlers, viz. x – 2. Upon solving, x = 32 inches."
+        },
+        {
+          "id": "cat-2017-slot2-qa-73",
+          "number": 73,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The manufacturer of a table sells it to a wholesale dealer at a profit of 10%. The wholesale dealer sells the table to a retailer at a\nprofit of 30%. Finally, the retailer sells it to a customer at a profit of 50%. If the customer pays Rs 4290 for the table, then its\nmanufacturing cost (in Rs) is",
+          "options": {
+            "A": "1500",
+            "B": "2000",
+            "C": "2500",
+            "D": "3000"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the manufacturing cost of the table be Rs. m. The wholesaler buys it for Rs.1.1m. The retailer buys it for Rs.(1.1)(1.3)m. The customer buys it for Rs.(1.1)(1.3)(1.5)m, viz. Rs. 2.145m. Given, 2.145m = 4,290 ⇒ m = Rs.2,000"
+        },
+        {
+          "id": "cat-2017-slot2-qa-74",
+          "number": 74,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tank has an inlet pipe and an outlet pipe. If the outlet pipe is closed then the inlet pipe fills the empty tank in 8 hours. If the\noutlet pipe is open then the inlet pipe fills the empty tank in 10 hours. If only the outlet pipe is open then in how many hours\nthe full tank becomes half-full?",
+          "options": {
+            "A": "20",
+            "B": "30",
+            "C": "40",
+            "D": "45"
+          },
+          "correct_answer": "A",
+          "explanation": "The inlet pipe can normally fill the tank in 8 hours, but it takes 10 hours when the outlet pipe is also open. In the two additional hours, the inlet pipe fills 2/8 or 25% more, and the outlet pipe took 10 hours to drain the additional 25%. So, the outlet pipe can drain 25% in 10 hours, and to drain 50%, it’ll take 20 hours. Alternately, we can assume total capacity of the tank as LCM [8, 10] or 40 litres. We’ll know the filling rates and the emptying rates of both the pipes and we can answer the question based on the same."
+        },
+        {
+          "id": "cat-2017-slot2-qa-75",
+          "number": 75,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Mayank buys some candies for Rs 15 a dozen and an equal number of different candies for Rs 12 a dozen. He sells all for Rs\n16.50 a dozen and makes a profit of Rs 150. How many dozens of candies did he buy altogether?",
+          "options": {
+            "A": "50",
+            "B": "30",
+            "C": "25",
+            "D": "45 DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "A",
+          "explanation": "He buys x dozen candies at Rs.15 a dozen and x more dozen at Rs.12 a dozen, so the average cost per dozen is Rs. (15 + 12)/2 = Rs.13.5 a dozen. By selling a dozen at Rs.16.5, he’ll make a profit of Rs.3 per dozen. To make an overall profit of Rs.150, he needs to sell 50 dozen."
+        },
+        {
+          "id": "cat-2017-slot2-qa-76",
+          "number": 76,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a village, the production of food grains increased by 40% and the per capita production of food grains increased by 27%\nduring a certain period. The percentage by which the population of the village increased during the same period is nearest to",
+          "options": {
+            "A": "16",
+            "B": "13",
+            "C": "10",
+            "D": "7"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the initial production be p, population be x and the initial per capita consumption be c. As p = (c)(x), we can say Let p = 1, c = 1 and x = 1 so that 1 = 1 × 1 Finally, production became 1.4 times and per capita consumption became 1.27 times. ⇒ 1.4 = 1.27 × x ⇒ x = 1.4/1.27 = 1.10. So the population increased by 10%."
+        },
+        {
+          "id": "cat-2017-slot2-qa-77",
+          "number": 77,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a, b, c are three positive integers such that a and b are in the ratio 3 : 4 while b and c are in the ratio 2:1, then which one of\nthe following is a possible value of (a + b + c)?",
+          "options": {
+            "A": "201",
+            "B": "205",
+            "C": "207",
+            "D": "210"
+          },
+          "correct_answer": "C",
+          "explanation": "a : b = 3 : 4 and b : c = 2 : 1 Multiplying the second ratio by 2, we have a : b = 3 : 4 b : c = 4 : 2 Therefore, a : b : c = 3 : 4 : 2. ⇒ a = 3k, b = 4k, c = 2k. Since a, b and c are positive integers, their sum should be 9k, a positive integer. From the options, only choice (3), which is 207, is a multiple of 9."
+        },
+        {
+          "id": "cat-2017-slot2-qa-78",
+          "number": 78,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A motorbike leaves point A at 1 pm and moves towards point B at a uniform speed. A car leaves point B at 2 pm and moves\ntowards point A at a uniform speed which is double that of the motorbike. They meet at 3:40 pm at a point which is 168 km\naway from A. What is the distance, in km, between A and B?",
+          "options": {
+            "A": "364",
+            "B": "378",
+            "C": "380",
+            "D": "388"
+          },
+          "correct_answer": "B",
+          "explanation": "The motorbike that left A travelled 168 km from 1:00 p.m. to 3:40 p.m., i.e. in 2 2/3 hours or 8/3 hours. The car that left B, started at 2:00 p.m. and travelled till 3:40 p.m., i.e. for 1 2/3 hours or 5/3 hours. The car would've travelled 5/8th of the distance as the bike, but since the car travelled at twice the speed, the car would've travelled 10/8th of the distance, i.e. (10/8) x 168 = 210 km. Therefore, total distance between A and B = 168 + 210 = 378 km."
+        },
+        {
+          "id": "cat-2017-slot2-qa-79",
+          "number": 79,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Amal can complete a job in 10 days and Bimal can complete it in 8 days. Amal, Bimal and Kamal together complete the job in 4\ndays and are paid a total amount of Rs 1000 as remuneration. If this amount is shared by them in proportion to their work, then\nKamal's share, in rupees, is",
+          "options": {
+            "A": "100",
+            "B": "200",
+            "C": "300",
+            "D": "400"
+          },
+          "correct_answer": "A",
+          "explanation": "The team completes the job in 4 days. Since Amol needs 10 days to complete the job, in 4 days, he does 4/10th or 40% of the work. Since Bimal needs 8 days to complete the job, in 4 days, he does 4/8th or 50% of the work. Therefore, Kamal did 10% of the work and for doing 10% of the work, he gets 10% of the payment, i.e. Rs. 100."
+        },
+        {
+          "id": "cat-2017-slot2-qa-80",
+          "number": 80,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Consider three mixtures - the first having water and liquid A in the ratio 1 : 2, the second having water and liquid B in the ratio\n1 : 3, and the third having water and liquid C in the ratio 1 : 4. These three mixtures of A, B, and C, respectively, are further\nmixed in the proportion 4:3:2. Then the resulting mixture has",
+          "options": {
+            "A": "The same amount of water and liquid B",
+            "B": "The same amount of liquids B and C",
+            "C": "More water than liquid B",
+            "D": "More water than liquid A"
+          },
+          "correct_answer": "C",
+          "explanation": "First mixture has 2/3rd A and the rest water. Second mixture has 3/4th B and the rest water. Third mixture has 4/5th C and the rest water. The 3 mixtures are mixed in the ratio 4 : 3 : 2. Let’s say we get a 1 litre mixture containing the three mixtures. C. (the remaining part would be water) 8/27 litres A, 9/36 litres B, 8/45 litres C ∴ There is more water than B in the resultant solution.Option C"
+        },
+        {
+          "id": "cat-2017-slot2-qa-81",
+          "number": 81,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let ABCDEF be a regular hexagon with each side of length 1 cm. The area (in sq cm) of a square with AC as one side is",
+          "options": {
+            "A": "3√2",
+            "B": "3",
+            "C": "4",
+            "D": "√3"
+          },
+          "correct_answer": "B",
+          "explanation": "In ∆ABC, AB = 1 cm, BC = 1 cm As ∠B = 120, AC2 = 12 + 12 – 2(1) (1) cos (120°) (Cosine rule) = 12 + 12 + 1 = 3 ⇒ AC = √3 cm The square of side √3 cm will have an area of (√3 )2 = 3 cm2"
+        },
+        {
+          "id": "cat-2017-slot2-qa-82",
+          "number": 82,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The base of a vertical pillar with uniform cross section is a trapezium whose parallel sides are of lengths 10 cm and 20 cm while\nthe other two sides are of equal length. The perpendicular distance between the parallel sides of the trapezium is 12 cm. If the\nheight of the pillar is 20 cm, then the total area, in sq cm, of all six surfaces of the pillar is",
+          "options": {
+            "A": "1300",
+            "B": "1340",
+            "C": "1480",
+            "D": "1520"
+          },
+          "correct_answer": "C",
+          "explanation": "Given, the non-parallel sides are equal. Let the non-parallel sides be x cm each So, we have 6 faces, two are trapezoid faces and 4 are rectangular faces. Area of 2 trapeziums Area of 4 rectangles = 2[13 × 20] + 20(20) + 10(20) = 1120 cm2 Total area = 1120 + 360 = 1480 cm2 Choice (3)"
+        },
+        {
+          "id": "cat-2017-slot2-qa-83",
+          "number": 83,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The points (2, 5) and (6, 3) are two end points of a diagonal of a rectangle. If the other diagonal has the equation y = 3x + c,\nthen c is",
+          "options": {
+            "A": "-5",
+            "B": "-6",
+            "C": "-7",
+            "D": "-8"
+          },
+          "correct_answer": "D",
+          "explanation": "In a rectangle, diagonals bisect each other, so one diagonal should pass through the midpoint of the other. Midpoint of the diagonal connecting (2, 5) and (6, 3) The other diagonal, y = 3x + c should also pass through (4, 4). On substitution, 4 = 3 (4) + c ⇒ –8."
+        },
+        {
+          "id": "cat-2017-slot2-qa-84",
+          "number": 84,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "ABCD is a quadrilateral inscribed in a circle with centre O. If ∠COD = 120 degrees and ∠BAC = 30 degrees, then the value of\n∠BCD (in degrees) is",
+          "options": {
+            "A": "90",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "90",
+          "explanation": "Given, ∠COD = 120° and ∠BAC = 30°. As ∠COD = 120°, ∠DAC = 60° (Central angle) ∠DAC + ∠BAC = 60° + 30° = 90° ∠A = 90° ⇒ ∠BCD = 90° (Opposite angles are supplementary in a cyclic quadrilateral)"
+        },
+        {
+          "id": "cat-2017-slot2-qa-85",
+          "number": 85,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If three sides of a rectangular park have a total length 400 ft, then the area of the park is maximum when the length (in ft) of its\nlonger side is",
+          "options": {
+            "A": "200",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "200",
+          "explanation": "Let one side be l and the other be b. (l is not necessarily greater than b) Given, 2l + b = 400 For area to be maximum, lb should be maximum. ∴ l (400 – 2l) should be maximum l (400 – 2l) = l (2) (200–l) = 2 (l) (200 – l) l (200 – l) will be maximum when l = 200 – l or 2l = 200 ⇒ l = 100 If l = 100, b = 200. ∴ The longer side must be 200 feet long."
+        },
+        {
+          "id": "cat-2017-slot2-qa-86",
+          "number": 86,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let P be an interior point of a right-angled isosceles triangle ABC with hypotenuse AB. If the perpendicular distance of P from\neach of AB, BC, and CA is 4 (√2 - l) cm, then the area, in sq cm, of the triangle ABC is",
+          "options": {
+            "A": "16",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "16",
+          "explanation": "As P is equidistant from the sides, P is the in center of the triangle. r is the in radius of the triangle, viz. 4(√2 - 1) cm Let the sides of the triangle be a, a, a √2"
+        },
+        {
+          "id": "cat-2017-slot2-qa-87",
+          "number": 87,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the product of three consecutive positive integers is 15600 then the sum of the squares of these integers is",
+          "options": {
+            "A": "1777",
+            "B": "1785",
+            "C": "1875",
+            "D": "1877"
+          },
+          "correct_answer": "D",
+          "explanation": "Given, (n – 1) (n) (n + 1) = 15600 As 15600 has 2 zeroes in it, one of n – 1, n or n + 1 should be a multiple of 25. Dividing 15600 by 25, we get 624, but 624 = 24*26 so, the numbers are 24, 25 and 26 242 + 252 + 262 = 1877"
+        },
+        {
+          "id": "cat-2017-slot2-qa-88",
+          "number": 88,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x is a real number such that log 5 = log (2 + x), then which of the following is true?\n3 5",
+          "options": {
+            "A": "0 < x < 3",
+            "B": "23 < x < 30",
+            "C": "x > 30",
+            "D": "3 < x < 23"
+          },
+          "correct_answer": "D",
+          "explanation": "log 5 = log (x + 2) 3 5 log 3 < log 5 < log 9 3 3 3 1 < log 5 < 2 So, 1 < log (x + 2) < 2 51 < x + 2 < 52 3 < x < 23"
+        },
+        {
+          "id": "cat-2017-slot2-qa-89",
+          "number": 89,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let f(x) = x2 and g(x) = 2X, for all real x. Then the value of f( f(g(x)) ) + g(f(x)) at x = 1 is",
+          "options": {
+            "A": "16",
+            "B": "18",
+            "C": "36",
+            "D": "40"
+          },
+          "correct_answer": "B",
+          "explanation": "f(f(g(x)) + g(f(x)). At x = 1, we get f(f(g(1))) + g(f(1)) On putting x = 1 in g(x) and f(x), we get g(1) = 2 and f(1) = 1. Putting these values in the required function, we get f(f(2)) + g(1). f(2) = 4. So f(4) = 16 and g(1) = 2. Hence the required value = 16 + 2 = 18."
+        },
+        {
+          "id": "cat-2017-slot2-qa-90",
+          "number": 90,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The minimum possible value of the sum of the squares of the roots of the equation x2 + (a + 3)x - (a + 5) = 0 is",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "C",
+          "explanation": "x2 + (a + 3) x – (a+5) = 0 α2 + β2 = (α + β)2 – 2 αβ = (-(a + 3))2 – 2(– (a + 5)) = a2 + 9 + 6a + 2 (a + 5) = a2 + 8a + 19 = (a + 4)2 + 3 The minimum value is 3, at a = –4. Choice (3)"
+        },
+        {
+          "id": "cat-2017-slot2-qa-91",
+          "number": 91,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "3/2",
+            "B": "2/5",
+            "C": "3/4",
+            "D": "4/9"
+          },
+          "correct_answer": "A",
+          "explanation": "Alternately, we could’ve substituted the value of x from the options and it would’ve taken much less time."
+        },
+        {
+          "id": "cat-2017-slot2-qa-92",
+          "number": 92,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If log (2a × 3b × 5C) is the arithmetic mean of log (22 × 33 × 5), log (26 × 3 × 57), and log (2 × 32 × 54), then a equals",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "While it is not explicitly stated that a, b and c are integers, going by the spirit of the question, we are forced to assume that they are integers. In that case, we can equate the powers of 2, 3 and 5 on the LHS and the RHS and say that a= 3, b = 2, and c = 4."
+        },
+        {
+          "id": "cat-2017-slot2-qa-93",
+          "number": 93,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let a , a , a , a , a be a sequence of five consecutive odd numbers. Consider a new sequence of five consecutive even\n1 2 3 4 5\nnumbers ending with 2a .\n\nIf the sum of the numbers in the new sequence is 450, then a5 is",
+          "options": {
+            "A": "51",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "51",
+          "explanation": "The 5 consecutive odd numbers are a , a , a , a , a 1 2 3 4 5 The 5 consecutive even numbers are 2a – 8, 2a – 6, 2a – 4, 2a – 2, 2a 3 3 3 3 3 The sum of these 5 numbers = 10a – 20 = 450 (given) ∴ a = 47 and a = 51. Ans: (51) 3 5"
+        },
+        {
+          "id": "cat-2017-slot2-qa-94",
+          "number": 94,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many different pairs (a, b) of positive integers are there such that a ≤ b and",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "⇒ 9(a + b) = ab ⇒ ab – 9a – 9b + 81 = 81 ⇒ (a – 9) (b – 9) = 81 = 34 As a, b > 0 and a ≤ b, there are only 3 ordered pairs, given by a – 9 = 1, 3 or 9 and correspondingly b – 9 = 81, 27, 9."
+        },
+        {
+          "id": "cat-2017-slot2-qa-95",
+          "number": 95,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many ways can 8 identical pens be distributed among Amal, Bimal, and Kamal so that Amal gets at least 1 pen, Bimal\ngets at least 2 pens, and Kamal gets at least 3 pens?",
+          "options": {
+            "A": "6",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "6",
+          "explanation": "The data is shown below. A B K 1 2 3 The remaining 2 pens can go to different people (3 ways – 1,1,0; 0,1,1; 1,0,1) or the same person (3 ways – 2,0,0; 0,2,0; 0,0,2). Alternately, we can distribute the last 2 identical pens among the three of them using x + x + x = 2, which has 4C non-negative integral solutions, i.e. 6. 1 2 3 2"
+        },
+        {
+          "id": "cat-2017-slot2-qa-96",
+          "number": 96,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many four digit numbers, which are divisible by 6, can be formed using the digits 0, 2, 3, 4, 6, such that no digit is used\nmore than once and 0 does not occur in the left-most position?",
+          "options": {
+            "A": "50",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "50",
+          "explanation": "The sum of the digits must be a multiple of 3. We can use (A) 2,4,0,3 or (B) 2,4,0,6 or (C) 2,4,3,6 (A) _ _ _ 0 (6 numbers) _ _ _ 2 (4 numbers) _ _ _ 4 (4 numbers) (B) _ _ _ 0 (6 numbers) _ _ _ 2 (4 numbers) _ _ _ 4 (4 numbers) _ _ _ 6 (4 numbers) (C) 2, 4, 3, 6 (18 numbers, with even digit in the units place) There are a total of 50 numbers."
+        },
+        {
+          "id": "cat-2017-slot2-qa-97",
+          "number": 97,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If f(ab) = f(a)f(b) for all positive integers a and b, then the largest possible value of f(l) is",
+          "options": {
+            "A": "1",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1",
+          "explanation": "f (1 × 1) = f (1) f (1) Let f (1) = x ∴ x = x2 i.e., x = 0 or 1. The ‘largest’ value is1. Ans: (1)"
+        },
+        {
+          "id": "cat-2017-slot2-qa-98",
+          "number": 98,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let f(x) = 2x-5and g(x) = 7-2x. Then |f(x) + g(x)| = |f(x)| + |g(x)| if and only if",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "D",
+          "explanation": "f(x) = 2x – 5, g(x) = 7 – 2x. Given, |f(x) + g(x)| = |f(x)| + |g(x) 2 = |f(x)| + |g(x)|"
+        },
+        {
+          "id": "cat-2017-slot2-qa-99",
+          "number": 99,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "An infinite geometric progression a , a , a ,... has the property that a = 3(a + a +….) for every n ≥ 1. If the sum a + a +\n1 2 3 n n+ l n+2 1 2\na +….... = 32, then a is\n3 5",
+          "options": {
+            "A": "1/32",
+            "B": "2/32",
+            "C": "3/32",
+            "D": "4/32"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2017-slot2-qa-100",
+          "number": 100,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "A",
+          "explanation": "All the terms like 1/5, 1/8,……..1/299 will cancel out."
+        }
+      ]
+    }
+  }
+}

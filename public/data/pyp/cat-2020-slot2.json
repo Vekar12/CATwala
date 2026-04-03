@@ -1,0 +1,1372 @@
+{
+  "id": "cat-2020-slot2",
+  "year": 2020,
+  "slot": 2,
+  "title": "CAT 2020 Slot II",
+  "has_solutions": true,
+  "total_questions": 76,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot2-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "174 incidents of piracy were reported to the International Maritime Bureau last year, with Somali pirates responsible for only\nthree. The rest ranged from the discreet theft of coils of rope in the Yellow Sea to the notoriously ferocious Nigerian gunmen\nattacking and hijacking oil tankers in the Gulf of Guinea, as well as armed robbery off Singapore and the Venezuelan coast and\nkidnapping in the Sundarbans in the Bay of Bengal. For [Dr. Peter] Lehr, an expert on modern-day piracy, the phenomenon’s\nhistory should be a source of instruction rather than entertainment, piracy past offering lessons for piracy present. . . .\nBut . . . where does piracy begin or end? According to St Augustine, a corsair captain once told Alexander the Great that in the\nforceful acquisition of power and wealth at sea, the difference between an emperor and a pirate was simply one of scale. By this\nlogic, European empire-builders were the most successful pirates of all time. A more eclectic history might have included the\nconquistadors, Vasco da Gama and the East India Company. But Lehr sticks to the disorganised small fry, making comparisons\nwith the renegades of today possible.\nThe main motive for piracy has always been a combination of need and greed. Why toil away as a starving peasant in the 16th\ncentury when a successful pirate made up to £4,000 on each raid? Anyone could turn to freebooting if the rewards were worth\nthe risk . . . .\nIncreased globalisation has done more to encourage piracy than suppress it. European colonialism weakened delicate balances\nof power, leading to an influx of opportunists on the high seas. A rise in global shipping has meant rich pickings for\nfreebooters. Lehr writes: “It quickly becomes clear that in those parts of the world that have not profited from globalization and\nmodernisation, and where abject poverty and the daily struggle for survival are still a reality, the root causes of piracy are still\nthe same as they were a couple of hundred years ago.” . . .\nModern pirate prevention has failed. After the French yacht Le Gonant was ransomed for $2million in 2008, opportunists from\nall over Somalia flocked to the coast for a piece of the action. . . . A consistent rule, even today, is there are never enough\nwarships to patrol pirate-infested waters. Such ships are costly and only solve the problem temporarily; Somali piracy is bound\nto return as soon as the warships are withdrawn. Robot shipping, eliminating hostages, has been proposed as a possible\nsolution; but as Lehr points out, this will only make pirates switch their targets to smaller carriers unable to afford the\ntechnology.\nHis advice isn’t new. Proposals to end illegal fishing are often advanced but they are difficult to enforce. Investment in local\nwelfare put a halt to Malaysian piracy in the 1970s, but was dependent on money somehow filtering through a corrupt\nbureaucracy to the poor on the periphery. Diplomatic initiatives against piracy are plagued by mutual distrust: the Russians\nexecute pirates, while the EU and US are reluctant to capture them for fear they’ll claim asylum.\nThe author ascribes the rise in piracy today to all of the following factors EXCEPT:",
+          "options": {
+            "A": "decreased surveillance of the high seas.",
+            "B": "the growth in international shipping with globalisation.",
+            "C": "the high rewards via ransoms for successful piracy attempts.",
+            "D": "colonialism’s disruption of historic ties among countries."
+          },
+          "correct_answer": "A",
+          "explanation": "Options B, C and D find support in paragraph 4, 3 and 1 respectively. Only option A does not find mention in the passage."
+        },
+        {
+          "id": "cat-2020-slot2-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "“Why toil away as a starving peasant in the 16th century when a successful pirate made up to £4,000 on each raid?” In this\nsentence, the author’s tone can best be described as being:",
+          "options": {
+            "A": "indignant, at the scale of wealth successful pirates could amass in medieval times.",
+            "B": "ironic, about the reasons why so many took to piracy in medieval times.",
+            "C": "analytical, to explain the contrasts between peasant and pirate life in medieval England.",
+            "D": "facetious, about the hardships of peasant life in medieval England."
+          },
+          "correct_answer": "B",
+          "explanation": "Indignant means showing anger or annoyance Analytical means logical Facetious meaning sarcasm. The author’s views in the given sentence do not support any of the above. Rather he is giving reasons to why the people indulge I piracy, so IRONIC is appropriate."
+        },
+        {
+          "id": "cat-2020-slot2-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "“A more eclectic history might have included the conquistadors, Vasco da Gama and the East India Company. But Lehr sticks to\nthe disorganised small fry . . .” From this statement we can infer that the author believes that:",
+          "options": {
+            "A": "Vasco da Gama and the East India Company laid the ground for modern piracy.",
+            "B": "Lehr does not assign adequate blame to empire builders for their past deeds.",
+            "C": "the disorganised piracy of today is no match for the organised piracy of the past.",
+            "D": "colonialism should be considered an organised form of piracy."
+          },
+          "correct_answer": "D",
+          "explanation": "Option A is rejected because he has just mentioned them as examples and not those who laid foundation of piracy. Option B is rejected as it is opposite to what is mentioned in 2nd paragraph. Option C is eliminated as the paragraph talks about disorganised people and not piracy. Only option D brings in the meaning of the sentence(i.e. acquisition of wealth)"
+        },
+        {
+          "id": "cat-2020-slot2-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "We can deduce that the author believes that piracy can best be controlled in the longrun:",
+          "options": {
+            "A": "through the extensive deployment of technology to track ships and cargo",
+            "B": "through lucrative welfare schemes to improve the lives of people in affected regions.",
+            "C": "if we eliminate poverty and income disparities in affected regions.",
+            "D": "through international cooperation in enforcing stringent deterrents"
+          },
+          "correct_answer": "C",
+          "explanation": "Everything else is rejected by the author (refer penultimate paragraph) and only option C could help to bring piracy under control in the long run"
+        },
+        {
+          "id": "cat-2020-slot2-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a low-carbon world, renewable energy technologies are hot business. For investors looking to redirect funds, wind turbines\nand solar panels, among other technologies, seem a straightforward choice. But renewables need to be further scrutinized\nbefore being championed as forging a path toward a low-carbon future. Both the direct and indirect impacts of renewable\nenergy must be examined to ensure that a climate-smart future does not intensify social and environmental harm. As\nrenewable energy production requires land, water, and labor, among other inputs, it imposes costs on people and the\nenvironment. Hydropower projects, for instance, have led to community dispossession and exclusion . . .Renewable energy\nsupply chains are also intertwined with mining, and their technologies contribute to growing levels of electronic waste . . .\nFurthermore, although renewable energy can be produced and distributed through small-scale, local systems, such an\napproach might not generate the high returns on investment needed to attract capital.\nAlthough an emerging sector, renewables are enmeshed in long-standing resource extraction through their dependence on\nminerals and metals . . . Scholars document the negative consequences of mining . . . even for mining operations that commit\nto socially responsible practices[:] “many of the world’s largest reservoirs of minerals like cobalt, copper, lithium,[and] rare earth\nminerals”—the ones needed for renewable technologies—“are found in fragile states and under communities of marginalized\npeoples in Africa, Asia, and Latin America. ”Since the demand for metals and minerals will increase substantially in a renewable-\npowered future . . . this intensification could exacerbate the existing consequences of extractive activities.\nAmong the connections between climate change and waste, O’Neill . . . highlights that “devices developed to reduce our\ncarbon footprint, such as lithium batteries for hybrid and electric cars or solar panels[,] become potentially dangerous electronic\nwaste at the end of their productive life.” The disposal of toxic waste has long perpetuated social injustice through the flows of\nwaste to the Global South and to marginalized communities in the Global North . ..\nWhile renewable energy is a more recent addition to financial portfolios, investments in the sector must be considered in light\nof our understanding of capital accumulation. As agricultural finance reveals, the concentration of control of corporate activity\nfacilitates profit generation. For some climate activists, the promise of renewables rests on their ability not only to reduce\nemissions but also to provide distributed, democratized access to energy . . .But Burke and Stephens . . . caution that\n“renewable energy systems offer a possibility but nota certainty for more democratic energy futures.” Small-scale, distributed\nforms of energy are only highly profitable to institutional investors if control is consolidated somewhere in the financial chain.\nRenewable energy can be produced at the household or neighborhood level. However, such small-scale, localized production is\nunlikely to generate high returns for investors. For financial growth to be sustained and expanded by the renewable sector,\nproduction and trade in renewable energy technologies will need to be highly concentrated, and large asset management firms\nwill likely drive those developments.\nWhich one of the following statements, if false, could be seen as best supporting the arguments in the passage?",
+          "options": {
+            "A": "Renewable energy systems have little or no environmental impact.",
+            "B": "Renewable energy systems are as expensive as non-renewable energy systems.",
+            "C": "Renewable energy systems are not as profitable as non-renewable energy systems.",
+            "D": "The production and distribution of renewable energy through small-scale, local systems is not economically sustainable."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to the line “for some climate activists------- access to energy”. So option A is correct."
+        },
+        {
+          "id": "cat-2020-slot2-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following statements, if true, could be seen as supporting the arguments in the passage, EXCEPT:",
+          "options": {
+            "A": "One reason for the perpetuation of social injustice lies in the problem of the disposal of toxic waste.",
+            "B": "Marginalised people in Africa, Asia and Latin America have often been the main sufferers of corporate mineral extraction projects.",
+            "C": "The example of agricultural finance helps us to see how to concentrate corporate activity in the renewable energy sector.",
+            "D": "The possible negative impacts of renewable energy"
+          },
+          "correct_answer": "D",
+          "explanation": "Negative impacts of renewable energy need to be studied to ensure no social or environmental harm. Hence option D is the answer."
+        },
+        {
+          "id": "cat-2020-slot2-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements, if true, could be an accurate inference from the first paragraph of the passage?",
+          "options": {
+            "A": "The author has reservations about the consequences of non-renewable energy systems.",
+            "B": "The author does not think renewable energy systems can be as efficient as non-renewable energy systems",
+            "C": "The author’s only reservation is about the profitability of renewable energy systems.",
+            "D": "The author has reservations about the consequences of renewable energy systems."
+          },
+          "correct_answer": "D",
+          "explanation": "The author’s reservation is about different consequences of renewable energy systems on environment, profitability etc. hence option D is the answer."
+        },
+        {
+          "id": "cat-2020-slot2-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements best captures the main argument of the last paragraph of the passage?",
+          "options": {
+            "A": "Renewable energy systems are not democratic unless they are corporate-controlled.",
+            "B": "The development of the renewable energy sector is a double-edged sword.",
+            "C": "Renewable energy produced at the household or neighbourhood level is more efficient than mass-produced forms of energy.",
+            "D": "Most forms of renewable energy are not profitable investments for institutional investors."
+          },
+          "correct_answer": "B",
+          "explanation": "According to the last paragraph, there are pros as well as con to look after before going ahead with the development of renewable energy, hence option B is correct."
+        },
+        {
+          "id": "cat-2020-slot2-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Based on the passage, we can infer that the author would be most supportive of which one of the following practices?",
+          "options": {
+            "A": "The study of the coexistence of marginalised people with their environments.",
+            "B": "Encouragement for the development of more environment-friendly carbon-based fuels.",
+            "C": "More stringent global policies and regulations to ensure a more just system of toxic waste disposal.",
+            "D": "The localised, small-scale development of renewable energy systems"
+          },
+          "correct_answer": "C",
+          "explanation": "Throughout the passage, the author is majorly concerned about developing renewable systems o energy to reduce carbon footprint and the disposal of toxic waste globally, hence option C is correct."
+        },
+        {
+          "id": "cat-2020-slot2-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The claims advanced here may be condensed into two assertions: [first, that visual] culture is what images, acts of seeing, and\nattendant intellectual, emotional, and perceptual sensibilities do to build, maintain, or transform the worlds in which people\nlive. [And second, that the]study of visual culture is the analysis and interpretation of images and the ways of seeing (orgazes)\nthat configure the agents, practices, conceptualities, and institutions that put images to work. . . .\nAccordingly, the study of visual culture should be characterized by several concerns. First, scholars of visual culture need to\nexamine any and all imagery – high and low, art and nonart.. . . They must not restrict themselves to objects of a particular\nbeauty or aesthetic value. Indeed, any kind of imagery may be found to offer up evidence of the visual construction of reality. . .\n.\nSecond, the study of visual culture must scrutinize visual practice as much as images themselves, asking what images do when\nthey are put to use. If scholars engaged in this enterprise inquire what makes an image beautiful or why this image or that\nconstitutes a masterpiece or a work of genius, they should do so with the purpose of investigating an artist’s or a work’s\ncontribution to the experience of beauty, taste, value, or genius. No amount of social analysis can account fully for the existence\nof Michelangelo or Leonardo. They were unique creators of images that changed the way their contemporaries thought and felt\nand have continued to shape the history of art, artists, museums, feeling, and aesthetic value. But study of the critical, artistic,\nand popular reception of works by such artists as Michelangelo and Leonardo can shed important light on the meaning of\nthese artists and their works form any different people. And the history of meaning-making has a great deal to do with how\nscholars as well as lay audiences today understand these artists and their achievements.\nThird, scholars studying visual culture might properly focus their interpretative work on life worlds by examining images,\npractices, visual technologies, taste, and artistic style as constitutive of social relations. The task is to understand how artifacts\ncontribute to the construction of a world. . . . Important methodological implications follow: ethnography and reception studies\nbecome productive forms of gathering information, since these move beyond the image as a closed and fixed meaning-event. .\n. .",
+          "passage_group": 3,
+          "question": "Fourth, scholars may learn a great deal when they scrutinize the constituents of vision, that is, the structures of perception as a\nphysiological process as well as the epistemological frameworks informing a system of visual representation. Vision is a socially\nand a biologically constructed operation, depending on the design of the human body and how it engages the interpretive\ndevices developed by a culture in order to see intelligibly. . . . Seeing . . . operates on the foundation of covenants with images\nthat establish the conditions for meaningful visual experience.\nFinally, the scholar of visual culture seeks to regard images as evidence for explanation, not as epiphenomena.\n“No amount of social analysis can account fully for the existence of Michelangelo or Leonardo.” In light of the passage, which\none of the following interpretations of this sentence is the most accurate?",
+          "options": {
+            "A": "Socially existing beings cannot be analysed, unlike the art of Michelangelo or Leonardo which can.",
+            "B": "Michelangelo or Leonardo cannot be subjected to social analysis because of their genius.",
+            "C": "Social analytical accounts of people like Michelangelo or Leonardo cannot explain their genius.",
+            "D": "No analyses exist of Michelangelo’s or Leonardo’s social accounts"
+          },
+          "correct_answer": "C",
+          "explanation": "Options A, B and D are illogical, only C can be interpreted."
+        },
+        {
+          "id": "cat-2020-slot2-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The claims advanced here may be condensed into two assertions: [first, that visual] culture is what images, acts of seeing, and\nattendant intellectual, emotional, and perceptual sensibilities do to build, maintain, or transform the worlds in which people\nlive. [And second, that the]study of visual culture is the analysis and interpretation of images and the ways of seeing (orgazes)\nthat configure the agents, practices, conceptualities, and institutions that put images to work. . . .\nAccordingly, the study of visual culture should be characterized by several concerns. First, scholars of visual culture need to\nexamine any and all imagery – high and low, art and nonart.. . . They must not restrict themselves to objects of a particular\nbeauty or aesthetic value. Indeed, any kind of imagery may be found to offer up evidence of the visual construction of reality. . .\n.\nSecond, the study of visual culture must scrutinize visual practice as much as images themselves, asking what images do when\nthey are put to use. If scholars engaged in this enterprise inquire what makes an image beautiful or why this image or that\nconstitutes a masterpiece or a work of genius, they should do so with the purpose of investigating an artist’s or a work’s\ncontribution to the experience of beauty, taste, value, or genius. No amount of social analysis can account fully for the existence\nof Michelangelo or Leonardo. They were unique creators of images that changed the way their contemporaries thought and felt\nand have continued to shape the history of art, artists, museums, feeling, and aesthetic value. But study of the critical, artistic,\nand popular reception of works by such artists as Michelangelo and Leonardo can shed important light on the meaning of\nthese artists and their works form any different people. And the history of meaning-making has a great deal to do with how\nscholars as well as lay audiences today understand these artists and their achievements.\nThird, scholars studying visual culture might properly focus their interpretative work on life worlds by examining images,\npractices, visual technologies, taste, and artistic style as constitutive of social relations. The task is to understand how artifacts\ncontribute to the construction of a world. . . . Important methodological implications follow: ethnography and reception studies\nbecome productive forms of gathering information, since these move beyond the image as a closed and fixed meaning-event. .\n. .",
+          "passage_group": 3,
+          "question": "All of the following statements may be considered valid inferences from the passage, EXCEPT:",
+          "options": {
+            "A": "visual culture is not just about how we see, but also about how our visual practice scan impact and change the world.",
+            "B": "artifacts are meaningful precisely because they help to construct the meanings of the world for us.",
+            "C": "understanding the structures of perception is an important part of understanding how visual cultures work.",
+            "D": "studying visual culture requires institutional structures without which the structures of perception cannot be analysed"
+          },
+          "correct_answer": "D",
+          "explanation": "Options A, B and C find support in paragraph 1, 4 and last respectively. Only option D cannot be inferred because not only institutional structure, but a number of other factors need to be considered that help to study visual culture."
+        },
+        {
+          "id": "cat-2020-slot2-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The claims advanced here may be condensed into two assertions: [first, that visual] culture is what images, acts of seeing, and\nattendant intellectual, emotional, and perceptual sensibilities do to build, maintain, or transform the worlds in which people\nlive. [And second, that the]study of visual culture is the analysis and interpretation of images and the ways of seeing (orgazes)\nthat configure the agents, practices, conceptualities, and institutions that put images to work. . . .\nAccordingly, the study of visual culture should be characterized by several concerns. First, scholars of visual culture need to\nexamine any and all imagery – high and low, art and nonart.. . . They must not restrict themselves to objects of a particular\nbeauty or aesthetic value. Indeed, any kind of imagery may be found to offer up evidence of the visual construction of reality. . .\n.\nSecond, the study of visual culture must scrutinize visual practice as much as images themselves, asking what images do when\nthey are put to use. If scholars engaged in this enterprise inquire what makes an image beautiful or why this image or that\nconstitutes a masterpiece or a work of genius, they should do so with the purpose of investigating an artist’s or a work’s\ncontribution to the experience of beauty, taste, value, or genius. No amount of social analysis can account fully for the existence\nof Michelangelo or Leonardo. They were unique creators of images that changed the way their contemporaries thought and felt\nand have continued to shape the history of art, artists, museums, feeling, and aesthetic value. But study of the critical, artistic,\nand popular reception of works by such artists as Michelangelo and Leonardo can shed important light on the meaning of\nthese artists and their works form any different people. And the history of meaning-making has a great deal to do with how\nscholars as well as lay audiences today understand these artists and their achievements.\nThird, scholars studying visual culture might properly focus their interpretative work on life worlds by examining images,\npractices, visual technologies, taste, and artistic style as constitutive of social relations. The task is to understand how artifacts\ncontribute to the construction of a world. . . . Important methodological implications follow: ethnography and reception studies\nbecome productive forms of gathering information, since these move beyond the image as a closed and fixed meaning-event. .\n. .",
+          "passage_group": 3,
+          "question": "“Seeing . . . operates on the foundation of covenants with images that establish the conditions for meaningful visual\nexperience.” In light of the passage, which one of the following statements best conveys the meaning of this sentence?",
+          "options": {
+            "A": "Images are meaningful visual experiences when they have a foundation of covenants seeing them.",
+            "B": "Sight becomes a meaningful visual experience because of covenants of meaningfulness that we establish with the images we see.",
+            "C": "The way we experience sight is through images operated on by meaningful covenants.",
+            "D": "Sight as a meaningful visual experience is possible when there is a foundational condition established in images of covenants."
+          },
+          "correct_answer": "B",
+          "explanation": "Only option B conveys the correct interpretation of the given sentence. The idea is sight or vision becomes the meaningful visual experience. Rest of the options distort the main idea by putting focus on images , meaningful convenants or images of convenants being the base of visual experience which is wrong."
+        },
+        {
+          "id": "cat-2020-slot2-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The claims advanced here may be condensed into two assertions: [first, that visual] culture is what images, acts of seeing, and\nattendant intellectual, emotional, and perceptual sensibilities do to build, maintain, or transform the worlds in which people\nlive. [And second, that the]study of visual culture is the analysis and interpretation of images and the ways of seeing (orgazes)\nthat configure the agents, practices, conceptualities, and institutions that put images to work. . . .\nAccordingly, the study of visual culture should be characterized by several concerns. First, scholars of visual culture need to\nexamine any and all imagery – high and low, art and nonart.. . . They must not restrict themselves to objects of a particular\nbeauty or aesthetic value. Indeed, any kind of imagery may be found to offer up evidence of the visual construction of reality. . .\n.\nSecond, the study of visual culture must scrutinize visual practice as much as images themselves, asking what images do when\nthey are put to use. If scholars engaged in this enterprise inquire what makes an image beautiful or why this image or that\nconstitutes a masterpiece or a work of genius, they should do so with the purpose of investigating an artist’s or a work’s\ncontribution to the experience of beauty, taste, value, or genius. No amount of social analysis can account fully for the existence\nof Michelangelo or Leonardo. They were unique creators of images that changed the way their contemporaries thought and felt\nand have continued to shape the history of art, artists, museums, feeling, and aesthetic value. But study of the critical, artistic,\nand popular reception of works by such artists as Michelangelo and Leonardo can shed important light on the meaning of\nthese artists and their works form any different people. And the history of meaning-making has a great deal to do with how\nscholars as well as lay audiences today understand these artists and their achievements.\nThird, scholars studying visual culture might properly focus their interpretative work on life worlds by examining images,\npractices, visual technologies, taste, and artistic style as constitutive of social relations. The task is to understand how artifacts\ncontribute to the construction of a world. . . . Important methodological implications follow: ethnography and reception studies\nbecome productive forms of gathering information, since these move beyond the image as a closed and fixed meaning-event. .\n. .",
+          "passage_group": 3,
+          "question": "Which set of keywords below most closely captures the arguments of the passage?",
+          "options": {
+            "A": "Imagery, Visual Practices, Life worlds, Structures of Perception.",
+            "B": "Visual Construction of Reality, Work of Genius, Ethnography, Epiphenomena",
+            "C": "Scholars, Social Analysis, Michelangelo and Leonardo, Interpretive Devices",
+            "D": "Visual Culture, Aesthetic Value, Lay Audience, Visual Experience."
+          },
+          "correct_answer": "A",
+          "explanation": "If we scan the passage from paragraph, 2 till the end, we can find the proper order of the words. First is IMAGERY, second is VISUAL PRACTICES, third is LIFEWORLDS, fourth is STRUCTURES OF PERCEPTION. Hence option A."
+        },
+        {
+          "id": "cat-2020-slot2-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The claims advanced here may be condensed into two assertions: [first, that visual] culture is what images, acts of seeing, and\nattendant intellectual, emotional, and perceptual sensibilities do to build, maintain, or transform the worlds in which people\nlive. [And second, that the]study of visual culture is the analysis and interpretation of images and the ways of seeing (orgazes)\nthat configure the agents, practices, conceptualities, and institutions that put images to work. . . .\nAccordingly, the study of visual culture should be characterized by several concerns. First, scholars of visual culture need to\nexamine any and all imagery – high and low, art and nonart.. . . They must not restrict themselves to objects of a particular\nbeauty or aesthetic value. Indeed, any kind of imagery may be found to offer up evidence of the visual construction of reality. . .\n.\nSecond, the study of visual culture must scrutinize visual practice as much as images themselves, asking what images do when\nthey are put to use. If scholars engaged in this enterprise inquire what makes an image beautiful or why this image or that\nconstitutes a masterpiece or a work of genius, they should do so with the purpose of investigating an artist’s or a work’s\ncontribution to the experience of beauty, taste, value, or genius. No amount of social analysis can account fully for the existence\nof Michelangelo or Leonardo. They were unique creators of images that changed the way their contemporaries thought and felt\nand have continued to shape the history of art, artists, museums, feeling, and aesthetic value. But study of the critical, artistic,\nand popular reception of works by such artists as Michelangelo and Leonardo can shed important light on the meaning of\nthese artists and their works form any different people. And the history of meaning-making has a great deal to do with how\nscholars as well as lay audiences today understand these artists and their achievements.\nThird, scholars studying visual culture might properly focus their interpretative work on life worlds by examining images,\npractices, visual technologies, taste, and artistic style as constitutive of social relations. The task is to understand how artifacts\ncontribute to the construction of a world. . . . Important methodological implications follow: ethnography and reception studies\nbecome productive forms of gathering information, since these move beyond the image as a closed and fixed meaning-event. .\n. .",
+          "passage_group": 3,
+          "question": "Which one of the following best describes the word “epiphenomena” in the last sentence of the passage?",
+          "options": {
+            "A": "Phenomena amenable to analysis.",
+            "B": "Visual phenomena of epic proportions.",
+            "C": "Overarching collections of images",
+            "D": "Phenomena supplemental to the evidence"
+          },
+          "correct_answer": "D",
+          "explanation": "EPIPHENOMENA means a secondary effect or by-product of some event or condition, so option D is bringing the correct meaning."
+        },
+        {
+          "id": "cat-2020-slot2-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Aggression is any behavior that is directed toward injuring, harming, or inflicting pain on another living being or group of\nbeings. Generally, the victim(s) of aggression must wish to avoid such behavior in order for it to be considered true aggression.\nAggression is also categorized according to its ultimate intent. Hostile aggression is an aggressive act that results from anger,\nand is intended to inflict pain or injury because of that anger. Instrumental aggression is an aggressive act that is regarded as a\nmeans to an end other than pain or injury. For example, an enemy combatant may be subjected to torture in order to extract\nuseful intelligence, though those inflicting the torture may have no real feelings of anger or animosity toward their subject. The",
+          "passage_group": 4,
+          "question": "concept of aggression is very broad, and includes many categories of behavior (e.g., verbal aggression, street crime, child\nabuse, spouse abuse, group conflict, war, etc.). A number of theories and models of aggression have arisen to explain these\ndiverse forms of behavior, and these theories/models tend to be categorized according to their specific focus. The most\ncommon system of categorization groups the various approaches to aggression into three separate areas, based upon the\nthree key variables that are present whenever any aggressive act or set of acts is committed. The first variable is the aggressor\nhim/herself. The second is the social situation or circumstance in which the aggressive act(s) occur. The third variable is the\ntarget or victim of aggression.\nRegarding theories and research on the aggressor, the fundamental focus is on the factors that lead an individual (or group) to\ncommit aggressive acts. At the most basic level, some argue that aggressive urges and actions are the result of inborn,\nbiological factors. Sigmund Freud (1930) proposed that all individuals are born with a death instinct that predisposes us toa\nvariety of aggressive behaviors, including suicide (self-directed aggression) and mental illness (possibly due to an unhealthy or\nunnatural suppression of aggressive urges). Other influential perspectives supporting a biological basis for aggression conclude\nthat humans evolved with an abnormally low neural inhibition of aggressive impulses (in comparison toother species), and that\nhumans possess a powerful instinct for property accumulation and territorialism. It is proposed that this instinct accounts for\nhostile behaviors ranging from minor street crime to world wars. Hormonal factors also appear to play a significant role in\nfostering aggressive tendencies. For example, the hormone testosterone has been shown to increase aggressive behaviors\nwhen injected into animals. Men and women convicted of violent crimes also possess significantly higher levels of testosterone\nthan men and women convicted of nonviolent crimes. Numerous studies comparing different age groups, racial/ethnic groups,\nand cultures also indicate that men, overall, are more likely to engage in a variety of aggressive behaviors (e.g., sexual assault,\naggravated assault, etc.) than women. One explanation for higher levels of aggression in men is based on the assumption that,\non average, men have higher levels of testosterone than women.\nAll of the following statements can be seen as logically implied by the arguments of the passage EXCEPT:",
+          "options": {
+            "A": "if the alleged aggressive act is not sought to be avoided, it cannot really be considered aggression",
+            "B": "Freud’s theory of aggression proposes that aggression results from the suppression of aggressive urges.",
+            "C": "Freudian theory of suicide as self-inflicted aggression implies that an aggressive act need not be sought to be avoided in order for it to be considered aggression.",
+            "D": "a common theory of aggression is that it is the result of an abnormally low neural regulation of testosterone."
+          },
+          "correct_answer": "D",
+          "explanation": "2nd line of para 1 supports option A 6th line of para 2 supports option B 5th line of para 2 supports option C Whatever is mentioned as option D is opposite to the contents of the passage, hence the answer."
+        },
+        {
+          "id": "cat-2020-slot2-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Aggression is any behavior that is directed toward injuring, harming, or inflicting pain on another living being or group of\nbeings. Generally, the victim(s) of aggression must wish to avoid such behavior in order for it to be considered true aggression.\nAggression is also categorized according to its ultimate intent. Hostile aggression is an aggressive act that results from anger,\nand is intended to inflict pain or injury because of that anger. Instrumental aggression is an aggressive act that is regarded as a\nmeans to an end other than pain or injury. For example, an enemy combatant may be subjected to torture in order to extract\nuseful intelligence, though those inflicting the torture may have no real feelings of anger or animosity toward their subject. The",
+          "passage_group": 4,
+          "question": "The author identifies three essential factors according to which theories of aggression are most commonly categorized. Which\nof the following options is closest to the factors identified by the author?",
+          "options": {
+            "A": "Hostile – Instrumental – Hormonal",
+            "B": "Extreme – Moderate – Mild",
+            "C": "Psychologically – Sociologically – Medically.",
+            "D": "Aggressor – Circumstances of aggression – Victim"
+          },
+          "correct_answer": "D",
+          "explanation": "The answer is clearly mentioned in the last lines of 1st para. Hence option D."
+        },
+        {
+          "id": "cat-2020-slot2-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Aggression is any behavior that is directed toward injuring, harming, or inflicting pain on another living being or group of\nbeings. Generally, the victim(s) of aggression must wish to avoid such behavior in order for it to be considered true aggression.\nAggression is also categorized according to its ultimate intent. Hostile aggression is an aggressive act that results from anger,\nand is intended to inflict pain or injury because of that anger. Instrumental aggression is an aggressive act that is regarded as a\nmeans to an end other than pain or injury. For example, an enemy combatant may be subjected to torture in order to extract\nuseful intelligence, though those inflicting the torture may have no real feelings of anger or animosity toward their subject. The",
+          "passage_group": 4,
+          "question": "The author discusses all of the following arguments in the passage EXCEPT that:",
+          "options": {
+            "A": "the nature of aggression can vary depending on several factors, including intent.",
+            "B": "several studies indicate that aggression may have roots in the biological condition of humanity.",
+            "C": "men in general are believed to be more hormonally driven to exhibit violence than women.",
+            "D": "aggression in most societies is kept under control through moderating the death instinct identified by Freud."
+          },
+          "correct_answer": "D",
+          "explanation": "Options A, B and C find mention in 2nd paragraph. But option D states opposite to the 4th line of 2nd para, hence the answer."
+        },
+        {
+          "id": "cat-2020-slot2-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Aggression is any behavior that is directed toward injuring, harming, or inflicting pain on another living being or group of\nbeings. Generally, the victim(s) of aggression must wish to avoid such behavior in order for it to be considered true aggression.\nAggression is also categorized according to its ultimate intent. Hostile aggression is an aggressive act that results from anger,\nand is intended to inflict pain or injury because of that anger. Instrumental aggression is an aggressive act that is regarded as a\nmeans to an end other than pain or injury. For example, an enemy combatant may be subjected to torture in order to extract\nuseful intelligence, though those inflicting the torture may have no real feelings of anger or animosity toward their subject. The",
+          "passage_group": 4,
+          "question": "“An enemy combatant may be subjected to torture in order to extract useful intelligence, though those inflicting the torture\nmay have no real feelings of anger or animosity toward their subject.” Which one of the following best explicates the larger\npoint being made by the author here?",
+          "options": {
+            "A": "In certain kinds of aggression, inflicting pain is not the objective, and is no more than a utilitarian means to achieve another end.",
+            "B": "The use of torture to extract information is most effective when the torturer is not emotionally involved in the torture.",
+            "C": "Information revealed by subjecting an enemy combatant to torture is not always reliable because of the animosity involved.",
+            "D": "When an enemy combatant refuses to reveal information, the use of torture can sometimes involve real feelings of hostility."
+          },
+          "correct_answer": "A",
+          "explanation": "The example is used by the author to explain a different type of aggression and not the type of torture inflicted on the enemy with the motive to extract any information as depicted in options B, C and D. The best explanation is given in option A."
+        },
+        {
+          "id": "cat-2020-slot2-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. But the attention of the layman, not surprisingly, has been captured by the atom bomb, although there is at least a chance\nthat it may never be used again.\n2. Of all the changes introduced by man into the household of nature, [controlled] large-scale nuclear fission is undoubtedly\nthe most dangerous and most profound.\n3. The danger to humanity created by the so-called peaceful uses of atomic energy may, however, be much greater.\n4. The resultant ionizing radiation has become the most serious agent of pollution of the environment and the greatest threat\nto man’s survival on earth.",
+          "options": {
+            "A": "2413",
+            "B": "C)",
+            "D": "DIRECTIONS for question The question consists of different statements one of which does not fit into the paragraph. Identify that sentence which is a misfit and choose that option as your answer."
+          },
+          "correct_answer": "2413",
+          "explanation": "Sentence 2 opens the paragraph as it introduces the topic. Sentence 4 gives further explanation to 2 and its contrast is given in 1. The paragraph concludes with 3. So the sequence is 2413"
+        },
+        {
+          "id": "cat-2020-slot2-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The victim’s trauma after assault rarely gets the attention that we lavish on the moment of damage that divided the survivor\nfrom a less encumbered past.\n2. One thing we often do with narratives of sexual assault is sort their respective parties into different temporalities: it seems we\nare interested in perpetrators’ futures and victims’ pasts.\n3. One result is that we don’t have much of a vocabulary for what happens in a victim’s life after the painful past has been\nexcavated, even when our shared language gestures toward the future, as the term “survivor” does.\n4. Even the most charitable questions asked about the victims seem to focus on the past, in pursuit of understanding or of\ncorroboration of painful details.\n5. As more and more stories of sexual assault have been made public in the last two years, the genre of their telling has\nexploded --- crimes have a tendency to become not just stories but genres.",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "The sentences 5231 seem to form a sequence. The 'questions' that arose in 4 seem to be from the same article but a link is missing to put 4 in the above sequence because we can’t identify how the ‘charitable questions’ came up. Hence sentence 4 is the misfit"
+        },
+        {
+          "id": "cat-2020-slot2-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Choose the most logical order of sentences from among the given choices to construct a\ncoherent paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. It also has four movable auxiliary telescopes 1.8 m in diameter.\n2. Completed in 2006, the Very Large Telescope (VLT) has four reflecting telescopes,8.2 m in diameter that can observe objects 4\nbillion times weaker than can normally be seen with the naked eye.\n3. This configuration enables one to distinguish an astronaut on the Moon.\n4. When these are combined with the large telescopes, they produce what is called interferometry: a simulation of the power of\na mirror 16 m in diameter and the resolution of a telescope of 200 m.",
+          "options": {
+            "A": "2143",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2143",
+          "explanation": "Sentence 2 introduces the topic VLT. The pronoun ‘it’ in 1 pairs with 2 (noun-pronoun pair) 4 describes further the functioning of VLT (key word ‘these’) Finally 3 closes the paragraph. So the sequence is 2143"
+        },
+        {
+          "id": "cat-2020-slot2-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Choose the most logical order of sentences from among the given choices to construct a\ncoherent paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. While you might think that you see or are aware of all the changes that happen in your immediate environment, there is\nsimply too much information for your brain to fully process everything.\n2. Psychologists use the term ‘change blindness’ to describe this tendency of people to be blind to changes though they are in\nthe immediate environment.\n3. It cannot be aware of every single thing that happens in the world around you.\n4. Sometimes big shifts happen in front of your eyes and you are not at all aware of these changes.",
+          "options": {
+            "A": "1342",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1342",
+          "explanation": "Sentence 1opens the paragraph by introducing the topic (your brain is aware of all changes going around) Sentence 3 comes next in sequence (keyword “it” referring to brain) Sentence 4 further explains 3 Sentence 2concludes the paragraph. The final sequence is 1342"
+        },
+        {
+          "id": "cat-2020-slot2-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All humans make decisions based on one or a combination of two factors. This is either intuition or information. Decisions\nmade through intuition are usually fast, people don’t even think about the problem. It is quite philosophical, meaning that\nsomeone who made a decision based on intuition will have difficulty explaining the reasoning behind it. The decision-maker\nwould often utilize her senses in drawing conclusions, which again is based on some experience in the field of study. On the\nother side of the spectrum, we have decisions made based on information. These decisions are rational — it is based on facts\nand figures, which unfortunately also means that it can be quite slow. The decision-maker would frequently use reports,\nanalyses, and indicators to form her conclusion. This methodology results in accurate, quantifiable decisions, meaning that a\nperson can clearly explain the rationale behind it.",
+          "options": {
+            "A": "While decisions based on intuition can be made fast, the reasons that led to these cannot be spelt out.",
+            "B": "It is better to make decisions based on information because it is more accurate, and the rationale behind it can be explained.",
+            "C": "Decisions based on intuition and information result in differential speed and ability to provide a rationale.",
+            "D": "We make decisions based on intuition or information on the basis of the time available."
+          },
+          "correct_answer": "C",
+          "explanation": "We can conveniently eliminate options A and B as they focus on single aspect of the paragraph. Option D, though specifies both aspects , is eliminated because it is not the matter of time that is considered to differentiate between both types of decision- making. Only option C accurately captures the essence of the paragraph."
+        },
+        {
+          "id": "cat-2020-slot2-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "With the Treaty of Westphalia, the papacy had been confined to ecclesiastical functions, and the doctrine of sovereign equality\nreigned. What political theory could then explain the origin and justify the functions of secular political order? In his Leviathan,\npublished in 1651, three years after the Peace of Westphalia, Thomas Hobbes provided such a theory. He imagined a “state of\nnature” in the past when the absence of authority produced a “war of all against all.” To escape such intolerable insecurity, he\ntheorized, people delivered their rights to a sovereign power in return forthe sovereign’s provision of security for all within the\nstate’s border. The sovereign state’s monopoly on power was established as the only way to overcome the perpetual fear of\nviolent death and war.",
+          "options": {
+            "A": "Thomas Hobbes theorized that sovereign states emerged out of people’s voluntary desire to overcome the sense of insecurity and establish the doctrine of sovereign equality.",
+            "B": "Thomas Hobbes theorized the emergence of sovereign states as a form of transactional governance to limit the power of the papacy.",
+            "C": "Thomas Hobbes theorized the voluntary surrender of rights by people as essential for emergence of sovereign states.",
+            "D": "Thomas Hobbes theorized the emergence of sovereign states based on a transactional relationship between people and sovereign state that was necessitated by a sense of insecurity of the people. DIRECTIONS for question The question consists of different statements one of which does not fit into the paragraph. Identify that sentence which is a misfit and choose that option as your answer."
+          },
+          "correct_answer": "D",
+          "explanation": "Options A and C are rejected because of the usage of ‘voluntary desires’ or ‘voluntary surrender of rights’ of people, rather it was a transactional relationship between people and sovereign state an the same is aptly presented in option D. Option B is opposite to the contents of the paragraph, hence eliminated."
+        },
+        {
+          "id": "cat-2020-slot2-varc-25",
+          "number": 25,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. You can observe the truth of this in every e-business model ever constructed: monopolise and protect data.\n2. Economists and technologists believe that a new kind of capitalism is being created - different from industrial capitalism as\nwas merchant capitalism.\n3. In 1962, Kenneth Arrow, the guru of mainstream economics, said that in a free market economy the purpose of inventing\nthings is to create intellectual property rights.\n4. There is, alongside the world of monopolized information and surveillance, a different dynamic growing up: information as a\nsocial good, incapable of being owned or exploited or priced.\n5. Yet information is abundant. Information goods are freely replicable. Once a thing is made, it can be copied and pasted\ninfinitely.",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "The correct sequence is 3154 Whereas in 2, altogether a different aspect(merchant capitalism) is taken which finds reference in none of the other sentences. Although the other sentence talk about the beginning of the end of capitalism and also discuss new ways of working and sharing economy, but merchant capitalism is misfit here. Hence sentence 2 is the misfit."
+        },
+        {
+          "id": "cat-2020-slot2-varc-26",
+          "number": 26,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The rural-urban continuum and the heterogeneity of urban settings pose an obvious challenge to identifying urban areas and\nmeasuring urbanization rates in a consistent way within and across countries. An objective methodology for distinguishing\nbetween urban and rural areas that is based on one or two metrics with fixed thresholds may not adequately capture the wide\ndiversity of places. A richer combination of criteria would better describe the multifaceted nature of a city’s function and its\nenvironment, but the joint interpretation of these criteria may require an element of human judgment.",
+          "options": {
+            "A": "The difficulty of accurately identifying urban areas means that we need to create a rich combination of criteria that can be applied to all urban areas.",
+            "B": "With the diversity of urban landscapes, measurable criteria for defining urban areas may need to be supplemented with human judgement.",
+            "C": "Current methodologies used to define urban and rural areas are no longer relevant to our being able to study trends in urbanisation.",
+            "D": "Distinguishing between urban and rural areas might call for some judgement on the objective methodology being used to define a city’s functions."
+          },
+          "correct_answer": "B",
+          "explanation": "Option C is eliminated because the paragraph does not mention that current methodologies are irrelevant. Option D is rejected as combination of criteria is also important for interpretation of city’s functions. Option A seems close but missed the aspect of human judgement, hence rejected. Option B captures the summarized essence of the paragraph."
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot2-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Twenty five coloured beads are to be arranged in a grid comprising of five rows and five columns. Each cell in the grid must\ncontain exactly one bead. Each bead is coloured either Red, Blue or Green.\nWhile arranging the beads along any of the five rows or along any of the five columns, the rules given below are to be followed:\n1. Two adjacent beads along the same row or column are always of different colours.\n2. There is at least one Green bead between any two Blue beads along the same row or column.\n3. There is at least one Blue and at least one Green bead between any two Red beads along the same row or column.\nEvery unique, complete arrangement of twenty five beads is called a configuration.\nThe total number of possible configurations using beads of only two colors is:",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "If we have to use 2 colors, then those two colors have to be Blue and Green only, because if red color is used, then there has to be at least one green and one blue between any two beads. There are two possible configurations if exactly 2 colors are used. Diagrams are shown below: A BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE B GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN BLUE GREEN"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Twenty five coloured beads are to be arranged in a grid comprising of five rows and five columns. Each cell in the grid must\ncontain exactly one bead. Each bead is coloured either Red, Blue or Green.\nWhile arranging the beads along any of the five rows or along any of the five columns, the rules given below are to be followed:\n1. Two adjacent beads along the same row or column are always of different colours.\n2. There is at least one Green bead between any two Blue beads along the same row or column.\n3. There is at least one Blue and at least one Green bead between any two Red beads along the same row or column.\nEvery unique, complete arrangement of twenty five beads is called a configuration.\nWhat is the maximum possible number of Red beads that can appear in any configuration?",
+          "options": {
+            "A": "9",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "9",
+          "explanation": "Maximum number of red beads can appear only when we minimize Blue and Green colored beads. The arrangement is as given below: RED GREEN BLUE RED GREEN GREEN RED GREEN BLUE RED BLUE GREEN RED GREEN BLUE RED BLUE GREEN RED GREEN GREEN RED BLUE GREEN RED So we can see that there are 9 Red colored beads in the above arrangement."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Twenty five coloured beads are to be arranged in a grid comprising of five rows and five columns. Each cell in the grid must\ncontain exactly one bead. Each bead is coloured either Red, Blue or Green.\n\nWhile arranging the beads along any of the five rows or along any of the five columns, the rules given below are to be followed:\n1. Two adjacent beads along the same row or column are always of different colours.\n2. There is at least one Green bead between any two Blue beads along the same row or column.\n3. There is at least one Blue and at least one Green bead between any two Red beads along the same row or column.\nEvery unique, complete arrangement of twenty five beads is called a configuration.\nWhat is the minimum number of Blue beads in any configuration?",
+          "options": {
+            "A": "6",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "6",
+          "explanation": "Minimum number of blue beads can appear only when we maximize Red and Green colored beads. The arrangement is as given below: RED GREEN BLUE RED GREEN GREEN RED GREEN BLUE RED BLUE GREEN RED GREEN BLUE RED BLUE GREEN RED GREEN GREEN RED BLUE GREEN RED So we can see that there are 6 Blue colored beads in the above arrangement."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Twenty five coloured beads are to be arranged in a grid comprising of five rows and five columns. Each cell in the grid must\ncontain exactly one bead. Each bead is coloured either Red, Blue or Green.\nWhile arranging the beads along any of the five rows or along any of the five columns, the rules given below are to be followed:\n1. Two adjacent beads along the same row or column are always of different colours.\n2. There is at least one Green bead between any two Blue beads along the same row or column.\n3. There is at least one Blue and at least one Green bead between any two Red beads along the same row or column.\nEvery unique, complete arrangement of twenty five beads is called a configuration.\nTwo Red beads have been placed in ‘second row, third column’ and ‘third row, second column’. How many more Red beads can\nbe placed so as to maximise the number of Red beads used in the configuration?",
+          "options": {
+            "A": "6",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "6",
+          "explanation": "We will make the arrangement as given in the question: RED RED RED RED RED RED RED RED Now we can see that there will be maximum 6 red colored beads which satisfy the given arrangement."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The Humanities department of a college is planning to organize eight seminars, one for each of the eight doctoral students - A,\nB, C, D, E, F, G and H. Four of them are from Economics, three from Sociology and one from Anthropology department. Each\nstudent is guided by one among P, Q, R, S and T. Two students are guided by each of P, R and T, while one student is guided by\neach of Q and S. Each student is guided by a guide belonging to their department.\nEach seminar is to be scheduled in one of four consecutive 30-minute slots starting at 9:00am, 9:30 am, 10:00 am and 10:30 am\non the same day. More than one seminars can be scheduled in a slot, provided the guide is free. Only three rooms are available\nand hence at the most three seminars can be Scheduled in a slot. Students who are guided by the same guide must be\nscheduled in consecutive slots.\nThe following additional facts are also known.\n1. Seminars by students from Economics are scheduled in each of the four slots.\n2. A’s is the only seminar that is scheduled at 10:00 am. A is guided by R.\n3. F is an Anthropology student whose seminar is scheduled at 10:30 am.\n4. The seminar of a Sociology student is scheduled at 9:00 am.\n5. B and G are both Sociology students, whose seminars are scheduled in the same slot. The seminar of an Economics student,\nwho is guided by T, is also scheduled in the same slot.\n6. P, who is guiding both B and C, has students scheduled in the first two slots.\n7. A and G are scheduled in two consecutive slots.\nWhich one of the following statements is true?",
+          "options": {
+            "A": "Three seminars are scheduled in the first slot.",
+            "B": "Two seminars are scheduled in the first slot.",
+            "C": "Only one seminar is scheduled in the second slot.",
+            "D": "Three seminars are scheduled in the last slot."
+          },
+          "correct_answer": "B",
+          "explanation": "From 1, Economics is at scheduled at each slot From 2, Only A is scheduled at 10 so it has to be Economics and guided by R From 5, 6 and 7 B,G and C are having seminar on Sociology. B and C are guided by P and having seminar in first two slots so C will be at 9, B and G will be at 9:30 and 1 student from economics guided by T will be also be at 9:30. R cannot be at 9 because Students who are guided by the same guide must be scheduled in consecutive slots. From 3, F is at 10:30, so at 9:30, 3 students are there and at 9 am, C and 1 more student having economics would be there, at 10 am only 1 student would be there. At 10:30 2 students one having economics and other having anthropology would be there. From the information given we can draw following table NameSubject Time Guide A Economics 10 am R B Sociology 9:30 am P C Sociology 9 am P D Economics R/T E Economics R/T F Anthropology10:30 amS/Q G Sociology 9:30 am S/Q H Economics R/T From the above information only two would be in 1st slot"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who all are NOT guiding any Economics students?",
+          "options": {
+            "A": "P, Q and S",
+            "B": "P, R and S",
+            "C": "Q, R and S",
+            "D": "P, Q and R"
+          },
+          "correct_answer": "A",
+          "explanation": "From 1, Economics is at scheduled at each slot From 2, Only A is scheduled at 10 so it has to be Economics and guided by R From 5, 6 and 7 B,G and C are having seminar on Sociology. B and C are guided by P and having seminar in first two slots so C will be at 9, B and G will be at 9:30 and 1 student from economics guided by T will be also be at 9:30. R cannot be at 9 because Students who are guided by the same guide must be scheduled in consecutive slots. From 3, F is at 10:30, so at 9:30, 3 students are there and at 9 am, C and 1 more student having economics would be there, at 10 am only 1 student would be there. At 10:30 2 students one having economics and other having anthropology would be there. From the information given we can draw following table NameSubject Time Guide A Economics 10 am R B Sociology 9:30 am P C Sociology 9 am P D Economics R/T E Economics R/T F Anthropology10:30 amS/Q G Sociology 9:30 am S/Q H Economics R/T Economics are guided by R and T. So ans. is Option 1"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is necessarily true?",
+          "options": {
+            "A": "B is scheduled in the first slot.",
+            "B": "H is an Economics student.",
+            "C": "Q is guiding G",
+            "D": "S is guiding F."
+          },
+          "correct_answer": "B",
+          "explanation": "From 1, Economics is at scheduled at each slot From 2, Only A is scheduled at 10 so it has to be Economics and guided by R From 5, 6 and 7 B,G and C are having seminar on Sociology. B and C are guided by P and having seminar in first two slots so C will be at 9, B and G will be at 9:30 and 1 student from economics guided by T will be also be at 9:30. R cannot be at 9 because Students who are guided by the same guide must be scheduled in consecutive slots. From 3, F is at 10:30, so at 9:30, 3 students are there and at 9 am, C and 1 more student having economics would be there, at 10 am only 1 student would be there. At 10:30 2 students one having economics and other having anthropology would be there. From the information given we can draw following table NameSubject Time Guide A Economics 10 am R B Sociology 9:30 am P C Sociology 9 am P D Economics R/T E Economics R/T F Anthropology10:30 amS/Q G Sociology 9:30 am S/Q H Economics R/T From the above information H is an Economics student."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If D is scheduled in a slot later than Q's, then which of the following two statement(s) is (are) true?\n(i) E and H are guided by T.\n(ii) G is guided by Q.",
+          "options": {
+            "A": "Only (i)",
+            "B": "Both (i) and (ii)",
+            "C": "Only (ii)",
+            "D": "Neither (i) nor (ii)"
+          },
+          "correct_answer": "B",
+          "explanation": "From 1, Economics is at scheduled at each slot From 2, Only A is scheduled at 10 so it has to be Economics and guided by R From 5, 6 and 7 B,G and C are having seminar on Sociology. B and C are guided by P and having seminar in first two slots so C will be at 9, B and G will be at 9:30 and 1 student from economics guided by T will be also be at 9:30. R cannot be at 9 because Students who are guided by the same guide must be scheduled in consecutive slots. From 3, F is at 10:30, so at 9:30, 3 students are there and at 9 am, C and 1 more student having economics would be there, at 10 am only 1 student would be there. At 10:30 2 students one having economics and other having anthropology would be there. From the information given we can draw following table NameSubject Time Guide A Economics 10 am R B Sociology 9:30 am P C Sociology 9 am P D Economics R/T E Economics R/T F Anthropology10:30 amS/Q G Sociology 9:30 am S/Q H Economics R/T If D is scheduled later than Q then, Q will be at 9:30 and He will guide G and S will guide F. R will guide D at 10:30. E and H will be guided by T. So ans is option 2"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If E and Q are both scheduled in the same slot, then which of the following statements BEST describes the relationship between\nD, H, and T?",
+          "options": {
+            "A": "At least one of D and H is guided by T.",
+            "B": "Neither D nor H is guided by T.",
+            "C": "Both D and H are guided by T.",
+            "D": "Exactly one of D and H is guided by T."
+          },
+          "correct_answer": "A",
+          "explanation": "From 1, Economics is at scheduled at each slot From 2, Only A is scheduled at 10 so it has to be Economics and guided by R From 5, 6 and 7 B,G and C are having seminar on Sociology. B and C are guided by P and having seminar in first two slots so C will be at 9, B and G will be at 9:30 and 1 student from economics guided by T will be also be at 9:30. R cannot be at 9 because Students who are guided by the same guide must be scheduled in consecutive slots. From 3, F is at 10:30, so at 9:30, 3 students are there and at 9 am, C and 1 more student having economics would be there, at 10 am only 1 student would be there. At 10:30 2 students one having economics and other having anthropology would be there. From the information given we can draw following table NameSubject Time Guide A Economics 10 am R B Sociology 9:30 am P C Sociology 9 am P D Economics R/T E Economics R/T F Anthropology10:30 amS/Q G Sociology 9:30 am S/Q H Economics R/T If E and Q are in same slot then it will be 9:30 or at 10:30 If E will be guided by R then D and H will be guided by T, and if E will be guided by T then one of D and H will be guided by T So At least one of D and H is guided by T So ans. will be 1st option"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If D is scheduled in the slot immediately before Q’s, then which of the following is NOT necessarily true?",
+          "options": {
+            "A": "D is guided by T.",
+            "B": "G is guided by Q.",
+            "C": "F is guided by S.",
+            "D": "E is guided by R."
+          },
+          "correct_answer": "D",
+          "explanation": "From 1, Economics is at scheduled at each slot From 2, Only A is scheduled at 10 so it has to be Economics and guided by R From 5, 6 and 7 B,G and C are having seminar on Sociology. B and C are guided by P and having seminar in first two slots so C will be at 9, B and G will be at 9:30 and 1 student from economics guided by T will be also be at 9:30. R cannot be at 9 because Students who are guided by the same guide must be scheduled in consecutive slots. From 3, F is at 10:30, so at 9:30, 3 students are there and at 9 am, C and 1 more student having economics would be there, at 10 am only 1 student would be there. At 10:30 2 students one having economics and other having anthropology would be there. From the information given we can draw following table NameSubject Time Guide A Economics 10 am R B Sociology 9:30 am P C Sociology 9 am P D Economics R/T E Economics R/T F Anthropology10:30 amS/Q G Sociology 9:30 am S/Q H Economics R/T If D is immediately before Q then Q is at 9:30 and D is at 9 that means F if guided by S at 10:30, G is guided by Q, D and E can be guided by R/T So ans is option 4"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\npolled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the\nsecond runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number\nof votes polled by the candidates) in any of the constituencies in this election.\nIn an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\nbefore he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\nsecure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\nThe following table provides some incomplete information about votes polled in four constituencies: A,B, C and D, in this\nelection.\nConstituency\nA B C D\nNo. of candidates contesting 10 12 5 8\nTotal No. of valid votes polled 5,00,000 3,25,000 6,00,030\nNo. of votes polled by the winning\n2,75,000 48,750\ncandidate\nNo. of votes polled by the first runner\n95,000 37,500\nup\nNo. of votes polled by the second\n30,000\nrunner up\n% of valid votes polled by the third\n10%\nrunner up\nThe following additional facts are known:\n1. The first runner up polled 10,000 more votes than the second runner up in constituency A.\n\n2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any pair\nof candidates in this constituency was at least 10,000.\n3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\nwho lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\nWhat is the percentage of votes polled in total by all the candidates who lost their security deposits while contesting for\nconstituency A?",
+          "options": {
+            "A": "9",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "9",
+          "explanation": "A B C D Number of candidates 10 12 5 8 Total valid votes 500000325000600030 Winning candidate 27500048750 First runner up 95000 37500 Second runner up (85000) 30000 % of votes by Third runner up 10% Votes got by Second runner up from A= 95000-10000= 85000 Votes got by the candidates who lost their security deposits= 500000-275000-95000-85000= 45000"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many candidates who contested in constituency B lost their security deposit?",
+          "options": {
+            "A": "11",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "11",
+          "explanation": "A B C D Number of candidates 10 12 5 8 Total valid votes 500000325000600030 Winning candidate 27500048750 First runner up 95000 37500 Second runner up (85000) 30000 % of votes by Third runner up 10% So all the candidates except the winner lose their security deposit because they got less than 1/6 of the total valid votes. So ans is 12-1= 11"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the number of votes polled by the winning candidate in constituency C?",
+          "options": {
+            "A": "less than 2,00,010",
+            "B": "1,40,010",
+            "C": "between 1,40,005 and 1,40,010",
+            "D": "1,40,006"
+          },
+          "correct_answer": "D",
+          "explanation": "A B C D Number of candidates 10 12 5 8 Total valid votes 500000325000600030 Winning candidate 27500048750 First runner up 95000 37500 Second runner up (85000) 30000 % of votes by Third runner up 10% All candidates should got more than 1/6th of the total valid votes which is Suppose winner got = x votes, and if we assume that each candidate got 10000 less votes than previous candidate Then A.T.Q = x+ x-10000+ x-20000+ x- 30000 + x-40000= 600030 Then x= 140006 So ans is option 4"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the number of valid votes polled in constituency D?",
+          "options": {
+            "A": "1,75,000",
+            "B": "1,50,000",
+            "C": "62,500",
+            "D": "1,25,000"
+          },
+          "correct_answer": "A",
+          "explanation": "A B C D Number of candidates 10 12 5 8 Total valid votes 500000325000600030 Winning candidate 27500048750 First runner up 95000 37500 Second runner up (85000) 30000 % of votes by Third runner up 10% Let the valid votes in constituency D= x 1st runner up got = 37500 Winner got 37500+.05x 2nd runner up got 30000 votes and the remaining candidates loose their security so A.T.Q 37500+ .05x+ 37500+30000= 0.65x So x= 175000 So ans is 1st option"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The winning margin of a constituency is defined as the difference of votes polled by the winner and that of the first runner up.\nWhich of the following CANNOT be the list of constituencies, in increasing order of winning margin?",
+          "options": {
+            "A": "B, C, D, A",
+            "B": "D, B, C, A",
+            "C": "B, D, C, A",
+            "D": "D, C, B, A"
+          },
+          "correct_answer": "A",
+          "explanation": "A B C D Number of candidates 10 12 5 8 Total valid votes 500000325000600030 Winning candidate 27500048750 First runner up 95000 37500 Second runner up (85000) 30000 % of votes by Third runner up 10% Winning margin in constituency D = .05 x 175000= 8750 Winning margin of C is atleast 10000 that means margin of C is greater than D So option 1 is wrong."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For all the four constituencies taken together, what was the approximate number of votes polled by all the candidates who lost\ntheir security deposit expressed as a percentage of the total valid votes from these four constituencies?",
+          "options": {
+            "A": "23.91%",
+            "B": "23.54%",
+            "C": "32.00%",
+            "D": "38.25%"
+          },
+          "correct_answer": "A",
+          "explanation": "A B C D Number of candidates 10 12 5 8 Total valid votes 500000325000600030 Winning candidate 27500048750 First runner up 95000 37500 Second runner up (85000) 30000 % of votes by Third runner up 10% Total votes = 500000 + 325000 + 600030 + 175000= 1600030 In A ( 500000-275000-95000-85000) = 45000 votes were polled to the candidates who lost their security In B, All candidates except the winner lost their security which is equal to 325000- 48750= 276250 In C, no one lost the security In D, 35% of 175000= 61250 votes are polled to the candidates who lost their security Total votes polled to the candidates who lost their security = 45000+276250+61250= 382500 So answer is option 1"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A chain of departmental stores has outlets in Delhi, Mumbai, Bengaluru and Kolkata. The sales are categorized by its three\ndepartments – ‘Apparel’, ‘Electronics’, and ‘HomeDecor’. An Accountant has been asked to prepare a summary of the 2018 and\n2019 sales amounts for an internal report. He has collated partial information and prepared the following table.\nSales Amounts (Crore Rupees)\nDelhi Mumbai Bengaluru Kolkata\n2018 2019 2018 2019 2018 2019 2018 2019\nApparels - - - - - - - 54\nElectronics 78 98 82 102 90 70 80 100\nHomeDecor - 100 - 72 - 80 - 54\nThe following additional information is known.\n1. The sales amounts in the Apparel departments were the same for Delhi and Kolkata in2018.\n2. The sales amounts in the Apparel departments were the same for Mumbai and Bengaluru in 2018. This sales amount\nmatched the sales amount in the Apparel department for Delhi in2019.\n3. The sales amounts in the Home Decor departments were the same for Mumbai and Kolkata in 2018.\n4. The sum of the sales amounts of four Electronics departments increased by the same amount as the sum of the sales\n\namounts of four Apparel departments from 2018 to 2019.\n5. The total sales amounts of the four Home Decor departments increased by Rs 70 Crores from 2018 to 2019.\n6. The sales amounts in the Home Decor departments of Delhi and Bengaluru each increased by Rs 20 Crores from 2018 to\n2019.\n7. The sales amounts in the Apparel departments of Delhi and Bengaluru each increased by the same amount in 2019 from\n2018. The sales amounts in the Apparel departments of Mumbai and Kolkata also each increased by the same amount in 2019\nfrom 2018.\n8. The sales amounts in the Apparel departments of Delhi, Kolkata and Bengaluru in 2019 followed an Arithmetic Progression.\nIn HomeDecor departments of which cities were the sales amounts the highest in 2018and 2019, respectively?",
+          "options": {
+            "A": "Mumbai and Mumbai",
+            "B": "Delhi and Delhi",
+            "C": "Bengaluru and Delhi",
+            "D": "Mumbai and Delhi"
+          },
+          "correct_answer": "B",
+          "explanation": "We have the following incomplete table which can be filled with different letters as per the condition given. Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels x y y c y b x 54 Electronics 78 98 82 102 90 70 80 100 Home 100 a 72 80 a 54 decor In last point it is given that y, 54 and b are A. P. ⇒ bb + y = 108 ----(1) The total of electronics dept. In 2018 = 330cr Total of electronics dept. in 2019 = 370cr Incase are in sales in 2019 as compare to 2018 is 40 cr As per the point 4, we have (y + c + b + 54) - (x + y + y + x) = 40 ⇒ b + c + 54 - y - 2x = 40 ⇒ 2x + y - b - c = 14 ---(2) From 7, we have y - x = b - y ⇒ b = 2y - x -----(3) & c - y = 54 - x ⇒ c = 54 + y - x ---(4) Using (3) & (4) in (2) we get 2x + y - 2y + x - 54 - y + x = 14 ⇒ 4x - 2y = 68 ⇒ 2x - y = 34 ---(5) Using (3) in (1), we get, 3y - x = 108 --(6) Solve (5) & 6, to get y = 50, x = 42 ∴ (3) ⇒ b = 58 (4) ⇒ c = 62 Total sale of Home décor increased by Rs 70 cr. Using point 6, we can say that sale of Home décor in Delhi in 2018 is Rs 80 cr & in Bengaluru in 2018 is Rs 60 Cr. Now 72 - a + 54 - a = 30 ⇒ 2a = 96 ⇒ a = 48 Hence the final table is as below Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels 42 50 50 62 50 58 42 54 Electronics 78 98 82 102 90 70 80 100 Home 80 100 48 72 60 80 48 54 decor In Home décor, Delhi has maximum sales in 2018 & 2019."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the increase in sales amount, in Crore Rupees, in the Apparel department of Mumbai from 2018 to 2019?",
+          "options": {
+            "A": "10",
+            "B": "5",
+            "C": "8",
+            "D": "12"
+          },
+          "correct_answer": "D",
+          "explanation": "We have the following incomplete table which can be filled with different letters as per the condition given. Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels x y y c y b x 54 Electronics 78 98 82 102 90 70 80 100 Home 100 a 72 80 a 54 decor In last point it is given that y, 54 and b are A. P. ⇒ bb + y = 108 ----(1) The total of electronics dept. In 2018 = 330cr Total of electronics dept. in 2019 = 370cr Incase are in sales in 2019 as compare to 2018 is 40 cr As per the point 4, we have (y + c + b + 54) - (x + y + y + x) = 40 ⇒ b + c + 54 - y - 2x = 40 ⇒ 2x + y - b - c = 14 ---(2) From 7, we have y - x = b - y ⇒ b = 2y - x -----(3) & c - y = 54 - x ⇒ c = 54 + y - x ---(4) Using (3) & (4) in (2) we get 2x + y - 2y + x - 54 - y + x = 14 ⇒ 4x - 2y = 68 ⇒ 2x - y = 34 ---(5) Using (3) in (1), we get, 3y - x = 108 --(6) Solve (5) & 6, to get y = 50, x = 42 ∴ (3) ⇒ b = 58 (4) ⇒ c = 62 Total sale of Home décor increased by Rs 70 cr. Using point 6, we can say that sale of Home décor in Delhi in 2018 is Rs 80 cr & in Bengaluru in 2018 is Rs 60 Cr. Now 72 - a + 54 - a = 30 ⇒ 2a = 96 ⇒ a = 48 Hence the final table is as below Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels 42 50 50 62 50 58 42 54 Electronics 78 98 82 102 90 70 80 100 Home 80 100 48 72 60 80 48 54 decor In Mumbai, the sales of Apparel dept. Increased by Rs. 12 cr."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Among all the 12 departments (i.e., the 3 departments in each of the 4 cities), what was the maximum percentage increase in\nsales amount from 2018 to 2019?",
+          "options": {
+            "A": "75",
+            "B": "50",
+            "C": "28",
+            "D": "25"
+          },
+          "correct_answer": "B",
+          "explanation": "We have the following incomplete table which can be filled with different letters as per the condition given. Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels x y y c y b x 54 Electronics 78 98 82 102 90 70 80 100 Home 100 a 72 80 a 54 decor In last point it is given that y, 54 and b are A. P. ⇒ bb + y = 108 ----(1) The total of electronics dept. In 2018 = 330cr Total of electronics dept. in 2019 = 370cr Incase are in sales in 2019 as compare to 2018 is 40 cr As per the point 4, we have (y + c + b + 54) - (x + y + y + x) = 40 ⇒ b + c + 54 - y - 2x = 40 ⇒ 2x + y - b - c = 14 ---(2) From 7, we have y - x = b - y ⇒ b = 2y - x -----(3) & c - y = 54 - x ⇒ c = 54 + y - x ---(4) Using (3) & (4) in (2) we get 2x + y - 2y + x - 54 - y + x = 14 ⇒ 4x - 2y = 68 ⇒ 2x - y = 34 ---(5) Using (3) in (1), we get, 3y - x = 108 --(6) Solve (5) & 6, to get y = 50, x = 42 ∴ (3) ⇒ b = 58 (4) ⇒ c = 62 Total sale of Home décor increased by Rs 70 cr. Using point 6, we can say that sale of Home décor in Delhi in 2018 is Rs 80 cr & in Bengaluru in 2018 is Rs 60 Cr. Now 72 - a + 54 - a = 30 ⇒ 2a = 96 ⇒ a = 48 Hence the final table is as below Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels 42 50 50 62 50 58 42 54 Electronics 78 98 82 102 90 70 80 100 Home 80 100 48 72 60 80 48 54 decor The max % increase is 50% for Mumbai in Home décor dept."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the total sales amount, in Crore Rupees, in 2019 for the chain of departmental stores?",
+          "options": {
+            "A": "600",
+            "B": "150",
+            "C": "750",
+            "D": "900"
+          },
+          "correct_answer": "D",
+          "explanation": "We have the following incomplete table which can be filled with different letters as per the condition given. Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels x y y c y b x 54 Electronics 78 98 82 102 90 70 80 100 Home 100 a 72 80 a 54 decor In last point it is given that y, 54 and b are A. P. ⇒ bb + y = 108 ----(1) The total of electronics dept. In 2018 = 330cr Total of electronics dept. in 2019 = 370cr Incase are in sales in 2019 as compare to 2018 is 40 cr As per the point 4, we have (y + c + b + 54) - (x + y + y + x) = 40 ⇒ b + c + 54 - y - 2x = 40 ⇒ 2x + y - b - c = 14 ---(2) From 7, we have y - x = b - y ⇒ b = 2y - x -----(3) & c - y = 54 - x ⇒ c = 54 + y - x ---(4) Using (3) & (4) in (2) we get 2x + y - 2y + x - 54 - y + x = 14 ⇒ 4x - 2y = 68 ⇒ 2x - y = 34 ---(5) Using (3) in (1), we get, 3y - x = 108 --(6) Solve (5) & 6, to get y = 50, x = 42 ∴ (3) ⇒ b = 58 (4) ⇒ c = 62 Total sale of Home décor increased by Rs 70 cr. Using point 6, we can say that sale of Home décor in Delhi in 2018 is Rs 80 cr & in Bengaluru in 2018 is Rs 60 Cr. Now 72 - a + 54 - a = 30 ⇒ 2a = 96 ⇒ a = 48 Hence the final table is as below Delhi Mumbai Bengaluru Kolkata 2018 2019 2018 2019 2018 2019 2018 2019 Apparels 42 50 50 62 50 58 42 54 Electronics 78 98 82 102 90 70 80 100 Home 80 100 48 72 60 80 48 54 decor The total sales of all dept. In 2019 is Rs. 900 crore"
+        },
+        {
+          "id": "cat-2020-slot2-dilr-47",
+          "number": 47,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A shopping mall has a large basement parking lot with parking slots painted in it along a single row. These slots are quite\nnarrow; a compact car can fit in a single slot but an SUV requires two slots. When a car arrives, the parking attendant guides the\ncar to the first available slot from the beginning of the row into which the car can fit.\nFor our purpose, cars are numbered according to the order in which they arrive at the lot. For example, the first car to arrive is\ngiven a number 1, the second a number 2, and so on. This numbering does not indicate whether a car is a compact or an SUV.\nThe configuration of a parking lot is a sequence of the car numbers in each slot. Each single vacant slot is represented by letter\nV.\nFor instance, suppose cars numbered 1 through 5 arrive and park, where cars 1, 3 and 5 are compact cars and 2 and 4 are SUVs.\nAt this point, the parking lot would be described by the sequence 1, 2, 3, 4, 5. If cars 2 and 5 now vacate their slots, the parking\nlot would now be described as 1, V, V, 3, 4. If a compact car (numbered 6) arrives subsequently followed by an SUV (numbered\n7), the parking lot would be described by the sequence 1, 6, V, 3, 4, 7.\nAnswer the following questions INDEPENDENTLY of each other.\nInitially cars numbered 1, 2, 3, and 4 arrive among which 1 and 4 are SUVs while 2 and3 are compact cars. Car 1 then leaves,\nfollowed by the arrivals of car 5 (a compact car) and car 6 (an SUV). Car 4 then leaves. Then car 7 (an SUV) and car 8 (a compact\ncar)arrive. At this moment, which among the following numbered car is parked next to car3?",
+          "options": {
+            "A": "8",
+            "B": "5",
+            "C": "7",
+            "D": "6"
+          },
+          "correct_answer": "C",
+          "explanation": "The initial cars are 1, 2, 3, 4, when can 1 leaves, we have the arrangement V V 2 3 4 Now car 5 (a compact car) and car 6 (an SUV) came. So arrangement is 5 V 2 3 4 6 Now care 4 left, we have the arrangement 5 V 2 3 V V 6 Now car 7 (an S U V) and car 8 ( a compact car) arrived, so final arrangement is 5, 8, 2, 3, 7, 6. Hence car number 7 is parked next to car 3."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-48",
+          "number": 48,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose eight cars have arrived, of which two have left. Also suppose that car 4 is a compact and car 7 is an SUV. Which of the\nfollowing is a POSSIBLE current configuration of the parking lot?",
+          "options": {
+            "A": "8, 2, 3, V, 5, 6, 7",
+            "B": "8, 2, 3, V, 6, 5, 7",
+            "C": "V, 2, 3, 7, 5, 6, 8",
+            "D": "8, 2, 3, V, 5, 7, 6"
+          },
+          "correct_answer": "A",
+          "explanation": "As per the options, car 1 & car 4 left as Car 8 is the last car to arrive, so it should be either at 1st position or the last position. So option 3 is wrong. In option 2, the position of car 4 is vacant. If car 5 arrived after car 4 left, then it should have been next to car 3. If car 4 left after the car 5 arrived, then car 5 should be next to V. in any case, car 5 cannot be after car 6. Hence option 2 is wrong. In option 4, it is clear that car 4 left after car 5 arrived. So car next to car 5 should be car 6. Hence it is wrong. Only option 1 is true where car 4 left after car 5 arrived."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-49",
+          "number": 49,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose the sequence at some point of time is 4, 5, 6, V, 3. Which of the following is NOT necessarily true?",
+          "options": {
+            "A": "Car 3 is an SUV",
+            "B": "Car 5 is a compact",
+            "C": "Car 4 is a compact",
+            "D": "Car 1 is an SUV"
+          },
+          "correct_answer": "A",
+          "explanation": "Total cars arrived here are 6 and car 3 is placed in the end. It is possible it cars 1 & 2 are S UV, then we have the arrangement 1 2 3 Now cars 1 & 2 left, then the arrangement is V V V V 3 After that the cars 4, 5, 6 arrived in order so that the final arrangement is. 4 5 6 V 3 Hence cars 4 & 5 are compact & car 1 is an S U V. but we cannot say about car 3, whether it is an S U V or a compact car."
+        },
+        {
+          "id": "cat-2020-slot2-dilr-50",
+          "number": 50,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose that car 4 is not the first car to leave and that the sequence at a time between the arrival of the car 7 and car 8 is V, 7,\n3, 6, 5. Then which of the following statements MUST be false?",
+          "options": {
+            "A": "Car 4 is an SUV",
+            "B": "Car 2 is a compact",
+            "C": "Car 6 is a compact",
+            "D": "Car 7 is a compact"
+          },
+          "correct_answer": "C",
+          "explanation": "The original order is 1 2 3 4 5. Now car 6 is at the place of car 4 and car 4 is not the first one to leave. So either car 1 & car 2 will leave first. If we assume that the first car left is car 1, them as car 2 is also leaving, so car 7 will take the first position. So first position cannot be empty. Hence car 2 is the one which left at the first place and after it car 4 left. So we have following possibilities. 1 V 3 V 5 or 1 V 3 V V 5 Car 2 is not an S U V because in that case, car 6 will be next to car 1. Also car 6 is not compact otherwise, it will be again next to car 1. So car 6 is an S U V and we have the order 1 V 3 6 5 Now car 7 came which is compact and order is 1 7 3 6 5. After that the car 1 left to give the final order as V 7 3 6 5"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2020-slot2-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A sum of money is split among Amal, Sunil and Mita so that the ratio of the shares of Amal and Sunil is 3:2, while the ratio of\nthe shares of Sunil and Mita is 4:5. If the difference between the largest and the smallest of these three shares is Rs 400, then\nSunil’s share, in rupees, is",
+          "options": {
+            "A": "800",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "800",
+          "explanation": "Given that Amal : Sunil = 3 : 2. Also, Sunil : Mita = 4 : 5 On combining the ratio we get Amal : Sunil : Mita = 6 : 4 : 5 So, let their shares be 6x, 4x and 5x According to the question 6x – 4x = 400 2x = 400 x = 200 So, Sunil’s share = 4x = 4 × 200 = 800"
+        },
+        {
+          "id": "cat-2020-slot2-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of pairs of integers (x, y) satisfy x ≥ y ≥ - 20 and 2x + 5y = 99 is",
+          "options": {
+            "A": "17",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "17",
+          "explanation": "2x + 5y = 99 also it is given that x ≥ y ≥ -20 So, possible cases are x y x y 47 1 52 -1 42 3 57 -3 37 5 62 -5 32 7 67 -7 27 9 72 -9 22 11 77 -11 17 13 82 -13 87 -15 92 -17 97 -19 So, total 17 cases are there"
+        },
+        {
+          "id": "cat-2020-slot2-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of integers that satisfy the equality (x2 - 5x + 7)x + 1 = 1 is",
+          "options": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "5"
+          },
+          "correct_answer": "C",
+          "explanation": "(x2 – 5x + 7)x+1 = 1 For R.H.S to be 1, we must have x2 – 5x = - 6 x2 – 5x + 6 = 0 On solving, we get x = 2, 3 (2 values) Also, we must have a0 = 1 So, x + 1 = 0 i.e. x = -1 (1 value) also satisfies. Hence answer is 3."
+        },
+        {
+          "id": "cat-2020-slot2-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For the same principal amount, the compound interest for two years at 5% per annum exceeds the simple interest for three\nyears at 3% per annum by Rs. 1125.Then the principal amount in rupees is",
+          "options": {
+            "A": "90000",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "90000",
+          "explanation": "Let the principal = 8000 So, simple interest for 3 years @ 3% per annum = Rs.720 Compound interest for 2 years @ 5% per annum = Rs.820 Difference = Rs.100 So, using unitary method When difference is 100 principal is 8000 When difference is 1125 principal is 90000"
+        },
+        {
+          "id": "cat-2020-slot2-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Aron bought some pencils and sharpeners. Spending the same amount of money as Aron, Aditya bought twice as many pencils\nand 10 less sharpeners. If the cost of one sharpener is Rs. 2 more than the cost of a pencil, then the minimum possible number\nof pencils bought by Aron and Aditya together is",
+          "options": {
+            "A": "36",
+            "B": "33",
+            "C": "30",
+            "D": "27 DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "B",
+          "explanation": "Let the cost of pencil is Rs. x and of sharpener is Rs.(x+2) Let Aron bought ‘a’ pencils & ‘b’ sharpeners. Aditya bought ‘2a’ pencils & ‘b – 10’ sharpeners. Now, ax + b(x + 2) = 2ax + (b – 10)(x + 2) ax + bx + 2b = 2ax + bx + 2b – 10x – 20 ax – 10x = 20 a – 10 = 20/x a = 20/x + 10 Now ‘a’ is minimum when ‘x’ is maximum i.e. x = 20 Minimum ‘a’ = 20/20 + 10 = 11 Total pencils = 3a = 3 × 11 = 33"
+        },
+        {
+          "id": "cat-2020-slot2-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In May, John bought the same amount of rice and the same amount of wheat as he had bought in April, but spent Rs. 150 more\ndue to price increase of rice and wheat by 20%and 12%, respectively. If John had spent Rs. 450 on rice in April, then how much\ndid he spend on wheat in May?",
+          "options": {
+            "A": "Rs. 560",
+            "B": "Rs. 570",
+            "C": "Rs. 580",
+            "D": "Rs. 590"
+          },
+          "correct_answer": "A",
+          "explanation": "Given that John had spent Rs.450 in April and it is being given that in May price of rice is increased by 20%. So, price of rice is increased by 90 (20% of 450). And it is given that in May he had Rs.150 more out of which 90 is for rice. So, for wheat he had spend Rs.60 more (150 – 90). 12% of original price in April = 60 100% of original price in April = 500. So, he spend on wheat in may = 500 + 12% of 500 = 560"
+        },
+        {
+          "id": "cat-2020-slot2-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many 4-digit numbers, each greater than 1000 and each having all four digits distinct, are there with 7 coming before 3?",
+          "options": {
+            "A": "315",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "315",
+          "explanation": "Case I: When 7 is at first place then 3 can be any of the three places = 1 × 1 × 8 × 7 + 1 × 8 × 1 × 7 + 1 × 8 × 7 × 1 = 168 Case II: When 3 is at the last place = 7 × 1 × 7 × 1 + 7 × 7 × 1 × 1 = 98 Case III: When both 7 and 3 are in middle places = 7 × 1 × 1 × 7 = 49 So, total cases = 168 + 98 + 49 = 315"
+        },
+        {
+          "id": "cat-2020-slot2-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x and y are positive real numbers satisfying x + y = 102, then the minimum possible value of",
+          "options": {
+            "A": "2704",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2704",
+          "explanation": "Since we need to find the minimum value and as we know that minimum value will occur when we have symmetry. So, as x + y = 102. We have x = 51 and y = 51. So, the minimum possible value of 2601 (1 + 1/x) (1 + 1/y) = 2704"
+        },
+        {
+          "id": "cat-2020-slot2-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many ways can a pair of integers (x, a) be chosen such that x2 − 2 | x | + | a - 2 | = 0?",
+          "options": {
+            "A": "5",
+            "B": "4",
+            "C": "7",
+            "D": "6"
+          },
+          "correct_answer": "C",
+          "explanation": "x2 – 2 │x│ + │a – 2│= 0 _______(1) Case I: x ≥ 0 & a ≥ 2 x2 – 2x + a – 2 = 0 For D ≥ 0 ⇒ 4 – 4(a – 2) ≥ 0 ⇒1 – (a – 2) ≥ 0 ⇒ 1 – a + 2 ≥ 0 ⇒ a ≤ 3 Therefore a = 2, 3 If a = 2, eq’’(1) becomes x2 – 2x = 0 ⇒ x = 0, 2 Therefore, (0, 2), (2, 0) are possible pairs. If a = 3, eq’’(1) becomes x2 – 2x + 1 = 0 ⇒ x = 1 So (1, 3) is possible pair. Case II: x ≥ 0, a < 2 x2 – 2x – (a – 2) = 0 For D ≥ 0 ⇒ 4 + 4(a – 2) ≥ 0 ⇒ 1 + a – 2 ≥ 0 ⇒ a – 1 ≥ 0 ⇒ a ≥ 1 ⇒ a = 1 When a = 1, eq”(1) becomes x2 – 2x + 1 = 0 ⇒ x = 1 Therefore (1,1) is possible pair. Case III: If x < 0, a ≥ 2 x2 + 2x + a – 2 = 0 For D ≥ 0 ⇒ 4 – 4 (a – 2) ≥ 0 1 – a + 2 ≥ 0 ⇒ a ≤ 3 ⇒ a = 2, 3 If a = 2, eq”(1) becomes x2 + 2x = 0 ⇒ x = 0, -2 Therefore (0, 2) and (-2, 2) is pair If a = 3, eq”(1) becomes x2 + 2x + 1 = 0 ⇒ (x + 1)2 = 0 ⇒ x = -1 Therefore (-1, 3) is possible pair. Case IV: If x < 0, a < 2 x2 + 2x – (a – 2) = 0 For D ≥ 0 ⇒ 4 + 4 (a – 2) ≥ 0 1 + a – 2 ≥ 0 ⇒ a ≥ 1 Therefore, a = 1 Eq”(1) becomes x2 + 2x + 1 = 0 ⇒ x = -1 Therefore (-1, 1) is possible pair. There are 7 such pairs of integers as follows (0, 2) (2, 2) (1, 3) (1, 1) (-2, 2) (-1, 3) (-1, 1)"
+        },
+        {
+          "id": "cat-2020-slot2-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two circular tracks T1 and T2 of radii 100 m and 20 m, respectively touch at a point A. Starting from A at the same time, Ram\nand Rahim are walking on track T1 and track T2at speeds 15 km/hr and 5 km/hr respectively. The number of full rounds that\nRam will make to meet Rahim again for the first time is",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "C",
+          "explanation": "Ratio of time taken by Ram and Rahim in covering one full round = 2 π × 100 × 18/15 × 5 : 2 π × 20 × 18/5 × 5 = 5:3 So, minimum number of rounds to be taken by Ram and Rahim to meet are 3 & 5 respectively. So, the number of full rounds that Ram will make to meet Rahim again for the first time is 3."
+        },
+        {
+          "id": "cat-2020-slot2-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let f (x) = x2 + ax + b and g(x) = f(x + 1) - f(x-1). If f (x) ≥ 0 for all real x, and g(20) = 72, then the smallest possible value of b is",
+          "options": {
+            "A": "4",
+            "B": "1",
+            "C": "16",
+            "D": "0"
+          },
+          "correct_answer": "A",
+          "explanation": "f(x) = x2 + ax + b and g(x) = f(x + 1) – f(x – 1) g(x) = (x + 1)2 + a (x + 1) + b – [(x – 1)2 + a(x – 1) + b] g(x) = x2 + 2x + 1 + ax + a + b – [x2 – 2x + 1 + ax – a + b] g(x) = x2 + 2x + 1 + ax + a + b – x2 + 2x - 1 - ax + a – b g(x) = 4x + 2a Now, g(20) = 72 ⇒ 4(20) + 2a = 72 ⇒ 2a = - 8 ⇒ a = -4 ∴ f(x) = x2 – 4x + b As f(x) ≥ 0 ⇒ D ≤ 0 16 – 4b ≤ 0 ⇒ b ≥ 4 Therefore smallest value of b is 4."
+        },
+        {
+          "id": "cat-2020-slot2-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let C1and C2 be concentric circles such that the diameter of C1 is 2cm longer than that of C2. If a chord of C1 has length 6cm\nand is a tangent of C2, then the diameter, in cm, of C1 is",
+          "options": {
+            "A": "10",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "10",
+          "explanation": "If the diameter of circle C is 2 more than the diameter of circle C so we can say that radius of C is 1 more than 1 2 1 the radius of circle C . As shown below in the figure, Now, we can say that it must satisfy Pythagoras property So, x will be 4 and x + 1 will be 5 i.e. radius of circle C is 5 cm. So, diameter of circle C is 10 cm."
+        },
+        {
+          "id": "cat-2020-slot2-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The sum of the perimeters of an equlateral triangle and a rectangle is 90 cm the area, T, of the triangle and the area, R, of the\nrectangle, both in sq cm, satisfy the relationship R = T2. If the sides of the rectangle are in the ratio 1:3, then the length, in cm,\nof the longer side of the rectangle, is",
+          "options": {
+            "A": "21",
+            "B": "18",
+            "C": "24",
+            "D": "27"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the ratio be x. So, the dimensions of rectangle is x and 3x and let the side of equilateral triangle be ‘a’ Perimeter of rectangle = 2 (x + 3x) = 8x Perimeter of equilateral triangle = 3a According to the question: 3a + 8x = 90 _______ (1) Also, given that relation R = T2, where R is area of rectangle and T is area of equilateral triangle So, we have 3x2 = (√3/4 a2)2 x = a2/4 Substituting x in eq”(1), we have 2a2 + 3a – 90 = 0 On solving, we get a = 6 Hence, x = 9 So, longer side of rectangle = 3x = 3 × 9 = 27"
+        },
+        {
+          "id": "cat-2020-slot2-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The distance from B to C is thrice that from A to B. Two trains travel from A to C via B. The speed of train 2 is double that of\ntrain 1 while traveling from A to B and their speeds are interchanged while traveling from B to C. The ratio of the time taken by\ntrain 1 to that taken by train 2 in travelling from A to C is",
+          "options": {
+            "A": "7:5",
+            "B": "1:4",
+            "C": "5:7",
+            "D": "4:1"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the distance between AB = x and BC = 3x Let speed of train 1 be ‘y’ and speed of train 2 be ‘2y’ As we know, Time = Distance/Speed For A to B: For Train 1 time = x/y and For Train 2 time = 3x/2y For B to C: For Train 1 time = x/2y and For Train 2 time = 3x/y So, total time = [x/y + 3x/2y]/[x/2y + 3x/y] = 5x/7x So, time taken by train1 to that taken by train 2 in travelling from A to C is 5:7"
+        },
+        {
+          "id": "cat-2020-slot2-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a group of 10 students, the mean of the lowest 9 scores is 42 while the mean of the highest 9 scores is 47. For the entire\ngroup of 10 students, the maximum possible mean exceeds the minimum possible mean by",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_answer": "C",
+          "explanation": "Difference between highest number – Lowest number = 9 × 47 – 9 × 42 = 45 Maximum possible value of highest number = 42 + 45 = 87 Minimum possible value of lowest number = 47 – 45 = 2 So, Maximum possible mean = [42 × 9 + 87]/10 = 46.5 Minimum possible mean = [47 × 9 + 2]/10 = 42.5 Required difference = 46.5 – 42.5 = 4"
+        },
+        {
+          "id": "cat-2020-slot2-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let the m-th and n-th terms of a geometric progression be 3/4 and 12, respectively, where m < n. If the common ratio of the\nprogression is an integer r, then the smallest possible value of r + n - m is",
+          "options": {
+            "A": "-2",
+            "B": "6",
+            "C": "2",
+            "D": "-4"
+          },
+          "correct_answer": "A",
+          "explanation": "Let ‘a’, ‘r’ be the first term and common ratio respectively. Given that mth term = ¾ a rm-1 = ¾ ________ (1) Also, nth term = 12 a rn-1 = 12 ________(2) Dividing (2) by (1), we have a rn-1/ a rm-1 = 12/(3/4) rn – m = 16 Now, for minimum value of r + n – m, we have r = - 4 and n – m = 2 Smallest possible value of r + n – m = - 4 + 2 = - 2"
+        },
+        {
+          "id": "cat-2020-slot2-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A and B are two points on a straight line. Ram runs from A to B while Rahim runs from B to A. After crossing each other, Ram\nand Rahim reach their destinations in one minute and four minutes, respectively. If they start at the same time, then the ratio of\nRam's speed to Rahim's speed is",
+          "options": {
+            "A": "B) 2",
+            "C": "D)"
+          },
+          "correct_answer": "B",
+          "explanation": "As we know that if two objects P and Q start at the same time in opposite direction from point A and B respectively. After passing each other, P reaches B in x seconds and Q reaches A in y seconds then, Speed of P: Speed of Q = √b : √a So, Ram’s speed : Rahim’s speed = √4 : √1 = 2 : 1"
+        },
+        {
+          "id": "cat-2020-slot2-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a car race, car A beats car B by 45 km, car B beats car C by 50km, and car A beats C by 90 km. the distance (in km) over which\nthe race has been conducted is",
+          "options": {
+            "A": "550",
+            "B": "500",
+            "C": "475",
+            "D": "450"
+          },
+          "correct_answer": "D",
+          "explanation": "Let A travels = x B travels = x – 45 C travels = x – 90 So, when B covers (x – 45) then C covers (x – 90) When B covers x = (x – 90)/(x – 45) × x = (x – 50) On solving, we get x = 450"
+        },
+        {
+          "id": "cat-2020-slot2-qa-69",
+          "number": 69,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From an interior point of an equilateral triangle, perpendiculars are drawn on all three sides. The sum of the lengths of the three\nperpendiculars is s. Then the area of triangle is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the side of equilateral triangle = ‘a’ As we know area of equilateral triangle ∆ABC = √3/4 (Side)2 = √3/4 (a)2 ________ (1) Also, we have PO + OQ + OR = s (Given) Area of ∆OAB = ½ × AB × OP = ½ × a × OP Area of ∆OBC = ½ × BC × OQ = ½ × a × OQ Area of ∆ OAC = ½ × AC × OR = ½ × a × OR Area of ∆ABC = Area of ∆OAB + Area of ∆OBC + Area of ∆ OAC = ½ × a × OP + ½ × a × OQ + ½ × a × OR = ½ × a × (OP + OQ + OR) = ½ × a × s _______ (2) Equating (1) and (2), we have √3/4 a2 = ½ × a × s a = 2s/√3 Substituting, value of ‘a’ in equation (1), we have Area of equilateral ∆ABC = s2/√3"
+        },
+        {
+          "id": "cat-2020-slot2-qa-70",
+          "number": 70,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Students in a college have to choose at least two subjects from Chemistry, Mathematics and Physics. The number of students\nchoosing all three subjects is 18, choosing Mathematics as one of their subjects is 23 and choosing Physics as one of their\nsubjects is 25. The smallest possible number of students who could choose Chemistry as one of their subjects is",
+          "options": {
+            "A": "19",
+            "B": "22",
+            "C": "20",
+            "D": "21"
+          },
+          "correct_answer": "C",
+          "explanation": "As the number of students who have Chemistry needs to be minimum, so let 5 students have both Maths and Physics only. So, 2 students with Physics will have Chemistry also. Therefore, minimum students with Chemistry = 18 + 2 = 20"
+        },
+        {
+          "id": "cat-2020-slot2-qa-71",
+          "number": 71,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil buys 12 toys and labels each with the same selling price. He sells 8 toys initially at 20% discount on the labeled price. Then\nhe sells the remaining 4 toys at an additional 25% discount on the discounted price. Thus, he gets a total of Rs 2112, and makes\na 10% profit. With no discounts, his percentage of profit would have been",
+          "options": {
+            "A": "60",
+            "B": "54",
+            "C": "55",
+            "D": "50 DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "D",
+          "explanation": "Let x be the total purchase price of all articles and y be the marked price of one article. So, according to the question: 8 × 0.8 × y + 4 × 0.75 × 0.8 × y = 2112 On solving, we get y = 240 Given, 2112 = 1.10x x = 1920 If no discount is given, then 12 × 240 = 2880 Required % = 2880 – 1920/1920 = 50%"
+        },
+        {
+          "id": "cat-2020-slot2-qa-72",
+          "number": 72,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "B)",
+            "C": "D) 1"
+          },
+          "correct_answer": "A",
+          "explanation": "As we know the minimum value of x + 1/x = 2. So, the answer will be 1/√2."
+        },
+        {
+          "id": "cat-2020-slot2-qa-73",
+          "number": 73,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "John takes twice as much time as Jack to finish a job. Jack and Jim together take one-thirds of the time to finish the job than\nJohn takes working alone. Moreover, in order to finish the job, John takes three days more than that taken by three of them\nworking together. In how many days will Jim finish the job working alone?",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "Since John takes twice as much as Jack to finish a job. So, efficiency of John and jack is 1:2. Also, Jack and Jim together take one-third of the time to finish the job than John. So, efficiency of Jack + Jim and John is 3:1. So, efficiency of John, Jack and Jim is 1:2:1 respectively. Now, let all of them together took ‘x’ days so John alone take x + 3 days. So, x (1 + 2 + 1) = x + 3 On solving, we get x = 1 So, John takes = 4 days, Jack = 4/2 = 2 days and Jim = 4 days"
+        },
+        {
+          "id": "cat-2020-slot2-qa-74",
+          "number": 74,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "-0.5",
+            "B": "1",
+            "C": "0",
+            "D": "-1"
+          },
+          "correct_answer": "B",
+          "explanation": "Let A = log (a/b) + log (b/a) a b A = log a – log b + log b - log a a a b b A = 2 – [log b + log a] a b A = 2 – [log b + 1/log b] a a Now, [log b + 1/log b] has minimum value 2. a a Therefore, maximum value of A = 2 – 2 = 0 ⇒ A cannot take value as 1."
+        },
+        {
+          "id": "cat-2020-slot2-qa-75",
+          "number": 75,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x and y are non-negative integers such that x + 9 = z, y + 1 = z and x + y < z + 5,then the maximum possible value of 2x + y\n?",
+          "options": {
+            "A": "23",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "23",
+          "explanation": "x + 9 = z ______ (1) y + 1 = z _______ (2) Adding (1) and (2), we get x + y +10 = 2z ⇒ x + y = 2z – 10 Now, x + y < z + 5 2z – 10 < z + 5 z < 15 Therefore, Maximum z = 14 From eq”(1), Maximum x = z – 9 = 5 From eq”(2), Maximum y = z – 1 = 13 Max.(2x + y) = 2 × 5 + 13 = 23"
+        },
+        {
+          "id": "cat-2020-slot2-qa-76",
+          "number": 76,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let C be a circle of radius 5 meters having center at O. Let PQ be a chord of C that passes through points A and B where A is\nlocated 4 meters north of O and B is located3 meters east of O. Then, the length of PQ, in meters, is nearest to",
+          "options": {
+            "A": "8.8",
+            "B": "7.2",
+            "C": "7.8",
+            "D": "6.6"
+          },
+          "correct_answer": "A",
+          "explanation": "Here OD perpendicular to PQ OA = 4, OB = 3 ⇒ AB = 5 Now in ∆OAB 1/3 × 3 × 4 = ½ × OD × 5 OD = 12/5 = 2.4 Now, join OP, ∆ODP is right angled triangle & OP = 5 PD = √(OP)2 – (OD)2 = √25 – (2.4)2 = √19.24 = 4.4 PD = 4.4 PB = 4.4 × 2 = 8.8 m"
+        }
+      ]
+    }
+  }
+}

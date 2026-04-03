@@ -1,0 +1,1801 @@
+{
+  "id": "cat-2018-slot2",
+  "year": 2018,
+  "slot": 2,
+  "title": "CAT 2018 Slot II",
+  "has_solutions": true,
+  "total_questions": 100,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2018-slot2-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "NOT everything looks lovelier the longer and closer its inspection. But Saturn does. It is gorgeous through Earthly telescopes.\nHowever, the 13 years of close observation provided by Cassini, an American spacecraft, showed the planet, its moons and its\nremarkable rings off better and better, revealing finer structures, striking novelties and greater drama. . . .\nBy and large the big things in the solar system—planets and moons—are thought of as having been around since the\nbeginning. The suggestion that rings and moons are new is, though, made even more interesting by the fact that one of those\nmoons, Enceladus, is widely considered the most promising site in the solar system on which to look for alien life. If Enceladus is\nboth young and bears life, that life must have come into being quickly. This is also believed to have been the case on Earth.\nWere it true on Enceladus, that would encourage the idea that life evolves easily when conditions are right.\nOne reason for thinking Saturn’s rings are young is that they are bright. The solar system is suffused with comet dust, and\ncomet dust is dark. Leaving Saturn’s ring system (which Cassini has shown to be more than 90% water ice) out in such a mist is\nlike leaving laundry hanging on a line downwind from a smokestack: it will get dirty. The lighter the rings are, the faster this will\nhappen, for the less mass they contain, the less celestial pollution they can absorb before they start to discolour. . . . Jeff Cuzzi, a\nscientist at America’s space agency, NASA, who helped run Cassini, told the Lunar and Planetary Science Conference in Houston\nthat combining the mass estimates with Cassini’s measurements of the density of comet-dust near Saturn suggests the rings\nare no older than the first dinosaurs, nor younger than the last of them—that is, they are somewhere between 200m and 70m\nyears old.\nThat timing fits well with a theory put forward in 2016, by Matija Cuk of the SETI Institute, in California and his colleagues. They\nsuggest that at around the same time as the rings came into being an old set of moons orbiting Saturn destroyed themselves,\nand from their remains emerged not only the rings but also the planet’s current suite of inner moons— Rhea, Dione, Tethys,\nEnceladus and Mimas. . . .\nDr Cuk and his colleagues used computer simulations of Saturn’s moons’ orbits as a sort of time machine. Looking at the rate at\nwhich tidal friction is causing these orbits to lengthen they extrapolated backwards to find out what those orbits would have\nlooked like in the past. They discovered that about 100m years ago the orbits of two of them, Tethys and Dione, would have\ninteracted in a way that left the planes in which they orbit markedly tilted. But their orbits are untilted. The obvious, if\nunsettling, conclusion was that this interaction never happened—and thus that at the time when it should have happened,\nDione and Tethys were simply not there. They must have come into being later. . . .\nData provided by Cassini challenged the assumption that:",
+          "options": {
+            "A": "there was life on earth when Saturn’s rings were being formed.",
+            "B": "new celestial bodies can form from the destruction of old celestial bodies.",
+            "C": "all big things in the solar system have been around since the beginning.",
+            "D": "Saturn’s ring system is composed mostly of water ice."
+          },
+          "correct_answer": "C",
+          "explanation": "By thoroughly reading 2nd and 3rd paragraph of the passage ,we can conveniently assume that Cassini has challenged the assumption of \"By and large the big things in the solar system—planets and moons—are thought of as having been around since the beginning\" and in the aforesaid paragraphs, he is giving full justification to what he has challenged by providing sufficient data."
+        },
+        {
+          "id": "cat-2018-slot2-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Based on information provided in the passage, we can conclude all of the following except",
+          "options": {
+            "A": "Saturn’s rings were created from the remains of older moons",
+            "B": "Saturn’s lighter rings discolour faster than rings with greater mass.",
+            "C": "none of Saturn’s moons ever had suitable conditions for life to evolve.",
+            "D": "Thethys and Dione are less than 100 million years old."
+          },
+          "correct_answer": "C",
+          "explanation": "Except option C, all others can be safely concluded from the passage. Option A-- Refer 4th paragraph,\"they suggest------------------only the rings.\" Option B-- Refer 3rd paragraph,\"Leaving Saturn's ring system---------------start to discolour.\" Option D-- Refer last paragraph,\"they discovered that---------------into being later.\" Option C--We do not find support for the same in the passage."
+        },
+        {
+          "id": "cat-2018-slot2-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The phrase “leaving laundry hanging on a line downwind from a smokestack” is used to explain how the ringed planet's:",
+          "options": {
+            "A": "rings discolour and darken over time.",
+            "B": "atmosphere absorbs comet dust",
+            "C": "rings lose mass over time",
+            "D": "moons create a gap between the rings."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer 3rd paragraph \"leaving Saturn's-------start to discolour.\" It clearly helps us to consider option A as the correct one."
+        },
+        {
+          "id": "cat-2018-slot2-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Based on information provided in the passage, we can infer that, in addition to water ice, Saturn’s rings might also have small\namounts of:",
+          "options": {
+            "A": "helium and methane",
+            "B": "rock particles and comet dust.",
+            "C": "methane and rock particles",
+            "D": "helium and comet dust."
+          },
+          "correct_answer": "B",
+          "explanation": "Nowhere in the passage helium and methane find any mention. Referring to 3rd paragraph, we find that rings of Saturn have 90% water ice alongwith comet dust and celestial pollution that makes option B as the best choice."
+        },
+        {
+          "id": "cat-2018-slot2-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The main objective of the passage is to:",
+          "options": {
+            "A": "highlight the beauty, finer structures and celestial drama of Saturn’s rings and moons.",
+            "B": "demonstrate how the orbital patterns of Saturn’s rings and moons change over time",
+            "C": "establish that Saturn’s rings and inner moons have been around since the beginning of time.",
+            "D": "provide evidence that Saturn’s rings and moons are recent creations."
+          },
+          "correct_answer": "D",
+          "explanation": "In the whole passage, the author is trying to give evidence and different facts to support that the rings of Saturn are of recent origin as against the popular belief of their into being since the beginning of time. This makes option D as the appropriate answer to the main objective of the passage."
+        },
+        {
+          "id": "cat-2018-slot2-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Will a day come when India’s poor can access government services as easily as drawing cash from an ATM? . . . [N]o country in\nthe world has made accessing education or health or policing or dispute resolution as easy as an ATM, because the nature of\nthese activities requires individuals to use their discretion in a positive way. Technology can certainly facilitate this in a variety of\nways if it is seen as one part of an overall approach, but the evidence so far in education, for instance, is that just adding\ncomputers alone doesn’t make education any better. . . .\nThe dangerous illusion of technology is that it can create stronger, top down accountability of service providers in\nimplementation-intensive services within existing public sector organisations. One notion is that electronic management\ninformation systems (EMIS) keep better track of inputs and those aspects of personnel that are ‘EMIS visible’ can lead to better\nservices. A recent study examined attempts to increase attendance of Auxiliary Nurse Midwife (ANMs) at clinics in Rajasthan,\nwhich involved high-tech time clocks to monitor attendance. The study’s title says it all: Band-Aids on a Corpse . . . e-\ngovernance can be just as bad as any other governance when the real issue is people and their motivation.\nFor services to improve, the people providing the services have to want to do a better job with the skills they have. A study of\nmedical care in Delhi found that even though providers, in the public sector had much better skills than private sector providers\ntheir provision of care in actual practice was much worse.\nIn implementation-intensive services the key to success is face-to-face interactions between a teacher, a nurse, a policeman, an\nextension agent and a citizen. This relationship is about power. Amartya Sen’s . . . report on education in West Bengal had a\nsupremely telling anecdote in which the villagers forced the teacher to attend school, but then, when the parents went off to\nwork, the teacher did not teach, but forced the children to massage his feet. . . . As long as the system empowers providers over\ncitizens, technology is irrelevant.\nThe answer to successfully providing basic services is to create systems that provide both autonomy and accountability. In basic\neducation for instance, the answer to poor teaching is not controlling teachers more . . . The key . . . is to hire teachers who\nwant to teach and let them teach, expressing their professionalism and vocation as a teacher through autonomy in the\nclassroom. This autonomy has to be matched with accountability for results—not just narrowly measured through test scores,\nbut broadly for the quality of the education they provide.\nA recent study in Uttar Pradesh showed that if, somehow, all civil service teachers could be replaced with contract teachers, the\nstate could save a billion dollars a year in revenue and double student learning. Just the additional autonomy and\naccountability of contracts through local groups—even without complementary system changes in information and\nempowerment—led to that much improvement. The first step to being part of the solution is to create performance\ninformation accessible to those outside of the government. . . .\nThe main purpose of the passage is to:",
+          "options": {
+            "A": "find a solution to the problem of poor service delivery in education by examining different strategies.",
+            "B": "critique the government’s involvement in educational activities and other implementation intensive services.",
+            "C": "analyse the shortcomings of government-appointed nurses and their management through technology.",
+            "D": "argue that some types of services can be improved by providing independence and requiring accountability."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer first line of 5th paragraph \"the answer to--------accountability\" brings the crux of the whole passage making option D fit for the answer to the main purpose of the passage."
+        },
+        {
+          "id": "cat-2018-slot2-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following, IF TRUE, would undermine the passage’s main argument?",
+          "options": {
+            "A": "If it were proven that service providers in the private sector have better skills than those in the public sector.",
+            "B": "If absolute instead of moderate technological surveillance is exercised over the performance of service providers.",
+            "C": "Empowerment of service providers leads to increased complacency and rigged performance results.",
+            "D": "If it were proven that increase in autonomy of service providers leads to an exponential increase in their work ethic and sense of responsibility."
+          },
+          "correct_answer": "C",
+          "explanation": "This is a critical reasoning based question wherein we have been asked to weaken the main argument (i.e. provide autonomy and accountability to the service providers). The whole passage is revolving around this main argument for which the author is providing us examples and evidence in support. From the given choices, only option C is going against(i.e. weakening) the main argument which says that empowering service providers leads to complacency(carelessness/laziness) and rigged (conduct something fraudulently)performance results."
+        },
+        {
+          "id": "cat-2018-slot2-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the author, service delivery in Indian education can be improved in all of the following ways EXCEPT through:",
+          "options": {
+            "A": "recruitment of motivated teachers",
+            "B": "access to information on the quality of teaching",
+            "C": "elimination of government involvement",
+            "D": "use of technology."
+          },
+          "correct_answer": "C",
+          "explanation": "Thorough reading of the last two paragraphs of the passage help us to mark option C as the one which is against the content of the passage because for all the ways of improvement, the involvement of state(government) is mandatory. But option C speaks totally opposite."
+        },
+        {
+          "id": "cat-2018-slot2-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author questions the use of monitoring systems in services that involve face-to face interaction between service providers\nand clients because such systems:",
+          "options": {
+            "A": "improve the skills but do not increase the motivation of service providers.",
+            "B": "do not improve services that need committed service providers.",
+            "C": "are ineffective because they are managed by the government.",
+            "D": "are not as effective in the public sector as they are in the private sector."
+          },
+          "correct_answer": "B",
+          "explanation": "4th paragraph of the passage with example justifies the point arisen by author to counter the use of technology only ; also the concerned human dedication is required most to make the services successful. Therefore option B is the best choice."
+        },
+        {
+          "id": "cat-2018-slot2-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the context of the passage, we can infer that the title “Band Aids on a Corpse” (in paragraph 2) suggests that:",
+          "options": {
+            "A": "the nurses attended the clinics, but the clinics were ill-equipped.",
+            "B": "the nurses who attended the clinics were too poorly trained to provide appropriate medical care.",
+            "C": "the clinics were better funded, but performance monitoring did not result in any improvement.",
+            "D": "the electronic monitoring system was a superficial solution to a serious problem."
+          },
+          "correct_answer": "D",
+          "explanation": "The other options given are just focussing on the example taken (from different angles) but the real inference of the phrase used by author lies in option D as the problem was not getting proper solution."
+        },
+        {
+          "id": "cat-2018-slot2-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The complexity of modern problems often precludes any one person from fully understanding them. Factors contributing to\nrising obesity levels, for example, include transportation systems and infrastructure, media, convenience foods, changing social\nnorms, human biology and psychological factors. . . . The multidimensional or layered character of complex problems also\nundermines the principle of meritocracy: the idea that the ‘best person’ should be hired. There is no best person. When putting\ntogether an oncological research team, a biotech company such as Gilead or Genentech would not construct a multiple-choice\ntest and hire the top scorers, or hire people whose resumes score highest according to some performance criteria. Instead, they\nwould seek diversity.\nThey would build a team of people who bring diverse knowledge bases, tools and analytic skills. . . . Believers in a meritocracy\nmight grant that teams ought to be diverse but then argue that meritocratic principles should apply within each category. Thus\nthe team should consist of the ‘best’ mathematicians, the ‘best’ oncologists, and the ‘best’ biostatisticians from within the pool.\nThat position suffers from a similar flaw. Even with a knowledge domain, no test or criteria applied to individuals will produce\nthe best team. Each of these domains possesses such depth and breadth, that no test can exist. Consider the field of\nneuroscience. Upwards of 50,000 papers were published last year covering various techniques, domains of enquiry and levels of\nanalysis, ranging from molecules and synapses up through networks of neurons. Given that complexity, any attempt to rank a\ncollection of neuroscientists from best to worst, as if they were competitors in the 50-metre butterfly, must fail. What could be\ntrue is that given a specific task and the composition of a particular team, one scientist would be more likely to contribute than\nanother. Optimal hiring depends on context. Optimal teams will be diverse.\nEvidence for this claim can be seen in the way that papers and patents that combine diverse ideas tend to rank as high-impact.\nIt can also be found in the structure of the socalled random decision forest, a state-of-the-art machine-learning algorithm.\nRandom forests consist of ensembles of decision trees. If classifying pictures, each tree makes a vote: is that a picture of a fox or\na dog? A weighted majority rules. Random forests can serve many ends. They can identify bank fraud and diseases, recommend\nceiling fans and predict online dating behaviour. When building a forest, you do not select the best trees as they tend to make\nsimilar classifications. You want diversity. Programmers achieve that diversity by training each tree on different data, a",
+          "passage_group": 3,
+          "question": "technique known as bagging. They also boost the forest ‘cognitively’ by training trees on the hardest cases – those that the\ncurrent forest gets wrong. This ensures even more diversity and accurate forests.\nYet the fallacy of meritocracy persists. Corporations, non-profits, governments, universities and even preschools test, score and\nhire the ‘best’. This all but guarantees not creating the best team. Ranking people by common criteria produces homogeneity. .\n. . That’s not likely to lead to breakthroughs.\nWhich of the following best describes the purpose of the example of neuroscienc",
+          "options": {
+            "A": "In narrow fields of knowledge, a meaningful assessment of expertise has always been possible.",
+            "B": "Neuroscience is an advanced field of science because of its connections with other branches of science like oncology and biostatistics.",
+            "C": "In the modern age, every field of knowledge is so vast that a meaningful assessment of merit is impossible.",
+            "D": "Unlike other fields of knowledge, neuroscience is an exceptionally complex field, making a meaningful assessment of neuroscientists impossible."
+          },
+          "correct_answer": "C",
+          "explanation": "Refer second paragraph of the passage that describes the example of neuroscience taken to justify the intricacies of every field of knowledge are vast to suggest optimum level. Therefore option C captures the purpose of taking example of neuroscience. The other options are taking neuroscience as main point but it is just taken as an example to prove another point."
+        },
+        {
+          "id": "cat-2018-slot2-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The complexity of modern problems often precludes any one person from fully understanding them. Factors contributing to\nrising obesity levels, for example, include transportation systems and infrastructure, media, convenience foods, changing social\nnorms, human biology and psychological factors. . . . The multidimensional or layered character of complex problems also\nundermines the principle of meritocracy: the idea that the ‘best person’ should be hired. There is no best person. When putting\ntogether an oncological research team, a biotech company such as Gilead or Genentech would not construct a multiple-choice\ntest and hire the top scorers, or hire people whose resumes score highest according to some performance criteria. Instead, they\nwould seek diversity.\nThey would build a team of people who bring diverse knowledge bases, tools and analytic skills. . . . Believers in a meritocracy\nmight grant that teams ought to be diverse but then argue that meritocratic principles should apply within each category. Thus\nthe team should consist of the ‘best’ mathematicians, the ‘best’ oncologists, and the ‘best’ biostatisticians from within the pool.\nThat position suffers from a similar flaw. Even with a knowledge domain, no test or criteria applied to individuals will produce\nthe best team. Each of these domains possesses such depth and breadth, that no test can exist. Consider the field of\nneuroscience. Upwards of 50,000 papers were published last year covering various techniques, domains of enquiry and levels of\nanalysis, ranging from molecules and synapses up through networks of neurons. Given that complexity, any attempt to rank a\ncollection of neuroscientists from best to worst, as if they were competitors in the 50-metre butterfly, must fail. What could be\ntrue is that given a specific task and the composition of a particular team, one scientist would be more likely to contribute than\nanother. Optimal hiring depends on context. Optimal teams will be diverse.\nEvidence for this claim can be seen in the way that papers and patents that combine diverse ideas tend to rank as high-impact.\nIt can also be found in the structure of the socalled random decision forest, a state-of-the-art machine-learning algorithm.\nRandom forests consist of ensembles of decision trees. If classifying pictures, each tree makes a vote: is that a picture of a fox or\na dog? A weighted majority rules. Random forests can serve many ends. They can identify bank fraud and diseases, recommend\nceiling fans and predict online dating behaviour. When building a forest, you do not select the best trees as they tend to make\nsimilar classifications. You want diversity. Programmers achieve that diversity by training each tree on different data, a",
+          "passage_group": 3,
+          "question": "Which of the following conditions, if true, would invalidate the passage’s main argument?",
+          "options": {
+            "A": "If it were proven that teams characterised by diversity end up being conflicted about problems and take a long time to arrive at a solution.",
+            "B": "If assessment tests were made more extensive and rigorous.",
+            "C": "If a new machine-learning algorithm were developed that proved to be more effective than the random decision forest.",
+            "D": "If top-scorers possessed multidisciplinary knowledge that enabled them to look at a problem from several perspectives."
+          },
+          "correct_answer": "D",
+          "explanation": "The idea here is to weaken the main argument and the answer lies in option D. The idea is not to hire best person but to create a team of people having a diverse knowledge and skills that can be optimised which gets defeated by taking in top scorers having diverse knowledge."
+        },
+        {
+          "id": "cat-2018-slot2-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The complexity of modern problems often precludes any one person from fully understanding them. Factors contributing to\nrising obesity levels, for example, include transportation systems and infrastructure, media, convenience foods, changing social\nnorms, human biology and psychological factors. . . . The multidimensional or layered character of complex problems also\nundermines the principle of meritocracy: the idea that the ‘best person’ should be hired. There is no best person. When putting\ntogether an oncological research team, a biotech company such as Gilead or Genentech would not construct a multiple-choice\ntest and hire the top scorers, or hire people whose resumes score highest according to some performance criteria. Instead, they\nwould seek diversity.\nThey would build a team of people who bring diverse knowledge bases, tools and analytic skills. . . . Believers in a meritocracy\nmight grant that teams ought to be diverse but then argue that meritocratic principles should apply within each category. Thus\nthe team should consist of the ‘best’ mathematicians, the ‘best’ oncologists, and the ‘best’ biostatisticians from within the pool.\nThat position suffers from a similar flaw. Even with a knowledge domain, no test or criteria applied to individuals will produce\nthe best team. Each of these domains possesses such depth and breadth, that no test can exist. Consider the field of\nneuroscience. Upwards of 50,000 papers were published last year covering various techniques, domains of enquiry and levels of\nanalysis, ranging from molecules and synapses up through networks of neurons. Given that complexity, any attempt to rank a\ncollection of neuroscientists from best to worst, as if they were competitors in the 50-metre butterfly, must fail. What could be\ntrue is that given a specific task and the composition of a particular team, one scientist would be more likely to contribute than\nanother. Optimal hiring depends on context. Optimal teams will be diverse.\nEvidence for this claim can be seen in the way that papers and patents that combine diverse ideas tend to rank as high-impact.\nIt can also be found in the structure of the socalled random decision forest, a state-of-the-art machine-learning algorithm.\nRandom forests consist of ensembles of decision trees. If classifying pictures, each tree makes a vote: is that a picture of a fox or\na dog? A weighted majority rules. Random forests can serve many ends. They can identify bank fraud and diseases, recommend\nceiling fans and predict online dating behaviour. When building a forest, you do not select the best trees as they tend to make\nsimilar classifications. You want diversity. Programmers achieve that diversity by training each tree on different data, a",
+          "passage_group": 3,
+          "question": "Which of the following conditions would weaken the efficacy of a random decision forest?",
+          "options": {
+            "A": "If a large number of decision trees in the ensemble were trained on data derived from easy and hard cases.",
+            "B": "If the types of ensembles of decision trees in the forest were doubled.",
+            "C": "If a large number of decision trees in the ensemble were trained on data derived from easy cases.",
+            "D": "If the types of decision trees in each ensemble of the forest were doubled."
+          },
+          "correct_answer": "C",
+          "explanation": "Refer line,\"they also boost the forest-------accurate forests\" from last paragraph which clearly says that efficacy is achieved from diversity and training trees on hardest cases and this stands weakened in option C which mentions training in easy cases."
+        },
+        {
+          "id": "cat-2018-slot2-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The complexity of modern problems often precludes any one person from fully understanding them. Factors contributing to\nrising obesity levels, for example, include transportation systems and infrastructure, media, convenience foods, changing social\nnorms, human biology and psychological factors. . . . The multidimensional or layered character of complex problems also\nundermines the principle of meritocracy: the idea that the ‘best person’ should be hired. There is no best person. When putting\ntogether an oncological research team, a biotech company such as Gilead or Genentech would not construct a multiple-choice\ntest and hire the top scorers, or hire people whose resumes score highest according to some performance criteria. Instead, they\nwould seek diversity.\nThey would build a team of people who bring diverse knowledge bases, tools and analytic skills. . . . Believers in a meritocracy\nmight grant that teams ought to be diverse but then argue that meritocratic principles should apply within each category. Thus\nthe team should consist of the ‘best’ mathematicians, the ‘best’ oncologists, and the ‘best’ biostatisticians from within the pool.\nThat position suffers from a similar flaw. Even with a knowledge domain, no test or criteria applied to individuals will produce\nthe best team. Each of these domains possesses such depth and breadth, that no test can exist. Consider the field of\nneuroscience. Upwards of 50,000 papers were published last year covering various techniques, domains of enquiry and levels of\nanalysis, ranging from molecules and synapses up through networks of neurons. Given that complexity, any attempt to rank a\ncollection of neuroscientists from best to worst, as if they were competitors in the 50-metre butterfly, must fail. What could be\ntrue is that given a specific task and the composition of a particular team, one scientist would be more likely to contribute than\nanother. Optimal hiring depends on context. Optimal teams will be diverse.\nEvidence for this claim can be seen in the way that papers and patents that combine diverse ideas tend to rank as high-impact.\nIt can also be found in the structure of the socalled random decision forest, a state-of-the-art machine-learning algorithm.\nRandom forests consist of ensembles of decision trees. If classifying pictures, each tree makes a vote: is that a picture of a fox or\na dog? A weighted majority rules. Random forests can serve many ends. They can identify bank fraud and diseases, recommend\nceiling fans and predict online dating behaviour. When building a forest, you do not select the best trees as they tend to make\nsimilar classifications. You want diversity. Programmers achieve that diversity by training each tree on different data, a",
+          "passage_group": 3,
+          "question": "The author critiques meritocracy for all the following reasons EXCEPT that:",
+          "options": {
+            "A": "modern problems are multifaceted and require varied skill-sets to be solved.",
+            "B": "diversity and context-specificity are important for making major advances in any field.",
+            "C": "criteria designed to assess merit are insufficient to test expertise in any field of knowledge.",
+            "D": "an ideal team comprises of best individuals from diverse fields of knowledge."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to the line \" The multidimensional or layered character of complex problems also undermines the principle of meritocracy: the idea that the ‘best person’ should be hired. There is no best person\", from first paragraph. Also refer to the opening lines of second paragraph\"they would build ------------within the pool\" The author critiques all others except option D where building up of a team has been mentioned (which is the actual focus according to the passage."
+        },
+        {
+          "id": "cat-2018-slot2-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "The complexity of modern problems often precludes any one person from fully understanding them. Factors contributing to\nrising obesity levels, for example, include transportation systems and infrastructure, media, convenience foods, changing social\nnorms, human biology and psychological factors. . . . The multidimensional or layered character of complex problems also\nundermines the principle of meritocracy: the idea that the ‘best person’ should be hired. There is no best person. When putting\ntogether an oncological research team, a biotech company such as Gilead or Genentech would not construct a multiple-choice\ntest and hire the top scorers, or hire people whose resumes score highest according to some performance criteria. Instead, they\nwould seek diversity.\nThey would build a team of people who bring diverse knowledge bases, tools and analytic skills. . . . Believers in a meritocracy\nmight grant that teams ought to be diverse but then argue that meritocratic principles should apply within each category. Thus\nthe team should consist of the ‘best’ mathematicians, the ‘best’ oncologists, and the ‘best’ biostatisticians from within the pool.\nThat position suffers from a similar flaw. Even with a knowledge domain, no test or criteria applied to individuals will produce\nthe best team. Each of these domains possesses such depth and breadth, that no test can exist. Consider the field of\nneuroscience. Upwards of 50,000 papers were published last year covering various techniques, domains of enquiry and levels of\nanalysis, ranging from molecules and synapses up through networks of neurons. Given that complexity, any attempt to rank a\ncollection of neuroscientists from best to worst, as if they were competitors in the 50-metre butterfly, must fail. What could be\ntrue is that given a specific task and the composition of a particular team, one scientist would be more likely to contribute than\nanother. Optimal hiring depends on context. Optimal teams will be diverse.\nEvidence for this claim can be seen in the way that papers and patents that combine diverse ideas tend to rank as high-impact.\nIt can also be found in the structure of the socalled random decision forest, a state-of-the-art machine-learning algorithm.\nRandom forests consist of ensembles of decision trees. If classifying pictures, each tree makes a vote: is that a picture of a fox or\na dog? A weighted majority rules. Random forests can serve many ends. They can identify bank fraud and diseases, recommend\nceiling fans and predict online dating behaviour. When building a forest, you do not select the best trees as they tend to make\nsimilar classifications. You want diversity. Programmers achieve that diversity by training each tree on different data, a",
+          "passage_group": 3,
+          "question": "On the basis of the passage, which of the following teams is likely to be most effective in solving the problem of rising obesity levels?",
+          "options": {
+            "A": "A specialised team of nutritionists from various countries, who are also trained in the machine-learning algorithm of random decision forest.",
+            "B": "A team comprised of nutritionists, psychologists, urban planners and media personnel, who have each performed well in their respective subject tests.",
+            "C": "A team comprised of nutritionists, psychologists, urban planners and media personnel, who have each scored a distinction in their respective subject tests.",
+            "D": "A specialised team of top nutritionists from various countries, who also possess some knowledge of psychology."
+          },
+          "correct_answer": "B",
+          "explanation": "From the passage, we understand that the requirement to boost up success in problems lies not in making a team of top scorers; instead the requirement is of diversity. So the answer lies in option B which descibes a team with members from diverse areas and performed well in their subject fields and not those (option C) who hold distinctions in their subjects."
+        },
+        {
+          "id": "cat-2018-slot2-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "More and more companies, government agencies, educational institutions and philanthropic organisations are today in the grip\nof a new phenomenon: ‘metric fixation’. The key components of metric fixation are the belief that it is possible – and desirable –\nto replace professional judgment (acquired through personal experience and talent) with numerical indicators of comparative",
+          "passage_group": 4,
+          "question": "performance based upon standardised data (metrics); and that the best way to motivate people within these organisations is by\nattaching rewards and penalties to their measured performance.\nThe rewards can be monetary, in the form of pay for performance, say, or reputational, in the form of college rankings, hospital\nratings, surgical report cards and so on. But the most dramatic negative effect of metric fixation is its propensity to incentivise\ngaming: that is, encouraging professionals to maximise the metrics in ways that are at odds with the larger purpose of the\norganisation. If the rate of major crimes in a district becomes the metric according to which police officers are promoted, then\nsome officers will respond by simply not recording crimes or downgrading them from major offences to misdemeanours. Or\ntake the case of surgeons. When the metrics of success and failure are made public – affecting their reputation and income –\nsome surgeons will improve their metric scores by refusing to operate on patients with more complex problems, whose surgical\noutcomes are more likely to be negative. Who suffers? The patients who don’t get operated upon.\nWhen reward is tied to measured performance, metric fixation invites just this sort of gaming. But metric fixation also leads to a\nvariety of more subtle unintended negative consequences. These include goal displacement, which comes in many varieties:\nwhen performance is judged by a few measures, and the stakes are high (keeping one’s job, getting a pay rise or raising the\nstock price at the time that stock are vested), people focus on satisfying those measures – often at the expense of other, more\nimportant organisational goals that are not measured. The best-known example is ‘teaching to the test’, a widespread\nphenomenon that has distorted primary and secondary education in the United States since the adoption of the No Child Left\nBehind Act of 2001. Short-termism is another negative. Measured performance encourages what the US sociologist Robert K\nMerton in 1936 called ‘the imperious immediacy of interests … where the actor’s paramount concern with the foreseen\nimmediate consequences excludes consideration of further or other consequences’. In short, advancing short-term goals at the\nexpense of long-range considerations. This problem is endemic to publicly traded corporations that sacrifice long-term\nresearch and development, and the development of their staff, to the perceived imperatives of the quarterly report. To the\ndebit side of the ledger must also be added the transactional costs of metrics: the expenditure of employee time by those\ntasked with compiling and processing the metrics in the first place – not to mention the time required to actually read them. . . .\nOf the following, which would have added the least depth to the author’s argument?",
+          "options": {
+            "A": "A comparative case study of metrics- and non-metrics-based evaluation, and its impact on the main goals of an organisation.",
+            "B": "More real-life illustrations of the consequences of employees and professionals gaming metrics-based performance measurement systems.",
+            "C": "An analysis of the reasons why metrics fixation is becoming popular despite its drawbacks.",
+            "D": "Assessment of the pros and cons of a professional judgment-based evaluation system."
+          },
+          "correct_answer": "B",
+          "explanation": "Real life examples might not have added to the argument put forward by the author; though a comparitive case- study, analysis and assessment of pros and cons could have served a better purpose."
+        },
+        {
+          "id": "cat-2018-slot2-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "More and more companies, government agencies, educational institutions and philanthropic organisations are today in the grip\nof a new phenomenon: ‘metric fixation’. The key components of metric fixation are the belief that it is possible – and desirable –\nto replace professional judgment (acquired through personal experience and talent) with numerical indicators of comparative",
+          "passage_group": 4,
+          "question": "Which of the following is NOT a consequence of the 'metric fixation' phenomenon mentioned in the passage?",
+          "options": {
+            "A": "Improving cooperation among employees leading to increased organizational effectiveness in the long run.",
+            "B": "Finding a way to show better results without actually improving performance.",
+            "C": "Deviating from organisationally important objectives to measurable yet less important objectives.",
+            "D": "Short-term orientation induced by frequent measurement of performance."
+          },
+          "correct_answer": "A",
+          "explanation": "Consequences are the shortcomings of any event or idea. Option A is talking about positive outcome and can't be considered as consequence."
+        },
+        {
+          "id": "cat-2018-slot2-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "More and more companies, government agencies, educational institutions and philanthropic organisations are today in the grip\nof a new phenomenon: ‘metric fixation’. The key components of metric fixation are the belief that it is possible – and desirable –\nto replace professional judgment (acquired through personal experience and talent) with numerical indicators of comparative",
+          "passage_group": 4,
+          "question": "All of the following can be a possible feature of the No Child Left Behind Act of 2001, EXCEPT:",
+          "options": {
+            "A": "standardised test scores can be critical in determining a student’s educational future.",
+            "B": "school funding and sanctions are tied to yearly improvement shown on tests.",
+            "C": "assessment is dependent on the teacher's subjective evaluation of students' class participation.",
+            "D": "the focus is more on test-taking skills than on higher order thinking and problem-solving."
+          },
+          "correct_answer": "C",
+          "explanation": "The teacher's subjectivity cannot be the part of evaluation according to the content present in the latter half of the last paragraph of the passage. Therefore all others except option C can be a possible feature of the No Child Left Behind Act,2001."
+        },
+        {
+          "id": "cat-2018-slot2-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "More and more companies, government agencies, educational institutions and philanthropic organisations are today in the grip\nof a new phenomenon: ‘metric fixation’. The key components of metric fixation are the belief that it is possible – and desirable –\nto replace professional judgment (acquired through personal experience and talent) with numerical indicators of comparative",
+          "passage_group": 4,
+          "question": "What is the main idea that the author is trying to highlight in the passage?",
+          "options": {
+            "A": "Long-term organisational goals should not be ignored for short-term measures of organisational success.",
+            "B": "Performance measurement needs to be precise and cost-effective to be useful for evaluating organisational performance",
+            "C": "All kinds of organisations are now relying on metrics to measure performance and to give rewards and punishments.",
+            "D": "Evaluating performance by using measurable performance metrics may misguide organisational goal achievement."
+          },
+          "correct_answer": "D",
+          "explanation": "The main focus of the author in this passage is on metric fixation (i.e. measuring performance in numbers and motivating people in different organizations by attaching rewards and penalties to their measured performance) which can actually backfire. Therefore option D."
+        },
+        {
+          "id": "cat-2018-slot2-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "More and more companies, government agencies, educational institutions and philanthropic organisations are today in the grip\nof a new phenomenon: ‘metric fixation’. The key components of metric fixation are the belief that it is possible – and desirable –\nto replace professional judgment (acquired through personal experience and talent) with numerical indicators of comparative",
+          "passage_group": 4,
+          "question": "What main point does the author want to convey through the examples of the police officer and the surgeon?",
+          "options": {
+            "A": "The actions of police officers and surgeons have a significantly impact on society.",
+            "B": "Some professionals are likely to be significantly influenced by the design of performance measurement systems.",
+            "C": "Critical public roles should not be evaluated on metrics-based performance measures.",
+            "D": "Metrics-linked rewards may encourage unethical behaviour among some professionals."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer 2nd paragraph of the passage as regards police-officer( If the rate of major crimes in a district becomes the metric according to which police officers are promoted, then some officers will respond by simply not recording crimes or downgrading them from major offences to misdemeanours) and surgeon(When the metrics of success and failure are made public – affecting their reputation and income – some surgeons will improve their metric scores by refusing to operate on patients with more complex problems, whose surgical outcomes are more likely to be negative).So it can be understood that metric fixation as regards performance in these fields evoke unethical behavior. Therefore option D."
+        },
+        {
+          "id": "cat-2018-slot2-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Grove snails as a whole are distributed all over Europe, but a specific variety of the snail, with a distinctive white-lipped shell, is\nfound exclusively in Ireland and in the Pyrenees mountains that lie on the border between France and Spain. The researchers\nsampled a total of 423 snail specimens from 36 sites distributed across Europe, with an emphasis on gathering large numbers\nof the white-lipped variety. When they sequenced genes from the mitochondrial DNA of each of these snails and used\nalgorithms to analyze the genetic diversity between them, they found that. . . a distinct lineage (the snails with the whitelipped\nshells) was indeed endemic to the two very specific and distant places in question.\nExplaining this is tricky. Previously, some had speculated that the strange distributions of creatures such as the white-lipped\ngrove snails could be explained by convergent evolution —in which two populations evolve the same trait by coincidence—but\nthe underlying genetic similarities between the two groups rules that out. Alternately, some scientists had suggested that the\nwhite-lipped variety had simply spread over the whole continent, then been wiped out everywhere besides Ireland and the\nPyrenees, but the researchers say their sampling and subsequent DNA analysis eliminate that possibility too. “If the snails\nnaturally colonized Ireland, you would expect to find some of the same genetic type in other areas of Europe, especially Britain.\nWe just don’t find them,” Davidson, the lead author, said in a press statement.\nMoreover, if they’d gradually spread across the continent, there would be some genetic variation within the white-lipped type,\nbecause evolution would introduce variety over the thousands of years it would have taken them to spread from the Pyrenees\nto Ireland. That variation doesn’t exist, at least in the genes sampled. This means that rather than the organism gradually\nexpanding its range, large populations instead were somehow moved en mass to the other location within the space of a few\ndozen generations, ensuring a lack of genetic variety.\n“There is a very clear pattern, which is difficult to explain except by involving humans,” Davidson said. Humans, after all,\ncolonized Ireland roughly 9,000 years ago, and the oldest fossil evidence of grove snails in Ireland dates to roughly the same\nera. Additionally, there is archaeological evidence of early sea trade between the ancient peoples of Spain and Ireland via the\nAtlantic and even evidence that humans routinely ate these types of snails before the advent of agriculture, as their burnt shells\nhave been found in Stone Age trash heaps.\nThe simplest explanation, then? Boats. These snails may have inadvertently traveled on the floor of the small, coast-hugging\nskiffs these early humans used for travel, or they may have been intentionally carried to Ireland by the seafarers as a food\nsource. “The highways of the past were rivers and the ocean–as the river that flanks the Pyrenees was an ancient trade route to\nthe Atlantic, what we’re actually seeing might be the long lasting legacy of snails that hitched a ride…as humans travelled from\nthe South of France to Ireland 8,000 years ago,” Davidson said.\nWhich one of the following makes the author eliminate convergent evolution as a probable explanation for why white-lipped\ngrove snails are found in Ireland and the Pyrenees?",
+          "options": {
+            "A": "The absence of genetic similarities between white-lipped grove snails of Ireland and snails from other parts of Europe, especially Britain.",
+            "B": "The absence of genetic variation between white-lipped grove snails of Ireland and the Pyrenees.",
+            "C": "The coincidental evolution of similar traits (white-lipped shell) in the grove snails of Ireland and the Pyrenees.",
+            "D": "The distinct lineage of white-lipped grove snails found specifically in Ireland and the Pyrenees."
+          },
+          "correct_answer": "B",
+          "explanation": "Refer 3rd paragraph \"moreover , if they'd gradually----------genes sampled.\"makes clear there was absence of genetic variation. Therefore option B is appropriate."
+        },
+        {
+          "id": "cat-2018-slot2-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The passage outlines several hypotheses and evidence related to white-lipped grove snails to arrive at the most convincing\nexplanation for:",
+          "options": {
+            "A": "why the white-lipped variety of grove snails were wiped out everywhere except in Ireland and the Pyrenees.",
+            "B": "how the white-lipped variety of grove snails might have migrated from the Pyrenees to Ireland.",
+            "C": "how the white-lipped variety of grove snails independently evolved in Ireland and the Pyrenees.",
+            "D": "why the white-lipped variety of grove snails are found only in Ireland and the Pyrenees."
+          },
+          "correct_answer": "D",
+          "explanation": "The opening lines of the passage \"groove snails---------and Spain\" clearly justify option D as the author is providing explanation and evidence why that particular variety of snails are only found in Ireland and the Pyrenees."
+        },
+        {
+          "id": "cat-2018-slot2-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following evidence supports the passage’s explanation of sea travel/trade EXCEPT:",
+          "options": {
+            "A": "archaeological evidence of early sea trade between the ancient peoples of Spain and Ireland via the Atlantic Ocean.",
+            "B": "the coincidental existence of similar traits in the white-lipped grove snails of Ireland and the Pyrenees because of convergent evolution.",
+            "C": "absence of genetic variation within the white-lipped grove snails of Ireland and the Pyrenees, whose genes were sampled.",
+            "D": "the oldest fossil evidence of white-lipped grove snails in Ireland dates back to roughly 9,000 years ago, the time when humans colonised Ireland."
+          },
+          "correct_answer": "B",
+          "explanation": "Option B is totally opposite to what is mentioned in the passage. Refer to second paragraph\"previously----rules that out\""
+        },
+        {
+          "id": "cat-2018-slot2-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In paragraph 4, the evidence that “humans routinely ate these types of snails before the advent of agriculture” can be used to conclude\nthat:",
+          "options": {
+            "A": "white-lipped grove snails may have inadvertently traveled from the Pyrenees to Ireland on the floor of the small, coast- hugging skiffs that early seafarers used for travel.",
+            "B": "the seafarers who traveled from the Pyrenees to Ireland might have carried white-lipped grove snails with them as edibles.",
+            "C": "rivers and oceans in the Stone Age facilitated trade in white-lipped grove snails.",
+            "D": "9,000 years ago, during the Stone Age, humans traveled from the South of France to Ireland via the Atlantic Ocean"
+          },
+          "correct_answer": "B",
+          "explanation": "The explanation lies in last paragraph. So refer the last line of 4th paragraph alongwith opening lines of last paragraph."
+        },
+        {
+          "id": "cat-2018-slot2-varc-25",
+          "number": 25,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. In the era of smart world, however, ‘Universal Basic Income’ is an ineffective instrument which cannot address the potential\nbreakdown of the social contract when large swathes of the population would effectively be unemployed.\n2. In the era of industrial revolution, the abolition of child labour, poor laws and the growth of trade unions helped families\ncope with the pressures of mechanised work.\n3. Growing inequality could be matched by a creeping authoritarianism that is bolstered by technology that is increasingly able\nto peer into the deepest vestiges of our lives.\n4. New institutions emerge which recognise ways in which workers could contribute to and benefit by economic growth when,\nrather than if, their jobs are automated.",
+          "options": {
+            "A": "4213",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4213",
+          "explanation": "Statement 4 is the opening sentence that generally speaks about how new institutions recognize ways in which workers contribute and economically benefit if their jobs are automated and gets further explanation in statement 2 where families of workers cope with pressure of mechanised work. The word 'however' in statement 1 gives contrast to the idea presented in sentence 2. Statement 3 conveniently concludes the paragraph as it furthers(growing inequality) presented in sentence 1(breakdown of social contract). So the final sequence is 4213"
+        },
+        {
+          "id": "cat-2018-slot2-varc-26",
+          "number": 26,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. They would rather do virtuous side projects assiduously as long as these would not compel them into doing their day jobs\nmore honourably or reduce the profit margins.\n2. They would fund a million of the buzzwordy programs rather than fundamentally question the rules of their game or alter\ntheir own behavior to reduce the harm of the existing distorted, inefficient and unfair rules.\n3. Like the dieter who would rather do anything to lose weight than actually eat less, the business elite would save the world\nthrough social-impact-investing and philanthrocapitalism.\n4. Doing the right thing — and moving away from their win-win mentality — would involve real sacrifice; instead, it’s easier to\nfocus on their pet projects and initiatives.",
+          "options": {
+            "A": "3241",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3241",
+          "explanation": "The paragraph opens with sentence 3 as it mentions the subject( the dieter and the business elite). Sentence 2 furthers the idea presented in statement 3 by elaborating on social impact investing and philanthrocapitalism. Sentence4 and 1 make a mandatory pair(in that order) with the key word 'projects'(wherein 4th talks about pet projects and 1st talks about side projects). So the final arrangement comes to be 3241."
+        },
+        {
+          "id": "cat-2018-slot2-varc-27",
+          "number": 27,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Self-management is thus defined as the ‘individual’s ability to manage the symptoms, treatment, physical and psychosocial\nconsequences and lifestyle changes inherent in living with a chronic condition’.\n\n2. Most people with progressive diseases like dementia prefer to have control over their own lives and health-care for as long\nas possible.\n3. Having control means, among other things, that patients themselves perform self management activities.\n4. Supporting people in decisions and actions that promote self-management is called selfmanagement support requiring a\ncooperative relationship between the patient, the family, and the professionals.",
+          "options": {
+            "A": "2314",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2314",
+          "explanation": "The paragraph is about self-management and we could have conveniently opened with line 1. But the word 'thus' used in line 1 makes the whole difference that it needs some background.Statement 4 also presents another definition based on self management , so 4 can follow 1. Statement 3 is actually introducing the idea of self-mangement. Statement 2 and 3 are mandatory pairs having 'control' as key-word,but contextually statement 2 leads the sequence. So the final arrangement is 2314"
+        },
+        {
+          "id": "cat-2018-slot2-varc-28",
+          "number": 28,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A Japanese government panel announced that it recommends regulating only genetically modified organisms that have had\nforeign genes permanently introduced into their genomes and not those whose endogenous genes have been edited. The only\nstipulation is that researchers and businesses will have to register their modifications to plants or animals with the government,\nwith the exception of microbes cultured in contained environments. Reactions to the decision are mixed. While lauding the\npotential benefits of genome editing, an editorial opposes across the-board permission. Unforeseen risks in gene editing\ncannot be ruled out. All genetically modified products must go through the same safety and labeling processes regardless of\nmethod.",
+          "options": {
+            "A": "Exempting from regulations the editing of endogenous genes is not desirable as this procedure might be risk-prone.",
+            "B": "Creating categories within genetically modified products in terms of transgenic modification and genome editing advances science but defies laws.",
+            "C": "A government panel in Japan says transgenic modification and genome editing are not the same.",
+            "D": "Excepting microbes cultured in contained environments from the regulations of genome editing is premature."
+          },
+          "correct_answer": "A",
+          "explanation": "Only option A brings in the gist of the given paragraph as a whole. All other options are either irrelevant or point out a minor point . Hence option A is the best choice."
+        },
+        {
+          "id": "cat-2018-slot2-varc-29",
+          "number": 29,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Our smartphones can now track our diets, our biological cycles, even our digestive systems and sleep-patterns.\n2. Researchers have even coin ed a new term, “orthosomnia”, to describe the insomnia brought on by paying too much\nattention to smartphones and sleep-tracking apps.\n3. Sleep, nature’s soft nurse, is a blissful, untroubled state all too easily disturbed by earthly worries or a guilty conscience.\n4. The existence of a market for such apps is unsurprising: shift work, a long-hours culture and blue light from screens have\nconspired to rob many of us of sufficient rest.\n5. A new threat to a good night’s rest has emerged – smart-phones, with sleep-tracking apps.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "The options 1,2,4 and 5 talk about negative impact of smart phones on our sleep pattern.But statement 3 is talking about state of sleep that gets disturbed by earthly worries or guilty conscience ; nothing is being talked about impact of smart phones. Therefore 3 is the odd one."
+        },
+        {
+          "id": "cat-2018-slot2-varc-30",
+          "number": 30,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Should the moral obligation to rescue and aid persons in grave peril, felt by a few, be enforced by the criminal law? Should we\nfollow the lead of a number of European countries and enact bad Samaritan laws? Proponents of bad Samaritan laws must\novercome at least three different sorts of obstacles. First, they must show the laws are morally legitimate in principle, that is,\nthat the duty to aid others is a proper candidate for legal enforcement. Second, they must show that this duty to aid can be\ndefined in a way that can be fairly enforced by the courts. Third, they must show that the benefits of the laws are worth their\nproblems, risks and costs.",
+          "options": {
+            "A": "If bad Samaritan laws are found to be legally sound and enforceable they must be enacted.",
+            "B": "A number of European countries that have successfully enacted bad Samaritan laws may serve as model statutes.",
+            "C": "Bad Samaritan laws may be desirable but they need to be tested for legal soundness.",
+            "D": "Everyone agrees that people ought to aid others, the only debate is whether to have a law on it."
+          },
+          "correct_answer": "C",
+          "explanation": "The paragraph speaks about the need for Bad Samaritan laws with the condition that supporters clear the legal ground. Option 1 and 2 are ahead the state of the situation in the passage. Option 4 is out of scope. Option 3 is , therefore, the best choice that brings in the summary of the given paragraph appropriately."
+        },
+        {
+          "id": "cat-2018-slot2-varc-31",
+          "number": 31,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Much has been recently discovered about the development of songs in birds.\n2. Some species are restricted to a single song learned by all individuals, others have a range of songs.\n3. The most important auditory stimuli for the birds are the sounds of other birds.\n4. For all bird species there is a prescribed path to development of the final song,\n5. A bird begins with the subsong, passes through plastic song, until it achieves the species song.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "All the sentences 1,2,4 and 5 are discussing about the result of research on classification and formation of song in the birds. But line 3 is drifting away from the main point as to how birds are stimulated by sounds of other birds making it the odd one."
+        },
+        {
+          "id": "cat-2018-slot2-varc-32",
+          "number": 32,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The early optimism about sport's deterrent effects on delinquency was premature as researchers failed to find any consistent\nrelationships between sports participation and deviance. As the initial studies were based upon cross-sectional data and the\neffects captured were short-term, it was problematic to test and verify the temporal sequencing of events suggested by the\ndeterrence theory. The correlation between sport and delinquency could not be disentangled from class and cultural variables\nknown. Choosing individuals to play sports in the first place was problematic, which became more acute in the subsequent\ndecades as researchers began to document just how closely sports participation was linked to social class indicators.",
+          "options": {
+            "A": "Contradicting the previous optimism, latter researchers have proved that there is no consistent relationship between sports participation and deviance.",
+            "B": "Sports participation is linked to class and cultural variables such as education, income, and social capital.",
+            "C": "There is a direct relationship between sport participation and delinquency but it needs more empirical evidence.",
+            "D": "Statistical and empirical weaknesses stand in the way of inferring any relationship between sports participation and deviance."
+          },
+          "correct_answer": "D",
+          "explanation": "The paragraph talks about regret that researchers were not able to establish relationship between playing sports and deviance from delinquency due to insufficient result of study so as to relate to deterrence theory. Therefore the negative tone of the failure has been appropriately captured in option D. Option A is just taking the discussion one step ahead. Option B and C do not find support(though related) of any kind of direct relation between sports & delinquency or culture."
+        },
+        {
+          "id": "cat-2018-slot2-varc-33",
+          "number": 33,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. As India looks to increase the number of cities, our urban planning must factor in potential natural disasters and work out\ncontingencies in advance.\n2. Authorities must revise data and upgrade infrastructure and mitigation plans even if their local area hasn’t been visited by a\nnatural calamity yet.\n3. Extreme temperatures, droughts, and forest fires have more than doubled since 1980.\n4. There is no denying the fact that our baseline normal weather is changing.\n5. It is no longer a question of whether we will be hit by nature’s fury but rather when.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "Sentence 4 is a generic statement qualifying for being the opening sentence and line 5 just furthers the intensity of the situation. Line 1 and 2 (in that order) talk about the safety measures that can be adopted to face the disaster. Statement 3 is unrelated as it is giving some general data. Therefore line 3 is the odd one."
+        },
+        {
+          "id": "cat-2018-slot2-varc-34",
+          "number": 34,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. It was his taxpayers who had to shell out as much as $1.6bn over 10 years to employees of failed companies.\n2. Companies in many countries routinely engage in such activities which means that the employees are left with unpaid\nentitlements\n3. Deliberate and systematic liquidation of a company to avoid liabilities and then restarting the business is called phoenixing.\n4. The Australian Minister for Revenue and Services discovered in an audit that phoenixing had cost the Australian economy\nbetween $2.9bn and $5.1bn last year.",
+          "options": {
+            "A": "3241",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3241",
+          "explanation": "The sentences given are following a pattern i.e. definition of phonexing(line3). Who all are engaged in it (line2). Related example in the form of statistical data to prove the act of phoenixing is given(line4). Line 1 follows 4 being a mandatory noun(Australian Minister for Revenue&Services)pronoun (his)pair Therefore the final sequence is 3241"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2018-slot2-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The base exchange rate of a currency X with respect to a currency Y is the number of units of currency Y which is equivalent in\nvalue to one unit of currency X. Currency exchange outlets buy currency at buying exchange rates that are lower than base\nexchange rates, and sell currency at selling exchange rates that are higher than base exchange rates.\nA currency exchange outlet uses the local currency L to buy and sell three international currencies A, B, and C, but does not\nexchange one international currency directly with another. The base exchange rates of A, B and C with respect to L are in the\nratio 100:120:1. The buying exchange rates of each of A, B, and C with respect to L are 5% below the corresponding base\nexchange rates, and their selling exchange rates are 10% above their corresponding base exchange rates.\nThe following facts are known about the outlet on a particular day:\n1. The amount of L used by the outlet to buy C equals the amount of L it received by selling C.\n2. The amounts of L used by the outlet to buy A and B are in the ratio 5:3.\n3. The amounts of L the outlet received from the sales of A and B are in the ratio 5:9.\n4. The outlet received 88000 units of L by selling A during the day.\n5. The outlet started the day with some amount of L, 2500 units of A, 4800 units of B, and 48000 units of C.\n6. The outlet ended the day with some amount of L, 3300 units of A, 4800 units of B, and 51000 units of C.\nHow many units of currency A did the outlet buy on that day?",
+          "options": {
+            "A": "1200",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1200",
+          "explanation": "The base exchange rates of currencies A, B and C with respect to L is in the ratio 100 : 120 : 1. The given information can be tabulated as follows: A B C Base exchange rate 100x 120x 1x (ratio) Buying rate 95x 114x 0.95x Selling rate 110x 132x 1.10x Net addition 800 0 3000 The outlet received 88,000 units of L by selling A and the ratio of amounts of L used to buy A and B are in the ratio 5 : 3 and amount received from the sales of A and B are in the ratio 5 : 9. As the net addition is 800, the units of A bought = (800/x + 800) Amount of L used in buying A = (800/x + 800)× 95x As the amount used to buy A and B are in the ratio 5 : 3, The amount used to buy B = (800/x + 800) ×95x ×3/5 Number of units of B = ((800/x + 800) ×95x ×3/5)/114x = (400/x + 400) As the net addition of B is zero, number of units of B sold = (400/x + 400) The amount received from selling B = (400/x + 400) ×132x The amount received from selling A = 88,000 The amount received from selling B = 9/5 × 88000 = 158400 So (400/x + 400) ×132x = 158400 x = 2, So we can write the table as A B C Base exchange rate (ratio) 200 240 2 Buying rate 190 228 1.9 Selling rate 220 264 2.2 Net addition 800 0 3000"
+        },
+        {
+          "id": "cat-2018-slot2-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many units of currency C did the outlet sell on that day?",
+          "options": {
+            "A": "22000",
+            "B": "3000",
+            "C": "6000",
+            "D": "19000"
+          },
+          "correct_answer": "D",
+          "explanation": "The base exchange rates of currencies A, B and C with respect to L is in the ratio 100 : 120 : 1. The given information can be tabulated as follows: A B C Base exchange rate 100x 120x 1x (ratio) Buying rate 95x 114x 0.95x Selling rate 110x 132x 1.10x Net addition 800 0 3000 The outlet received 88,000 units of L by selling A and the ratio of amounts of L used to buy A and B are in the ratio 5 : 3 and amount received from the sales of A and B are in the ratio 5 : 9. As the net addition is 800, the units of A bought = (800/x + 800) Amount of L used in buying A = (800/x + 800)× 95x As the amount used to buy A and B are in the ratio 5 : 3, The amount used to buy B = (800/x + 800) ×95x ×3/5 Number of units of B = ((800/x + 800) ×95x ×3/5)/114x = (400/x + 400) As the net addition of B is zero, number of units of B sold = (400/x + 400) The amount received from selling B = (400/x + 400) ×132x The amount received from selling A = 88,000 The amount received from selling B = 9/5 × 88000 = 158400 So (400/x + 400) ×132x = 158400 x = 2, So we can write the table as A B C Base exchange rate (ratio) 200 240 2 Buying rate 190 228 1.9 Selling rate 220 264 2.2 Net addition 800 0 3000 As the net addition in the number of units of C is 3,000 and the buying and selling rates are in the ratio 1.9 and 2.2, assuming n units are sold 1.9 (n + 3000) = 2.2 (n) 0.3 n = 5700 n = 19000"
+        },
+        {
+          "id": "cat-2018-slot2-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the base exchange rate of currency B with respect to currency L on that day?",
+          "options": {
+            "A": "240",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "240",
+          "explanation": "The base exchange rates of currencies A, B and C with respect to L is in the ratio 100 : 120 : 1. The given information can be tabulated as follows: A B C Base exchange rate 100x 120x 1x (ratio) Buying rate 95x 114x 0.95x Selling rate 110x 132x 1.10x Net addition 800 0 3000 The outlet received 88,000 units of L by selling A and the ratio of amounts of L used to buy A and B are in the ratio 5 : 3 and amount received from the sales of A and B are in the ratio 5 : 9. As the net addition is 800, the units of A bought = (800/x + 800) Amount of L used in buying A = (800/x + 800)× 95x As the amount used to buy A and B are in the ratio 5 : 3, The amount used to buy B = (800/x + 800) ×95x ×3/5 Number of units of B = ((800/x + 800) ×95x ×3/5)/114x = (400/x + 400) As the net addition of B is zero, number of units of B sold = (400/x + 400) The amount received from selling B = (400/x + 400) ×132x The amount received from selling A = 88,000 The amount received from selling B = 9/5 × 88000 = 158400 So (400/x + 400) ×132x = 158400 x = 2, So we can write the table as A B C Base exchange rate (ratio) 200 240 2 Buying rate 190 228 1.9 Selling rate 220 264 2.2 Net addition 800 0 3000 The base exchange rate of currency B with respect to L is 240."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What was the buying exchange rate of currency C with respect to currency L on that day?",
+          "options": {
+            "A": "1.90",
+            "B": "1.10",
+            "C": "2.20",
+            "D": "0.95"
+          },
+          "correct_answer": "A",
+          "explanation": "The base exchange rates of currencies A, B and C with respect to L is in the ratio 100 : 120 : 1. The given information can be tabulated as follows: A B C Base exchange rate 100x 120x 1x (ratio) Buying rate 95x 114x 0.95x Selling rate 110x 132x 1.10x Net addition 800 0 3000 The outlet received 88,000 units of L by selling A and the ratio of amounts of L used to buy A and B are in the ratio 5 : 3 and amount received from the sales of A and B are in the ratio 5 : 9. As the net addition is 800, the units of A bought = (800/x + 800) Amount of L used in buying A = (800/x + 800)× 95x As the amount used to buy A and B are in the ratio 5 : 3, The amount used to buy B = (800/x + 800) ×95x ×3/5 Number of units of B = ((800/x + 800) ×95x ×3/5)/114x = (400/x + 400) As the net addition of B is zero, number of units of B sold = (400/x + 400) The amount received from selling B = (400/x + 400) ×132x The amount received from selling A = 88,000 The amount received from selling B = 9/5 × 88000 = 158400 So (400/x + 400) ×132x = 158400 x = 2, So we can write the table as A B C Base exchange rate (ratio) 200 240 2 Buying rate 190 228 1.9 Selling rate 220 264 2.2 Net addition 800 0 3000 The buying exchange rate of currency C with respect to L on that day was 1.9."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to a coding scheme the sentence\nPeacock is designated as the national bird of India is coded as\n5688999 35 1135556678 56 458 13666689 1334 79 13366\nThis coding scheme has the following rules:\n1. The scheme is case-insensitive (does not distinguish between upper case and lower case letters).\n2. Each letter has a unique code which is a single digit from among 1,2,3, …, 9.\n3. The digit 9 codes two letters, and every other digit codes three letters.\n4. The code for a word is constructed by arranging the digits corresponding to its letters in a non-decreasing sequence.\nWhat best can be concluded about the code for the letter L?",
+          "options": {
+            "A": "1 or 8",
+            "B": "1",
+            "C": "8",
+            "D": "6"
+          },
+          "correct_answer": "B",
+          "explanation": "Given 'peacock is designated as the national bird of India' is coded as ' 5688999 35 1135556678 56 458 13666689 1334 79 13366' 9 is the code for o and c from the words peacock and of. F is coded as 7 from the word of. I is coded as either 3 or 6 from the word India, but from the word 'is' and 'designated' code for 'I' is 3. S is coded as 5 from the word is. A is coded as 6 from the word 'as'. N is coded as 6 from the word national. Thus D is coded as 1 from the word India. E is coded as 5 from the word designated. T is coded as 8 from the word 'the' and 'National'. Thus H is coded as 4 from the word 'the'. G is coded as 7. L is coded as 1 from the word 'National'. P and K are coded as 8 from the word 'peacock'. B and R are coded as 3 and 4 many order from the word 'bird'. We get the codes as follows. Code Letter 1 D, L 3 I 4 H 5 S, E 6 A, N 7 F, G 8 T, P, K 9 O, C B and R is coded as 3 or 4. L is coded as '1'."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to a coding scheme the sentence\nPeacock is designated as the national bird of India is coded as\n5688999 35 1135556678 56 458 13666689 1334 79 13366\nThis coding scheme has the following rules:\n1. The scheme is case-insensitive (does not distinguish between upper case and lower case letters).\n2. Each letter has a unique code which is a single digit from among 1,2,3, …, 9.\n3. The digit 9 codes two letters, and every other digit codes three letters.\n4. The code for a word is constructed by arranging the digits corresponding to its letters in a non-decreasing sequence.\nWhat best can be concluded about the code for the letter B?",
+          "options": {
+            "A": "1 or 3 or 4",
+            "B": "3",
+            "C": "3 or 4",
+            "D": "1"
+          },
+          "correct_answer": "C",
+          "explanation": "Given 'peacock is designated as the national bird of India' is coded as ' 5688999 35 1135556678 56 458 13666689 1334 79 13366' 9 is the code for o and c from the words peacock and of. F is coded as 7 from the word of. I is coded as either 3 or 6 from the word India, but from the word 'is' and 'designated' code for 'I' is 3. S is coded as 5 from the word is. A is coded as 6 from the word 'as'. N is coded as 6 from the word national. Thus D is coded as 1 from the word India. E is coded as 5 from the word designated. T is coded as 8 from the word 'the' and 'National'. Thus H is coded as 4 from the word 'the'. G is coded as 7. L is coded as 1 from the word 'National'. P and K are coded as 8 from the word 'peacock'. B and R are coded as 3 and 4 many order from the word 'bird'. We get the codes as follows. Code Letter 1 D, L 3 I 4 H 5 S, E 6 A, N 7 F, G 8 T, P, K 9 O, C B and R is coded as 3 or 4. Either 3 or 4 is the code for B."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to a coding scheme the sentence\nPeacock is designated as the national bird of India is coded as\n5688999 35 1135556678 56 458 13666689 1334 79 13366\nThis coding scheme has the following rules:\n1. The scheme is case-insensitive (does not distinguish between upper case and lower case letters).\n2. Each letter has a unique code which is a single digit from among 1,2,3, …, 9.\n3. The digit 9 codes two letters, and every other digit codes three letters.\n4. The code for a word is constructed by arranging the digits corresponding to its letters in a non-decreasing sequence.\nFor how many digits can the complete list of letters associated with that digit be identified?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "0",
+            "D": "1"
+          },
+          "correct_answer": "A",
+          "explanation": "Given 'peacock is designated as the national bird of India' is coded as ' 5688999 35 1135556678 56 458 13666689 1334 79 13366' 9 is the code for o and c from the words peacock and of. F is coded as 7 from the word of. I is coded as either 3 or 6 from the word India, but from the word 'is' and 'designated' code for 'I' is 3. S is coded as 5 from the word is. A is coded as 6 from the word 'as'. N is coded as 6 from the word national. Thus D is coded as 1 from the word India. E is coded as 5 from the word designated. T is coded as 8 from the word 'the' and 'National'. Thus H is coded as 4 from the word 'the'. G is coded as 7. L is coded as 1 from the word 'National'. P and K are coded as 8 from the word 'peacock'. B and R are coded as 3 and 4 many order from the word 'bird'. We get the codes as follows. Code Letter 1 D, L 3 I 4 H 5 S, E 6 A, N 7 F, G 8 T, P, K 9 O, C B and R is coded as 3 or 4. The code for 8 and 9 is identified."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to a coding scheme the sentence\nPeacock is designated as the national bird of India is coded as\n5688999 35 1135556678 56 458 13666689 1334 79 13366\nThis coding scheme has the following rules:\n1. The scheme is case-insensitive (does not distinguish between upper case and lower case letters).\n2. Each letter has a unique code which is a single digit from among 1,2,3, …, 9.\n3. The digit 9 codes two letters, and every other digit codes three letters.\n4. The code for a word is constructed by arranging the digits corresponding to its letters in a non-decreasing sequence.\nWhich set of letters CANNOT be coded with the same digit?",
+          "options": {
+            "A": "X,Y,Z",
+            "B": "S,U,V",
+            "C": "I,B,M",
+            "D": "S,E,Z"
+          },
+          "correct_answer": "B",
+          "explanation": "Given 'peacock is designated as the national bird of India' is coded as ' 5688999 35 1135556678 56 458 13666689 1334 79 13366' 9 is the code for o and c from the words peacock and of. F is coded as 7 from the word of. I is coded as either 3 or 6 from the word India, but from the word 'is' and 'designated' code for 'I' is 3. S is coded as 5 from the word is. A is coded as 6 from the word 'as'. N is coded as 6 from the word national. Thus D is coded as 1 from the word India. E is coded as 5 from the word designated. T is coded as 8 from the word 'the' and 'National'. Thus H is coded as 4 from the word 'the'. G is coded as 7. L is coded as 1 from the word 'National'. P and K are coded as 8 from the word 'peacock'. B and R are coded as 3 and 4 many order from the word 'bird'. We get the codes as follows. Code Letter 1 D, L 3 I 4 H 5 S, E 6 A, N 7 F, G 8 T, P, K 9 O, C B and R is coded as 3 or 4. S, U, V cannot be coded with same digit."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are only four brands of entry level smartphones called Azra, Bysi, Cxqi, and Dipq in a country. Details about their market\nshare, unit selling price, and profitability (defined as the profit as a percentage of the revenue) for the year 2016 are given in the\ntable below:\nBrandMarket Share (%)Unit Selling Price (Rs.)Profitability (%)\n\nAzra 40 15,000 10\nBysi 25 20,000 30\nCxqi 15 30,000 40\nDipq 20 25,000 30\nIn 2017, sales volume of entry level smartphones grew by 40% as compared to that in 2016. Cxqi offered a 40% discount on its\nunit selling price in 2017, which resulted in a 15% increase in its market share. Each of the other three brands lost 5% market\nshare. However, the profitability of Cxqi came down to half of its value in 2016. The unit selling prices of the other three brands\nand their profitability values remained the same in 2017 as they were in 2016.\nThe brand that had the highest revenue in 2016 is:",
+          "options": {
+            "A": "Azra",
+            "B": "Bysi",
+            "C": "Dipq",
+            "D": "Cxqi"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the total market size be 100 units. The sales of Azra, Bysi, Cxqi and dipq would be 40, 25, 15 and 20 units respectively. The revenue would be as follows Azra = 40 x 15,000 = 6.0 lac Bysi = 25 x 20,000 = 5.0 lac Cxgi = 15 x 30,000 = 4.5 lac Dipq = 20 x 25,000 = 5.0 lac The brand with the highest revenue is Azra."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The brand that had the highest profit in 2016 is:",
+          "options": {
+            "A": "Bysi",
+            "B": "Azra",
+            "C": "Dipq",
+            "D": "Cxqi"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the total market size be 100 units. The sales of Azra, Bysi, Cxqi and dipq would be 40, 25, 15 and 20 units respectively. The revenue would be as follows Azra = 40 x 15,000 = 6.0 lac Bysi = 25 x 20,000 = 5.0 lac Cxgi = 15 x 30,000 = 4.5 lac Dipq = 20 x 25,000 = 5.0 lac The profits for the different brands are: Azra – 6.0 lac × 10 / 100 = 60,000 Bysi – 5.0 lac × 30 / 100 = 1,50,000 Cxgi – 4.5 lac × 40 / 100 = 1,80,000 Dipq – 5.0 lac × 30 / 100 = 1,50,000 The profit is the highest for Cxqi"
+        },
+        {
+          "id": "cat-2018-slot2-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The brand that had the highest profit in 2017 is:",
+          "options": {
+            "A": "Cxqi",
+            "B": "Bysi",
+            "C": "Azra",
+            "D": "Dipq"
+          },
+          "correct_answer": "B",
+          "explanation": "The new market share, selling prices and profitability for the different brands are BrandMarket shareSelling priceProfitability Azra 35 15,000 10 Bysi 20 20,000 30 Cxqi 30 18,000 20 Dipq 15 25,000 30 Now the total sales is 140 units.(Increase of 40%) The profits are as follows Azra – 49 x 15,000 × 10 / 100 = 73,500 Bysi – 28 x 20,000 × 30 / 100 = 1,68,000 Cxgi – 42 x 18,000 × 20 / 100 = 1,51,200 Dipq – 21 x 25,000 × 30 / 100 = 1,57,500 The profit is the highest for Bysi"
+        },
+        {
+          "id": "cat-2018-slot2-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The complete list of brands whose profits went up in 2017 from 2016 is:",
+          "options": {
+            "A": "Bysi, Cxqi, Dipq",
+            "B": "Azra, Bysi, Dipq",
+            "C": "Azra, Bysi, Cxqi",
+            "D": "Cxqi, Azra, Dipq"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the total market size be 100 units. The sales of Azra, Bysi, Cxqi and dipq would be 40, 25, 15 and 20 units respectively. The revenue would be as follows Azra = 40 x 15,000 = 6.0 lac Bysi = 25 x 20,000 = 5.0 lac Cxgi = 15 x 30,000 = 4.5 lac Dipq = 20 x 25,000 = 5.0 lac The profits for the different brands are: Azra – 6.0 lac × 10 / 100 = 60,000 Bysi – 5.0 lac × 30 / 100 = 1,50,000 Cxgi – 4.5 lac × 40 / 100 = 1,80,000 Dipq – 5.0 lac × 30 / 100 = 1,50,000 The new market share, selling prices and profitability for the different brands are BrandMarket shareSelling priceProfitability Azra 35 15,000 10 Bysi 20 20,000 30 Cxqi 30 18,000 20 Dipq 15 25,000 30 Now the total sales is 140 units.(Increase of 40%) The profits are as follows Azra – 49 x 15,000 × 10 / 100 = 73,500 Bysi – 28 x 20,000 × 30 / 100 = 1,68,000 Cxgi – 42 x 18,000 × 20 / 100 = 1,51,200 Dipq – 21 x 25,000 × 30 / 100 = 1,57,500 The profits increased for Azra (60,000 – 73,500) for Bysi (1,50,000 – 1, 68,000) and Dipq (1,50,000 – 1,57,500)"
+        },
+        {
+          "id": "cat-2018-slot2-dilr-47",
+          "number": 47,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Seven candidates, Akil, Balaram, Chitra, Divya, Erina, Fatima, and Ganeshan, were invited to interview for a position. Candidates\nwere required to reach the venue before 8 am. Immediately upon arrival, they were sent to one of three interview rooms: 101,\n102, and 103. The following venue log shows the arrival times for these candidates. Some of the names have not been recorded\nin the log and have been marked as ‘?’.\nTime 7:10 am7:15 am7:25 am7:30 am7:40 am7:45 am\nPersonAkil, ? ? ? Chitra Fatima ?\nAdditionally here are some statements from the candidates:\nBalaram: I was the third person to enter Room 101.\nChitra: I was the last person to enter the room I was allotted to.\nErina: I was the only person in the room I was allotted to.\nFatima: Three people including Akil were already in the room that I was allotted to when I entered it.\nGaneshan: I was one among the two candidates allotted to Room 102.\nWhat best can be said about the room to which Divya was allotted?",
+          "options": {
+            "A": "Definitely Room 101",
+            "B": "Either Room 101 or Room 102",
+            "C": "Definitely Room 103",
+            "D": "Definitely Room 102"
+          },
+          "correct_answer": "A",
+          "explanation": "Erina was the only person in the room she was allotted to which means that one of the rooms had only one person in it. Ganeshan was one among the two candidates allotted to room 102, which means Room 102 had two people in it. As it is given that Balaram was the third person to enter room 101, so we can figure out that remaining four people have to be in Room 101. So Erina will be the only one in Room 103. When Fatima entered, three people including Akil were already in the room, which means Fatima was the last one to enter room 101. From here we can also figure out that Chitra was the last person to enter room 102. Akil was the first person to reach the venue. Using this information, the table below shows the order in which they entered. 101 102 103 Akil Ganeshan Erina Divya Chitra Balaram Fatima Divya entered room 101."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-48",
+          "number": 48,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who else was in Room 102 when Ganeshan entered?",
+          "options": {
+            "A": "Divya",
+            "B": "No one",
+            "C": "Chitra",
+            "D": "Akil"
+          },
+          "correct_answer": "B",
+          "explanation": "Erina was the only person in the room she was allotted to which means that one of the rooms had only one person in it. Ganeshan was one among the two candidates allotted to room 102, which means Room 102 had two people in it. As it is given that Balaram was the third person to enter room 101, so we can figure out that remaining four people have to be in Room 101. So Erina will be the only one in Room 103. When Fatima entered, three people including Akil were already in the room, which means Fatima was the last one to enter room 101. From here we can also figure out that Chitra was the last person to enter room 102. Akil was the first person to reach the venue. Using this information, the table below shows the order in which they entered. 101 102 103 Akil Ganeshan Erina Divya Chitra Balaram Fatima No one entered into the room 102 before Ganeshan."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-49",
+          "number": 49,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "When did Erina reach the venue?",
+          "options": {
+            "A": "7:45 am",
+            "B": "7:15 am",
+            "C": "7:25 am",
+            "D": "7:10 am"
+          },
+          "correct_answer": "A",
+          "explanation": "Erina was the only person in the room she was allotted to which means that one of the rooms had only one person in it. Ganeshan was one among the two candidates allotted to room 102, which means Room 102 had two people in it. As it is given that Balaram was the third person to enter room 101, so we can figure out that remaining four people have to be in Room 101. So Erina will be the only one in Room 103. When Fatima entered, three people including Akil were already in the room, which means Fatima was the last one to enter room 101. From here we can also figure out that Chitra was the last person to enter room 102. Akil was the first person to reach the venue. Using this information, the table below shows the order in which they entered. 101 102 103 Akil Ganeshan Erina Divya Chitra Balaram Fatima Fatima at 7: 40 and Chitra at 7:30 were the last person to enter their respective room number 101 and 102. So Erina entered at 7:45."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-50",
+          "number": 50,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Ganeshan entered the venue before Divya, when did Balaram enter the venue?",
+          "options": {
+            "A": "7:45 am",
+            "B": "7:25 am",
+            "C": "7:10 am",
+            "D": "7:15 am"
+          },
+          "correct_answer": "B",
+          "explanation": "Erina was the only person in the room she was allotted to which means that one of the rooms had only one person in it. Ganeshan was one among the two candidates allotted to room 102, which means Room 102 had two people in it. As it is given that Balaram was the third person to enter room 101, so we can figure out that remaining four people have to be in Room 101. So Erina will be the only one in Room 103. When Fatima entered, three people including Akil were already in the room, which means Fatima was the last one to enter room 101. From here we can also figure out that Chitra was the last person to enter room 102. Akil was the first person to reach the venue. Using this information, the table below shows the order in which they entered. 101 102 103 Akil Ganeshan Erina Divya Chitra Balaram Fatima From the information, Ganeshan entered room at 7:10 am, Divya entered room at 7:15 am and Balaram entered room at 7:25 am."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-51",
+          "number": 51,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "An agency entrusted to accredit colleges looks at four parameters: faculty quality (F), reputation (R), placement quality (P), and\ninfrastructure (I). The four parameters are used to arrive at an overall score, which the agency uses to give an accreditation to\nthe colleges. In each parameter, there are five possible letter grades given, each carrying certain points: A (50 points), B (40\npoints), C (30 points), D (20 points), and F (0 points). The overall score for a college is the weighted sum of the points scored in\nthe four parameters. The weights of the parameters are 0.1, 0.2, 0.3 and 0.4 in some order, but the order is not disclosed.\nAccreditation is awarded based on the following scheme:\nRange Accreditation\nOverall score ≥ 45 AAA\n35 ≤ Overall score <\nBAA\n\n25 ≤ Overall score <\nBBA\n\n15 ≤ Overall score <\nBBB\n\nOverall score < 15 Junk\nEight colleges apply for accreditation, and receive the following grades in the four parameters (F, R, P, and I):\nF R P I\nA-one A A A B\nBest Ed B C D D\nCosmopolitan B D D C\nDominance D D B C\nEducation Aid A A B A\nFancy A A B B\nGlobal C F D D\nHigh Q C D D B\nIt is further known that in terms of overall scores:\n1. High Q is better than Best Ed;\n2. Best Ed is better than Cosmopolitan; and\n3. Education Aid is better than A-one.\nWhat is the weight of the faculty quality parameter?",
+          "options": {
+            "A": "0.3",
+            "B": "0.1",
+            "C": "0.2",
+            "D": "0.4"
+          },
+          "correct_answer": "B",
+          "explanation": "Let a, b, c and d be the weights of parameters F, R, P and I respectively. Given, (i) 30a + 20b + 20c + 40d > 40a + 30b + 20c + 20d (ii) 40a + 30b + 20c + 20d > 40a + 20b + 20c + 30d (iii) 50a + 50b + 40c + 50d > 50a + 50b + 50c + 40d From (i), 2d > a + b From (ii), b > d From (iii), d > c ⇒ b > d > c a, b, c and d are 0.1, 0.2, 0.3 and 0.4 in any order. d cannot be 0.1 or 0.2. (∵ 2d cannot be greater than a + b) d can be 0.3 or 0.4, but given b > d. ⇒ b = 0.4, d = 0.3 2(0.3) > 0.4 + a a < 0.2 a = 0.1, c = 0.2 F(0.1)R(0.4)P(0.2)I(0.3)Total A - One 5 20 10 12 47 Best Ed 4 12 4 6 26 Cosmopolitan4 8 4 9 25 Dominance 2 8 8 9 27 Education Aid5 20 8 15 48 Fancy 5 20 8 12 45 Global 3 0 4 6 13 High Q 3 8 4 12 27 Weight of faculty parameter is 0.1."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-52",
+          "number": 52,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many colleges receive the accreditation of AAA?",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "Let a, b, c and d be the weights of parameters F, R, P and I respectively. Given, (i) 30a + 20b + 20c + 40d > 40a + 30b + 20c + 20d (ii) 40a + 30b + 20c + 20d > 40a + 20b + 20c + 30d (iii) 50a + 50b + 40c + 50d > 50a + 50b + 50c + 40d From (i), 2d > a + b From (ii), b > d From (iii), d > c ⇒ b > d > c a, b, c and d are 0.1, 0.2, 0.3 and 0.4 in any order. d cannot be 0.1 or 0.2. (∵ 2d cannot be greater than a + b) d can be 0.3 or 0.4, but given b > d. ⇒ b = 0.4, d = 0.3 2(0.3) > 0.4 + a a < 0.2 a = 0.1, c = 0.2 F(0.1)R(0.4)P(0.2)I(0.3)Total A - One 5 20 10 12 47 Best Ed 4 12 4 6 26 Cosmopolitan4 8 4 9 25 Dominance 2 8 8 9 27 Education Aid5 20 8 15 48 Fancy 5 20 8 12 45 Global 3 0 4 6 13 High Q 3 8 4 12 27 Three colleges received AAA rating."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-53",
+          "number": 53,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the highest overall score among the eight colleges?",
+          "options": {
+            "A": "48",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "48",
+          "explanation": "Let a, b, c and d be the weights of parameters F, R, P and I respectively. Given, (i) 30a + 20b + 20c + 40d > 40a + 30b + 20c + 20d (ii) 40a + 30b + 20c + 20d > 40a + 20b + 20c + 30d (iii) 50a + 50b + 40c + 50d > 50a + 50b + 50c + 40d From (i), 2d > a + b From (ii), b > d From (iii), d > c ⇒ b > d > c a, b, c and d are 0.1, 0.2, 0.3 and 0.4 in any order. d cannot be 0.1 or 0.2. (∵ 2d cannot be greater than a + b) d can be 0.3 or 0.4, but given b > d. ⇒ b = 0.4, d = 0.3 2(0.3) > 0.4 + a a < 0.2 a = 0.1, c = 0.2 F(0.1)R(0.4)P(0.2)I(0.3)Total A - One 5 20 10 12 47 Best Ed 4 12 4 6 26 Cosmopolitan4 8 4 9 25 Dominance 2 8 8 9 27 Education Aid5 20 8 15 48 Fancy 5 20 8 12 45 Global 3 0 4 6 13 High Q 3 8 4 12 27 Heighest overall score among the eight colleges is 48."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-54",
+          "number": 54,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many colleges have overall scores between 31 and 40, both inclusive?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "0"
+          },
+          "correct_answer": "D",
+          "explanation": "Let a, b, c and d be the weights of parameters F, R, P and I respectively. Given, (i) 30a + 20b + 20c + 40d > 40a + 30b + 20c + 20d (ii) 40a + 30b + 20c + 20d > 40a + 20b + 20c + 30d (iii) 50a + 50b + 40c + 50d > 50a + 50b + 50c + 40d From (i), 2d > a + b From (ii), b > d From (iii), d > c ⇒ b > d > c a, b, c and d are 0.1, 0.2, 0.3 and 0.4 in any order. d cannot be 0.1 or 0.2. (∵ 2d cannot be greater than a + b) d can be 0.3 or 0.4, but given b > d. ⇒ b = 0.4, d = 0.3 2(0.3) > 0.4 + a a < 0.2 a = 0.1, c = 0.2 F(0.1)R(0.4)P(0.2)I(0.3)Total A - One 5 20 10 12 47 Best Ed 4 12 4 6 26 Cosmopolitan4 8 4 9 25 Dominance 2 8 8 9 27 Education Aid5 20 8 15 48 Fancy 5 20 8 12 45 Global 3 0 4 6 13 High Q 3 8 4 12 27 No college has score between 31 and 40 (both inclusive)."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-55",
+          "number": 55,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Each of the 23 boxes in the picture below represents a product manufactured by one of the following three companies: Alfa,\nBravo and Charlie. The area of a box is proportional to the revenue from the corresponding product, while its centre represents\nthe Product popularity and Market potential scores of the product (out of 20). The shadings of some of the boxes have got\nerased.\nThe companies classified their products into four categories based on a combination of scores (out of 20) on the two\nparameters – Product popularity and Market potential as given below:\nPromisingBlockbusterDoubtfulNo-hope\nProduct popularity score> 10 > 10 ≤ 10 ≤ 10\nMarket potential score > 10 ≤ 10 > 10 ≤ 10\nThe following facts are known:\n1. Alfa and Bravo had the same number of products in the Blockbuster category.\n2. Charlie had more products than Bravo but fewer products than Alfa in the No-hope category.\n3. Each company had an equal number of products in the Promising category.\n4. Charlie did not have any product in the Doubtful category, while Alfa had one product more than Bravo in this category.\n5. Bravo had a higher revenue than Alfa from products in the Doubtful category.\n6. Charlie had a higher revenue than Bravo from products in the Blockbuster category.\n7. Bravo and Charlie had the same revenue from products in the No-hope category.\n8. Alfa and Charlie had the same total revenue considering all products.\nConsidering all companies' products, which product category had the highest revenue?",
+          "options": {
+            "A": "Blockbuster",
+            "B": "Doubtful",
+            "C": "No-hope",
+            "D": "Promising"
+          },
+          "correct_answer": "A",
+          "explanation": "From the given information we can find which product belong to which company. In the given figure the products (number) would belong to the following companies Alfa Bravo Charlie 2, 3, 4, 7/81, 6, 105, 8/7, 9, 11 So also the entire graph can be divided into four equal parts with the bottom left part having products in the No-hope category, the bottom right part with products in the Blockbuster category, the top left part with products in the Doubtful category and the top right part with products in the promising category. The areas of all the products in the different categories are No-hope – 4 + 4 + 3 + 2 + 1 + 1 = 15 Blockbuster – 2 + 4 + 3 + 6 + 6 +6 + 9 = 36 Doubtful – 2 + 1+ 6 + 6 + 1 + 9 + 4 = 29 Promising – 2 + 9 + 3 = 14 As the areas is proportional to the revenue the corresponding product, products under Blockbuster category had the highest revenue."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-56",
+          "number": 56,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is the correct sequence of numbers of products Bravo had in No-hope, Doubtful, Promising and\nBlockbuster categories respectively?",
+          "options": {
+            "A": "1,3,1,3",
+            "B": "3,3,1,2",
+            "C": "2,3,1,2",
+            "D": "1,3,1,2"
+          },
+          "correct_answer": "D",
+          "explanation": "From the given information we can find which product belong to which company. In the given figure the products (number) would belong to the following companies Alfa Bravo Charlie 2, 3, 4, 7/81, 6, 105, 8/7, 9, 11 So also the entire graph can be divided into four equal parts with the bottom left part having products in the No-hope category, the bottom right part with products in the Blockbuster category, the top left part with products in the Doubtful category and the top right part with products in the promising category. The number of products of Bravo in the different categories are No-hope (bottom left) – 1 Doubtful (top left) – 3 Promising (top right) – 1 Blockbuster (bottom right) – 2 The correct sequence is 1, 3, 1, 2"
+        },
+        {
+          "id": "cat-2018-slot2-dilr-57",
+          "number": 57,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is NOT correct?",
+          "options": {
+            "A": "Alfa's revenue from Blockbuster products was the same as Bravo's revenue from Promising products",
+            "B": "The total revenue from No-hope products was less than the total revenue from Doubtful products",
+            "C": "Bravo's revenue from Blockbuster products was greater than Alfa's revenue from Doubtful products",
+            "D": "Bravo and Charlie had the same revenues from No-hope products"
+          },
+          "correct_answer": "C",
+          "explanation": "From the given information we can find which product belong to which company. In the given figure the products (number) would belong to the following companies Alfa Bravo Charlie 2, 3, 4, 7/81, 6, 105, 8/7, 9, 11 So also the entire graph can be divided into four equal parts with the bottom left part having products in the No-hope category, the bottom right part with products in the Blockbuster category, the top left part with products in the Doubtful category and the top right part with products in the promising category. Alfa's revenue from Blockbuster products – 9 Charlie revenue from Promising products – 9 This statement is true Total revenue from No-hope products – 15 Total revenue from Doubtful products – 29 This statement is true Bravo's revenue from Blockbuster products – 6 + 4 = 10 Alfa's revenue from Doubtful products – 6 + 4 + 1 + 1 = 12 The statement is not true Revenue of Bravo from No-hope products – 4 Revenue of Charlie from No-hope products – 4 The statement is true. Hence 3rd statement is not true."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-58",
+          "number": 58,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the smallest box on the grid is equivalent to revenue of Rs.1 crore, then what approximately was the total revenue of Bravo in\nRs. crore?",
+          "options": {
+            "A": "30",
+            "B": "24",
+            "C": "40",
+            "D": "34"
+          },
+          "correct_answer": "D",
+          "explanation": "From the given information we can find which product belong to which company. In the given figure the products (number) would belong to the following companies Alfa Bravo Charlie 2, 3, 4, 7/81, 6, 105, 8/7, 9, 11 So also the entire graph can be divided into four equal parts with the bottom left part having products in the No-hope category, the bottom right part with products in the Blockbuster category, the top left part with products in the Doubtful category and the top right part with products in the promising category. The total revenue of Bravo is 4 (No. hope) + 10 (Blockbuster) + 17 (Doubtful) + 3 (Promising) = 34 crore."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-59",
+          "number": 59,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Each visitor to an amusement park needs to buy a ticket. Tickets can be Platinum, Gold, or Economy. Visitors are classified as\nOld, Middle-aged, or Young. The following facts are known about visitors and ticket sales on a particular day:\n1. 140 tickets were sold.\n2. The number of Middle-aged visitors was twice the number of Old visitors, while the number of Young visitors was twice the\nnumber of Middle-aged visitors.\n3. Young visitors bought 38 of the 55 Economy tickets that were sold, and they bought half the total number of Platinum tickets\nthat were sold.\n4. The number of Gold tickets bought by Old visitors was equal to the number of Economy tickets bought by Old visitors.\nIf the number of Old visitors buying Platinum tickets was equal to the number of Middle-aged visitors buying Platinum tickets,\nthen which among the following could be the total number of Platinum tickets sold?",
+          "options": {
+            "A": "34",
+            "B": "38",
+            "C": "36",
+            "D": "32"
+          },
+          "correct_answer": "D",
+          "explanation": "Number of young visitors = 2 × number of middle age visitors Number of middle age visitors = 2 × number of old visitors Total number of tickets sold = total number of visitors = 140 Hence, the number of young visitors = 80, the number of middle age visitors = 40 and the number of old visitors = 20 Old Middle Age Young Total = 20 = 40 = 80 = 140 Platinum Platinum / 2 Gold x Economy x 38 55 Total Half of the platinum tickets were purchased by young visitors, the remaining half was purchased by old and middle age visitors. Since these two are equal, half of total number of platinum tickets should be an even number. Among the given values, this is possible only for 32 and 36. In case of 36, Old visitors having Platinum tickets = 9. In that case 2x = 11. But this is not possible. Hence, the total number of platinum tickets sold can only be 32."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-60",
+          "number": 60,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the number of Old visitors buying Platinum tickets was equal to the number of Middle-aged visitors buying Economy tickets,\nthen the number of Old visitors buying Gold tickets was",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "Number of young visitors = 2 × number of middle age visitors Number of middle age visitors = 2 × number of old visitors Total number of tickets sold = total number of visitors = 140 Hence, the number of young visitors = 80, the number of middle age visitors = 40 and the number of old visitors = 20 Let the old visitors buying Platinum tickets = y So the Middle-aged visitors buying Economy tickets = y Old Middle Age Young Total = 20 = 40 = 80 = 140 Platinum y Platinum / 2 Gold x Economy x y 38 55 Total Now x + y + 38 = 55 ⇒ x + y = 17 …….(i) 2x + y = 20 ……..(ii) (Total number of old visitors) Solving, we get x = 3."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-61",
+          "number": 61,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the number of Old visitors buying Gold tickets was strictly greater than the number of Young visitors buying Gold tickets, then\nthe number of Middle-aged visitors buying Gold tickets was",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "0",
+          "explanation": "Number of young visitors = 2 × number of middle age visitors Number of middle age visitors = 2 × number of old visitors Total number of tickets sold = total number of visitors = 140 Hence, the number of young visitors = 80, the number of middle age visitors = 40 and the number of old visitors = 20 Let the number of old visitors buying gold tickets is x, then the number of young visitors buying gold tickets can be at most x – 1. Let the number of middle aged visitors buying Platinum, Gold and economy tickets are b, c and d respectively and the number of old visitors buying platinum tickets is ‘a’. Old Middle Age Young Total = 20 = 40 = 80 = 140 Platinum a b 43 – x Gold x c x - 1 Economy x d 38 55 Total The total number of platinum tickets with young visitors = 80 – (38 + x – 1) = 43 – x. Since the young visitors have half the platinum tickets so a + b = 43 – x ……(i) Also x + d + 38 = 55 ⇒ x + d = 17 …..(ii) The total number of old age and middle age visitors is 60 ⇒ (a + b) + (x + c) + (x + d) = 60 ⇒ 43 – x + x + c + 17 = 60 ⇒ c = 0 Therefore the number of Middle-aged visitors buying Gold tickets was 0."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-62",
+          "number": 62,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements MUST be FALSE?",
+          "options": {
+            "A": "The numbers of Gold and Platinum tickets bought by Young visitors were equal",
+            "B": "The numbers of Old and Middle-aged visitors buying Platinum tickets were equal",
+            "C": "The numbers of Old and Middle-aged visitors buying Economy tickets were equal",
+            "D": "The numbers of Middle-aged and Young visitors buying Gold tickets were equal"
+          },
+          "correct_answer": "C",
+          "explanation": "Number of young visitors = 2 × number of middle age visitors Number of middle age visitors = 2 × number of old visitors Total number of tickets sold = total number of visitors = 140 Hence, the number of young visitors = 80, the number of middle age visitors = 40 and the number of old visitors = 20 Since the total number of economy tickets with old and middle aged group visitors is 17, so they cannot have the equal number of economy tickets. Hence option (3) is false."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-63",
+          "number": 63,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Fun Sports (FS) provides training in three sports – Gilli-danda (G), Kho-Kho (K), and Ludo (L). Currently it has an enrollment of\n39 students each of whom is enrolled in at least one of the three sports. The following details are known:\n1. The number of students enrolled only in L is double the number of students enrolled in all the three sports.\n2. There are a total of 17 students enrolled in G.\n3. The number of students enrolled only in G is one less than the number of students enrolled only in L.\n4. The number of students enrolled only in K is equal to the number of students who are enrolled in both K and L.\n5. The maximum student enrollment is in L.\n6. Ten students enrolled in G are also enrolled in at least one more sport.\nWhat is the minimum number of students enrolled in both G and L but not in K?",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "Number of enrolled students=39 The given data can be represented as follows: As given 10 students enrolled in G are also enrolled in at least one more sport. Therefore, d + x + c = 10, as G = 17, so we have p = 2x-1 =7 ⇒ x = 4. As x=4, r = 8 Since d + x + c =10 ⇒ d + c = 6 Now total of all areas, 2x-1+ c + a + x + x + d + a + 2x = 39 From above, we have 2a + c + d = 39-23 ⇒ 2a + 6 = 16; a = 5 Now from above we have values, x= 4, q = 9, p=7, r =8 Since L is maximum, we have the following three cases: Case(i) : If c = 2, d = 4 then G =17, K =20, L =21 Case(ii): If c= 1, d= 5 then G= 17, K = 19, L = 22 Case (iii): c = 0, d= 6 then G =17, K= 18, L = 23 From above, The minimum number of students enrolled in both G and L but not in K = d = 4. So answer is 4."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-64",
+          "number": 64,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the numbers of students enrolled in K and L are in the ratio 19:22, then what is the number of students enrolled in L?",
+          "options": {
+            "A": "18",
+            "B": "19",
+            "C": "17",
+            "D": "22"
+          },
+          "correct_answer": "D",
+          "explanation": "Number of enrolled students=39 The given data can be represented as follows: As given 10 students enrolled in G are also enrolled in at least one more sport. Therefore, d + x + c = 10, as G = 17, so we have p = 2x-1 =7 ⇒ x= 4. As x=4, r = 8 Since d + x + c =10 ⇒ d + c = 6 Now total of all areas, 2x-1+ c + a + x + x + d + a + 2x = 39 From above, we have 2a + c + d = 39-23 ⇒ 2a + 6 = 16; a = 5 Now from above we have values, x= 4, q = 9, p=7, r =8 Since L is maximum, we have the following three cases: Case(i) : If c = 2, d = 4 then G =17, K =20, L =21 Case(ii): If c= 1, d= 5 then G= 17, K = 19, L = 22 Case (iii): c = 0, d= 6 then G =17, K= 18, L = 23 As numbers of students enrolled in K and L are in the ratio 19: 22, the given condition is possible in case (ii) where K =19 and L =22. Therefore L = 22."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-65",
+          "number": 65,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Due to academic pressure, students who were enrolled in all three sports were asked to withdraw from one of the three sports.\nAfter the withdrawal, the number of students enrolled in G was six less than the number of students enrolled in L, while the\nnumber of students enrolled in K went down by one. After the withdrawal, how many students were enrolled in both G and K?",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "Number of enrolled students=39 The given data can be represented as follows: As given 10 students enrolled in G are also enrolled in at least one more sport. Therefore, d + x + c = 10, as G = 17, so we have p = 2x-1 =7 ⇒ x= 4. As x=4, r = 8 Since d + x + c =10 ⇒ d + c = 6 Now total of all areas, 2x-1+ c + a + x + x + d + a + 2x = 39 From above, we have 2a + c + d = 39-23 ⇒ 2a + 6 = 16; a = 5 Now from above we have values, x= 4, q = 9, p=7, r =8 Since L is maximum, we have the following three cases: Case(i) : If c = 2, d = 4 then G =17, K =20, L =21 Case(ii): If c= 1, d= 5 then G= 17, K = 19, L = 22 Case (iii): c = 0, d= 6 then G =17, K= 18, L = 23 Since x= 4. One person moves to ‘d’, one person moves to ‘c’ and 2 persons move to ‘a’, then the number of students enrolled in both G and K = c + x = 2. Hence answer is 2."
+        },
+        {
+          "id": "cat-2018-slot2-dilr-66",
+          "number": 66,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Due to academic pressure, students who were enrolled in all three sports were asked to withdraw from one of the three sports.\nAfter the withdrawal, the number of students enrolled in G was six less than the number of students enrolled in L, while the\nnumber of students enrolled in K went down by one. After the withdrawal, how many students were enrolled in both G and L?",
+          "options": {
+            "A": "7",
+            "B": "6",
+            "C": "5",
+            "D": "8"
+          },
+          "correct_answer": "B",
+          "explanation": "Number of enrolled students=39 The given data can be represented as follows: As given 10 students enrolled in G are also enrolled in at least one more sport. Therefore, d + x + c = 10, as G = 17, so we have p = 2x-1 =7 ⇒ x= 4. As x=4, r = 8 Since d + x + c =10 ⇒ d + c = 6 Now total of all areas, 2x-1+ c + a + x + x + d + a + 2x = 39 From above, we have 2a + c + d = 39-23 ⇒ 2a + 6 = 16; a = 5 Now from above we have values, x= 4, q = 9, p=7, r =8 Since L is maximum, we have the following three cases: Case(i) : If c = 2, d = 4 then G =17, K =20, L =21 Case(ii): If c= 1, d= 5 then G= 17, K = 19, L = 22 Case (iii): c = 0, d= 6 then G =17, K= 18, L = 23 From above, the number of students enrolled in both G and L = d = 6"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2018-slot2-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Points A, P, Q and B lie on the same line such that P, Q and B are, respectively, 100 km, 200 km and 300 km away from A. Cars 1\nand 2 leave A at the same time and move towards B. Simultaneously, car 3 leaves B and moves towards A. Car 3 meets car 1 at\nQ, and car 2 at P. If each car is moving in uniform speed then the ratio of the speed of car 2 to that of car 1 is",
+          "options": {
+            "A": "1:2",
+            "B": "2:9",
+            "C": "1:4",
+            "D": "2:7"
+          },
+          "correct_answer": "C",
+          "explanation": "Since speed is directly proportional to distance at constant time. So, when Car1 moves for 200km then Car3 moves 100km Therefore, ratio of their speed Car1:Car3 is 2:1 Similarly, when car 3 moves 200km then car 2 moves 100km Ratio of their speeds Car2:Car3 is 1:2 Therefore, by combining these 2 ratios we get ratio of Car2 to that of Car1 is 1:4."
+        },
+        {
+          "id": "cat-2018-slot2-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A water tank has inlets of two types A and B. All inlets of type A when open, bring in water at the same rate. All inlets of type B,\nwhen open, bring in water at the same rate. The empty tank is completely filled in 30 minutes if 10 inlets of type A and 45 inlets\nof type B are open, and in 1 hour if 8 inlets of type A and 18 inlets of type B are open. In how many minutes will the empty tank\nget completely filled if 7 inlets of type A and 27 inlets of type B are open?",
+          "options": {
+            "A": "48",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "48",
+          "explanation": "Let the rate at which each inlet of type A brings water be 'x' and from B be 'y' Then, work done can be equated 1/2 × (10x + 45y) = 1(8x + 18y) 6x = 9y ⇒ x : y = 3:2; Total capacity of tank =8x+18y= 8 × 3 + 18 × 2 = 60 litre Now 7 inlets of type A and 27 inlets of type B will fill 7x + 27y = 7 × 3 + 27 × 2 = 75 litre in one hour Time taken to fill 60 litre = 60/75 hrs = 60/75 × 60 = 48 minutes"
+        },
+        {
+          "id": "cat-2018-slot2-qa-69",
+          "number": 69,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many two-digit numbers, with a non-zero digit in the units place, are there which are more than thrice the number formed\nby interchanging the positions of its digits?",
+          "options": {
+            "A": "8",
+            "B": "7",
+            "C": "6",
+            "D": "5"
+          },
+          "correct_answer": "C",
+          "explanation": "10a + b > 3(10b + a) 7a > 29b b = 1 ⇒ a = 5, 6, 7, 8, 9 b = 2 ⇒ a = 9 Total possibilities = 6"
+        },
+        {
+          "id": "cat-2018-slot2-qa-70",
+          "number": 70,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A tank is emptied everyday at a fixed time point. Immediately thereafter, either pump A or pump B or both start working until the tank is\nfull. On Monday, A alone completed filling the tank at 8 pm. On Tuesday, B alone completed filling the tank at 6 pm. On Wednesday, A\nalone worked till 5 pm, and then B worked alone from 5 pm to 7 pm, to fill the tank. At what time was the tank filled on Thursday if both\npumps were used simultaneously all along?",
+          "options": {
+            "A": "4:36 pm",
+            "B": "4:24 pm",
+            "C": "4:12 pm",
+            "D": "4:48 pm"
+          },
+          "correct_answer": "B",
+          "explanation": "Since A alone can fill the tank at 8 pm and B alone can fill the tank at 6 pm. So B takes two hours less than A. Now on Wednesday, A worked till 5 pm and B worked from 5 pm to 7 pm. So the work which was to be done by A in 3 hours is done by B in 2 hours. The ratio of the time taken by A and B to fill the tank is 3: 2 and since the difference in the time taken by A and B is 2 hours, so A takes 6 hours and B takes 4 hours to fill the tank and the tank gets empty at 2 pm. Water filled by A and B in one hour = Hence A and B will together fill the tank in 12/5 = 2.4 hours or 2 hours 24 minutes. So the tank will be full by 4: 24pm"
+        },
+        {
+          "id": "cat-2018-slot2-qa-71",
+          "number": 71,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The area of a rectangle and the square of its perimeter are in the ratio 1 ∶ 25. Then the lengths of the shorter and longer sides\nof the rectangle are in the ratio",
+          "options": {
+            "A": "1:4",
+            "B": "3:8",
+            "C": "2:9",
+            "D": "1:3"
+          },
+          "correct_answer": "A",
+          "explanation": "Going with the options, Option 1: Let the sides be 1 and 4 Area = 1 × 4 = 4 Perimeter = 2 × (1+4) = 10 Therefore, Area/(Perimeter)2 = 4:(10)2 = 1:25"
+        },
+        {
+          "id": "cat-2018-slot2-qa-72",
+          "number": 72,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the sum of squares of two numbers is 97, then which one of the following cannot be their product?",
+          "options": {
+            "A": "64",
+            "B": "48",
+            "C": "-32",
+            "D": "16"
+          },
+          "correct_answer": "A",
+          "explanation": "Let a and b be the two numbers. We know that for any two numbers AM ≥ GM ⇒ 𝑎2 + 𝑏2 /2 ≥ 𝑎𝑏 ab ≤ 97/ 2 ab ≤ 48.5 Among the options, only 64 is greater than 48.5"
+        },
+        {
+          "id": "cat-2018-slot2-qa-73",
+          "number": 73,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a and b are integers such that 2x2 − ax + 2 > 0 and x2 −bx + 8 ≥ 0 for all real numbers x, then the largest possible value of\n2a−6b is",
+          "options": {
+            "A": "36",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "36",
+          "explanation": "2x2 – ax + 2 > 0 Since the value of the expression is positive so its discriminant is negative. b2- 4ac< 0 a2 – 4 × 2 × 2 < 0 a2 < 16 –4 < a < 4 ––– (1) x2 – bx + 8 ≥ 0 b2 – 4(8) ≤ 0 –4√2 ≤ b ≤ 4√2 ∵ b is integer –5 ≤ b ≤ 5 maximum possible value of 2a – 6b is 2(3) – 6(–5) = 36"
+        },
+        {
+          "id": "cat-2018-slot2-qa-74",
+          "number": 74,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The value of the sum 7 x 11 + 11 x 15 + 15 x 19 + ...+ 95 x 99 is",
+          "options": {
+            "A": "80730",
+            "B": "80751",
+            "C": "80707",
+            "D": "80773"
+          },
+          "correct_answer": "C",
+          "explanation": "The series is of the form (4n + 3) (4n + 7) = 16n2 + 40n +21"
+        },
+        {
+          "id": "cat-2018-slot2-qa-75",
+          "number": 75,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If A = {62n -35n -1: n = 1,2,3,...} and B = {35(n-1) : n = 1,2,3,...} then which of the following is true?",
+          "options": {
+            "A": "Every member of B is in A",
+            "B": "Every member of A is in B and at least one member of B is not in A",
+            "C": "Neither every member of A is in B nor every member of B is in A",
+            "D": "At least one member of A is not in B"
+          },
+          "correct_answer": "B",
+          "explanation": "B = 35(n-1) ⇒ B will contain all the multiples of 35 including 0. A = 62n - 35n - 1; 35n will always be a multiple of 35, ⇒ 62n - 1 = (6n + 1) (6n - 1) On putting value 1, 2, 3, 4... Each term of A comes out to be a multiple of 35. Hence every member of A is in B and at least one member of B is not in A."
+        },
+        {
+          "id": "cat-2018-slot2-qa-76",
+          "number": 76,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a tournament, there are 43 junior level and 51 senior level participants. Each pair of juniors play one match. Each pair of\nseniors play one match. There is no junior versus senior match. The number of girl versus girl matches in junior level is 153,\nwhile the number of boy versus boy matches in senior level is 276. The number of matches a boy plays against a girl is",
+          "options": {
+            "A": "1098",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1098",
+          "explanation": "Let the number of girls in junior section be a, then aC = 153 a(a-1)/2 = 153 ⇒ a(a-1) = 306 ; a=18 Junior section has 25 boys and 18 girls. Similarly, let number of boys in the senior section be b, b (b-1) = 276 × 2 ; b = 24 Senior section has 24 boys and 27 girls. Number of matches boys play against girls = 25 × 18 + 27 × 24 = 1098"
+        },
+        {
+          "id": "cat-2018-slot2-qa-77",
+          "number": 77,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A chord of length 5 cm subtends an angle of 60° at the centre of a circle. The length, in cm, of a chord that subtends an angle\nof 120° at the centre of the same circle is",
+          "options": {
+            "A": "5√3",
+            "B": "8",
+            "C": "2π",
+            "D": "6√2"
+          },
+          "correct_answer": "A",
+          "explanation": "Since the chord extends an angle of 60 at the center, it'll form an equilateral triangle with the other two sides being the radius and all angles = 60 Then radius = 5 The chord that extends 120 will be, a2 = 52 + 52 – 2 × 5 × 5 × cos120 (by cosine rule)"
+        },
+        {
+          "id": "cat-2018-slot2-qa-78",
+          "number": 78,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From a rectangle ABCD of area 768 sq cm, a semicircular part with diameter AB and area 72π sq cm is removed. The perimeter\nof the leftover portion, in cm, is",
+          "options": {
+            "A": "86 + 8π",
+            "B": "88 + 12π",
+            "C": "80 + 16π",
+            "D": "82 + 24π"
+          },
+          "correct_answer": "B",
+          "explanation": "Area of Semicircle is πr2/2 which is given as 72π ⇒ r = 12 Now, Since radius is 12, therefore diameter is 24 which is equal to length of the rectangle i.e. AB = 24 And Area of rectangle is 768 sq. cm and length i.e. AB is 24 therefore, BC = 32 Perimeter of the leftover portion = half of circumference of the circle + perimeter of the leftover 3 sides Perimeter = 32+32+ 24 +12π = 88 + 12π"
+        },
+        {
+          "id": "cat-2018-slot2-qa-79",
+          "number": 79,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Gopal borrows Rs. X from Ankit at 8% annual interest. He then adds Rs. Y of his own money and lends Rs. X+Y to Ishan at 10%\nannual interest. At the end of the year, after returning Ankit’s dues, the net interest retained by Gopal is the same as that\naccrued to Ankit. On the other hand, had Gopal lent Rs. X+2Y to Ishan at 10%, then the net interest retained by him would have\nincreased by Rs. 150. If all interests are compounded annually, then find the value of X + Y.",
+          "options": {
+            "A": "4000",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4000",
+          "explanation": "Interest to be repaid to Ankit at the end of the year = 0.08X Interest that Gopal would receive from Ishan in two cases are as given. Case I: if he lends X + Y Interest received = (X + Y) × 0.1 = 0.1X + 0.1Y Interest retained by Gopal after paying to Ankit = (0.1X + 0.1Y) – (0.08X) = 0.02X + 0.1Y Given that Interest retained by Gopal is same as that accrued by Ankit ⇒ (0.02X + 0.1Y) = 0.08X ⇒ Y = 0.6X Case II: if he lends X + 2Y Interest received = (X + 2Y) × 0.1 = 0.1X + 0.2Y Interest retained by Gopal after paying to Ankit = (0.1X + 0.2Y) – (0.08X) = 0.02X + 0.2Y Given that interest retained by Gopal would increase by 150 ⇒ (0.02X + 0.2Y) – (0.02X + 0.1Y) = 150 0.1Y = 150 ⇒ Y = 1500 and X = 1500/0.6= 2500 Hence X + Y = 2500 + 1500 = 4000"
+        },
+        {
+          "id": "cat-2018-slot2-qa-80",
+          "number": 80,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The smallest integer n for which 4n > 1719 holds, is closest to",
+          "options": {
+            "A": "39",
+            "B": "35",
+            "C": "37",
+            "D": "33"
+          },
+          "correct_answer": "A",
+          "explanation": "4n > 1719 (42)n > (17)38 (16)n > (17)38 Now, on substituting we get n = 39"
+        },
+        {
+          "id": "cat-2018-slot2-qa-81",
+          "number": 81,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A triangle ABC has area 32 sq units and its side BC, of length 8 units, lies on the line x = 4. Then the shortest possible distance\nbetween A and the point (0,0) is",
+          "options": {
+            "A": "8 units",
+            "B": "2√2 units",
+            "C": "4 units",
+            "D": "4√2 units"
+          },
+          "correct_answer": "C",
+          "explanation": "As, Area = 32 sq units 1/2 × 8 × H = 32 ⇒ H = 8 A will be at the shortest distance from the origin when it lies at a perpendicular distance of 8 from BC along the X-axis. So, A will be at 4 units from origin,"
+        },
+        {
+          "id": "cat-2018-slot2-qa-82",
+          "number": 82,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For two sets A and B, let AΔB denote the set of elements which belong to A or B but not both. If P = {1,2,3,4}, Q = {2,3,5,6,}, R =\n{1,3,7,8,9}, S = {2,4,9,10}, then the number of elements in (PΔQ)Δ(RΔS) is",
+          "options": {
+            "A": "7",
+            "B": "6",
+            "C": "8",
+            "D": "9"
+          },
+          "correct_answer": "A",
+          "explanation": "PΔQ = {1, 4, 5, 6} and RΔS = {1, 2, 3, 4, 7, 8, 10} (PΔQ) Δ (RΔS) = {2, 3, 5, 6, 7, 8, 10} Number of elements = 7"
+        },
+        {
+          "id": "cat-2018-slot2-qa-83",
+          "number": 83,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If p3 = q4 = r5 = s6, then the value of log (pqr) is equal to\ns",
+          "options": {
+            "A": "1",
+            "B": "24/5",
+            "C": "16/5",
+            "D": "47/10"
+          },
+          "correct_answer": "D",
+          "explanation": "p3 = q4 = r5 = s6 = k; p = k1/3; q = k1/4; r = k1/5; s = k1/6 Log s (pqr) =log k1/6 (k1/3+1/4+1/5) = (47/60) × (6) log k (As we know that log 2 a1=1/2) k a Answer = 47/10"
+        },
+        {
+          "id": "cat-2018-slot2-qa-84",
+          "number": 84,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are two drums, each containing a mixture of paints A and B. In drum 1, A and B are in the ratio 18 : 7. The mixtures from\ndrums 1 and 2 are mixed in the ratio 3 : 4 and in this final mixture, A and B are in the ratio 13 : 7. In drum 2, then A and B were\nin the ratio",
+          "options": {
+            "A": "239 : 161",
+            "B": "229 : 141",
+            "C": "251 : 163",
+            "D": "220 : 149"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2018-slot2-qa-85",
+          "number": 85,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The scores of Amal and Bimal in an examination are in the ratio 11 : 14. After an appeal, their scores increase by the same\namount and their new scores are in the ratio 47 : 56. The ratio of Bimal’s new score to that of his original score is",
+          "options": {
+            "A": "5:4",
+            "B": "3:2",
+            "C": "8:5",
+            "D": "4:3"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the new marks be 47 and 56 respectively. Now, we need to calculate the old marks. We know that the old marks are in the ratio of 11:14, and their difference is 9. So, the old marks will be 33 and 42. Bimal’s ratio ⇒ 56:42 = 4:3"
+        },
+        {
+          "id": "cat-2018-slot2-qa-86",
+          "number": 86,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The arithmetic mean of x, y and z is 80, and that of x, y, z, u and v is 75, where u = (x + y)/2 and v = (y + z)/2. If x ≥ z, then the\nminimum possible value of x is",
+          "options": {
+            "A": "105",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "105",
+          "explanation": "If arithmetic mean of x, y and z is 80 Then, x+y+z = 240, Similarly, x+y+z+u+v = 375, Therefore, u+v = 135, ⇒ (x+y)/2 + (y+z)/2 = 135 On Expanding, we get x+2y+z = 270. Since x+y+z = 240, y = 30 Therefore, x+z = 210. Since x≥z, minimum value of x is 105."
+        },
+        {
+          "id": "cat-2018-slot2-qa-87",
+          "number": 87,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The strength of a salt solution is p% if 100 ml of the solution contains p grams of salt. If three salt solutions A, B, C are mixed in\nthe proportion 1 : 2 : 3, then the resulting solution has strength 20%. If instead the proportion is 3 : 2 : 1, then the resulting\nsolution has strength 30%. A fourth solution, D, is produced by mixing B and C in the ratio 2 : 7. The ratio of the strength of D\nto that of A is",
+          "options": {
+            "A": "1:4",
+            "B": "3:10",
+            "C": "1:3",
+            "D": "2:5"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the strength of A, B and C be a, b, c =a + 2b + 3c / 6 = 20% ⇒ a + 2b + 3c = 120 -- (1) Similarly, 3a + 2b + c = 180 -- (2) (1) - (2) ⇒ c = a -30 --(3) 3 × (2) - (1) ⇒ b = 105 - 2a --(4) Now D = 2b + 7c / 9 ⇒ (210 - 4a + 7a - 210) / 9 D = a/3 ⇒ D/A = 1 : 3"
+        },
+        {
+          "id": "cat-2018-slot2-qa-88",
+          "number": 88,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Points A and B are 150 km apart. Cars 1 and 2 travel from A to B, but car 2 starts from A when car 1 is already 20 km away from\nA. Each car travels at a speed of 100 kmph for the first 50 km, at 50 kmph for the next 50 km, and at 25 kmph for the last 50 km.\nThe distance, in km, between car 2 and B when car 1 reaches B is",
+          "options": {
+            "A": "5",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "5",
+          "explanation": "Both the cars 1 and 2 travel first 50 km at 100 kmph, next 50 km at 50 kmph, last 50 km at 25 kmph. By the time car 2 started, car 1 travelled 20 km. Hence car 1 started 12 minutes before car 2. The speeds with which car 1 and car 2 travelled certain distances are same. So the time difference between car 1 and car 2 will also be same. When car 1 reached B, car 2 will be 12 minutes behind A. Therefore the distance between car 2 and B when car 1 reached at B ="
+        },
+        {
+          "id": "cat-2018-slot2-qa-89",
+          "number": 89,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let f(x)=max{5x, 52-2x2}, where x is any positive real number. Then the minimum possible value of f(x) is",
+          "options": {
+            "A": "20",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "20",
+          "explanation": "f(x) will be minimized when 5x = 52 - 2x2 . This will happen when x=4. Therefore, minimum value of f(x) = 20."
+        },
+        {
+          "id": "cat-2018-slot2-qa-90",
+          "number": 90,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "0",
+            "B": "10",
+            "C": "-4",
+            "D": "1/2"
+          },
+          "correct_answer": "D",
+          "explanation": "Applying the same we can easily take out log 100 as a common in denominator"
+        },
+        {
+          "id": "cat-2018-slot2-qa-91",
+          "number": 91,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let t , t , … be real numbers such that t + t +……+ t = 2n2 + 9n + 13, for every positive integer n≥2. If t =103, then k equals\n1 2 1 2 n k",
+          "options": {
+            "A": "24",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "24",
+          "explanation": "For n=2 we get, t +t = 39……… (1) 1 2 For n=3 t +t +t = 58…….. (2) 1 2 3 Using (1) we get t = 19 For n=4 t +t +t +t = 81…… (3) 1 2 3 4 Using (2) we get t = 23 For n=5 t +t +t +t +t = 108……. (4) 1 2 3 4 5 Using (3) we get t = 27 Proceeding in the same manner, we get t are in an AP with common difference of 4. n Therefore, t = 103 Therefore k=24"
+        },
+        {
+          "id": "cat-2018-slot2-qa-92",
+          "number": 92,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A 20% ethanol solution is mixed with another ethanol solution, say, S of unknown concentration in the proportion 1:3 by\nvolume. This mixture is then mixed with an equal volume of 20% ethanol solution. If the resultant mixture is a 31.25% ethanol\nsolution, then the unknown concentration of S is",
+          "options": {
+            "A": "48%",
+            "B": "55%",
+            "C": "52%",
+            "D": "50%"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2018-slot2-qa-93",
+          "number": 93,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On a triangle ABC, a circle with diameter BC is drawn, intersecting AB and AC at points P and Q, respectively. If the lengths of\nAB, AC, and CP are 30 cm, 25 cm, and 20 cm respectively, then the length of BQ, in cm, is",
+          "options": {
+            "A": "24",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "24",
+          "explanation": "Since BC is the diameter the circle, PC ⊥ AB and BQ ⊥ AC (angle in a semicircle) BQ = 24 cm"
+        },
+        {
+          "id": "cat-2018-slot2-qa-94",
+          "number": 94,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The smallest integer n such that n3 - 11n2 + 32n - 28 > 0 is",
+          "options": {
+            "A": "8",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "8",
+          "explanation": "Here n = 2 is a factor of n3 - 11n2 + 32n – 28 > 0 So (n – 2)2 (n – 7) > 0 The solution of the above inequality is (7, ∞). So the least value of n is 8."
+        },
+        {
+          "id": "cat-2018-slot2-qa-95",
+          "number": 95,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let a , a , ... , a be positive integers such that a < a < ... < a . Suppose, their arithmetic mean is one less than the arithmetic\n1 2 52 1 2 52\nmean of a , a , ..., a . If a = 100, then the largest possible value of a1 is\n2 3 52 52",
+          "options": {
+            "A": "20",
+            "B": "23",
+            "C": "45",
+            "D": "48"
+          },
+          "correct_answer": "B",
+          "explanation": "We want to maximize the value of a , subject to the condition that a1 is the least of the 52 numbers and that the average of 51 numbers (excluding a ) is 1 less than the average of all the 52 numbers. Since a is 100 and all the numbers are 1 52 positive integers, maximizing a1 entails maximizing a , a , ….a . 2 3 51 The only way to do this is to assume that a , a …. a are in an AP with a common difference of 1. Let the average of a , a , …, 2 3 52 2 3 a i.e. a be A. (Note: The average of an odd number of terms in an Arithmetic Progression is equal to the value of the middle- 52 27 most term) Since a = a + 25 and a = 100 52 27 52 ⇒ A = 100 – 25 = 75 a + a + … + a = 75×51 = 3825 2 3 52 Given a + a +… + a = 52(A – 1) = 3848 1 2 52 Hence a = 3848 – 3825 = 23"
+        },
+        {
+          "id": "cat-2018-slot2-qa-96",
+          "number": 96,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A parallelogram ABCD has area 48 sqcm. If the length of CD is 8 cm and that of AD is s cm, then which one of the following is\nnecessarily true?",
+          "options": {
+            "A": "5 ≤ s ≤ 7",
+            "B": "s≠6",
+            "C": "s ≤ 6",
+            "D": "s ≥ 6"
+          },
+          "correct_answer": "D",
+          "explanation": "Solution: Area of parallelogram = Base * Height Considering CD as base, If we drop a perpendicular AX to CD 48 = 8 * AX AX=6 Now in the triangle AXD, AD will be the hypotenuse, so it has to be more than 6. So option D is the answer."
+        },
+        {
+          "id": "cat-2018-slot2-qa-97",
+          "number": 97,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "In the following questions, select a suitable replacement for the word in bold/underlined.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If N and x are positive integers such that NN = 2160 and N2 + 2N is an integral multiple of 2x, then the largest possible x is",
+          "options": {
+            "A": "10",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "10",
+          "explanation": "NN = 2160 = 25 × 32 = (25)32 NN = 3232; N = 32; N2 + 2N = 322 + 232 ; (25)2 + 232 210 + 232 = 210(1 + 222); x is 10"
+        },
+        {
+          "id": "cat-2018-slot2-qa-98",
+          "number": 98,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ramesh and Ganesh can together complete a work in 16 days. After seven days of working together, Ramesh got sick and his\nefficiency fell by 30%. As a result, they completed the work in 17 days instead of 16 days. If Ganesh had worked alone after\nRamesh got sick, in how many days would he have completed the remaining work?",
+          "options": {
+            "A": "13.5",
+            "B": "14.5",
+            "C": "11",
+            "D": "12"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the total efficiencies be R and G Total Work = 16(R + G) =7(R+G) + (0.7R+G)*10 9(R+G) =7R+10G 2R = G R/G = 1/2 Let R can do 1 unit/day and G can do 2 units/day. Remaining 9 day’s work when Ramesh got sick = 9 × 3 = 27units If these 27 units are done by Ganesh with efficiency of 2units/day then he will take 27/2 = 13.5 days."
+        },
+        {
+          "id": "cat-2018-slot2-qa-99",
+          "number": 99,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On a long stretch of east-west road, A and B are two points such that B is 350 km west of A. One car starts from A and another\nfrom B at the same time. If they move towards each other, then they meet after 1 hour. If they both move towards east, then\nthey meet in 7 hrs. The difference between their speeds, in km per hour, is",
+          "options": {
+            "A": "50",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "50",
+          "explanation": "Let the speeds of A and B be s and s respectively. The initial distance between them is 350 km. When they travel in the same 1 2 direction, the time taken to meet = 350/s -s = 7 ⇒ s -s = 350/7 = 50 km/hr 2 1 2 1"
+        },
+        {
+          "id": "cat-2018-slot2-qa-100",
+          "number": 100,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A jar contains a mixture of 175 ml water and 700 ml alcohol. Gopal takes out 10% of the mixture and substitutes it by water of\nthe same amount. The process is repeated once again. The percentage of water in the mixture is now",
+          "options": {
+            "A": "30.3",
+            "B": "20.2",
+            "C": "25.4",
+            "D": "35.2"
+          },
+          "correct_answer": "D",
+          "explanation": "Amount of Alcohol in the mixture = 700 / 875 = 4/5 After dilution, the amount of alcohol becomes = 4/5 * 9/10 * 9/10 = 0.648 or 64.8 % hence the percentage of water = 35.2 %"
+        }
+      ]
+    }
+  }
+}

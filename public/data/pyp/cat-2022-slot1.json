@@ -1,0 +1,1123 @@
+{
+  "id": "cat-2022-slot1",
+  "year": 2022,
+  "slot": 1,
+  "title": "CAT 2022 Slot I",
+  "has_solutions": true,
+  "total_questions": 66,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2022-slot1-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Critical theory of technology is a political theory of modernity with a normative dimension. It belongs to a tradition extending\nfrom Marx to Foucault and Habermas according to which advances in the formal claims of human rights take center stage while\nin the background centralization of ever more powerful public institutions and private organizations imposes an authoritarian\nsocial order.\nMarx attributed this trajectory to the capitalist rationalization of production. Today it marks many institutions besides the\nfactory and every modern political system, including so-called socialist systems. This trajectory arose from the problems of\ncommand over a disempowered and deskilled labor force; but everywhere [that] masses are organized – whether it be\nFoucault’s prisons or Habermas’s public sphere – the same pattern prevails. Technological design and development is shaped\nby this pattern as the material base of a distinctive social order. Marcuse would later point to a “project” as the basis of what he\ncalled rather confusingly “technological rationality.” Releasing technology from this project is a democratic political task.\nIn accordance with this general line of thought, critical theory of technology regards technologies as an environment rather\nthan as a collection of tools. We live today with and even within technologies that determine our way of life. Along with the\nconstant pressures to build centers of power, many other social values and meanings are inscribed in technological design. A\nhermeneutics of technology must make explicit the meanings implicit in the devices we use and the rituals they script. Social\nhistories of technologies such as the bicycle, artificial lighting or firearms have made important contributions to this type of\nanalysis. Critical theory of technology attempts to build a methodological approach on the lessons of these histories.\nAs an environment, technologies shape their inhabitants. In this respect, they are comparable to laws and customs. Each of\nthese institutions can be said to represent those who live under their sway through privileging certain dimensions of their\nhuman nature. Laws of property represent the interest in ownership and control. Customs such as parental authority represent\nthe interest of childhood in safety and growth. Similarly, the automobile represents its users in so far as they are interested in\nmobility. Interests such as these constitute the version of human nature sanctioned by society.\nThis notion of representation does not imply an eternal human nature. The concept of nature as non-identity in the Frankfurt\nSchool suggests an alternative. On these terms, nature is what lies at the limit of history, at the point at which society loses the\ncapacity to imprint its meanings on things and control them effectively. The reference here is, of course, not to the nature of\nnatural science, but to the lived nature in which we find ourselves and which we are. This nature reveals itself as that which\ncannot be totally encompassed by the machinery of society. For the Frankfurt School, human nature, in all its transcending\nforce, emerges out of a historical context as that context is [depicted] in illicit joys, struggles and pathologies. We can perhaps\nadmit a less romantic . . . conception in which those dimensions of human nature recognized by society are also granted\ntheoretical legitimacy.\nWhich one of the following statements best reflects the main argument of the fourth paragraph of the passage?",
+          "options": {
+            "A": "Technology, laws, and customs are not unlike each other if considered as institutions.",
+            "B": "Technological environments privilege certain dimensions of human nature as effectively as laws and customs.",
+            "C": "Technology, laws, and customs are comparable, but dissimilar phenomena.",
+            "D": "Automobiles represent the interest in mobility present in human nature."
+          },
+          "correct_answer": "A",
+          "explanation": "The fourth paragraph is mainly talking about technology, law, and customs, and their similarities when these are regarded as institutions. Refer to lines: “As an environment, technologies ……..human nature.”"
+        },
+        {
+          "id": "cat-2022-slot1-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following claims can be inferred from the passage, EXCEPT:",
+          "options": {
+            "A": "the significance of parental authority to children’s safety does not therefore imply that parental authority is a permanent aspect of human nature.",
+            "B": "analyses of technologies must engage with their social histories to be able to reveal their implicit and explicit meanings for us.",
+            "C": "technologies seek to privilege certain dimensions of human nature at a high cost to lived nature",
+            "D": "the critical theory of technology argues that, as issues of human rights become more prominent, we lose sight of the ways in which the social order becomes more authoritarian."
+          },
+          "correct_answer": "C",
+          "explanation": "Although the passage states that technologies, like laws and customs, shape their inhabitants by ‘privileging certain dimensions of their human nature’, it does not state that technologies do so 'at a high cost to live nature'. Option 3 cannot be inferred."
+        },
+        {
+          "id": "cat-2022-slot1-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements could be inferred as supporting the arguments of the passage?",
+          "options": {
+            "A": "Technologies form the environmental context and shape the contours of human society.",
+            "B": "The romantic conception of nature referred to by the passage is the one that requires theoretical legitimacy.",
+            "C": "Nature decides the point at which society loses its capacity to control history.",
+            "D": "It is not human nature, but human culture that is represented by institutions such as law and custom"
+          },
+          "correct_answer": "A",
+          "explanation": "The passage's main idea is that, as an environment, technology shapes its inhabitants. It is rephrased in Option 1. We eliminate option 2 based on the passage's final line. The fourth paragraph makes it apparent that laws and customs reflect certain dimensions of people's inherent nature. Option 4 is thus eliminated. Option 3 is false since it says that nature \"decides\" the point at which society loses its capacity to control history. However, according to the 2nd line of the last para, “nature is what lies at the limit of history”."
+        },
+        {
+          "id": "cat-2022-slot1-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements contradicts the arguments of the passage?",
+          "options": {
+            "A": "The problems of command over a disempowered and deskilled labour force gave rise to similar patterns of the capitalist rationalisation of production wherever masses were organised.",
+            "B": "Paradoxically, the capitalist rationalisation of production is a mark of so-called socialist systems as well.",
+            "C": "Masses are organised in patterns set by Foucault’s prisons and Habermas’ public sphere.",
+            "D": "Marx’s understanding of the capitalist rationalisation of production and Marcuse’s understanding of a “project” of “technological rationality” share theoretical inclinations."
+          },
+          "correct_answer": "B",
+          "explanation": "The second paragraph argues that \"the same pattern prevails\" wherever masses are organised, whether in Foucault's prisons or Habermas's public sphere. The trend being discussed here is that even as human rights issues gain in importance, the social order gradually becomes more authoritarian. Option 3, which contends that Habermas' public sphere and Foucault's prisons set the patterns for how crowds are organised, is false."
+        },
+        {
+          "id": "cat-2022-slot1-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Stoicism was founded in 300 BC by the Greek philosopher Zeno and survived into the Roman era until about AD 300. According\nto the Stoics, emotions consist of two movements. The first movement is the immediate feeling and other reactions (e.g.,\nphysiological response) that occur when a stimulus or event occurs. For instance, consider what could have happened if an\narmy general accused Marcus Aurelius of treason in front of other officers. The first movement for Marcus may have been\n(internal) surprise and anger in response to this insult, accompanied perhaps by some involuntary physiological and expressive\nresponses such as face flushing and a movement of the eyebrows. The second movement is what one does next about the\nemotion. Second movement behaviors occur after thinking and are under one’s control. Examples of second movements for\nMarcus might have included a plot to seek revenge, actions signifying deference and appeasement, or perhaps proceeding as\nhe would have proceeded whether or not this event occurred: continuing to lead the Romans in a way that Marcus Aurelius\nbelieved best benefited them. In the Stoic view, choosing a reasoned, unemotional response as the second movement is the\nonly appropriate response.\nThe Stoics believed that to live the good life and be a good person, we need to free ourselves of nearly all desires such as too\nmuch desire for money, power, or sexual gratification. Prior to second movements, we can consider what is important in life.\nMoney, power, and excessive sexual gratification are not important. Character, rationality, and kindness are important. The\nEpicureans, first associated with the Greek philosopher Epicurus . . . held a similar view, believing that people should enjoy\nsimple pleasures, such as good conversation, friendship, food, and wine, but not be indulgent in these pursuits and not follow\npassion for those things that hold no real value like power and money. As Oatley (2004) states, “the Epicureans articulated a\nview—enjoyment of relationship with friends, of things that are real rather than illusory, simple rather than artificially inflated,\npossible rather than vanishingly unlikely—that is certainly relevant today” . . . In sum, these ancient Greek and Roman\nphilosophers saw emotions, especially strong ones, as potentially dangerous. They viewed emotions as experiences that needed\nto be [reined] in and controlled.\nAs Oatley (2004) points out, the Stoic idea bears some similarity to Buddhism. Buddha, living in India in the 6th century BC,\nargued for cultivating a certain attitude that decreases the probability of (in Stoic terms) destructive second movements.\nThrough meditation and the right attitude, one allows emotions to happen to oneself (it is impossible to prevent this), but one\nis advised to observe the emotions without necessarily acting on them; one achieves some distance and decides what has value\nand what does not have value. Additionally, the Stoic idea of developing virtue in oneself, of becoming a good person, which\nthe Stoics believed we could do because we have a touch of the divine, laid the foundation for the three monotheistic religions:\nJudaism, Christianity, and Islam . . . As with Stoicism, tenets of these religions include controlling our emotions lest we engage\nin sinful behavior.\nOn the basis of the passage, which one of the following statements can be regarded as true?",
+          "options": {
+            "A": "The Stoic influences can be seen in multiple religions.",
+            "B": "The Stoics valorised the pursuit of money, power, and sexual gratification.",
+            "C": "There were no Stoics in India at the time of the Roman civilisation.",
+            "D": "The Epicureans believed in controlling all emotions."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to the last para, “Additionally the Stoic idea……….Islam…” Hence, option 1 is true. According to the 2nd para, the Epicureans believed in real relationships rather than unreal emotions. So, option 4 is incorrect. Option 3 cannot be considered as true based on the passage. Option 1 is the exact opposite of what the passage says about Stoics."
+        },
+        {
+          "id": "cat-2022-slot1-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements would be an accurate inference from the example of Marcus Aurelius?",
+          "options": {
+            "A": "Marcus Aurelius plotted revenge in his quest for justice.",
+            "B": "Marcus Aurelius was one of the leaders of the Roman army.",
+            "C": "Marcus Aurelius was humiliated by the accusation of treason in front of the other officers.",
+            "D": "Marcus Aurelius was a Stoic whose philosophy survived into the Roman era."
+          },
+          "correct_answer": "B",
+          "explanation": "Refer to para 1 of the passage. The only accurate inference that can be made from the example of Marcus Aurelius is that he was one of the leaders of the Roman army."
+        },
+        {
+          "id": "cat-2022-slot1-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "“Through meditation and the right attitude, one allows emotions to happen to oneself (it is impossible to prevent this), but one\nis advised to observe the emotions without necessarily acting on them; one achieves some distance and decides what has value\nand what does not have value.” In the context of the passage, which one of the following is not a possible implication of the\nquoted statement?",
+          "options": {
+            "A": "“Meditation and the right attitude”, in this instance, implies an initially passive reception of all experiences.",
+            "B": "The observation of emotions in a distant manner corresponds to the second movement referred to earlier in the passage.",
+            "C": "Emotional responses can make it difficult to distinguish valuable experiences from valueless experiences.",
+            "D": "Meditation allows certain out-of-body experiences that permit us to gain the distance necessary to control our emotions."
+          },
+          "correct_answer": "D",
+          "explanation": "It is not implied by the given line that meditation allows \"out-of-body\" experiences. On the other hand, it claims that by distancing oneself from emotions, one can determine what is valuable and what is not. Option 3 can thus be implied. The passage also states that one's next action in relation to emotion is called a \"second movement.\" This implies option 2. The quoted line also states that one can observe emotions without reacting to them by engaging in meditation and adopting the proper attitude. Thus, experiences can be received in a passive manner. This implies that option 1. So, only option 4 can’t be implied from the quoted lines."
+        },
+        {
+          "id": "cat-2022-slot1-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements, if false, could be seen as contradicting the facts/arguments in the passage?",
+          "options": {
+            "A": "In the Epicurean view, indulging in simple pleasures is not desirable.",
+            "B": "In the Stoic view, choosing a reasoned, unemotional response as the first movement is an appropriate response to emotional situations.",
+            "C": "The Greek philosopher Zeno survived into the Roman era until about AD 300.",
+            "D": "Despite practising meditation and cultivating the right attitude, emotions cannot ever be controlled."
+          },
+          "correct_answer": "A",
+          "explanation": "The question is tricky because it employs the use of a double-negative situation. Simplifying the question statement: A statement which, if false, contradicts the arguments of the passage is the one which, if true, supports the given arguments. The passage's arguments are supported by Option 1. Refer to para 2, line 4. Hence, if option 1 were to be false, it would contradict the arguments in the passage."
+        },
+        {
+          "id": "cat-2022-slot1-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Stories concerning the Undead have always been with us. From out of the primal darkness of Mankind’s earliest years, come\nwhispers of eerie creatures, not quite alive (or alive in a way which we can understand), yet not quite dead either. These may\nhave been ancient and primitive deities who dwelt deep in the surrounding forests and in remote places, or simply those\ndeceased who refused to remain in their tombs and who wandered about the countryside, physically tormenting and\nfrightening those who were still alive. Mostly they were ill-defined—strange sounds in the night beyond the comforting glow of\nthe fire, or a shape, half-glimpsed in the twilight along the edge of an encampment. They were vague and indistinct, but they\nwere always there with the power to terrify and disturb. They had the power to touch the minds of our early ancestors and to\nfill them with dread. Such fear formed the basis of the earliest tales although the source and exact nature of such terrors still\nremained very vague.\nAnd as Mankind became more sophisticated, leaving the gloom of their caves and forming themselves into recognizable\ncommunities—towns, cities, whole cultures—so the Undead travelled with them, inhabiting their folklore just as they had in\nformer times. Now they began to take on more definite shapes. They became walking cadavers; the physical embodiment of\nformer deities and things which had existed alongside Man since the Creation. Some still remained vague and ill-defined but, as\nMankind strove to explain the horror which it felt towards them, such creatures emerged more readily into the light.\nIn order to confirm their abnormal status, many of the Undead were often accorded attributes, which defied the natural order\nof things—the power to transform themselves into other shapes, the ability to sustain themselves by drinking human blood,\nand the ability to influence human minds across a distance. Such powers—described as supernatural—only [lent] an added\ndimension to the terror that humans felt regarding them.\nAnd it was only natural, too, that the Undead should become connected with the practice of magic. From very early times,\nShamans and witchdoctors had claimed at least some power and control over the spirits of departed ancestors, and this has\ncontinued down into more “civilized” times. Formerly, the invisible spirits and forces that thronged around men’s earliest\nencampments, had spoken “through” the tribal Shamans but now, as entities in their own right, they were subject to magical\ncontrol and could be physically summoned by a competent sorcerer. However, the relationship between the magician and an\nUndead creature was often a very tenuous and uncertain one. Some sorcerers might have even become Undead entities once\nthey died, but they might also have been susceptible to the powers of other magicians when they did.\n\nFrom the Middle Ages and into the Age of Enlightenment, theories of the Undead continued to grow and develop. Their names\nbecame more familiar—werewolf, vampire, ghoul—each one certain to strike fear into the hearts of ordinary humans.\n“In order to confirm their abnormal status, many of the Undead were often accorded attributes, which defied the natural order\nof things . . .” Which one of the following best expresses the claim made in this statement?",
+          "options": {
+            "A": "Human beings conceptualise the Undead as possessing abnormal features.",
+            "B": "The natural attributes of the Undead are rendered abnormal by changing their status.",
+            "C": "The Undead are deified in nature’s order by giving them divine attributes.",
+            "D": "According the Undead an abnormal status is to reject the natural order of things."
+          },
+          "correct_answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "cat-2022-slot1-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following statements, if false, could be seen as being in accordance with the passage, EXCEPT:",
+          "options": {
+            "A": "the relationship between Shamans and the Undead was believed to be a strong and stable one.",
+            "B": "the transition from the Middle Ages to the Age of Enlightenment saw new theories of the Undead.",
+            "C": "the growing sophistication of Mankind meant that humans stopped believing in the Undead.",
+            "D": "the Undead remained vague and ill-defined, even as Mankind strove to understand the horror they inspired."
+          },
+          "correct_answer": "B",
+          "explanation": "The question is tricky. Let's rephrase it, \"Except for one, all of the following statements, if true, do not agree with the passage.\" Option 2, if true, is in accordance with the passage. In other words, if false, it is not in accordance with the passage. Refer to the line, \"From the Middle Ages and into the Age of Enlightenment, theories of the Undead continued to grow and develop.\""
+        },
+        {
+          "id": "cat-2022-slot1-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following observations is a valid conclusion to draw from the statement, “From out of the primal darkness of\nMankind’s earliest years, come whispers of eerie creatures, not quite alive (or alive in a way which we can understand), yet not\nquite dead either.”?",
+          "options": {
+            "A": "Long ago, eerie creatures used to whisper in the primal darkness that they were not quite dead.",
+            "B": "Mankind’s primal years were marked by creatures alive with eerie whispers, but seen only in the darkness.",
+            "C": "Mankind’s early years were marked by a belief in the existence of eerie creatures that were neither quite alive nor dead.",
+            "D": "We can understand the lives of the eerie creatures in Mankind’s early years through their whispers in the darkness."
+          },
+          "correct_answer": "C",
+          "explanation": "We can conclude from the quoted line that in the earliest years of mankind, there was a belief that eerie creatures existed, which were neither quite alive nor dead. Option 3 is the correct answer."
+        },
+        {
+          "id": "cat-2022-slot1-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements best describes what the passage is about?",
+          "options": {
+            "A": "The writer describes the ways in which the Undead come to be associated with Shamans and the practice of magic.",
+            "B": "The writer discusses the transition from primitive thinking to the Age of Enlightenment.",
+            "C": "The passage describes the failure of human beings to fully comprehend their environment.",
+            "D": "The passage discusses the evolution of theories of the Undead from primitive thinking to the Age of Enlightenment."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage is talking about the evolution of the stories of the Undead from ill-defined eerie creatures of Mankind's earliest years to more definitely shaped and even supernatural/magical creatures as mankind became more sophisticated. Hence, the correct answer is option 4."
+        },
+        {
+          "id": "cat-2022-slot1-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The Chinese have two different concepts of a copy. Fangzhipin . . . are imitations where the difference from the original is\nobvious. These are small models or copies that can be purchased in a museum shop, for example. The second concept for a\ncopy is fuzhipin . . . They are exact reproductions of the original, which, for the Chinese, are of equal value to the original. It has\nabsolutely no negative connotations. The discrepancy with regard to the understanding of what a copy is has often led to\nmisunderstandings and arguments between China and Western museums. The Chinese often send copies abroad instead of\noriginals, in the firm belief that they are not essentially different from the originals. The rejection that then comes from the\nWestern museums is perceived by the Chinese as an insult. . . .\nThe Far Eastern notion of identity is also very confusing to the Western observer. The Ise Grand Shrine [in Japan] is 1,300 years\nold for the millions of Japanese people who go there on pilgrimage every year. But in reality this temple complex is completely\nrebuilt from scratch every 20 years. . . .\nThe cathedral of Freiburg Minster in southwest Germany is covered in scaffolding almost all year round. The sandstone from\nwhich it is built is a very soft, porous material that does not withstand natural erosion by rain and wind. After a while, it\ncrumbles. As a result, the cathedral is continually being examined for damage, and eroded stones are replaced. And in the\ncathedral’s dedicated workshop, copies of the damaged sandstone figures are constantly being produced. Of course, attempts\nare made to preserve the stones from the Middle Ages for as long as possible. But at some point they, too, are removed and\nreplaced with new stones.\n\nFundamentally, this is the same operation as with the Japanese shrine, except in this case the production of a replica takes\nplace very slowly and over long periods of time. In the field of art as well, the idea of an unassailable original developed\nhistorically in the Western world. Back in the 17th century [in the West], excavated artworks from antiquity were treated quite\ndifferently from today. They were not restored in a way that was faithful to the original. Instead, there was massive intervention\nin these works, changing their appearance. . . .\nIt is probably this intellectual position that explains why Asians have far fewer scruples about cloning than Europeans. The\nSouth Korean cloning researcher Hwang Woo-suk, who attracted worldwide attention with his cloning experiments in 2004, is a\nBuddhist. He found a great deal of support and followers among Buddhists, while Christians called for a ban on human cloning.\nHwang legitimised his cloning experiments with his religious affiliation: ‘I am Buddhist, and I have no philosophical problem\nwith cloning. And as you know, the basis of Buddhism is that life is recycled through reincarnation. In some ways, I think,\ntherapeutic cloning restarts the circle of life.’\nWhich one of the following scenarios is unlikely to follow from the arguments in the passage?",
+          "options": {
+            "A": "A 20th century Japanese Buddhist monk would value a reconstructed shrine as the original.",
+            "B": "A 21st century Christian scientist is likely to oppose cloning because of his philosophical orientation.",
+            "C": "A 17th century British painter would have no problem adding personal touches when restoring an ancient Roman painting.",
+            "D": "A 17th century French artist who adhered to a Christian worldview would need to be completely true to the original intent of a painting when restoring it."
+          },
+          "correct_answer": "D",
+          "explanation": "According to the passage, interventions were made in artworks that had been discovered in the West during the 17th century. Option 3 is therefore supported by the passage's reasoning. Option 4, though also about interventions in excavated artworks, implies that whether or not interventions were made was dependent on the Christian worldview of the artist. The passage does not mention this. So, option 4 does not follow from the given arguments. Based on the last paragraph, options 1 and 2 can be inferred."
+        },
+        {
+          "id": "cat-2022-slot1-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The value that the modern West assigns to “an unassailable original” has resulted in all of the following EXCEPT:",
+          "options": {
+            "A": "it discourages them from simultaneous displays of multiple copies of a painting.",
+            "B": "it discourages them from making interventions in ancient art.",
+            "C": "it allows regular employment for certain craftsmen.",
+            "D": "it discourages them from carrying out human cloning"
+          },
+          "correct_answer": "D",
+          "explanation": "An \"unassailable original\" means that the original is untouchable. Therefore, it is evident that the emphasis that the contemporary West places on an “unassailable original” deters them from making any interventions in ancient art. Additionally, since copies of paintings aren't thought to have any worth, it deters them from simultaneously displaying multiple copies. (refer to the 1st paragraph). It can also be deduced from the example of the cathedral of Freiburg Minster that the notion of an “unassailable original” gives those who repair the original, constant work. Options 1, 2, and 3 are therefore derived from the Western concept of an unassailable original. Whereas, option 4 does not follow from the concept."
+        },
+        {
+          "id": "cat-2022-slot1-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Based on the passage, which one of the following copies would a Chinese museum be unlikely to consider as having less value\nthan the original?",
+          "options": {
+            "A": "Pablo Picasso’s photograph of Vincent van Gogh’s original painting, printed to exactly the same scale.",
+            "B": "Pablo Picasso’s painting of Vincent van Gogh’s original painting, bearing Picasso’s signature.",
+            "C": "Pablo Picasso’s painting of Vincent van Gogh’s original painting, identical in every respect.",
+            "D": "Pablo Picasso’s miniaturised, but otherwise faithful and accurate painting of Vincent van Gogh’s original painting."
+          },
+          "correct_answer": "C",
+          "explanation": "According to the passage, Fuzhipin, or perfect replicas of the original, are just as valuable to the Chinese as the original. Only option 3 accurately replicates the original out of the available choices. An exact replica cannot be made from a photograph or miniature."
+        },
+        {
+          "id": "cat-2022-slot1-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following statements does not correctly express the similarity between the Ise Grand Shrine and the cathedral\nof Freiburg Minster?",
+          "options": {
+            "A": "Both will one day be completely rebuilt.",
+            "B": "Both are continually undergoing restoration.",
+            "C": "Both were built as places of worship.",
+            "D": "Both can be regarded as very old structures."
+          },
+          "correct_answer": "B",
+          "explanation": "According to the passage, the Ise Shrine, unlike the Freiburg Minster, is not continually undergoing restoration, but is completely rebuilt from scratch every 20 years. Refer to the 2nd para."
+        },
+        {
+          "id": "cat-2022-slot1-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Petitioning is an expeditious democratic tradition, used frequently in prior centuries, by which citizens can bring issues directly\nto governments. As expressions of collective voice, they support procedural democracy by shaping agendas. They can also\nrecruit citizens to causes, give voice to the voteless, and apply the discipline of rhetorical argument that clarifies a point of view.\nBy contrast, elections are limited in several respects: they involve only a few candidates, and thus fall far short of a\nrepresentative democracy. Further, voters’ choices are not specific to particular policies or laws, and elections are episodic,\nwhereas the voice of the people needs to be heard and integrated constantly into democratic government.",
+          "options": {
+            "A": "Petitioning is definitely more representative of the collective voice, and the functioning of democratic government could improve if we relied more on petitioning rather than holding periodic elections.",
+            "B": "Citizens become less inclined to petitioning as it enables vocal citizens to shape political agendas, but this needs to change to strengthen democracies today.",
+            "C": "By giving citizens greater control over shaping political and democratic agendas, political petitions are invaluable as they represent an ideal form of a representative democracy.",
+            "D": "Petitioning has been important to democratic functioning, as it supplements the electoral process by enabling ongoing engagement with the government."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage goes on to say why petitioning is an \"expeditious\" democratic tradition, noting that, unlike elections, which are episodic, petitions may guarantee that citizens' voices are heard and constantly incorporated into democratic government. The most complete of the provided summaries, Option 4, contains all the essential concepts."
+        },
+        {
+          "id": "cat-2022-slot1-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Fish skin collagen has excellent thermo-stability and tensile strength making it ideal for use as bandage that adheres to\nthe skin and adjusts to body movements.\n2. Collagen, one of the main structural proteins in connective tissues in the human body, is well known for promoting skin\nregeneration.\n3. Fish skin swims in here as diseases and bacteria that affect fish are different from most human pathogens.\n4. The risk of introducing disease agents into other species through the use of pig and cow collagen proteins for wound\nhealing has inhibited its broader applications in the medical field.",
+          "options": {},
+          "correct_answer": "2431",
+          "explanation": "The opening sentence will be 2, as it introduces the subject of the paragraph, i.e. “collagen”. The next sentence will be 4, as this sentence uses the pronoun ‘its’, the antecedent of which can be linked to sentence 2, i.e. collagen. Also, 2 talks about the ‘skin regeneration’ property of collagen, which can be linked well to sentence 4, which mentions different types of animal collagen proteins. The following sentence will be 3, as 4-3 form the perfect cohesive pair, where 4 talks about problems faced in application of pig and cow collagen proteins, and 3 addresses the same problem with the use of fish collagen. The last sentence is 1, as there is further discussion on the properties of fish collagen, mentioned earlier in sentence 3. Hence, the correct order will be: 2431"
+        },
+        {
+          "id": "cat-2022-slot1-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All that we think we know about how life hangs together is really some kind of illusion that we have perpetrated on ourselves\nbecause of our limited vision. What appear to be inanimate objects such as stones turn out not only to be alive in the same way\nthat we are, but also in many infinitesimal ways to be affected by stimuli just as humans are. The distinction between animate\nand inanimate simply cannot be made when you enter the world of quantum mechanics and try to determine how those\napparent subatomic particles, of which you and everything else in our universe is composed, are all tied together. The point is\nthat physics and metaphysics show there is a pattern to the universe that goes beyond our capacity to grasp it with our brains.",
+          "options": {
+            "A": "Arbitrary distinctions between inanimate and animate objects disappear at the scale at which quantum mechanics works.",
+            "B": "The inanimate world is both sentient and cognizant like its animate counterpart.",
+            "C": "The effect of stimuli is similar in inanimate objects when compared to animate objects or living beings.",
+            "D": "Quantum physics indicates that an astigmatic view of reality results in erroneous assumptions about the universe."
+          },
+          "correct_answer": "A",
+          "explanation": "According to the given para, when we enter the world of quantum mechanics and discover that arbitrary distinctions between animate and inanimate simply cannot be created, we might grasp how limited our understanding of the universe is. All the major points are covered in Option 1."
+        },
+        {
+          "id": "cat-2022-slot1-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The creative element in product design has become of paramount importance as it is one of the few ways a firm or\nindustry can sustain a competitive advantage over its rivals.\n2. In fact, the creative element in the value of world industry would be larger still, if we added the contribution of the\ncreative element in other industries, such as the design of tech accessories.\n3. The creative industry is receiving a lot of attention today as its growth rate is faster than that of the world economy as a\nwhole.\n4. It is for this reason that today’s trade issues are increasingly involving intellectual property, as Western countries have an\ninterest in protecting their revenues along with freeing trade in non-tangibles.",
+          "options": {},
+          "correct_answer": "3214",
+          "explanation": "The ideal opening statement is number 3, as it is a general rather than a specific sentence. 3-2 is a pair. According to sentences 3 and 2, the creative element is growing more quickly than the global economy. If the creative element of other sectors were also taken into account, the value of global industry would be larger still. Sentence 1 advances the notion from sentence 32 by describing how the creative element of product design may provide a competitive advantage. The paragraph is concluded in sentence 4, which explains why intellectual property is the main focus of today's trade issues. Hence, the correct arrangement is 3214."
+        },
+        {
+          "id": "cat-2022-slot1-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Some company leaders are basing their decisions on locating offices to foster innovation and growth, as their best-\nperforming inventors suffered the greatest productivity losses when their commutes grew longer.\n\n2. Shorter commutes support innovation by giving employees more time in the office and greater opportunities for in-\nperson collaboration, while removing the physical strain of a long commute.\n3. This is not always the case: remote work does not automatically lead to greater creativity and productivity as office water-\ncooler conversations are also very important for innovation.\n4. Some see the link between long commutes and productivity as support for work- from-home scenarios, as many workers\nhave grown accustomed to their commute- free arrangements during the pandemic.",
+          "options": {},
+          "correct_answer": "2143",
+          "explanation": "Sentences 1 and 2 have a clear connection because they both discuss the benefits of shorter commutes on employee performance. 4-3 is another example of a pair: sentence 4 states that some people believe that working commute-free is important for increasing productivity; sentence 3 explains why this isn't always the case. Another pair is clauses 1 and 4: 'Some' is used as the first pronoun in sentence 4. This obviously refers to some company leaders, who are the subject of sentence 1. Therefore, 4 comes just after 1.These connections show that the most logical order is 2143."
+        },
+        {
+          "id": "cat-2022-slot1-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide in\nwhich blank (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: Having made citizens more and less knowledgeable than their predecessors, the Internet has proved to be both a\nblessing and a curse.\nParagraph: Never before has a population, nearly all of whom has enjoyed at a least a secondary school education, been\nexposed to so much information, whether in newspapers and magazines or through YouTube, Google, and Facebook.\n_____(1)_____. Yet it is not clear that people today are more knowledgeable than their barely literate predecessors. Contemporary\nadvances in technology offered more serious and inquisitive students access to realms of knowledge previously unimaginable\nand unavailable. _____(2)_____. But such readily available knowledge leads many more students away from serious study, the\nreading of actual texts, and toward an inability to write effectively and grammatically. _____(3)_____. It has let people choose\nsources that reinforce their opinions rather than encouraging them to question inherited beliefs. _____(4)_____.",
+          "options": {
+            "A": "Option 1",
+            "B": "Option 2",
+            "C": "Option 3",
+            "D": "Option 4"
+          },
+          "correct_answer": "D",
+          "explanation": "Finding the spot where the transition of ideas from one phrase to the next appears to be sudden is the ideal technique for inserting the missing sentence into the paragraph. Given that the paragraph itself discusses how the Internet has proven to be both a blessing and a curse, the missing line would be the best fit as the paragraph's final sentence."
+        },
+        {
+          "id": "cat-2022-slot1-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "In the following question part of the sentence is given in bold, it is then followed by three\nsentences which try to explain the meaning of the phrase given in bold. Choose the best set of alternatives from the five\noptions given below each question which explains the meaning of the phrase correctly without altering the meaning of the\nsentence given a question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It’s not that modern historians of medieval Africa have been ignorant about contacts between Ethiopia and Europe; they just\nhad the power dynamic reversed. The traditional narrative stressed Ethiopia as weak and in trouble in the face of aggression\nfrom external forces, so Ethiopia sought military assistance from their fellow Christians to the north. But the real story, buried in\nplain sight in medieval diplomatic texts, simply had not yet been put together by modern scholars. Recent research pushes\nscholars of medieval Europe to imagine a much more richly connected medieval world: at the beginning of the so-called Age of\nExploration, there is evidence that the kings of Ethiopia were sponsoring their own missions of diplomacy, faith and commerce.",
+          "options": {
+            "A": "Historians were under the illusion that Ethiopia needed military protection from their neighbours, but in fact the country had close commercial and religious connections with them.",
+            "B": "Medieval historical sources selectively promoted the narrative that powerful European forces were called on to protect weak African civilisations such as Ethiopia, but this is far from reality.",
+            "C": "Medieval texts have documented how strong connections between the Christian communities of Ethiopia and Europe were invaluable in establishing military and trade links between the two civilisations.",
+            "D": "Medieval texts have been ‘cherry-picked’ to promote a view of Ethiopia as weak and in need of Europe’s military help with aggressive neighbours, but recent studies reveal it was a well-connected and outward-looking culture."
+          },
+          "correct_answer": "D",
+          "explanation": "According to the passage provided, while historians have typically portrayed medieval Ethiopia as helpless and looking to Europe for protection, the \"true story,\" which has been \"buried in plain sight,\" is that the medieval world was richly connected, with the kings of Ethiopia sponsoring their own missions of diplomacy, faith, and commerce. The best answer keeping the essence of the para in mind is option 4."
+        },
+        {
+          "id": "cat-2022-slot1-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide in\nwhich blank (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: Easing the anxiety and pressure of having a “big day” is part of the appeal for many couples who marry in secret.\nParagraph: Wedding season is upon us and – after two years of Covid chaos that saw nuptials scaled back– you may think the\ntemptation would be to go all out. _____(1)_____. But instead of expanding the guest list, many couples are opting to have\nentirely secret ceremonies. With Covid case numbers remaining high and the cost-of-living crisis meaning that many couples\nare feeling the pinch, it’s no wonder that some are less than eager to send out invites. _____(2)_____. Plus, it can’t hurt that in\ncelebrity circles getting married in secret is all the rage. _____(3)_____. “I would definitely say that secret weddings are becoming\n\nmore common,” says Landis Bejar, the founder of a therapy practice, which specialises in helping brides and grooms manage\nwedding stress. “People are looking for ways to get out of the spotlight and avoid the pomp and circumstance of weddings.\n_____(4)_____. They just want to get to the part where they are married.”",
+          "options": {
+            "A": "Option 1",
+            "B": "Option 2",
+            "C": "Option 3",
+            "D": "Option 4"
+          },
+          "correct_answer": "B",
+          "explanation": "The missing line gives the reason for couples wanting to marry in secret. If you choose option 2, this sentence seamlessly ties into the thought in the preceding line and smoothly flows into the following one, adding another justification for secret marriages. Moreover, the 'anxiety' referred to here relates to couples 'feeling the pinch', mentioned in the previous sentence. Section : DI & Reasoning"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2022-slot1-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and\nSarita for their possible selection in the university team for next year. For this purpose, the management was looking at the\nnumber of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of\n12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same\ntotal number of goals.\nThe following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored\nby these four players.\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in\neither Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5.\nHow many goals were scored in Match 7?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "A",
+          "explanation": "Matches 1 2 3 4 5 6 7 8 Goals 4 1 1 1 2 1 1 1 Amla (A)-1/2 × × × × × Bimla (B) -4 1 × × × 1 1 1 × Harita (H) -5 3 × × 1 × × × 1 Sarita (S)– 2/1 × × × × First, we have to figure out the highest number of goals scored by whom. As we have to make total 12 goals. Harita score minimum of total 5 goals as she scored more than Bimla.So, Bimla scores a total of 4 goals. Therefore, Amla and Sarita scores either 1,2 or 2,1 goals. Now, we have total 12 goals We have two options for the same st 3 1 2 1 1 1 2 1....(1 case) Or nd 4 1 1 1 2 1 1 1...(2 case) st Now, it is not possible that there are total 3 goals in the first match so 1 case is cancelled In match 7 only 1 goal is scored :Option 1"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is the correct sequence of goals scored in matches 1, 3, 5 and 7?",
+          "options": {
+            "A": "3, 1, 2, 1",
+            "B": "5, 1, 0, 1",
+            "C": "3, 2, 1, 2",
+            "D": "4, 1, 2, 1"
+          },
+          "correct_answer": "D",
+          "explanation": "Matches 1 2 3 4 5 6 7 8 Goals 4 1 1 1 2 1 1 1 Amla (A)-1/2 × × × × × Bimla (B) -4 1 × × × 1 1 1 × Harita (H) -5 3 × × 1 × × × 1 Sarita (S)– 2/1 × × × × First, we have to figure out the highest number of goals scored by whom. As we have to make total 12 goals. Harita score minimum of total 5 goals as she scored more than Bimla.So, Bimla scores a total of 4 goals. Therefore, Amla and Sarita scores either 1,2 or 2,1 goals. Now, we have total 12 goals We have two options for the same st 3 1 2 1 1 1 2 1....(1 case) Or nd 4 1 1 1 2 1 1 1...(2 case) Correct sequence of goals is 4,1,2,1 : Option 4"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statement(s) is/are true?\nStatement-1: Amla and Sarita never scored goals in the same match.\nStatement-2: Harita and Sarita never scored goals in the same match.",
+          "options": {
+            "A": "None of the statements",
+            "B": "Statement-1 only",
+            "C": "Both the statements",
+            "D": "Statement-2 only"
+          },
+          "correct_answer": "C",
+          "explanation": "Statement 1 : Total 3 vacant spaces are available where a total of 3 goals are to be scored.Now, the combination of Amla and Sarita goals is 2 or 1.Therefore, if Amla scores a goal then Sarita cannot score a goal and if Sarita scores a goal then Amla cannot.So, this is true. Statement 2 : Harita’s goals have already been scored as she is the highest goal scorer and the places where Harita is not scoring goal are the places where Sarita would score the goal.Hence, this statement is also true. Therefore both the statements are true : Option 3"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statement(s) is/are false?\nStatement-1: In every match at least one player scored a goal.\nStatement-2: No two players scored goals in the same number of matches.",
+          "options": {
+            "A": "Statement-2 only",
+            "B": "None of the statements",
+            "C": "Both the statements",
+            "D": "Statement-1 only"
+          },
+          "correct_answer": "B",
+          "explanation": "Statement 1 : In first match, 4 goals are scored i.e 3 by Harita and 1 by nd rd th Bimla.If Amla scores in 2 match then Sarita scores in 3 match. In the 4 match Harita is th th th th scoring the goal.In 5 ,6 & 7 match, Bimla scored a goal each. In 8 match Harita scores a goal.So, in every match atleast one player scored a goal. Statement 2 : Amla scores either 1 or 2. Bimla scores 4. Harita scores 3. Sarita scores 2. Hence,no two players scored goals in the same number of matches. Therefore, none of the statements is false."
+        },
+        {
+          "id": "cat-2022-slot1-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Harita scored goals in one more match as compared to Sarita, which of the following statement(s) is/are necessarily true?\nStatement-1: Amla scored goals in consecutive matches.\nStatement-2: Sarita scored goals in consecutive matches.",
+          "options": {
+            "A": "Both the statements",
+            "B": "Statement-2 only",
+            "C": "None of the statements",
+            "D": "Statement-1 only"
+          },
+          "correct_answer": "C",
+          "explanation": "Statement 1 : If Harita scored in 3 matches then Sarita scores 2. Therefore, Amla scores 1.Then Bimla scores in 4 matches.Now, Amla may or may not score good in consecutive matches. Statement 2 : If Harita scored in 3 matches then Sarita scores 2. Therefore, Amla scores 1.Then Bimla scores in 4 matches. Now, Bimla may or may not score goals in consecutive matches. Therefore, none of the statements is true."
+        },
+        {
+          "id": "cat-2022-slot1-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Adhara, Bithi, Chhaya, Dhanavi, Esther, and Fathima are the interviewers in a process that awards funding for new initiatives.\nEvery interviewer individually interviews each of the candidates individually and awards a token only if she recommends\nfunding. A token has a face value of 2, 3, 5, 7, 11, or 13. Each interviewer awards tokens of a single face value only.\nOnce all six interviews are over for a candidate, the candidate receives a funding that is Rs.1000 times the product of the face\nvalues of all the tokens. For example, if a candidate has tokens with face values 2, 5, and 7, then they get a funding of Rs.1000 ×\n(2 × 5 × 7) = Rs.70,000.\nPragnyaa, Qahira, Rasheeda, Smera, and Tantra were five candidates who received funding. The funds they received, in\ndescending order, were Rs.390,000, Rs.210,000, Rs.165,000, Rs.77,000, and Rs.66,000.\nThe following additional facts are known:\n1. Fathima awarded tokens to everyone except Qahira, while Adhara awarded tokens to no one except Pragnyaa.\n2. Rashida received the highest number of tokens that anyone received, but she did not receive one from Esther.\n3. Bithi awarded a token to Smera but not to Qahira, while Dhanavi awarded a token to Qahira but not to Smera.\nHow many tokens did Qahira receive?",
+          "options": {},
+          "correct_answer": "2",
+          "explanation": "On the basis of the statements given following table can be made : As it is given that from the face values funding is given which is a multiplying factor of 1000.So, we won’t write 1000 with the values just to save the time. Bithi/ChhayaFathimaBithi/ChhayaDhanaviEstherAdhara Candidates Funds 2 3 5 7 11 13 Pragnyaa 390 √ √ √ × × √ Rasheeda 210 √ √ √ √ × × Smera/Tantra 165 × √ √ × √ × Qahira 77 × × × √ √ × Tantra/Smera 66 √ √ × × √ × As observed Qahira receive 2 tokens"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who among the following definitely received a token from Bithi but not from Dhanavi",
+          "options": {
+            "A": "Rasheeda",
+            "B": "Pragnyaa",
+            "C": "Tantra",
+            "D": "Qahira"
+          },
+          "correct_answer": "B",
+          "explanation": "On the basis of the statements given following table can be made : As it is given that from the face values funding is given which is a multiplying factor of 1000.So, we won’t write 1000 with the values just to save the time. Bithi/ChhayaFathimaBithi/ChhayaDhanaviEstherAdhara Candidates Funds 2 3 5 7 11 13 Pragnyaa 390 √ √ √ × × √ Rasheeda 210 √ √ √ √ × × Smera/Tantra 165 × √ √ × √ × Qahira 77 × × × √ √ × Tantra/Smera 66 √ √ × × √ × As observed above Pragnyaa received a token from Bithi but not from Dhanvi : Option 2"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many tokens did Chhaya award?",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "On the basis of the statements given following table can be made : As it is given that from the face values funding is given which is a multiplying factor of 1000.So, we won’t write 1000 with the values just to save the time. Bithi/ChhayaFathimaBithi/ChhayaDhanaviEstherAdhara Candidates Funds 2 3 5 7 11 13 Pragnyaa 390 √ √ √ × × √ Rasheeda 210 √ √ √ √ × × Smera/Tantra 165 × √ √ × √ × Qahira 77 × × × √ √ × Tantra/Smera 66 √ √ × × √ × From the table above we can say that Chhaya awarded 3 tokens with Bithi"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many tokens did Smera receive?",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "On the basis of the statements given following table can be made : As it is given that from the face values funding is given which is a multiplying factor of 1000.So, we won’t write 1000 with the values just to save the time. Bithi/ChhayaFathimaBithi/ChhayaDhanaviEstherAdhara Candidates Funds 2 3 5 7 11 13 Pragnyaa 390 √ √ √ × × √ Rasheeda 210 √ √ √ √ × × Smera/Tantra 165 × √ √ × √ × Qahira 77 × × × √ √ × Tantra/Smera 66 √ √ × × √ × From the table above we can say that Smera has received 3 tokens"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following could be the amount of funding that Tantra received?\n(a) Rs. 66,000 (b) Rs. 165,000",
+          "options": {
+            "A": "Only (b)",
+            "B": "Only (a)",
+            "C": "Neither (a) nor (b)",
+            "D": "Both (a) and (b)"
+          },
+          "correct_answer": "D",
+          "explanation": "On the basis of the statements given following table can be made : As it is given that from the face values funding is given which is a multiplying factor of 1000.So, we won’t write 1000 with the values just to save the time. Bithi/ChhayaFathimaBithi/ChhayaDhanaviEstherAdhara Candidates Funds 2 3 5 7 11 13 Pragnyaa 390 √ √ √ × × √ Rasheeda 210 √ √ √ √ × × Smera/Tantra 165 × √ √ × √ × Qahira 77 × × × √ √ × Tantra/Smera 66 √ √ × × √ × From the table above we can say that Smera has received 3 tokens"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be\neither a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10\ndancers in the class, 4 of them are girls. No dancer in the class is a singer.\nSome students are not interested in attending the get-together. Those students who are interested in attending a 3-day event\nare also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in\nattending a 1-day event.\n\nThe following facts are also known:\n1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a\n2-day event.\n2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in\nattending both.\n3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are\ninterested in attending a 2-day event are neither singers nor dancers.\n4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day\nevent.\n5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in\nattending a 2-day event.\nHow many boys are there in the class?",
+          "options": {},
+          "correct_answer": "50",
+          "explanation": "From the information available we can make the following table Boys (40) Girls (15) Singers Dancers Singers Dancers 1 4 2 0 0 3 4 2 0 0 Boys Girls Total Singers 4 2 6 Dancers 6 4 10 Neither dancers b 9 b + 9 nor singers b + 10 15 b + 25 Using more information, we can have the following table : Boys ( b = Girls 40) 1 0.8b + 8 = 40 15 2 0.6b + 6 = 30 10/5 < 15 3 4 + 2 = 6 0 0.7(0.6b + 6) = b – x 0.42 b + 4.2 = b – x 0.58b = 4.2 + x b has to be a natural number if 4.2 is in the table of 48. Multiplying it by 100 58b = 420 + 100x For ‘b’ to be a natural number x = 19, b = 40 Which means b = 40 0.6g = 9 – y Therefore g can be 10 or 5 and y can be 6 or 3 Now making the complete table again with this information No of boys = b + 10 = 40 + 10 = 50"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following can be determined from the given information?\nI. The number of boys who are interested in attending a 1-day event and are neither dancers nor singers.\nII. The number of female dancers who are interested in attending a 1-day event.",
+          "options": {
+            "A": "Neither I nor II",
+            "B": "Both I and II",
+            "C": "Only I",
+            "D": "Only II"
+          },
+          "correct_answer": "D",
+          "explanation": "Singers Dancers Singers Dancers 1 4 2 0 0 3 4 2 0 0 As observed from the table above we don’t know what values can be given to 2-day event for boys dancers and 1-day event for boys dancers what we only know is that the sum of the two is 4. Therefore statement I cannot be determined. The number of female dancers who are interested in attending a 1-day event are 4 as no female dancer is interested for 3-day event and 60% of the girls i.e 9 who are interested in attending a 2-day event are neither singers nor dancers. As we know total girl dancers are 4 so they must attend 1-day event only. Therefore, Only II can be determined"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What fraction of the class are interested in attending a 2-day event?",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "A",
+          "explanation": "From the information given above, we can make the following : Boys ( b = 40) Girls 1 0.8b + 8 = 40 15 2 0.6b + 6 = 30 10/5 < 15 3 4 + 2 = 6 0 If we take the girls for 2 day event be 10 then number of singers and dancers in the 2-day event will become more than the last statement. Therefore, the number of girls for 2 day event has to be taken as 5 and we already know the number of boys as 30"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the number of male dancers who are interested in attending a 1-day event?",
+          "options": {
+            "A": "5",
+            "B": "4 or 6",
+            "C": "6",
+            "D": "5 or 6"
+          },
+          "correct_answer": "D",
+          "explanation": "Using the table below, we have Boys (40) Girls(50) Singers Dancers Singers Dancers 1 0 4-3 4 2 0 0-1 0 3 4 2 0 0 nd If we take 2 option 4 or 6 then total dancers in boys = 2 + 0 + 4 = 6 2 + 1 + 3 = 6 but it is violating the condition 4 which says the number of singers attending a 2-day event is more than the number of dancers interested in attending a 2-day event. Hence nd 2 option is false. th If we take 4 option then no of male dancers who are interested in attending a 1 –day event are 5 or 6 then we can have the table below Event Boys Girls SingersDancersSingersDancers 1-day 0 5-6 2 2-day 0 0-1 1-2 0 3-day 4 0 0 2 This is not violating any of the conditions given above therefore answer is option 4"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many female dancers are interested in attending a 2-day event?",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "0",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "C",
+          "explanation": "Event Boys Girls SingersDancersSingersDancers 1-day 0 5-6 2 2-day 0 0-1 1-2 0 3-day 4 0 0 2 This we already know female dancers are interested in attending a 2-day event are 0 : Option 3"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Given above is the schematic map of the metro lines in a city with rectangles denoting terminal stations (e.g. A), diamonds\ndenoting junction stations (e.g. R) and small filled-up circles denoting other stations. Each train runs either in east-west or\nnorth-south direction, but not both. All trains stop for 2 minutes at each of the junction stations on the way and for 1 minute at\n\neach of the other stations. It takes 2 minutes to reach the next station for trains going in east-west direction and 3 minutes to\nreach the next station for trains going in north- south direction. From each terminal station, the first train starts at 6 am; the last\ntrains leave the terminal stations at midnight. Otherwise, during the service hours, there are metro service every 15 minutes in\nthe north-south lines and every 10 minutes in the east-west lines. A train must rest for at least 15 minutes after completing a\ntrip at the terminal station, before it can undertake the next trip in the reverse direction. (All questions are related to this metro\nservice only. Assume that if someone reaches a station exactly at the time a train is supposed to leave, (s)he can catch that\ntrain.)\nIf Hari is ready to board a train at 8:05 am from station M, then when is the earliest that he can reach station N?",
+          "options": {
+            "A": "9:06 am",
+            "B": "9:13 am",
+            "C": "9:11 am",
+            "D": "9:01 am"
+          },
+          "correct_answer": "C",
+          "explanation": "First we need to find the time taken from all terminals to all junctions through stations M → R = 2 +2 + 2 + 2(3 stations gap is 4) + 3(every station stop ) = 11 min P →T = 2 + 2 + 2 + 2 + 3 (same as above) = 11 min R → S = 2 + 2 + 2+ 2 + 2 + 2 + 2 + 2 + 2 + 2(9 stations so gap is 10) + 9(9 stations ) = 20 min + 9 min = 29 min T →V = symmetrical as R → S = 20 + 9 = 29 min S →N = 2 + 2 + 2 + 2 + 2 + 2 + 5 = 12 + 5 = 17 min V → Q = 12 + 5 = 17 min A→R = 3 + 3 + 3 + 2 = 11 min C→S = 3 + 3 + 3 + 2 = 11 min R→T = 3 + 3 + 3 + 3 + 3 = 15 min S→V = 3 +3 + 3 + 3 + 3 = 15 min T → B = 3 +3 + 3(for north south direction train takes 3 minutes) + 2 = 11 min V → D = 3 + 3 + 3 + 2 = 11 min Hari is ready to board at 8:05 am from station M to N. As he has to reach at the earliest so he has to go straight from M → N via R and S. Now we know a train would leave at 6 am then 6:10 as a train leaves after every 10 minutes in the east west direction and so on. We have to find which train will he board close to 8:05 am. So, he will board a train which will leave at 8:10 as the train at 8:00 am would have already left. Therefore, he has to wait for 5 minutes M→N = 5min(he waited) + (M →R) + (R →S) + (S →N) = 5 + 11 + 29 + 17 = 66 min 8:05 + 66 min = 9 :11 am : Option 3"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Priya is ready to board a train at 10:25 am from station T, then when is the earliest that she can reach station S?",
+          "options": {
+            "A": "11:12 am",
+            "B": "11:28 am",
+            "C": "11:22 am",
+            "D": "11:07 am"
+          },
+          "correct_answer": "A",
+          "explanation": "If Priya is ready to board at 10:25 from station T, we need to check whether there is a train from P or B around 10:25 am. As BT path has less number of stations which is 2 so we will take BT path. If a train leaves at 10:00 from B it will take 11 minutes to reach T i.e 10:11 and it would leave at 10:13 so Priya won’t be able to catch this train. If train leaves at 10:10 from B it will reach T at 10:21 and would leave at 10:23 so again she won’t be able to catch this train also. If train leaves at 10:20 from B it will reach at 10:31 and leave at 10:33 which means Priya had to wait for 8 minutes and board this train. 8 min + (T→ R) + (R → S) = 8 min + 15 min + 29 min = 52 min which means she would reach S at 10:33 + 52 min = 11:25 am which is not in option. So, we will check the other option As we know for every north-south direction the train can leave after every 15 minutes also. If the train leaves from B at 10:15 then it will reach T at 10:26. It would leave at 10:28 from station T. So, Priya had waited for 3 minutes. 3 min + (T→R) + (R → S) = 3 + 15 + 29 = 47 minutes which means she would reach station S at 10:25 + 47 min = 10:25 + 35 min + 12 min = 11:12 min which is option 1"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Haripriya is expected to reach station S late. What is the latest time by which she must be ready to board at station S if she\nmust reach station B before 1 am via station R?",
+          "options": {
+            "A": "11:39 pm",
+            "B": "11:43 pm",
+            "C": "11:49 am",
+            "D": "11:35 pm"
+          },
+          "correct_answer": "A",
+          "explanation": "Haripriya has to reach station S late via station R if she must reach station B before 1 am Using option 1 : 11:39 We have to find when the train would have left N. Suppose the train would have left around 11:20 then it would reach S at 11:37. It would leave station S at 11:39. So, she will board the train at 11:39 from S (S→R) + 2 + (R→T) + 2 + (T→B) =11:39 + 29 + 2 + 17 + 2 + 11 = 11:39 + 61 = 11:39 + 21 + 40 = 12:40 pm which is the latest time by which she would reach station S If we take option 4 i.e 11 : 35, then the train would have left N at 11:10 then it will take 17 min to reach S which is at 11:27 which will be left at 11:29.So, it is impossible for Haripriya to catch this train at 11:35. Similarly if we taken option 2 i.e 11:43 then train would have left N at 11:30 minimum which will reach S at 11:47 so it is impossible for Haripriya to catch this train .Because if the train left N at 11:20 then it will reach 11:37 which will leave at 11:39 which is again impossible to catch again. Therefore latest time to reach before 1 am is 12:41 am"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the minimum number of trains that are required to provide the service on the AB line (considering both north and\nsouth directions)?",
+          "options": {},
+          "correct_answer": "8",
+          "explanation": "For minimum number of trains we need to check that by the time first train reach at the other terminal, we keep on sending the trains. For AB line total time taken = A→R→T→B = 11 + 2 + 15 + 2 + 11 + 15 = 56 min For BA line total time taken B→T→R→A = 15 + 11 + 2 + 15 + 2 + 11 = 56 min Total time for AB + BA = 56 + 56 = 112 min For north south direction we can send trains after every 15 mins Total number of trains = = 7.4 approx, which implies there are more than 7 gaps, so 8 trains can be sent. Therefore 8 trains is the answer"
+        },
+        {
+          "id": "cat-2022-slot1-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is the minimum number of trains that are required to provide the service in this city?",
+          "options": {},
+          "correct_answer": "48",
+          "explanation": "Total number of trains that required to provide in the city can be calculated through total number of trains across all the roots For east-west root trains leave after every 10 minutes and rest of 15 minutes is also given after reaching the last terminal M→R→S→N = 11 + 2 + 29 + 2 + 17 = 61 min P→T→V→Q = 11 + 2 + 29 + 2 + 17 = 61 min For east west trains total time = (61 + 61 + 15) = 76 minutes each for MN and PQ Total time = 76×2 = 152 Every train comes after 10 minutes, number of trains = = 15.2 as gap is more than 15 so number of trains in east-west direction = MN + PQ = 16 + 16 = 32 trains Similarly, for north-south direction trains leave after every 15 minute and rest of 15 minutes is same A→R→T→B = C→S→V→D = 11 + 2 + 15 + 2 + 11 + 15 = 56 min + 56 min = 112 min Number of trains = = 7.4 approx implies more than 7 gaps are there so number of trains each side = 8 Total trains north-south direction = 8 + 8 = 16 Therefore, total number of trains = trains in north-south direction + trians in east-west direction = 16 + 32 = 48 Section : Quantitative Ability"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2022-slot1-qa-45",
+          "number": 45,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let A be the largest positive integer that divides all the numbers of the form 3k + 4k + 5k, and B be the largest positive integer\nthat divides all the numbers of the form 4k + 3(4k) + 4k + 2, where k is any positive integer. Then (A + B) equals",
+          "options": {},
+          "correct_answer": "82",
+          "explanation": "Let A = 3 + 4 + 5 k 3 will always be odd as odd number to the power odd is always odd. k 4 will always be even as even number to the power even is always even k 5 will always be odd as odd number to the power odd is always odd Therefore, A will always be even as odd + even + odd = even So, it will be always divisible by 2 Therefore, larger positive integer that divides all the numbers of the form has to be 2 So A = 2 B be the largest positive integer that divides all numbers of the form k k k+2 B = 4 + 3(4 ) + 4 k k k 2 k k B = 4 + 3.4 + 4 .4 = 4 (1 + 3 + 16) = 4 × 20 If we put k = 1 , then B = 4 × 20 = 80 Then A + B = 2 + 80 = 82"
+        },
+        {
+          "id": "cat-2022-slot1-qa-46",
+          "number": 46,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For natural numbers x, y, and z, if xy + yz = 19 and yz + xz = 51, then the minimum possible value of xyz is",
+          "options": {},
+          "correct_answer": "34",
+          "explanation": "xy + yz = 19, y(x + z) = 19 Now, we have two cases y = 1, x + z = 19 .....(1) y = 19, x + z = 1 which is not possible as x and z are natural numbers so they cannot take value less than 1 yz + xz = 51 z(y+x) = 51 z = 3, y + x = 17....(2) or z = 17 , y + x = 3...(3) Combining (1) and (2) together y = 1, x = 16, z = 3 then xyz = 16 × 1 × 3 = 48 Combining (1) and (3) together z = 17, y = 1, x = 2 then xyz = 2 × 1 × 17 = 34 Hence the minimum value of xyz = 34"
+        },
+        {
+          "id": "cat-2022-slot1-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Alex invested his savings in two parts. The simple interest earned on the first part at 15% per annum for 4 years is the same as\nthe simple interest earned on the second part at 12% per annum for 3 years. Then, the percentage of his savings invested in the\nfirst part is",
+          "options": {
+            "A": "62.5%",
+            "B": "40%",
+            "C": "60%",
+            "D": "37.5%"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the first part be x and second part be y According to question"
+        },
+        {
+          "id": "cat-2022-slot1-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let a and b be natural number. If a2 + ab + a = 14 and b2 + ab + b = 28, then (2a + b) equals",
+          "options": {},
+          "correct_answer": "8",
+          "explanation": "Given, a + ab + a = 14 and b + ab + b = 28 => a (a + b + 1) = 14 and b (b + a + 1) = 28 Dividing both, => a/b = 1/2 2 Now, if a = 1 and b = 2, a + ab + a = 4, not true 2 2 If a = 2 and b = 4, a + ab + a = 14 and b + ab + b = 28 satisfies Hence, 2a + b = 8"
+        },
+        {
+          "id": "cat-2022-slot1-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a class of 100 students, 73 like coffee, 80 like tea and 52 like lemonade. It may be possible that some students do not like any\nof these three drinks. Then the difference between the maximum and minimum possible number of students who like all the\nthree drinks is",
+          "options": {
+            "A": "48",
+            "B": "52",
+            "C": "47",
+            "D": "53"
+          },
+          "correct_answer": "C",
+          "explanation": "Let a, b, c and d be the number of students who like none of the drinks, exactly one drink, exactly 2 drinks, and all three drinks, respectively. Hence a + b + c + d = 100... (1). Also b + 2c + 3d = 73 + 80 + 52. So b + 2c + 3d = 205 ... (2) Subtracting (1) from (2) we get, c + 2d - a = 105. Maximum value d can take is 52 i.e. d = 52, c = 1, a = 0 The minimum value d can take is 5, i.e. t = 5, c = 95 and a = 0 (This also satisfies equation (1). Difference = 52 - 5 = 47 Hence, the difference between the minimum and maximum number of people who like all the 3 drinks is 47."
+        },
+        {
+          "id": "cat-2022-slot1-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A mixture contains lemon juice and sugar syrup in equal proportion. If a new mixture is created by adding this mixture and\nsugar syrup in the ratio 1 : 3, then the ratio of lemon juice and sugar syrup in the new mixture is",
+          "options": {
+            "A": "1 : 4",
+            "B": "1 : 5",
+            "C": "1 : 6",
+            "D": "1 : 7"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the lemon juice be 10 litre Let the sugar juice be 10 litre Total mixture = 20 liter New mixture sugar added be in the ratio 1:3 20 liter mixture and 60 liter sugar syrup New lemon juice = 10 liter New sugar syrup = 10 + 60 = 70 Therefore, required ratio = 10 : 70 = 1 : 7 : Option 4"
+        },
+        {
+          "id": "cat-2022-slot1-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let a, b, c be non-zero real numbers such that b2 < 4ac, and f(x) = ax2 + bx + c. If the set S consists of all integers m such that\nf(m) < 0, then the set S must necessarily be",
+          "options": {
+            "A": "the empty set",
+            "B": "either the empty set or the set of all integers",
+            "C": "the set of all integers",
+            "D": "the set of all positive integers"
+          },
+          "correct_answer": "B",
+          "explanation": "b < 4ac implies D < 0 which has imaginary roots which gives 2 cases Hence either f(m) < 0 Or f(m) > 0 So, all set of integers or empty set : Option 2"
+        },
+        {
+          "id": "cat-2022-slot1-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Amal buys 110 kg of syrup and 120 kg of juice, syrup being 20% less costly than juice, per kg. He sells 10 kg of syrup at 10%\nprofit and 20 kg of juice at 20% profit. Mixing the remaining juice and syrup, Amal sells the mixture at Rs. 308.32 per kg and\nmakes an overall profit of 64%. Then, Amal’s cost price for syrup, in rupees per kg, is",
+          "options": {},
+          "correct_answer": "160",
+          "explanation": "Let cost price of syrup = Rs 80 x/kg Cost price of juice = Rs 100x/ kg Total cost = 80x × 100 + 100x × 120 = 20800x Selling price = 80x×1.1 ×10 kg + 100x × 1.2×20 kg + 308.32 × 200 kg = 880x + 2400x + 61664 = 3280x + 61664 Selling price = cost price × 1.64 = 20800x × 1.64 = 34112x Equating selling price = 34112x = 3280x + 61664 30832x = 61664 x = 2 cost price of syrup = 80x = 160"
+        },
+        {
+          "id": "cat-2022-slot1-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a village, the ratio of number of males to females is 5 : 4. The ratio of number of literate males to literate females is 2 : 3. The\nratio of the number of illiterate males to illiterate females is 4 : 3. If 3600 males in the village are literate, then the total number\nof females in the village is",
+          "options": {},
+          "correct_answer": "43200",
+          "explanation": "Let the number of males be 5k Let the number of females be 4k Let the number of literate males = 2x Let the number of literate females = 3x Let the number of illiterate males = 4y Let the number of illiterate females = 3y According to question Literate males = 2x = 3600 x = 1800 Literate females = 3x = 31800 = 5400 Now, total ratio of males and females Total number of females in the village = 3x + 3y = 3x + 3(7x) = 24x = 24(1800) = 43200"
+        },
+        {
+          "id": "cat-2022-slot1-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All the vertices of a rectangle lie on a circle of radius R. If the perimeter of the rectangle is P, then the area of the rectangle is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the radius of the circle be R Diameter of the circle = 2R Let the length of rectangle be ‘l’ Let the breadth of rectangle be ‘b’ 2 Diagonal of the rectangle = diameter of the circle = (2R) 2 2 = l + b 2 2 2 4R = l + b ....(1) Let the perimeter of the rectangle be P = 2(l+b)....(2) squaring both sides"
+        },
+        {
+          "id": "cat-2022-slot1-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let ABCD be a parallelogram such that the coordinates of its three vertices A, B, C are (1, 1), (3, 4) and (−2, 8), respectively.\nThen, the coordinates of the vertex D are",
+          "options": {
+            "A": "(0, 11)",
+            "B": "(−3, 4)",
+            "C": "(4, 5)",
+            "D": "(−4, 5)"
+          },
+          "correct_answer": "D",
+          "explanation": "As we know diagonals of a parallelogram bisect each other. Let the diagonals be AC and BD A(1,1) B(3,4) C(-2,8) and D(x,y) Using mid-point formula AC = BD"
+        },
+        {
+          "id": "cat-2022-slot1-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The largest real value of a for which the equation |x + a| + |x - 1| = 2 has an infinite number of solutions for x is",
+          "options": {
+            "A": "-1",
+            "B": "0",
+            "C": "1",
+            "D": "2"
+          },
+          "correct_answer": "C",
+          "explanation": "|x + a| + |x - 1| = 2 For infinite number of solutions the critical points value difference must be equal to the right hand side value. Using option 1,a = -1, we get |x –(-1)| + |x - 1| = 2 For the critical points -1 and 1 whose sum = 1 – (-1) = 2 = RHS Therefore, we will get infinite number of solutions putting a = -1"
+        },
+        {
+          "id": "cat-2022-slot1-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of ways of distributing 20 identical balloons among 4 children such that each child gets some balloons but no child\ngets an odd number of balloons, is",
+          "options": {},
+          "correct_answer": "84",
+          "explanation": "Let the four children be a,b, c and d As per the condition a + b + c + d = 20 Now as we know that each student will get even number of balloons 2x + 2y + 2z + 2p = 20 x + y + z + p = 10 as each child must get 1 balloon, so giving 1 balloon to each child A + B + C + D = 10 – 4 = 6 Now finding total number of non negative integral solutions,we get"
+        },
+        {
+          "id": "cat-2022-slot1-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For any natural number n, suppose the sum of the first n terms of an arithmetic progression is (n + 2n2). If the nth term of the\nprogression is divisible by 9, then the smallest possible value of n is",
+          "options": {
+            "A": "9",
+            "B": "7",
+            "C": "8",
+            "D": "4"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum of n terms of an arithmetic progression S = n + 2n n 2 Putting n = 1, S = 1 + 2(1) = 1 + 2 = 3, a = 3 1 1 2 Putting n =2, S = 2 + 2(2) = 2 + 8 = 10, a + a = 10 3 + a = 10 a = 7 2 1 2 2 2 2 Putting n = 3, S = 3 + 2(3) = 3 + 2×9 = 21, a + a + a = 21 a = 21 – 10 = 11 3 1 2 3 3 2 Putting n = 4, S = 4 + 2(4) = 4 + 2×16 = 4 + 32 = 36, a = 36 – (3+7+11) = 36 - 21 = 15 4 4 2 Putting n = 5, S = 5 + 2(5) = 5 + 2×25 = 55, a = 55 – (3+7+11+15) = 55 – 36 = 19 5 5 2 Putting n = 6, S = 6 + 2(6) = 6 + 2×36 = 6 + 72 = 78, a = 78 – 55 = 23 6 6 2 Putting n = 7, S = 7 + 2(7) = 7 + 2×49 = 7 + 98 = 105, a = 105 – 78 = 27 7 7 Now as we have got the Arithmetic series as 3,7,11,15,19,23,27 We can see the smallest multiple of 9 is 27 which is a so the value of n = 7: Option 2 7"
+        },
+        {
+          "id": "cat-2022-slot1-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A trapezium ABCD has side AD parallel to BC, ∠BAD = 90°, BC = 3cm and AD = 8cm. If the perimeter of this trapezium is 36cm,\nthen its area, in sq. cm, is",
+          "options": {},
+          "correct_answer": "66",
+          "explanation": "As ∠BAD = 90° and AD BC As ABCE is a rectangle so BC = AE = 3 cm As AD = 8 hence, ED = 8 – 3 = 5 As ∠BAD = 90° and BA and CE are parallel so ∠CED = 90° So BA = CE = x and CD = y As ED = 5 , we know the only pythagoras triplet is 5,12,13 Also perimeter of trapezium = x + 3 + 8 + y = 36 x + y = 36 – 11 = 25 so x = 12 and y = 13 as 5,12,13 make a pythagoras triplet x + y = 25"
+        },
+        {
+          "id": "cat-2022-slot1-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let 0 ≤ a ≤ x ≤ 100 and f (x) = |x - a| + |x - 100| + |x - a - 50|. Then the maximum value of f(x) becomes 100 when a is equal to",
+          "options": {
+            "A": "50",
+            "B": "25",
+            "C": "100",
+            "D": "0"
+          },
+          "correct_answer": "A",
+          "explanation": "Using option 2, a = 25 Critical points are 25,75,100 Putting these in the equations, we get maximum value = 125 when a = 25 A = 50 We get maximum value of f(x) = 100"
+        },
+        {
+          "id": "cat-2022-slot1-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The average of three integers is 13. When a natural number n is included, the average of these four integers remains an odd\ninteger. The minimum possible value of n is",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "4",
+            "D": "1"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum of 3 integers = 133 = 39 When a natural number n is included So, answer is option 2"
+        },
+        {
+          "id": "cat-2022-slot1-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For any real number x, let [x] be the largest integer less than or equal to x.",
+          "options": {},
+          "correct_answer": "44",
+          "explanation": "Sum of terms from n = 20 to 44 , is 1 + 1 +......1 = 25 For n = 20,21,22,23.............44, therefore, N = 44"
+        },
+        {
+          "id": "cat-2022-slot1-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ankita buys 4 kg cashews, 14 kg peanuts and 6 kg almonds when the cost of 7 kg cashews is the same as that of 30 kg peanuts\nor 9 kg almonds. She mixes all the three nuts and marks a price for the mixture in order to make a profit of Rs.1752. She sells 4\nkg of the mixture at this marked price and the remaining at a 20% discount on the marked price, thus making a total profit of\nRs. 744. Then the amount, in rupees, that she had spent in buying almonds is",
+          "options": {
+            "A": "1176",
+            "B": "1680",
+            "C": "2520",
+            "D": "1440"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the 1kg price of cashews = C, 1kg price of peanuts = P, 1 kg price of almonds = A 7C = 30P = 9A = 630x C = 90x × 4 = 360x P = 21x × 14 = 294x A = 70x × 6 = 420x Total cost price = 360x + 294x + 420x = 1074x Let the selling price be y Rs/ kg 4y + 20y = 1752....(1) 4y + 16y = 744.....(2) Subtract (2) – (1) 4y = 1008 24y = 6048 Total cost = 6048 – 1752 = 1074x 1074x = 4296 x = 4 Price of almonds = 420x = 420(4) = 1680 : Option 2"
+        },
+        {
+          "id": "cat-2022-slot1-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The average weight of students in a class increases by 600 gm when some new students join the class. If the average weight of\nthe new students is 3 kg more than the average weight of the original students, then the ratio of the number of original\nstudents to the number of new students is",
+          "options": {
+            "A": "1 : 4",
+            "B": "1 : 2",
+            "C": "4 : 1",
+            "D": "3 : 1"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the original average be 0 The new average = 0 + 3 = 3 Overall change in average = 0.6 Using alligation method 2.4 : 0.6 4 : 1"
+        },
+        {
+          "id": "cat-2022-slot1-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Pinky is standing in a queue at a ticket counter. Suppose the ratio of the number of persons standing ahead of Pinky to the\nnumber of persons standing behind her in the queue is 3 : 5. If the total number of persons in the queue is less than 300, then\nthe maximum possible number of persons standing ahead of Pinky is",
+          "options": {},
+          "correct_answer": "111",
+          "explanation": "Let the total number of persons ahead = 3x Let the total number of persons behind = 5x Total number of persons = 3x + 5x + 1 < 300 8x < 300 – 1 < 299 x < 37.3 so x = 37 ( integral value = 37) No of persons ahead = 3x = 3(37) = 111"
+        },
+        {
+          "id": "cat-2022-slot1-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Trains A and B start traveling at the same time towards each other with constant speeds from stations X and Y, respectively.\nTrain A reaches station Y in 10 minutes while train B takes 9 minutes to reach station X after meeting train A. Then the total time\n\ntaken, in minutes, by train B to travel from station Y to station X is",
+          "options": {
+            "A": "12",
+            "B": "10",
+            "C": "6",
+            "D": "15"
+          },
+          "correct_answer": "D",
+          "explanation": "Let suppose train B take ‘t’ time to reach at the meeting point So train A should also take ‘t’ time to reach at the meeting point As train A takes total 10 minutes in reaching station Y. Therefore, time taken by Train A after meeting train B has to be ’10 – t’ Time taken by train B to reach station X = 9 minutes We know the formula for time taken after meeting = time of meeting = geometric means of time taken by both trains to reach their respective destinations after meeting putting t = 6 we get LHS = RHS = 6 therefore the total time taken by train B to reach station X is 9 + 6 = 15 minutes : Option 4"
+        }
+      ]
+    }
+  }
+}

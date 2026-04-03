@@ -1,0 +1,1127 @@
+{
+  "id": "cat-2021-slot1",
+  "year": 2021,
+  "slot": 1,
+  "title": "CAT 2021 Slot I",
+  "has_solutions": true,
+  "total_questions": 66,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot1-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Cuttlefish are full of personality, as behavioral ecologist Alexandra Schnell found out while researching the cephalopod's\npotential to display self-control.......“Self-control is thought to be the cornerstone of intelligence, as it is an important\nprerequisite for complex decision-making and planning for the future,” says Schnell.....\n[Schnell's] study used a modified version of the “marshmallow test”...... During the original marshmallow test, psychologist\nWalter Mischel presented children between age four and six with one marshmallow. He told them that if they waited 15\nminutes and didn’t eat it, he would give them a second marshmallo. A long-term follow-up study showed that the children who\nwaited for the second marshmallow had more success later in life..... The cuttlefish version of the experiment looked a lot\ndifferent. The researchers worked with six cuttlefish under nine months old and presented them with seafood instead of sweets.\n(Preliminary experiments showed that cuttlefishes’ favorite food is live grass shrimp, while raw prawns are so-so and Asian\nshore crab is nearly unacceptable.) Since the researchers couldn’t explain to the cuttlefish that they would need to wait for their\nshrimp, they trained them to recognize certain shapes that indicated when a food item would become available. The symbols\nwere pasted on transparent drawers so that the cuttlefish could see the food that was stored inside. One drawer, labeled with a\ncircle to mean “immediate,” held raw king prawn. Another drawer, labeled with a triangle to mean “delayed,” held live grass\nshrimp. During a control experiment, square labels meant “never.”\n“If their self-control is flexible and I hadn’t just trained them to wait in any context, you would expect the cuttlefish to take the\nimmediate reward [in the control], even if it’s their second preference,” says Schnell . . .and that’s what they did. That showed\nthe researchers that cuttlefish wouldn’t reject the prawns if it was the only food available. In the experimental trials, the\ncuttlefish didn’t jump on the prawns if the live grass shrimp were labeled with a triangle—many waited for the shrimp drawer to\nopen up. Each time the cuttlefish showed it could wait, the researchers tacked another ten seconds on to the next round of\nwaiting before releasing the shrimp. The longest that a cuttlefish waited was 130 seconds.\nSchnell [says] that the cuttlefish usually sat at the bottom of the tank and looked at the two food items while they waited, but\nsometimes, they would turn away from the king prawn “as if to distract themselves from the temptation of the immediate\nreward.” In past studies, humans, chimpanzees, parrots and dogs also tried to distract themselves while waiting for a reward.\nNot every species can use self-control, but most of the animals that can share another trait in common: long, social lives.\nCuttlefish, on the other hand, are solitary creatures that don’t form relationships even with mates or young...... “We don’t know\nif living in a social group is important for complex cognition unless we also show those abilities are lacking in less social\nspecies,” says..... comparative psychologist Jennifer Vonk.\nAll of the following constitute a point of difference between the “original” and “modified” versions of the marshmallow test\nEXCEPT that:",
+          "options": {
+            "A": "the former was performed over a longer time span than the latter.",
+            "B": "the former had human subjects, while the latter had cuttlefish.",
+            "C": "the former used verbal communication with its subjects, while the latter had to develop a symbolic means of communication.",
+            "D": "the former correlated self-control and future success, while the latter correlated self-control and survival advantages."
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to this line of the third paragraph – “That showed the researchers that cuttlefish wouldn’t reject the prawns if it was the only food available.” Thus It’s not about survival. Other options are explicitly mentioned in the passage."
+        },
+        {
+          "id": "cat-2021-slot1-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In which one of the following scenarios would the cuttlefish’s behaviour demonstrate self-control?",
+          "options": {
+            "A": "raw prawns are released while an Asian shore crab drawer labelled with a triangle is placed in front of the cuttlefish, to be opened after one minute.",
+            "B": "raw prawns are released while a live grass shrimp drawer labelled with a square is placed in front of the cuttlefish.",
+            "C": "Asian shore crabs and raw prawns are simultaneously released while a live grass shrimp drawer labelled with a triangle is placed in front of the cuttlefish, to be opened after one minute.",
+            "D": "live grass shrimp are released while two raw prawn drawers labelled with a circle and a triangle respectively are placed in front of the cuttlefish; the triangle-labelled drawer is opened after 50 seconds."
+          },
+          "correct_answer": "C",
+          "explanation": "Refer to this line of the third paragraph – “In the experimental trials, the cuttlefish didn’t jump on the prawns if the live grass shrimp were labeled with a triangle— many waited for the shrimp drawer to open up” and this line of the second paragraphPreliminary experiments showed that cuttlefishes’ favorite food is live grass shrimp, while raw prawns are so-so and Asian shore crab is nearly unacceptable."
+        },
+        {
+          "id": "cat-2021-slot1-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following, if true, would best complement the passage’s findings?",
+          "options": {
+            "A": "Cuttlefish wait longer than 100 seconds for the shrimp drawer to open up.",
+            "B": "Cuttlefish are equally fond of live grass shrimp and raw prawn.",
+            "C": "Cuttlefish live in big groups that exhibit sociability.",
+            "D": "Cuttlefish cannot distinguish between geometrical shapes."
+          },
+          "correct_answer": "C",
+          "explanation": "Option C is correct; refer to this line of the last paragraph – “We don’t know if living in a social group is important for complex cognition unless we also show those abilities are lacking in less social species,” Option A is wrong; refer to this line of the third paragraph – “The longest that a cuttlefish waited was 130 seconds.” As 100 is less than 130.” Option B is wrong; refer to this line of the second paragraph – “Preliminary experiments showed that cuttlefishes’ favorite food is live grass shrimp, while raw prawns are so-so and Asian shore crab is nearly unacceptable.” Option D if true would not complement the findings in any way."
+        },
+        {
+          "id": "cat-2021-slot1-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following cannot be inferred from Alexandra Schnell’s experiment?",
+          "options": {
+            "A": "Cuttlefish exert self-control with the help of diversions.",
+            "B": "Cuttlefish exercise choice when it comes to food",
+            "C": "Intelligence in a species is impossible without sociability.",
+            "D": "Like human children, cuttlefish are capable of self-control."
+          },
+          "correct_answer": "C",
+          "explanation": "Refer to this line of the last paragraph – “We don’t know if living in a social group is important for complex cognition unless we also show those abilities are lacking in less social species,” Hence Option C cannot be inferred. Options A, B and D can be inferred from Second & third paragraph of the passage."
+        },
+        {
+          "id": "cat-2021-slot1-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "We cannot travel outside our neighbourhood without passports. We must wear the same plainclothes. We must exchange our\nhouses every ten years. We cannot avoid labour. We all go to bed at the same time…. We have religious freedom, but we\ncannot deny that the soul dies with the body, since ‘but for the fear of punishment, they would have nothing but contempt for\nthe laws and customs of society'…… In More’s time, for much of the population, given the plenty and security on offer, such\nrestraints would not have seemed overly unreasonable. For modern readers, however, Utopia appears to rely upon relentless\ntransparency, the repression of variety, and the curtailment of privacy. Utopia provides security: but at what price? In both its\nexternal and internal relations, indeed, it seems perilously dystopian.\nSuch a conclusion might be fortified by examining selectively the tradition which follows More on these points. This often\nportrays societies where….. 'it would be almost impossible for man to be depraved, or wicked'…….This is achieved both through\ninstitutions and mores, which underpin the common life……. The passions are regulated and inequalities of wealth and\ndistinction are minimized. Needs, vanity, and emulation are restrained, often by prizing equality and holding riches in contempt.\nThe desire for public power is curbed. Marriage and sexual intercourse are often controlled: in Tommaso Campanella’s The City\nof the Sun (1623), the first great literary utopia after More’s, relations are forbidden to men before the age of twenty-one and\nwomen before nineteen. Communal child-rearing is normal; for Campanella this commences at age two. Greater simplicity of\nlife, ‘living according to nature’, is often a result: the desire for simplicity and purity are closely related. People become more\nalike in appearance, opinion, and outlook than they often have been. Unity, order, and homogeneity thus prevail at the cost of\nindividuality and diversity. This model, as J. C. Davis demonstrates, dominated early modern utopianism….And utopian\nhomogeneity remains a familiar theme well into the twentieth century.\nGiven these considerations, it is not unreasonable to take as our starting point here the hypothesis that utopia and dystopia\nevidently share more in common than is often supposed. Indeed, they might be twins, the progeny of the same parents. Insofar\nas this proves to be the case, my linkage of both here will be uncomfortably close for some readers. Yet we should not mistake\nthis argument for the assertion that all utopias are, or tend to produce, dystopias. Those who defend this proposition will find\nthat their association here is not nearly close enough. For we have only to acknowledge the existence of thousands of\nsuccessful intentional communities in which a cooperative ethos predominates and where harmony without coercion is the rule\nto set aside such an assertion. Here the individual’s submersion in the group is consensual (though this concept is not\nunproblematic). It results not in enslavement but voluntary submission to group norms. Harmony is achieved\nwithout…...harming others.\nAll of the following statements can be inferred from the passage EXCEPT that:",
+          "options": {
+            "A": "utopian and dystopian societies are twins, the progeny of the same parents.",
+            "B": "it is possible to see utopias as dystopias, with a change in perspective, because one person’s utopia could be seen as another’s dystopia.",
+            "C": "utopian societies exist in a long tradition of literature dealing with imaginary people practicing imaginary customs, in imaginary worlds.",
+            "D": "many conceptions of utopian societies emphasise the importance of social uniformity and cultural homogeneity."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to this line of the third paragraph – “Indeed, they might be twins, the progeny of the same parents.” Might refers to a probability whereas ‘are’ refers to certainty."
+        },
+        {
+          "id": "cat-2021-slot1-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which sequence of words below best captures the narrative of the passage?",
+          "options": {
+            "A": "Relentless transparency – Homogeneity – Utopia – Dystopia.",
+            "B": "Curtailment of privacy – Dystopia – Utopia – Intentional community.",
+            "C": "Utopia – Security – Dystopia – Coercion.",
+            "D": "Utopia – Security – Homogeneity – Intentional community."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage treads from introducing ‘Utopia’ and then harps on that as per popular belief it provides 'security' and leads to 'Homogeneity' and finally refers to 'international community' towards the end."
+        },
+        {
+          "id": "cat-2021-slot1-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following arguments are made in the passage EXCEPT that:",
+          "options": {
+            "A": "in More’s time, there was plenty and security, so people did not need restraints that could appear unreasonable.",
+            "B": "in early modern utopianism, the stability of utopian societies was seen to be achieved only with individuals surrendering their sense of self.",
+            "C": "there have been thousands of communities where homogeneity and stability have been achieved through choice, rather than by force.",
+            "D": "the tradition of utopian literature has often shown societies in which it would be nearly impossible for anyone to be sinful or criminal."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to this line of the first paragraph –“ In More’s time, for much of the population, given the plenty and security on offer, such restraints would not have seemed overly unreasonable.” This implies that restraints were not unwelcome. As this is an ’Except’ question so first option is ruled out."
+        },
+        {
+          "id": "cat-2021-slot1-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Following from the passage, which one of the following may be seen as a characteristic of a utopian society?",
+          "options": {
+            "A": "The regulation of homogeneity through promoting competitive heterogeneity.",
+            "B": "A society where public power is earned through merit rather than through privilege.",
+            "C": "A society without any laws to restrain one’s individuality.",
+            "D": "Institutional surveillance of every individual to ensure his/her security and welfare"
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to this line of the first paragraph –“ In More’s time, for much of the population, given the plenty and security on offer, such restraints would not have seemed overly unreasonable.”"
+        },
+        {
+          "id": "cat-2021-slot1-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The sleights of hand that conflate consumption with virtue are a central theme in A Thirst for Empire, a sweeping and richly\ndetailed history of tea by the historian Erika Rappaport. How did tea evolve from an obscure “China drink” to a universal\nbeverage imbued with civilizing properties? The answer, in brief, revolves around this conflation, not only by profit-motivated\nmarketers but by a wide variety of interest groups. While abundant historical records have allowed the study of how tea itself\nmoved from east to west, Rappaport is focused on the movement of the idea of tea to suit particular purposes.\nBeginning in the 1700s, the temperance movement advocated for tea as a pleasure that cheered but did not inebriate, and\nindustrialists soon borrowed this moral argument in advancing their case for free trade in tea (and hence more open markets\nfor their textiles).Factory owners joined in, compelled by the cause of a sober workforce, while Christian missionaries discovered\nthat tea “would soothe any colonial encounter”. During the Second World War, tea service was presented as a social and\npatriotic activity that uplifted soldiers and calmed refugees.\nBut it was tea’s consumer-directed marketing by importers and retailers – and later by brands– that most closely portends\ncurrent trade debates. An early version of the “farm to table” movement was sparked by anti-Chinese sentiment and concerns\nover trade deficits, as well as by the reality and threat of adulterated tea containing dirt and hedge clippings. Lipton was soon\nadvertising “from the Garden to Tea Cup” supply chains originating in British India and supervised by “educated Englishmen”.\nWhile tea marketing always presented direct consumer benefits (health, energy, relaxation), tea drinkers were also assured that\nthey were participating in a larger noble project that advanced the causes of family, nation and civilization. . . .\nRappaport’s treatment of her subject is refreshingly apolitical. Indeed, it is a virtue that readers will be unable to guess her\npolitical orientation: both the miracle of markets and capitalism’s dark underbelly are evident in tea’s complex story, as are the\ncomplicated effects of British colonialism. . . . Commodity histories are now themselves commodities: recent works investigate\ncotton, salt, cod, sugar, chocolate, paper and milk. And morality marketing is now a commodity as well, applied to food, “fair\ntrade” apparel and eco-tourism. Yet tea is, Rappaport makes clear, a world apart – an astonishing success story in which tea\nmarketers not only succeeded in conveying a sense of moral elevation to the consumer but also arguably did advance the\ncause of civilisation and community.\nI have been offered tea at a British garden party, a Bedouin campfire, a Turkish carpet shop and a Japanese chashitsu, to name\na few settings. In each case the offering was more an idea – friendship, community, respect – than a drink, and in each case the\nidea then created a reality. It is not a stretch to say that tea marketers have advanced the particularly noble cause of human\ndialogue and friendship.\nAccording to this book review, A Thirst for Empire says that, in addition to “profit-motivated marketers”, tea drinking was\npromoted in Britain by all of the following EXCEPT:",
+          "options": {
+            "A": "the anti-alcohol lobby as a substitute for the consumption of liquor.",
+            "B": "tea drinkers lobbying for product diversity.",
+            "C": "manufacturers who were pressing for duty-free imports",
+            "D": "factories to instill sobriety in their labour"
+          },
+          "correct_answer": "B",
+          "explanation": "Option A finds help in this line of the second paragraph – “Beginning in the 1700s, the temperance movement advocated for tea as a pleasure that cheered but did not inebriate.” Option C finds help in this line of the second paragraph – “industrialists soon borrowed this moral argument in advancing their case for free trade in tea.” Option D finds help in this line of the second paragraph – “Factory owners joined in, compelled by the cause of a sober workforce.”"
+        },
+        {
+          "id": "cat-2021-slot1-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "This book review argues that, according to Rappaport, tea is unlike other “morality” products because it:",
+          "options": {
+            "A": "was marketed by a wide range of interest groups.",
+            "B": "was actively encouraged by interest groups in the government",
+            "C": "appealed to a universal group and not just to a niche section of people",
+            "D": "had an actual beneficial effect on social interaction and society in general"
+          },
+          "correct_answer": "D",
+          "explanation": "Refer to the last line of the passage –“It is not a stretch to say that tea marketers have advanced the particularly noble cause of human dialogue and friendship.”"
+        },
+        {
+          "id": "cat-2021-slot1-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author of this book review is LEAST likely to support the view that:",
+          "options": {
+            "A": "tea drinking has become a social ritual worldwide",
+            "B": "the ritual of drinking tea promotes congeniality and camaraderie",
+            "C": "tea drinking was sometimes promoted as a patriotic duty",
+            "D": "tea became the leading drink in Britain in the nineteenth century"
+          },
+          "correct_answer": "D",
+          "explanation": "Option D can’t be supported based on the information stated in the passage. Option C is correct, refer to this line of the second paragraph – “During the Second World War, tea service was presented as a social and patriotic activity that uplifted soldiers and calmed refugees.” Option A and B are correct – Refer to these last lines of the passage – “It is not a stretch to say that tea marketers have advanced the particularly noble cause of human dialogue and friendship.”"
+        },
+        {
+          "id": "cat-2021-slot1-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Today, “conflat[ing] consumption with virtue” can be seen in the marketing of:",
+          "options": {
+            "A": "ergonomically designed products",
+            "B": "sustainably farmed foods.",
+            "C": "travel to pristine destinations",
+            "D": "natural health supplements."
+          },
+          "correct_answer": "B",
+          "explanation": "Refer to this line of the second last paragraph – “And morality marketing is now a commodity as well, applied to food, “fair trade” apparel and eco-tourism.”"
+        },
+        {
+          "id": "cat-2021-slot1-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For the Maya of the Classic period, who lived in Southern Mexico and Central America between 250 and 900 CE, the category of\n‘persons’ was not coincident with human beings, as it is for us. That is, human beings were persons – but other, nonhuman\nentities could be persons, too. . . . In order to explore the slippage of categories between ‘humans’ and ‘persons’, I examined a\nvery specific category of ancient Maya images, found painted in scenes on ceramic vessels. I sought out instances in which\nfaces (some combination of eyes, nose, and mouth) are shown on inanimate objects…..Consider my iPhone, which needs to be\nfed with electricity every night, swaddled in a protective bumper, and enjoys communicating with other fellow-phone-beings.\nDoes it have personhood (if at all) because it is connected to me, drawing this resource from me as an owner or source? For the\nMaya (who did have plenty of other communicating objects, if not smartphones), the answer was no. Nonhuman persons were\nnot tethered to specific humans, and they did not derive their personhood from a connection with a human. …… It’s a\nprofoundly democratising way of understanding the world. Humans are not more important persons – we are just one of many\nkinds of persons who inhabit this world. . . .\nThe Maya saw personhood as ‘activated’ by experiencing certain bodily needs and through participation in certain social\nactivities. For example, among the faced objects that I examined, persons are marked by personal requirements (such as\nhunger, tiredness, physical closeness), and by community obligations (communication, interaction, ritual observance). In the\nimages I examined, we see, for instance, faced objects being cradled in humans’ arms; we also see them speaking to humans.\nThese core elements of personhood are both turned inward, what the body or self of a person requires, and outward, what a\ncommunity expects of the persons who are a part of it, underlining the reciprocal nature of community membership…..\n.\nPersonhood was a nonbinary proposition for the Maya. Entities were able to be persons while also being something else. The\nfaced objects I looked at indicate that they continue to be functional, doing what objects do (a stone implement continues to\nchop, an incense burner continues to do its smoky work). Furthermore, the Maya visually depicted many objects in ways that\nindicated the material category to which they belonged – drawings of the stone implement show that a person-tool is still\nmade of stone. One additional complexity: the incense burner (which would have been made of clay, and decorated with spiky\nappliques representing the sacred ceiba tree found in this region) is categorised as a person – but also as a tree. With these\nMaya examples, we are challenged to discard the person/nonperson binary that constitutes our basic ontological outlook…… .\nThe porousness of boundaries that we have seen in the Maya world points towards the possibility of living with a certain\nuncategorisability of the world.\nOn the basis of the passage, which one of the following worldviews can be inferred to be closest to that of the Classic Maya?",
+          "options": {
+            "A": "A futuristic society that perceives robots to be persons as well as robots because of their similarity to humans.",
+            "B": "A tribe that perceives plants as person-plants because they form an ecosystem and are marked by needs of nutrition.",
+            "C": "A tribe that perceives its hunting weapons as sacred person-arte facts because of their significance to its survival.",
+            "D": "A tribe that perceives its utensils as person-utensils in light of their functionality and bodily needs."
+          },
+          "correct_answer": "B",
+          "explanation": "Only option B respects the plants for its needs and accepts it as an independent identity whereas all other options mark the element for its link or usage with humans."
+        },
+        {
+          "id": "cat-2021-slot1-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following, if true, would not undermine the democratising potential of the Classic Maya worldview?",
+          "options": {
+            "A": "They understood the stone implement and the incense burner in a purely humanform.",
+            "B": "They believed that animals like cats and dogs that live in proximity to humans have a more clearly articulated personhood.",
+            "C": "They depicted their human healers with physical attributes of local medicinal plants.",
+            "D": "While they believed in the personhood of objects and plants, they did not believe in the personhood of rivers and animals."
+          },
+          "correct_answer": "C",
+          "explanation": "This is a double negative question, thus we need to look for the statement that strengthens or is in line with the main idea conveyed by the passage. Option D is explicitly against the main idea of the passage. Option B gives importance of human linkage to identify/ respect the identity of cats and dogs. Option A also mentions the importance of human linkage. Whereas Option C gives more importance to ‘local medicinal plants’."
+        },
+        {
+          "id": "cat-2021-slot1-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following best explains the “additional complexity” that the example of the incense burner illustrates\nregarding personhood for the Classic Maya?",
+          "options": {
+            "A": "The example complicates the nonbinary understanding of personhood by bringing in the sacred, establishing the porosity of the divine and the profane.",
+            "B": "The example adds a new layer to the nonbinary understanding of personhood by bringing in a third category that shares a similar relation with the previous two.",
+            "C": "The example provides an exception to the nonbinary understanding of person hood that the passage had hitherto established.",
+            "D": "The example adds a new layer to the nonbinary understanding of personhood by bringing in a third category that shares a dissimilar relation with the previous two."
+          },
+          "correct_answer": "B",
+          "explanation": "The example is neither meant to complicate nor provide an exemption. Rather it’s an attempt to break the non-binary understanding of personhood by bringing in a third category that shares a similar relation. Refer to this line of the last paragraph - \"With these Maya examples, we are challenged to discard the person/nonperson binary that constitutes our basic ontological outlook……\""
+        },
+        {
+          "id": "cat-2021-slot1-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following, if true about the Classic Maya, would invalidate the purpose of the iPhone example in the passage?",
+          "options": {
+            "A": "The clay incense burner with spiky appliques was categorised only as a person and not as a tree by the Classic Maya.",
+            "B": "Unlike modern societies equipped with mobile phones, the Classic Maya did not have any communicating objects",
+            "C": "The personhood of the incense burner and the stone chopper was a function of their usefulness to humans.",
+            "D": "Classic Maya songs represent both humans and non-living objects as characters, talking and interacting with each other."
+          },
+          "correct_answer": "C",
+          "explanation": "Refer to this line of the first paragraph – “For the Maya (who did have plenty of other communicating objects, if not smartphones), the answer was no.” But if the personhood of the incense burner and the stone chopper was a function of their usefulness to humans. Then the answer would be changed to ‘yes’."
+        },
+        {
+          "id": "cat-2021-slot1-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to\nform a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The legal status of resources mined in space remains ambiguous; and while the market for asteroid minerals is currently\nnonexistent, this is likely to change as technical hurdles diminish.\n2. Outer space is a commons, and all of it is open for exploration, however, space law developed in the 1950s and 60s is state-\ncentric and arguably ill-suited to a commercial future.\n3. Laws adopted by the US and Luxembourg are first steps, but they only protect firms from competing claims by their\ncompatriots; a Chinese company will not be bound by US law.\n4. Critics say the US is conferring rights that it has no authority to confer; Russia in particular has condemned this, citing the US’\ndisrespect for international law.\n5. At issue now is commercial activity, as private firms—rather than nation states—look to space for profit.",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": "The discussion is regarding the ownership & rights related to the ‘space’. Option 4 though touches upon the rights but it is not specifically linked to the ‘outer space’"
+        },
+        {
+          "id": "cat-2021-slot1-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The work is more than the text, for the text only takes on life, when it is realized and furthermore the realization is by no\nmeans independent of the individual disposition of the reader.\n2. The convergence of text and reader brings the literary work into existence and this convergence is not to be identified either\nwith the reality of the text or with the individual disposition of the reader.\n\n3. From this polarity it follows that the literary work cannot be completely identical with the text, or with the realization of the\ntext, but in fact must lie halfway between the two.\n4. The literary work has two poles, which we might call the artistic and the aesthetic; the artistic refers to the text created by the\nauthor, and the aesthetic to the realization accomplished by the reader.",
+          "options": {},
+          "correct_answer": "4312",
+          "explanation": "Sentence 4 introduces the topic by listing the ‘two poles’. Sentence 3 mentions that ‘fact must lie halfway between’ Sentence 1 elaborates it further. The ‘convergence’ mentioned in sentence 2 makes it the appropriate concluding sentence."
+        },
+        {
+          "id": "cat-2021-slot1-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "McGurk and MacDonald (1976) reported a powerful multisensory illusion occurring with audio-visual speech. They recorded a\nvoice articulating a consonant ‘ba-ba-ba’ and dubbed it with a face articulating another consonant ‘ga-ga-ga’. Even though the\nacoustic speech signal was well recognized alone, it was heard as another consonant after dubbing with incongruent visual\nspeech i.e., ‘da-da-da’. The illusion, termed as the McGurk effect, has been replicated many times, and it has sparked an\nabundance of research. The reason for the great impact is that this is a striking demonstration of multisensory integration,\nwhere that auditory and visual information is merged into a unified, integrated percept.",
+          "options": {
+            "A": "When the auditory speech signal does not match the visual speech movements, the acoustic speech signal is confusing and integration of the two is imperfect.",
+            "B": "The McGurk effect which is a demonstration of multisensory integration has been replicated many times.",
+            "C": "When the quality of auditory information is poor, the visual information wins over the auditory information.",
+            "D": "Visual speech mismatched with auditory speech can result in the perception of an entirely different message: this illusion is known as the McGurk effect."
+          },
+          "correct_answer": "D",
+          "explanation": "Option A is wrong as it’s not about ‘confusion’. Option B is wrong as instead of multiplication it is about ‘an entirely different message. ’Option C is wrong as it’s not about winning over rather ‘mismatch’"
+        },
+        {
+          "id": "cat-2021-slot1-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Developing countries are becoming hotbeds of business innovation in much the same way as Japan did from the 1950s\nonwards. They are reinventing systems of production and distribution, and experimenting with entirely new business models.\nWhy are countries that were until recently associated with cheap hands now becoming leaders in innovation? Driven by a\nmixture of ambition and fear they are relentlessly climbing up the value chain. Emerging-market champions have not only\nproved highly competitive in their own backyards, they are also going global themselves.",
+          "options": {
+            "A": "Innovations in production and distribution are helping emerging economies compete with countries to which they once supplied cheap labour.",
+            "B": "Competition has driven emerging economies, once suppliers of cheap labour, to become innovators of business models that have enabled them to move up the value chain and goglobal.",
+            "C": "Developing countries are being forced to invent new business models which challenge the old business models, so they can remain competitive domestically.",
+            "D": "Production and distribution models are going through rapid innovations worldwide as developed countries are being challenged by their earlier suppliers from the developing world."
+          },
+          "correct_answer": "B",
+          "explanation": "Options A & D are wrong as they focus on production & distribution & miss on ‘business models’. Option C is wrong as the developing economies are not being forced into something."
+        },
+        {
+          "id": "cat-2021-slot1-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. There is a dark side to academic research, especially in India, and at its centre is the phenomenon of predatory journals.\n2. But in truth, as long as you pay, you can get anything published.\n3. In look and feel thus, they are exactly like any reputed journal.\n4. They claim to be indexed in the most influential databases, say they possess editorial boards that comprise top scientists and\nresearchers, and claim to have a rigorous peer-review structure.\n5. But a large section of researchers and scientists across the world are at the receiving end of nothing short of an academic\npublishing scam.",
+          "options": {},
+          "correct_answer": "5",
+          "explanation": "The topic of discussion is the ‘predatory journals’ specifically with reference to India but Option 5 moves on to the ‘Global’ aspect."
+        },
+        {
+          "id": "cat-2021-slot1-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. In the central nervous systems of other animal species, such a comprehensive regeneration of neurons has not yet been\nproven beyond doubt.\n2. Biologists from the University of Bayreuth have discovered a uniquely rapid form of regeneration in injured neurons and their\nfunction in the central nervous system of zebrafish.\n3. They studied the Mauthner cells, which are solely responsible for the escape behaviour of the fish, and previously regarded as\nincapable of regeneration.\n4. However, their ability to regenerate crucially depends on the location of the injury.",
+          "options": {},
+          "correct_answer": "2341",
+          "explanation": "Sentence 2 is a standalone complete and introductory sentence. ’They’ is sentence 3 refers to Biologists mentioned in ‘2’.Sentence 4 lists the specific aspect and Statement 1 aptly sums up the discussion."
+        },
+        {
+          "id": "cat-2021-slot1-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. A popular response is the exhortation to plant more trees.\n2. It seems all but certain that global warming will go well above two degrees—quite how high no one knows yet.\n3. Burning them releases it, which is why the scale of forest fires in the Amazon basin last year garnered headlines.\n4. This is because trees sequester carbon by absorbing carbon dioxide.",
+          "options": {},
+          "correct_answer": "2143",
+          "explanation": "Statement 2 raises a concern. Statement 1 lists a popular response to counter ‘global warming’. Sentence 4 explains the mechanism. ‘It’ in Sentence 3 refers to carbon mentioned in statement 4."
+        },
+        {
+          "id": "cat-2021-slot1-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Foreign peacekeepers often exist in a bubble in the poor countries in which they are deployed; they live in posh compounds,\ndrive fancy vehicles, and distance themselves from locals. This may be partially justified as they are outsiders, living in constant\nfear, performing a job that is emotionally draining. But they are often despised by the locals, and many would like them to\nleave. A better solution would be bottom-up peace building, which would involve their spending more time working with\ncommunities, understanding their grievances and earning their trust, rather than only meeting government officials.",
+          "options": {
+            "A": "The environment in poor countries has tended to make foreign peacekeeping forces live in enclaves, but it is time to change this scenario.",
+            "B": "Extravagant lifestyles and an aloof attitude among the foreigners working as peacekeepers in poor countries have justifiably make them the target of local anger.",
+            "C": "Peacekeeping duties would be more effectively performed by local residents given their better understanding, knowledge and rapport with their own communities.",
+            "D": "Peacekeeping forces in foreign countries have tended to be aloof for valid"
+          },
+          "correct_answer": "D",
+          "explanation": "Option A is wrong as it shifts the onus on the ‘environment’ and hampers the need to mix up and listen to the grievance of the locals. Option B is wrong as this has not been stated as the reason for foreign peacekeepers being despised by the locals. Option C is wrong as the passage states that –“their spending more time working with communities, understanding their grievances and earning their trust, rather than only meeting government officials.” Their refers to the foreign peacekeepers and not locals. Section : DI & Reasoning"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot1-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The horizontal bars in the above diagram represent 2020 aggregate sales (in ₹ million) of accompany for the different\nsubcategories of its products. The top four product subcategories (Bookcases, Chairs, Furnishings, Tables) belong to furniture\nproduct category; the bottom four product subcategories (Accessories, Copiers, Machines, Phones) belong to the technology\nproduct category while all other product subcategories belong to the office supply product category. For each of the product\nsubcategories, there is a vertical line indicating the sales of the corresponding subcategory in 2019.\nThe total sales (in ₹ million) in 2019 from products in office supplies category is closest to",
+          "options": {
+            "A": "18.0",
+            "B": "12.5",
+            "C": "16.5",
+            "D": "13.5"
+          },
+          "correct_answer": "D",
+          "explanation": "Total sales in 2019 of office supply = 3.65 + 0.4 + 1.8 + 0.3 + 0.1 + 0.3 + 1.5 + 4.3 + 1.1 = 13.5 million"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The percentage increase in sales in Furniture category from 2019 to 2020 is closest to",
+          "options": {
+            "A": "20%",
+            "B": "1%",
+            "C": "8%",
+            "D": "25%"
+          },
+          "correct_answer": "C",
+          "explanation": "Sales of Furniture in 2019 = 1.9 + 6.2 + 2.0 + 4.4 = 14.5 million Sales of furniture in 2020 = 22 + 70 + 201 + 45 = 15.8 million"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many subcategories had sales of ₹ 4 million or more in 2019 and registered an increase in sales in excess of 25% in 2020?",
+          "options": {},
+          "correct_answer": "1",
+          "explanation": "By Visualisation The increase should be 1/4 of Bar It is only of Phones. Hence only 1"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The improvement index for a category is the maximum percentage increase in sales from 2019 to 2020 among any of its\nsubcategories. The correct order of categories in increasing order of this improvement index is",
+          "options": {
+            "A": "technology, furniture, office supply",
+            "B": "office supply, furniture, technology",
+            "C": "office supply, technology, furniture",
+            "D": "furniture, technology, office supply"
+          },
+          "correct_answer": "D",
+          "explanation": "In Technology The improvement index is for In Furniture improvement index is In office supply improvement index is for Hence order is Furniture technology office supply"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ganga, Kaveri, and Narmada are three women who buy four raw materials (Mango, Apple, Banana and Milk) and sell five\nfinished products (Mango smoothie, Apple smoothie, Banana smoothie, Mixed fruit smoothie and Fruit salad). Table-1 gives\ninformation about the raw materials required to produce the five finished products. One unit of a finished product requires one\nunit of each of the raw materials mentioned in the second column of the table.\nTable I\nFinished product Raw materials required\nMango smoothie Mango, Milk\nApple smoothie Apple, Milk\nBanana smoothie Banana, Milk\n\nMixed fruit smoothie Mango, Apple, Banana, Milk\nFruit salad Mango, Apple, Banana\nOne unit of milk, mango, apple, and banana cost ₹5, ₹3, ₹2, and ₹1 respectively. Each unit of a finished product is sold for a\nprofit equal to two times the number of raw materials used to make that product. For example, apple smoothie is made with\ntwo raw materials (apple and milk) and will be sold for a profit of ₹4 per unit. Leftover raw materials are sold during the last\nbusiness hour of the day for a loss of ₹1 per unit.\nThe amount, in rupees, received from sales (revenue) for each woman in each of the four business hours of the day is given in\nTable-2.\nTable II\nBusiness Hour Ganga Kaveri Narmada\nHour 1 23 19 31\nHour 2 21 22 21\nHour 3 29 30 23\nHour 4 (last hour) 30 27 22\nThe following additional facts are known.\n1. No one except possibly Ganga sold any Mango smoothie.\n2. Each woman sold either zero or one unit of any single finished product in any hour.\n3. Each woman had exactly one unit each of two different raw materials as leftovers.\n4. No one had any banana leftover.\nWhat BEST can be concluded about the number of units of fruit salad sold in the first hour?",
+          "options": {
+            "A": "Exactly 2",
+            "B": "Either 0 or 1 or 2",
+            "C": "Either 1 or 2",
+            "D": "Exactly 1"
+          },
+          "correct_answer": "C",
+          "explanation": "As per information following are SP of finished product (will be represented by (a, b, c, d, e) aMango smoothie 12 bApple smoothie 11 c Banana smoothie 10 dMix fruit smoothie19 eFruit salad 12 Now following are possible product sale of each of them in every hour and in last hour sale of left over and product in shown Ganga Kavari Narmada Hour 1a/b or e/b b/d d/e Hour 2b/c (a/c) or (e/c) b/c Hour 3c/d b/d a/b or e/b Case 1: (2+1) Left over mango+apple Left over milk + mangoSold a/c (2+1) Hour 4 sold a/e Case 2: (4+1) sold sold a/c or e/c(d) As shown fruit salad is represented by e. So it could be 1 or 2."
+        },
+        {
+          "id": "cat-2021-slot1-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is NECESSARILY true?",
+          "options": {
+            "A": "Narmada sold one unit of leftover milk.",
+            "B": "Ganga did not sell any leftover mangoes.",
+            "C": "Ganga did not sell any leftover apples.",
+            "D": "Kaveri sold one unit of leftover mangoes"
+          },
+          "correct_answer": "C",
+          "explanation": "As per information following are SP of finished product (will be represented by (a, b, c, d, e) aMango smoothie 12 bApple smoothie 11 c Banana smoothie 10 dMix fruit smoothie19 eFruit salad 12 Now following are possible product sale of each of them in every hour and in last hour sale of left over and product in shown Ganga Kavari Narmada Hour 1a/b or e/b b/d d/e Hour 2b/c (a/c) or (e/c) b/c Hour 3c/d b/d a/b or e/b Case 1: (2+1) Left over mango+apple Left over milk + mangoSold a/c (2+1) Hour 4 sold a/e Case 2: (4+1) sold sold a/c or e/c(d) As shown Ganga sold only left over milk and Mango not Apple. Hence option 3 is true."
+        },
+        {
+          "id": "cat-2021-slot1-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the total number of units of milk the three women had in the beginning?",
+          "options": {
+            "A": "Either 17 or 18 or 19 units.",
+            "B": "Either 19 or 20 units.",
+            "C": "Either 18 or 19 units.",
+            "D": "Either 18 or 19 or 20 units."
+          },
+          "correct_answer": "D",
+          "explanation": "As per information following are SP of finished product (will be represented by (a, b, c, d, e) aMango smoothie 12 bApple smoothie 11 c Banana smoothie 10 dMix fruit smoothie19 eFruit salad 12 Now following are possible product sale of each of them in every hour and in last hour sale of left over and product in shown Ganga Kavari Narmada Hour 1a/b or e/b b/d d/e Hour 2b/c (a/c) or (e/c) b/c Hour 3c/d b/d a/b or e/b Case 1: (2+1) Left over mango+apple Left over milk + mangoSold a/c (2+1) Hour 4 sold a/e Case 2: (4+1) sold sold a/c or e/c(d) As shown it is 18 or 19 or 20"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Go through the graph and the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If it is known that three leftover units of mangoes were sold during the last business hour of the day, how many apple\nsmoothies were sold during the day?",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "As per information following are SP of finished product (will be represented by (a, b, c, d, e) aMango smoothie 12 bApple smoothie 11 c Banana smoothie 10 dMix fruit smoothie19 eFruit salad 12 Now following are possible product sale of each of them in every hour and in last hour sale of left over and product in shown Ganga Kavari Narmada Hour 1a/b or e/b b/d d/e Hour 2b/c (a/c) or (e/c) b/c Hour 3c/d b/d a/b or e/b Case 1: (2+1) Left over mango+apple Left over milk + mangoSold a/c (2+1) Hour 4 sold a/e Case 2: (4+1) sold sold a/c or e/c(d) It means each of them sold 1 left over Mango. So we have to count Apple smoothie i.e. b So 2 + 2 + 2 = 6 is the answer"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal\nscheduled in January, April, July and October. Each of the research papers was written by exactly one of the eight authors. Five\npapers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author\nwrote at least one paper and at most three papers. The total number of papers written by A, D, G and H was double the total\nnumber of papers written by the other four authors.\nFour of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the\nthree areas — Manufacturing, Automation and Logistics. Four of the authors were from the Logistics area and two were from\nthe Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal.\nThe following facts are also known.\n\n1. F, an Indian author from the Logistics area, wrote only one paper. It was scheduled in the October issue.\n2. A was from the Automation area and did not have a paper scheduled in the October issue.\n3. None of the Indian authors were from the Manufacturing area and none of the Japanese or Chinese authors were from\nthe Automation area.\n4. A and H were from different countries, but had their papers scheduled in exactly the same issues.\n5. C and E, both Chinese authors from different areas, had the same number of papers scheduled. Further, E had papers\nscheduled in consecutive issues of the journal but C did not.\n6. B, from the Logistics area, had a paper scheduled in the April issue of the journal.\n7. B and G belonged to the same country. None of their papers were scheduled in the same issue of the journal.\n8. D, a Japanese author from the Manufacturing area, did not have a paper scheduled in the July issue.\n9. C and H belonged to different areas.\nWhat is the correct sequence of number of papers written by B, C, E and G, respectively?",
+          "options": {
+            "A": "3, 1, 1, 3",
+            "B": "1, 3, 3, 1",
+            "C": "1, 2, 2, 3",
+            "D": "1, 2, 2, 1"
+          },
+          "correct_answer": "C",
+          "explanation": "Before drawing the table following Summarization should be done Authors (eight) : A,B,C,D,E,F,G,H Research paper (18) : 5 in Jan, 5 in April, 4 in July, 4 in Oct. Also ratio of (A,D,G,H) to B,C,E,F) is 2:1 So, A,D,E,G must have published total 12 and BCEF total 6 papers Further no one can publish more than 3 papers, so A,D,E,H each must have published 3 each . Now B,C,E,F could have published 3, 1, 1, 1 or 2, 2, 1, 1 in any order. According to point 6 both C and E have published same number and for 2 months. So C and E have published 2 each and B and F 1 each respectively. So whole points are summarized in following table. Authors No. of Papers Everyday Area Months A 3 Indian Automation Jan, April, July B 1 Indian Logistics April C 2 Chinese Manufacturing Jan, Oct D 3 Japanese Manufacturing Jan, April, Oct E 2 Chinese Logistics April, July F 1 Indian Logistics Oct. G 3 Indian Automation Jan, July, Oct H 3 Japanese Logistics Jan, April, July As shown it is 1,2,2,3"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many papers were written by Indian authors?",
+          "options": {},
+          "correct_answer": "8",
+          "explanation": "Before drawing the table following Summarization should be done Authors (eight) : A,B,C,D,E,F,G,H Research paper (18) : 5 in Jan, 5 in April, 4 in July, 4 in Oct. Also ratio of (A,D,G,H) to B,C,E,F) is 2:1 So, A,D,E,G must have published total 12 and BCEF total 6 papers Further no one can publish more than 3 papers, so A,D,E,H each must have published 3 each . Now B,C,E,F could have published 3, 1, 1, 1 or 2, 2, 1, 1 in any order. According to point 6 both C and E have published same number and for 2 months. So C and E have published 2 each and B and F 1 each respectively. So whole points are summarized in following table. Authors No. of Papers Everyday Area Months A 3 Indian Automation Jan, April, July B 1 Indian Logistics April C 2 Chinese Manufacturing Jan, Oct D 3 Japanese Manufacturing Jan, April, Oct E 2 Chinese Logistics April, July F 1 Indian Logistics Oct. G 3 Indian Automation Jan, July, Oct H 3 Japanese Logistics Jan, April, July Total papers by Indian Authors are 3 + 1 + 1 + 3 = 8"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statement(s) MUST be true?\nStatement A: Every issue had at least one paper by author(s) from each country.\nStatement B: Every issue had at most two papers by author(s) from each area.",
+          "options": {
+            "A": "Both the statements",
+            "B": "Neither of the statements",
+            "C": "Only Statement A",
+            "D": "Only Statement B"
+          },
+          "correct_answer": "C",
+          "explanation": "Before drawing the table following Summarization should be done Authors (eight) : A,B,C,D,E,F,G,H Research paper (18) : 5 in Jan, 5 in April, 4 in July, 4 in Oct. Also ratio of (A,D,G,H) to B,C,E,F) is 2:1 So, A,D,E,G must have published total 12 and BCEF total 6 papers Further no one can publish more than 3 papers, so A,D,E,H each must have published 3 each . Now B,C,E,F could have published 3, 1, 1, 1 or 2, 2, 1, 1 in any order. According to point 6 both C and E have published same number and for 2 months. So C and E have published 2 each and B and F 1 each respectively. So whole points are summarized in following table. Authors No. of Papers Everyday Area Months A 3 Indian Automation Jan, April, July B 1 Indian Logistics April C 2 Chinese Manufacturing Jan, Oct D 3 Japanese Manufacturing Jan, April, Oct E 2 Chinese Logistics April, July F 1 Indian Logistics Oct. G 3 Indian Automation Jan, July, Oct H 3 Japanese Logistics Jan, April, July Only option A is true"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is FALSE?",
+          "options": {
+            "A": "Every issue had exactly two papers by authors from Logistics area.",
+            "B": "Every issue had at least one paper by author(s) from Automation area.",
+            "C": "Every issue had exactly two papers by Indian authors",
+            "D": "Every issue had exactly one paper by a Chinese author"
+          },
+          "correct_answer": "A",
+          "explanation": "Before drawing the table following Summarization should be done Authors (eight) : A,B,C,D,E,F,G,H Research paper (18) : 5 in Jan, 5 in April, 4 in July, 4 in Oct. Also ratio of (A,D,G,H) to B,C,E,F) is 2:1 So, A,D,E,G must have published total 12 and BCEF total 6 papers Further no one can publish more than 3 papers, so A,D,E,H each must have published 3 each . Now B,C,E,F could have published 3, 1, 1, 1 or 2, 2, 1, 1 in any order. According to point 6 both C and E have published same number and for 2 months. So C and E have published 2 each and B and F 1 each respectively. So whole points are summarized in following table. Authors No. of Papers Everyday Area Months A 3 Indian Automation Jan, April, July B 1 Indian Logistics April C 2 Chinese Manufacturing Jan, Oct D 3 Japanese Manufacturing Jan, April, Oct E 2 Chinese Logistics April, July F 1 Indian Logistics Oct. G 3 Indian Automation Jan, July, Oct H 3 Japanese Logistics Jan, April, July Option 1 is false"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is FALSE?",
+          "options": {
+            "A": "There were exactly two papers by authors from Manufacturing area in the January issue.",
+            "B": "There were exactly two papers by authors from Manufacturing area in the July issue.",
+            "C": "There was exactly one paper by an author from Logistics area in the October issue.",
+            "D": "There was exactly one paper by an author from Manufacturing area in the April issue"
+          },
+          "correct_answer": "B",
+          "explanation": "Before drawing the table following Summarization should be done Authors (eight) : A,B,C,D,E,F,G,H Research paper (18) : 5 in Jan, 5 in April, 4 in July, 4 in Oct. Also ratio of (A,D,G,H) to B,C,E,F) is 2:1 So, A,D,E,G must have published total 12 and BCEF total 6 papers Further no one can publish more than 3 papers, so A,D,E,H each must have published 3 each . Now B,C,E,F could have published 3, 1, 1, 1 or 2, 2, 1, 1 in any order. According to point 6 both C and E have published same number and for 2 months. So C and E have published 2 each and B and F 1 each respectively. So whole points are summarized in following table. Authors No. of Papers Everyday Area Months A 3 Indian Automation Jan, April, July B 1 Indian Logistics April C 2 Chinese Manufacturing Jan, Oct D 3 Japanese Manufacturing Jan, April, Oct E 2 Chinese Logistics April, July F 1 Indian Logistics Oct. G 3 Indian Automation Jan, July, Oct H 3 Japanese Logistics Jan, April, July Option 2 is false"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is the correct sequence of number of papers by authors from Automation, Manufacturing and Logistics\nareas, respectively?",
+          "options": {
+            "A": "6, 5, 7",
+            "B": "6, 6, 6",
+            "C": "6, 7, 5",
+            "D": "5, 6, 7"
+          },
+          "correct_answer": "A",
+          "explanation": "Before drawing the table following Summarization should be done Authors (eight) : A,B,C,D,E,F,G,H Research paper (18) : 5 in Jan, 5 in April, 4 in July, 4 in Oct. Also ratio of (A,D,G,H) to B,C,E,F) is 2:1 So, A,D,E,G must have published total 12 and BCEF total 6 papers Further no one can publish more than 3 papers, so A,D,E,H each must have published 3 each . Now B,C,E,F could have published 3, 1, 1, 1 or 2, 2, 1, 1 in any order. According to point 6 both C and E have published same number and for 2 months. So C and E have published 2 each and B and F 1 each respectively. So whole points are summarized in following table. Authors No. of Papers Everyday Area Months A 3 Indian Automation Jan, April, July B 1 Indian Logistics April C 2 Chinese Manufacturing Jan, Oct D 3 Japanese Manufacturing Jan, April, Oct E 2 Chinese Logistics April, July F 1 Indian Logistics Oct. G 3 Indian Automation Jan, July, Oct H 3 Japanese Logistics Jan, April, July Papers by Authors from Automation are 3 + 3 = 6 BY Manufacturing are 2 + 3 = 5 By Logistics are 1 + 2 + 1 + 3 = 7 Hence option 1 is the answer"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Amudha, Bharatan, Chandran, Dhinesh, Ezhil, Fani and Gowtham are seven people in a town. Any pair of them could either be\nstrangers, acquaintances, or friends. All relationships are mutual. For example, if Amudha is a friend of Bharatan, then Bharatan\nis also a friend of Amudha. Similarly, if Amudha is a stranger to Bharatan, then Bharatan is also a stranger to Amudha.\nPartial information about the number of friends, acquaintances, and strangers of each of these people among them is given in\n\nthe table below.\nNo. of\nNo. of Friends No. of Strangers\nAcquaintances\nAmudha 1 4\nBharatan\nChandran 1\nDhinesh 2\nEzhil 1\nFani 1\nGowtham 3 2\nThe following additional facts are also known.\n1. Amudha, Bharatan, and Chandran are mutual strangers.\n2. Amudha, Dhinesh, and Fani are Ezil's friends.\n3. Chandran and Gowtham are friends.\n4. Every friend of Amudha is an acquaintance of Bharatan, and every acquaintance of Bharatan is a friend of Amudha.\n5. Every friend of Bharatan is an acquaintance of Amudha, and every acquaintance of Amudha is a friend of Bharatan.\nWho are Gowtham’s acquaintances?",
+          "options": {
+            "A": "Bharatan, Dhinesh and Ezhil",
+            "B": "Dhinesh, Ezhil and Fani",
+            "C": "Amudha, Dhinesh and Fani",
+            "D": "Amudha, Bharatan and Fani"
+          },
+          "correct_answer": "B",
+          "explanation": "Before solving we have to understand the following : (i) Each one will have total 6 relation (Friend, Acquaintances, strangers). So in first row for Amudha number of friends are 6 -(1+4) = 6.5 = 1. Similarly for Gowtham the number of friends for Gowtham are also 6-(2 + 3) = 6-5= 1 (ii) The best way of solving is by Grid e.g. if C and G are friends we write in intersection of C and G as Fr and intersection of G and C also Fr Proceeding in this way we will conclude the whose information in following Grid: . A B C D E F G AX S S AcFr S S B S X S Fr AcS S CS S X S S AcFr DAcFr S X Fr S Ac E Fr AcS Fr X Fr Ac F S S AcAcFr X Ac GS S Fr AcAcAcX As shown Gowtham's Acquaintances are Dhinesh, Ezhil and Fani"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of these pairs share the same type of relationship?",
+          "options": {
+            "A": "(Bharatan, Ezhil) and (Fani, Gowtham)",
+            "B": "(Amudha, Gowtham) and (Ezhil, Fani)",
+            "C": "(Chandran, Ezhil) and (Dhinesh, Gowtham)",
+            "D": "(Bharatan, Chandran) and (Dhinesh, Ezhil)"
+          },
+          "correct_answer": "A",
+          "explanation": "Before solving we have to understand the following : (i) Each one will have total 6 relation (Friend, Acquaintances, strangers). So in first row for Amudha number of friends are 6 -(1+4) = 6.5 = 1. Similarly for Gowtham the number of friends for Gowtham are also 6-(2 + 3) = 6-5= 1 (ii) The best way of solving is by Grid e.g. if C and G are friends we write in intersection of C and G as Fr and intersection of G and C also Fr Proceeding in this way we will conclude the whose information in following Grid: . A B C D E F G AX S S AcFr S S B S X S Fr AcS S CS S X S S AcFr DAcFr S X Fr S Ac E Fr AcS Fr X Fr Ac F S S AcAcFr X Ac GS S Fr AcAcAcX As in option 1 both pairs above same relation of Acquaintance. Hence the Answer"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who is an acquaintance of Amudha?",
+          "options": {
+            "A": "Fani",
+            "B": "Ezhil",
+            "C": "Dhinesh",
+            "D": "Gowtham"
+          },
+          "correct_answer": "C",
+          "explanation": "Before solving we have to understand the following : (i) Each one will have total 6 relation (Friend, Acquaintances, strangers). So in first row for Amudha number of friends are 6 -(1+4) = 6.5 = 1. Similarly for Gowtham the number of friends for Gowtham are also 6-(2 + 3) = 6-5= 1 (ii) The best way of solving is by Grid e.g. if C and G are friends we write in intersection of C and G as Fr and intersection of G and C also Fr Proceeding in this way we will conclude the whose information in following Grid: . A B C D E F G AX S S AcFr S S B S X S Fr AcS S CS S X S S AcFr DAcFr S X Fr S Ac E Fr AcS Fr X Fr Ac F S S AcAcFr X Ac GS S Fr AcAcAcX As shown it is Dhinesh"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Who is an acquaintance of Chandran?",
+          "options": {
+            "A": "Fani",
+            "B": "Ezhil",
+            "C": "Dhinesh",
+            "D": "Bharatan"
+          },
+          "correct_answer": "A",
+          "explanation": "Before solving we have to understand the following : (i) Each one will have total 6 relation (Friend, Acquaintances, strangers). So in first row for Amudha number of friends are 6 -(1+4) = 6.5 = 1. Similarly for Gowtham the number of friends for Gowtham are also 6-(2 + 3) = 6-5= 1 (ii) The best way of solving is by Grid e.g. if C and G are friends we write in intersection of C and G as Fr and intersection of G and C also Fr Proceeding in this way we will conclude the whose information in following Grid: . A B C D E F G AX S S AcFr S S B S X S Fr AcS S CS S X S S AcFr DAcFr S X Fr S Ac E Fr AcS Fr X Fr Ac F S S AcAcFr X Ac GS S Fr AcAcAcX As shown it is Fani"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many friends does Ezhil have?",
+          "options": {},
+          "correct_answer": "3",
+          "explanation": "Before solving we have to understand the following : (i) Each one will have total 6 relation (Friend, Acquaintances, strangers). So in first row for Amudha number of friends are 6 -(1+4) = 6.5 = 1. Similarly for Gowtham the number of friends for Gowtham are also 6-(2 + 3) = 6-5= 1 (ii) The best way of solving is by Grid e.g. if C and G are friends we write in intersection of C and G as Fr and intersection of G and C also Fr Proceeding in this way we will conclude the whose information in following Grid: . A B C D E F G AX S S AcFr S S B S X S Fr AcS S CS S X S S AcFr DAcFr S X Fr S Ac E Fr AcS Fr X Fr Ac F S S AcAcFr X Ac GS S Fr AcAcAcX As shown 3 Friends"
+        },
+        {
+          "id": "cat-2021-slot1-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Study the following information carefully and answer the given question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many people are either a friend or a friend-of-a-friend of Ezhil?",
+          "options": {},
+          "correct_answer": "4",
+          "explanation": "Before solving we have to understand the following : (i) Each one will have total 6 relation (Friend, Acquaintances, strangers). So in first row for Amudha number of friends are 6 -(1+4) = 6.5 = 1. Similarly for Gowtham the number of friends for Gowtham are also 6-(2 + 3) = 6-5= 1 (ii) The best way of solving is by Grid e.g. if C and G are friends we write in intersection of C and G as Fr and intersection of G and C also Fr Proceeding in this way we will conclude the whose information in following Grid: . A B C D E F G AX S S AcFr S S B S X S Fr AcS S CS S X S S AcFr DAcFr S X Fr S Ac E Fr AcS Fr X Fr Ac F S S AcAcFr X Ac GS S Fr AcAcAcX Friends are Amudha, Dhinesh and Fani. Also Dhani's friend Bhartan. So 4 is answer Section : Quantitative Ability"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2021-slot1-qa-45",
+          "number": 45,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The strength of an indigo solution in percentage is equal to the amount of indigo in grams per 100 cc of water. Two 800 cc\nbottles are filled with indigo solutions of strengths 33% and 17%, respectively. A part of the solution from the first bottle is\n\nthrown away and replaced by an equal volume of the solution from the second bottle. If the strength of the indigo solution in\nthe first bottle has now changed to21% then the volume, in cc, of the solution left in the second bottle is",
+          "options": {},
+          "correct_answer": "200",
+          "explanation": "Indigo in 1st bottle = 33% of 800 = 264gm Indigo in 2nd bottle = 17% of 800 = 136gm New Indigo in 1st bottle = 21% of 800 = 168gm Reduction in Indigo = 264 - 168 = 96gm Now per 100cc reduction (if 100 cc are thrown form 1st bottle and replaced from 2nd bottle = 33 - 17 = 16gm ∴ solution left in 2nd bottle = 800 - 600 = 200cc"
+        },
+        {
+          "id": "cat-2021-slot1-qa-46",
+          "number": 46,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many three-digit numbers are greater than 100 and increase by 198 when the three digits are arranged in the reverse\norder?",
+          "options": {},
+          "correct_answer": "70",
+          "explanation": "Let digit at unit place = a Ten's place = b Hundred's place = c ∴ Number = 100c + 10 b + a On reversing number = 100a + 10b + c ∴ (100a + 10b+c) - (100c + 10 b + a) = 198 99a - 99c = 198 ⇒ a-c = 2 Now (a,c) can have seven combinations i.e. (3,1) (4, 2) (5,3) (6,4) (7,5) (8,6) (9,7) and b can take 10 values (0 to 9) ∴ 7 × 10 = 70 are possible three-digit numbers"
+        },
+        {
+          "id": "cat-2021-slot1-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The amount Neeta and Geeta together earn in a day equals what Sita alone earns in 6days. The amount Sita and Neeta\ntogether earn in a day equals what Geeta alone earns in 2 days. The ratio of the daily earnings of the one who earns the most\nto that of the one who earns the least is",
+          "options": {
+            "A": "7 : 3",
+            "B": "11 : 7",
+            "C": "11 : 3",
+            "D": "3 : 2"
+          },
+          "correct_answer": "C",
+          "explanation": "(Neeta + Geeta) : Sita = 6 : 1 (Sita + Neeta) : Geeta = 2: 1"
+        },
+        {
+          "id": "cat-2021-slot1-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anu, Vinu and Manu can complete a work alone in 15 days, 12 days and 20 days, respectively. Vinu works everyday. Anu works only on alternate days\nstarting from the first day while Manu works only on alternate days starting from the second day. Then, the number of days needed to complete the work\nis",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "5"
+          },
+          "correct_answer": "B",
+          "explanation": "Let total work = 60 units 1st day work = (4+5) = 9 units 2nd day work = (5+3) = 8 units ∴ work done in 2 days= 9 + 8 = 17 units Work done in 6 days = 17 × 3 = 51 units So remaining 60-51 = 9 units are done in 7th day"
+        },
+        {
+          "id": "cat-2021-slot1-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "4",
+            "D": "3"
+          },
+          "correct_answer": "A",
+          "explanation": "x = 1 0 x = 2 1 So sequence become (1,2,3, 2,1) and it states replacing from x . 5 ∴ x which will be 2022nd term will be 2nd term i.e. 2 2021"
+        },
+        {
+          "id": "cat-2021-slot1-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {},
+          "correct_answer": "99",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2021-slot1-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose hospital A admitted 21 less Covid infected patients than hospital B, and all eventually recovered. The sum of recovery\ndays for patients in hospitals A and B were 200 and 152, respectively. If the average recovery days for patients admitted in\nhospital A was 3 more than the average in hospital B then the number admitted in hospital A was",
+          "options": {},
+          "correct_answer": "35",
+          "explanation": "Let patient in hospital B = x Patient in hospital A = x - 21 Patient/day in B = B Patient/day in A= B+3 According to question xB = 152 (x-21) (B+3) = 200 2 152x - 3192 + 3x + 630 = 200x 2 3x - 11x - 3192 = 0 2 x - 37x - 1064 = 0 (x-56) (x+19) = 0 ⇒ x = 56 So patient in A = x - 21 = 56 - 21 = 35"
+        },
+        {
+          "id": "cat-2021-slot1-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If r a constant such that |x2 - 4x - 13| = r has exactly three distinct real roots, then the value of r is",
+          "options": {
+            "A": "17",
+            "B": "18",
+            "C": "15",
+            "D": "21"
+          },
+          "correct_answer": "A",
+          "explanation": "Here |x - 4x - 13| = r 2 2 Let f(x) = x - 14x - 13 = (x -2) - 17 Its graph will be 2 Now |x - 4x - 13| = 0 ⇒ |(x-2) 2 - 17| = 0, its graph will be 2 The original equation is |x - 4x - 13| = r ⇒ |(x-2) 2 - 17| - r = 0 As it has exactly 3 roots so the above graph will tough x-axis thrice, so ∴ value of r = 17"
+        },
+        {
+          "id": "cat-2021-slot1-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Anil invests some money at a fixed rate of interest, compounded annually. If the interests accrued during the second and third\nyear are ₹ 806.25 and ₹ 866.72, respectively, the interest accrued, in INR, during the fourth year is nearest to",
+          "options": {
+            "A": "931.72",
+            "B": "926.84",
+            "C": "934.65",
+            "D": "929.48"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2021-slot1-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A circle of diameter 8 inches is inscribed in a triangle ABC where ∠ABC= 90o. If BC = 10 inches then the area of the triangle in\nsquare inches is",
+          "options": {},
+          "correct_answer": "120",
+          "explanation": "4x + 40 = 5x + 20 ⇒ x = 20 = 120 sq. inch"
+        },
+        {
+          "id": "cat-2021-slot1-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two trains cross each other in 14 seconds when running in opposite directions along parallel tracks. The faster train is 160 m\nlong and crosses a lamp post in 12 seconds. If the speed of the other train is 6 km/hr less than the faster one, its length, in m,\nis",
+          "options": {
+            "A": "190",
+            "B": "184",
+            "C": "192",
+            "D": "180"
+          },
+          "correct_answer": "A",
+          "explanation": "∴ time = 14 sec ∴ Sum of lengths of two trains = 25 × 14 = 350m ∴ length of 2nd train = 350 - 160 = 190m"
+        },
+        {
+          "id": "cat-2021-slot1-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A basket of 2 apples, 4 oranges and 6 mangoes costs the same as a basket of 1 apple,4 oranges and 8 mangoes, or a basket of\n8 oranges and 7 mangoes. Then the number of mangoes in a basket of mangoes that has the same cost as the other baskets is",
+          "options": {
+            "A": "12",
+            "B": "13",
+            "C": "10",
+            "D": "11"
+          },
+          "correct_answer": "B",
+          "explanation": "2A + 4 O + 6 M = 1 A + 4 O + 8 M ⇒ 1A = 2M ………….. (1) 1 A+ 4 O + 8 M = 8 O + 7 M 2 M + 4 O + 8 M = 8 O + 7 M 10 M + 4 O = 8 O + 7 M 3 M = 8 O - 4 O 3 M = 4 O So 1st basket in terms of M can be 2 A + 4 O + 6 M = 4 M + 3 M + 6 M = 13 Mangoes"
+        },
+        {
+          "id": "cat-2021-slot1-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Amar, Akbar and Anthony are working on a project. Working together Amar and Akbar can complete the project in 1 year,\nAkbar and Anthony can complete in 16months, Anthony and Amar can complete in 2 years. If the person who is neither the\nfastest nor the slowest works alone, the time in months he will take to complete the project is",
+          "options": {},
+          "correct_answer": "32",
+          "explanation": "Amar and Akbar can do work in 12 months Akbar and Anthony in 16 months Anthony and Amar in 24 months Let total work = 48 units ∴ Amar + Akbar will 48/12 = 4 units/month Akbar + Anthony will 48/16 = 3 units/month Anthony + Amar will do 48/24 = 2 units/months ∴ 2 (Amar + Akbar + Anthony) will do 4 + 3 + 2 = 9 units/month ∴ Amar + Akbar + Anthony do 9/2 = 4.5 units/month ∴ Anthony will do 4.5 - 4 = .5 units/month Hence will do work in 48/.5 = 96 months So neither fastest non slowest will do in 32 months."
+        },
+        {
+          "id": "cat-2021-slot1-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the area of a regular hexagon is equal to the area of an equilateral triangle of side 12 cm, then the length, in cm, of each side\nof the hexagon is",
+          "options": {
+            "A": "6√6",
+            "B": "2√6",
+            "C": "√6",
+            "D": "4√6"
+          },
+          "correct_answer": "B",
+          "explanation": "Let side of hexagon = a"
+        },
+        {
+          "id": "cat-2021-slot1-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Amal purchases some pens at ₹ 8 each. To sell these, he hires an employee at a fixed wage. He sells 100 of these pens at ₹ 12\neach. If the remaining pens are sold at₹ 11 each, then he makes a net profit of ₹ 300, while he makes a net loss of ₹ 300 if the\nremaining pens are sold at ₹ 9 each. The wage of the employee, in INR, is",
+          "options": {},
+          "correct_answer": "1000",
+          "explanation": "Let number of pens = n Fixed salary = k CP of n pens = 8n Rs. So According to question [12 × 100 + (n-100)×11] - [k+8n] = 300 …………. (1) Also [12 × 100 + (n-100) × 9] - [k+8n] = -300 Solving we get = n = 400 and k = 1000 ∴ Salary = 1000 Rs."
+        },
+        {
+          "id": "cat-2021-slot1-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of integers n that satisfy the inequalities |n -60| < |n-100| <| n-20| is",
+          "options": {
+            "A": "19",
+            "B": "20",
+            "C": "18",
+            "D": "21 DIRECTION for the question: Solve the following question and mark the best possible option."
+          },
+          "correct_answer": "A",
+          "explanation": "(i) |n - 60| is the distance of n from 60 or number line (ii) |n - 100| is the distance of n from 100 or number line (iii) |n - 20| is distance of n from 20 on number line Given that |n-60| < |n-100| < |n-20| At n = 60, |n-20| and |n-100| are equal ∴ n > 60 Mid-point of 60 and 100 is 80 At n = 80, |n-60| = |n-100| ∴ n < 80 So n lines between 60 and 80 n = (61, 62, …..79) Hence 19 values possible"
+        },
+        {
+          "id": "cat-2021-slot1-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Identical chocolate pieces are sold in boxes of two sizes, small and large. The large box is sold for twice the price of the small\nbox. If the selling price per gram of chocolate in the large box is 12% less than that in the small box, then the percentage by\nwhich the weight of chocolate in the large box exceeds that in the small box is nearest to",
+          "options": {
+            "A": "127",
+            "B": "124",
+            "C": "144",
+            "D": "135"
+          },
+          "correct_answer": "A",
+          "explanation": "Let as suppose each chocolate weight k gm and n are chocolate in small box 1 and n in second box and price are P and 88 p. 2 ∴ (n × k) × .88P = 2(n × k) × P 2 1"
+        },
+        {
+          "id": "cat-2021-slot1-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The natural numbers are divided into groups as (1), (2, 3, 4), (5, 6, 7, 8, 9), ….. and so on. Then, the sum of the numbers in the\n15th group is equal to",
+          "options": {
+            "A": "6119",
+            "B": "6090",
+            "C": "7471",
+            "D": "4941"
+          },
+          "correct_answer": "A",
+          "explanation": "In first group 1 element is there In second group 3 elements are there In third group 5 elements are there ∴ in 14th group 27 elements are there 2 ∴ Numbers used = 1 + 3 + 5 + ………. + 27 = 14 ∴ First elements of 15th group will be 197 and it will have 29 numbers ∴ S = 29/2 [ 2 × 197 + (28)] = 6119"
+        },
+        {
+          "id": "cat-2021-slot1-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Onion is sold for 5 consecutive months at the rate of Rs 10, 20, 25, 25, and 50 per kg, respectively. A family spends a fixed\namount of money on onion for each of the first three months, and then spends half that amount on onion for each of the next\ntwo months. The average expense for onion, in rupees per kg, for the family over these 5months is closest to",
+          "options": {
+            "A": "26",
+            "B": "16",
+            "C": "18",
+            "D": "20"
+          },
+          "correct_answer": "C",
+          "explanation": "Fixed amount for 1st 3 months will be LCM of 10, 20, 25 i.e. 100 Rs. And last two months will be 100/2 = 50 Rs. = 10 + 5 + 4 + 2 + 1 = 22kg Average Price = (100 + 100 + 100 + 50 + 50)/22 = 400/22 = 18/kg"
+        },
+        {
+          "id": "cat-2021-slot1-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose the length of each side of a regular hexagon ABCDEF is 2 cm. It T is the mod point of CD, then the length of AT, in cm,\nis",
+          "options": {
+            "A": "√13",
+            "B": "√15",
+            "C": "√14",
+            "D": "√12"
+          },
+          "correct_answer": "A",
+          "explanation": "o o o As shown BL = √3 (30 , 60 , 90 ∆) Also LC = √3 ∴ AC = 2√3 2 2 2 ∴ A T = (2 √3) + (1) = 12 + 1 = 13 ⇒ AT = √13"
+        },
+        {
+          "id": "cat-2021-slot1-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "x < - 5 or 3 < x < 9",
+            "B": "-5 < x < -2 or 3 < x < 9",
+            "C": "x < -5 or -2 < x < 3",
+            "D": "-2 < x < 3 or x > 9"
+          },
+          "correct_answer": "B",
+          "explanation": "∵ -5 < x <-2 or 3 < x < 9 is the answer"
+        },
+        {
+          "id": "cat-2021-slot1-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of groups of three or more distinct numbers that can be chosen from 1,2, 3, 4, 5, 6, 7 and 8 so that the groups\nalways include 3 and 5, while 7 and 8 are never included together is",
+          "options": {},
+          "correct_answer": "47",
+          "explanation": "As 3, 5 are fixed. So we have to select remaining digits such that 7, 8 are not together. 6 Three digits number = c = 6 (as only 1 digit is selected out of ) 1 6 4 digit number = c -1 = 14 2 6 5 digits number = c - 4 = 16 3 6 6 digits number = c - 6 = 9 4 6 4 7 digits number = c - c = 2 5 3 8 digit number will not be possible as (7,8) will be together' ∴ number of groups = 6 + 14 + 16 + 9 + 2 = 47"
+        }
+      ]
+    }
+  }
+}

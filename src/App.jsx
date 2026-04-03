@@ -8,6 +8,7 @@ import Review from './pages/Review'
 import Login from './pages/Login'
 import Profile from './pages/Profile'
 import Analytics from './pages/Analytics'
+import PYP from './pages/PYP'
 
 function ProtectedRoute({ children }) {
   const { user, loading } = useAuth()
@@ -27,6 +28,7 @@ export default function App() {
       <Route path="/review/:testId" element={<ProtectedRoute><Review /></ProtectedRoute>} />
       <Route path="/profile" element={<ProtectedRoute><Profile /></ProtectedRoute>} />
       <Route path="/analytics" element={<ProtectedRoute><Analytics /></ProtectedRoute>} />
+      <Route path="/pyp/:paperId" element={<ProtectedRoute><PYP /></ProtectedRoute>} />
     </Routes>
   )
 }

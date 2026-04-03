@@ -1,0 +1,1792 @@
+{
+  "id": "cat-2017-slot1",
+  "year": 2017,
+  "slot": 1,
+  "title": "CAT 2017 Slot I",
+  "has_solutions": true,
+  "total_questions": 100,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2017-slot1-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Understanding where you are in the world is a basic survival skill, which is why we, like most species come hard-wired with\nspecialized brain areas to create congnitive maps of our surroundings. Where humans are unique, though, with the possible\nexception of honeybees, is that we try to communicate this understanding the world with others. We have along history of\ndoing this by drawing maps – the earliest version yet discovered were scrawled on cave walls 14,000 years ago. Human cultures\nhave been drawing them on stone tablets, papyrus, paper and now computer screens ever since.\nGiven such a long history of human map-making, it perhaps surprising that is only within the last few hundred years that north\nhas been consistently considered to be at the top. In fact, for much of human history, north almost never appeared at the top,\naccording to Jerry Brotton, a map historian… “North was rarely put at the top for the simple fact that north is where darkness\ncomes from,” he says. “West is also very unlikely o be put at the top because west is where the sun disappears.”\nConfusingly, early Chinese maps seem to buck this trend. But, Brotton, says, even though they did have compasses at the time,\nthat isn’t the reason that they placed north at the top. Early Chinese compasses were actually oriented to point south, which\nwas considered to be more desirable than deepest darkest north. But in Chinese maps, the emperor, who lived in the north of\nthe country was always put at the top of the map, with everyone else, his loyal subjects, looking up towards him. “In Chinese\nculture the Emperor looks south because it’s where the winds come from, it’s a good direction. North is not very good but you\nare in a position of the subjection to the emperor, so you look up to him,” says Brotton.\nGiven that each culture has a very different idea of who, or what, they should look upto it’s perhaps not surprising that there is\nvery little consistency in which way early maps pointed. In ancient Egyptian times the top of the world was east, the position of\nsunrise. Early Islamic maps favoured south at the top because most of the early Muslim cultures were north of Mecca, so they\nimagined looking up (south) towards it Christian maps from the same era (called Mappa Mundi) put east at the top, towards\nthe Garden of Eden and with Jerusalem in the centre.\nSo when did everyone get together and decide that north was the top? It’s tempting to put it down to European explorers like\nChristopher Columbus and Ferdinand Megellan who were navigating by the North Star. But Brotton argues that these early\nexplorers didn’t think of the world like that at all. “When Columbus describes the world it is in accordance with east being at the\ntop,” he says “Columbus says he is going towards paradise, so his mentality is from a medieval mappa mundi.” We’ve got to\nremember, adds Brotton, that at the time, “no one knows what they are doing and where they are going.”\nWhich one of the following best describes what the passage is trying to do?",
+          "options": {
+            "A": "It questions on explanation about how maps are designed.",
+            "B": "It corrects a misconception about the way maps are designed.",
+            "C": "It critiques a methodology used to create maps",
+            "D": "It explores some myths about maps"
+          },
+          "correct_answer": "B",
+          "explanation": "A thorough reading of the passage, with particular focus on the first sentence of the second paragraph “Given such a long period of .... considered to be on the top” and the second and third sentences of the last paragraph “It's tempting to.. at all” points to 2 being the correct choice; the passage corrects the misconception that Columbus and Megallan played a key role in north being decided as the top. Option A and C are totally out of scope. Option D is very generic and nothing about myths of map."
+        },
+        {
+          "id": "cat-2017-slot1-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Early maps did NOT put north at the top for all the following reasons EXCEPT",
+          "options": {
+            "A": "North was the source of darkness",
+            "B": "South was favoured by some emperors.",
+            "C": "East and south were more important for religious reasons for some civilisations",
+            "D": "East was considered by some civilisations to be a more positive direction"
+          },
+          "correct_answer": "B",
+          "explanation": "North was not put at the top because it was the source of darkness (refer to the second paragraph). It was not put at the top because other religions like Christianity and Islam considered east and south respectively as the top (refer to the fourth paragraph). It was not put at the top because in early Christianity, east was considered sacred (refer to the third and fourth paragraphs)."
+        },
+        {
+          "id": "cat-2017-slot1-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, early Chinese maps placed north at the top because Options:",
+          "options": {
+            "A": "The Chinese invented the compass and were aware of magnetic north.",
+            "B": "They wanted to show respect to the emperor.",
+            "C": "The Chinese emperor appreciated the winds from the south.",
+            "D": "North was considered the most desirable direction."
+          },
+          "correct_answer": "B",
+          "explanation": "The last three sentences of the third paragraph, particularly the phrase “look up to him”, make 2 the clear choice."
+        },
+        {
+          "id": "cat-2017-slot1-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It can be inferred from the passage that European explorers like Columbus and Megellan Options:",
+          "options": {
+            "A": "Set the precedent for north-up maps.",
+            "B": "Navigated by the compass.",
+            "C": "Used an eastward orientation for religious reasons.",
+            "D": "Navigated with the help of early maps"
+          },
+          "correct_answer": "C",
+          "explanation": "The last paragraph, particularly some of the last sentences “When Columbus describes the world, it is in accordance with east being at the top. Columbus says he is going towards paradise, so his mentality is from a medieval mappa mundi” clearly shows that he used an eastward orientation for religious reasons; please note from the previous paragraph that mappa mundi were Christian maps of that era."
+        },
+        {
+          "id": "cat-2017-slot1-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following about the northern orientation of modern maps is asserted in the passage?",
+          "options": {
+            "A": "The biggest contributory factor was the understanding of magnetic north",
+            "B": "The biggest contributory factor was the role of European explorers",
+            "C": "The biggest contributory factor was the influence of Christian maps",
+            "D": "The biggest contributory factor is not stated in the passage"
+          },
+          "correct_answer": "D",
+          "explanation": "Please refer to the last paragraph, particularly the last sentence “We have got to remember that at the time, no one knows what they are doing and where they are going”. This clearly shows that it is not clear as to what the biggest contributory factor to making the map north-oriented was. Choice (4)"
+        },
+        {
+          "id": "cat-2017-slot1-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The role of natural phenomena in influencing map-making conventions is seen most clearly in",
+          "options": {
+            "A": "early Egyptian maps",
+            "B": "early Islamic maps",
+            "C": "early Chinese maps",
+            "D": "early Christian maps"
+          },
+          "correct_answer": "A",
+          "explanation": "After the passage, particularly the first two paragraphs, is read carefully, it is easy to arrive at 1 as the apt choice. Also, the subsequent paragraphs establish that factors like religion and deference to authority – and not natural phenomena – played a role in the map-making of the others."
+        },
+        {
+          "id": "cat-2017-slot1-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "I used a smartphone GPS to find my way through the cobblestoned maze of Geneva's Old Town, in search of a handmade\nmachine that changed the world more than any other invention. Near a 13th-century cathedral in this Swiss city on the shores\nof a lovely lake, I found what I was looking for: a Gutenberg printing press. \"This was the Internet of its day — at least as\ninfluential as the iPhone,\" said Gabriel de Montmollin, the director of the Museum of the Reformation, toying with the replica of\nJohann Gutenberg's great invention. [Before the invention of the printing press] it used to take four monks...up to a year to\nproduce a single book. With the advance in movable type in 15th-century Europe, one press could crank out 3,000 pages a day.\nBefore long, average people could travel to places that used to be unknown to them — with maps! Medical information passed\nmore freely and quickly, diminishing the sway of quacks...The printing press offered the prospect that tyrants would never be\nable to kill a book or suppress an idea. Gutenberg's brainchild broke the monopoly that clerics had on scripture. And later,\nstirred by pamphlets from a version of that same press, the American colonies rose up against a king and gave birth to a nation.\nSo, a question in the summer of this 10th anniversary of the iPhone: has the device that is perhaps the most revolutionary of all\ntime given us a single magnificent idea? Nearly every advancement of the written word through new technology has also\nadvanced humankind. Sure, you can say the iPhone changed everything. By putting the world's recorded knowledge in the\npalm of a hand, it revolutionized work, dining, travel and socializing. It made us more narcissistic — here's more of me doing\ncool stuff! — and it unleashed an army of awful trolls. We no longer have the patience to sit through a baseball game without\nthat reach to the pocket. And one more casualty of Apple selling more than a billion phones in a decade's time: daydreaming\nhas become a lost art.\nFor all of that, I'm still waiting to see if the iPhone can do what the printing press did for religion and democracy...the Geneva\nmuseum makes a strong case that the printing press opened more minds than anything else...it's hard to imagine the French or\nAmerican revolutions without those enlightened voices in print...\nNot long after Steve Jobs introduced his iPhone, he said the bound book was probably headed for history's attic. Not so fast.\nAfter a period of rapid growth in e-books, something closer to the medium for Chaucer's volumes has made a great comeback.\nThe hope of the iPhone, and the Internet in general, was that it would free people in closed societies. But the failure of the Arab\nSpring, and the continued suppression of ideas in North Korea, China and Iran, has not borne that out... The iPhone is still\nyoung. It has certainly been \"one of the most important, world-changing and successful products in history, “ as Apple CEO.\nTim Cook said. But I'm not sure if the world changed for the better with the iPhone — as it did with the printing press — or\nmerely, changed.\nThe printing press has been likened to the Internet for which one of the following reasons?",
+          "options": {
+            "A": "It enabled rapid access to new information and the sharing of new ideas",
+            "B": "It represented new and revolutionary technology compared to the past",
+            "C": "It encouraged reading among people by giving them access to thousands of books",
+            "D": "It gave people access to pamphlets and literature in several languages"
+          },
+          "correct_answer": "A",
+          "explanation": "The first part of the second paragraph points to 1 being the apt choice. The other choices are farfetched or off the mark."
+        },
+        {
+          "id": "cat-2017-slot1-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "According to the passage, the invention of the printing press did all of the following EXCEPT",
+          "options": {
+            "A": "Promoted the spread of enlightened political views across countries",
+            "B": "Gave people direct access to authentic medical information and religious texts",
+            "C": "shortened the time taken to produce books and pamphlets.",
+            "D": "enabled people to perform various tasks simultaneously."
+          },
+          "correct_answer": "D",
+          "explanation": "Please refer to the second paragraph. The sentence “The printing press offered the prospect that tyrants would never be able to kill a book or suppress an idea” (read with the second part of the fourth paragraph) means that 1 is true. The phrase “diminishing the sway of quacks” means that 2 is true. The first sentence and the last sentence of this paragraph show that books and pamphlets could now be printed much faster. This means that 3 is true."
+        },
+        {
+          "id": "cat-2017-slot1-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Steve Jobs predicted which one'of the following with the introduction of the iPhone?",
+          "options": {
+            "A": "People would switch from reading on the Internet to reading on their iPhones.",
+            "B": "People would lose interest in historical and traditional classics.",
+            "C": "Reading printed books would become a thing of the past.",
+            "D": "The production of e-books would eventually fall."
+          },
+          "correct_answer": "C",
+          "explanation": "The first sentence of the fifth paragraph “Not long after Steve Jobs introduced his iPhone, he said the bound book (which means the printed book) was headed for history's attic. Clearly, he meant that reading these printed books would become a thing of the past."
+        },
+        {
+          "id": "cat-2017-slot1-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "\"I'm still waiting to see if the iPhone can do what the printing press did for religion and democracy.\" The author uses which one\nof the following to indicate his uncertainty?",
+          "options": {
+            "A": "The rise of religious groups in many parts of the world.",
+            "B": "The expansion in trolling and narcissism among users of the Internet",
+            "C": "The continued suppression of free speech in closed societies",
+            "D": "The decline in reading habits among those who use the device"
+          },
+          "correct_answer": "C",
+          "explanation": "Although this sentence is in the fourth paragraph, elaboration of this is in the last paragraph. The sentences in this paragraph “The hope of the iPhone, and the Internet in general, was that it would free people in closed societies. But the failure of the Arab Spring, and the continued suppression of ideas in North Korea, China and Iran, has not borne this out” means that the author means to say that the iPhone has not been able to do the good that was done to religion and democracy by the printing press."
+        },
+        {
+          "id": "cat-2017-slot1-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author attributes the French and American revolutions to the invention of the printing press because",
+          "options": {
+            "A": "maps enabled large numbers of Europeans to travel and settle in the American continent.",
+            "B": "the rapid spread of information exposed people to new ideas on freedom and democracy",
+            "C": "it encouraged religious freedom among the people by destroying the monopoly of religious leaders on the scriptures.",
+            "D": "it made available revolutionary strategies and opinions to the people."
+          },
+          "correct_answer": "B",
+          "explanation": "The part of the fourth paragraph, “.... the printing press opened more minds than anything else. it is hard to imagine the French or American revolutions without those enlightened voices in print” makes 2 the clear choice."
+        },
+        {
+          "id": "cat-2017-slot1-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The main conclusion of the passage is that the new technology has",
+          "options": {
+            "A": "some advantages, but these are outweighed by its disadvantages.",
+            "B": "so far not proved as successful as the printing press in opening people's minds",
+            "C": "been disappointing because it has changed society too rapidly",
+            "D": "been more wasteful than the printing press because people spend more time daydreaming or surfing."
+          },
+          "correct_answer": "B",
+          "explanation": "Look at the sentences of the last paragraph, “The hope of the iPhone, and the Internet in general, was that it would free people in closed societies.” and “But I am not sure if the world changed for the better with the iPhone – as it did with the printing press- or merely changed”. These mean that the new technology, exemplified by iPhone and the Internet, have not been as successful as the printing press in opening the closed minds of people."
+        },
+        {
+          "id": "cat-2017-slot1-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "This year alone, more than 8,600 stores could close, according to industry estimates, many of them the brand -name anchor\noutlets that real estate developers once stumbled over themselves to court. Already there have been 5,300 retail closings this\nyear... Sears Holdings—which owns Kmart—said in March that there's \"substantial doubt\" it can stay in business altogether, and\nwill close 300 stores this year. So far this year, nine national retail chains have filed for bankruptcy.\nLocal jobs are a major casualty of what analysts are calling, with only a hint of hyperbole, the retail apocalypse. Since 2002,\ndepartment stores have lost 448,000 jobs, a 25% decline, while the number of store closures this year is on pace to surpass the\nworst depths of the Great Recession. The growth of online retailers, meanwhile, has failed to offset those losses, with the e-\ncommerce sector adding just 178,000 jobs over the past 15 years. Some of those jobs can be found in the massive distribution\ncenters Amazon has opened across the country, often not too far from malls the company helped shutter.\nBut those are workplaces, not gathering places. The mall is both. And in the 61 years since the first enclosed one opened in\nsuburban Minneapolis, the shopping mall has been where a huge swath of middle-class America went for far more than\nshopping. It was the home of first jobs and blind dates, the place for family photos and ear piercings, where goths and\ngrandmothers could somehow walk through the same doors and find something they all liked. Sure, the food was lousy for you\nand the oceans of parking lots encouraged car-heavy development, something now scorned by contemporary planners. But for\nbetter or worse, the mall has been America's public square for the last 60 years.\nSo what happens when it disappears?",
+          "passage_group": 3,
+          "question": "Think of your mall. Or think of the one you went to as a kid. Think of the perfume clouds in the department stores. The\nfountains splashing below the skylights. The cinnamon wafting from the food court. As far back as ancient Greece, societies\nhave congregated around a central marketplace. In medieval Europe, they were outside cathedrals. For half of the 20th century\nand almost 20 years into the new one, much of America has found their agora on the terrazzo between Orange Julius and\nSbarro, Waldenbooks and the Gap, Sunglass Hut and Hot Topic.\nThat mall was an ecosystem unto itself, a combination of community and commercialism peddling everything you needed and\neverything you didn't: Magic Eye posters, wind catchers. Air Jordans. ...\nA growing number of Americans, however, don't see the need to go to any Macy's at all. Our digital lives are frictionless and\nruthlessly efficient, with retail and romance available at a click. Malls were designed for leisure, abundance, ambling. You parked\nand planned to spend some time. Today, much of that time has been given over to busier lives and second jobs and apps that\nlet you swipe right instead of haunt the food court. ' Malls, says Harvard business professor Leonard Schlesinger, \"were built for\npatterns of social interaction that increasingly don't exist.\"\nThe central idea of this passage is that:",
+          "options": {
+            "A": "the closure of mails has affected the economic and social life of middle-class America",
+            "B": "the advantages of malls outweigh their disadvantages.",
+            "C": "malls used to perform a social function that has been lost",
+            "D": "malls are closing down because people have found alternate ways to shop."
+          },
+          "correct_answer": "C",
+          "explanation": "The central idea of the passage is summed up in the last sentence of the passage - “Malls … were built for patterns of social interaction that increasingly don't exist”. The passage signifies malls as “gathering places”, “societies have congregated around a central marketplace”, “mall was an ecosystem” and “a combination of community and commercialism” and so on and so forth. Moreover, malls are not missed by America today, given the all-encompassing scope of digital lives. Hence, the advantages and disadvantages of malls, as given in (2) is irrelevant. People's shopping trends are not the focus of this particular passage, so (4) is ruled out. (1) is not at all true, given that “A growing number of Americans … don't see the need to go to any Macy's at all.” Hence, (3) is the answer."
+        },
+        {
+          "id": "cat-2017-slot1-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "This year alone, more than 8,600 stores could close, according to industry estimates, many of them the brand -name anchor\noutlets that real estate developers once stumbled over themselves to court. Already there have been 5,300 retail closings this\nyear... Sears Holdings—which owns Kmart—said in March that there's \"substantial doubt\" it can stay in business altogether, and\nwill close 300 stores this year. So far this year, nine national retail chains have filed for bankruptcy.\nLocal jobs are a major casualty of what analysts are calling, with only a hint of hyperbole, the retail apocalypse. Since 2002,\ndepartment stores have lost 448,000 jobs, a 25% decline, while the number of store closures this year is on pace to surpass the\nworst depths of the Great Recession. The growth of online retailers, meanwhile, has failed to offset those losses, with the e-\ncommerce sector adding just 178,000 jobs over the past 15 years. Some of those jobs can be found in the massive distribution\ncenters Amazon has opened across the country, often not too far from malls the company helped shutter.\nBut those are workplaces, not gathering places. The mall is both. And in the 61 years since the first enclosed one opened in\nsuburban Minneapolis, the shopping mall has been where a huge swath of middle-class America went for far more than\nshopping. It was the home of first jobs and blind dates, the place for family photos and ear piercings, where goths and\ngrandmothers could somehow walk through the same doors and find something they all liked. Sure, the food was lousy for you\nand the oceans of parking lots encouraged car-heavy development, something now scorned by contemporary planners. But for\nbetter or worse, the mall has been America's public square for the last 60 years.\nSo what happens when it disappears?",
+          "passage_group": 3,
+          "question": "Why does the author say in paragraph 2, 'the massive distribution centers Amazon has opened across the country, often not too far from\nmalls the company helped shutter'?",
+          "options": {
+            "A": "To highlight the irony of the situation",
+            "B": "To indicate that mails and distribution centres are located in the same area",
+            "C": "To show that Amazon is helping certain brands go online",
+            "D": "To indicate that the shopping habits of the American middle class have changed."
+          },
+          "correct_answer": "A",
+          "explanation": "(2) is suspect, would all malls and distribution centers be located in the same area? Anyway, this is beside the point. Nowhere in the passage is it indicated that Amazon is assisting brands to go online, so (3) is also suspect. The change in the shopping habits of Americans have been mentioned much later in the passage in a different context altogether, so the point is not really pertinent here. Thus, (4) is also ruled out. The sentence in question is just an ironic observation of the author (“opened …. shutter (closed)”), which is likewise mentioned in passing, hence there is no need to read too much into it. The answer is (1)."
+        },
+        {
+          "id": "cat-2017-slot1-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "This year alone, more than 8,600 stores could close, according to industry estimates, many of them the brand -name anchor\noutlets that real estate developers once stumbled over themselves to court. Already there have been 5,300 retail closings this\nyear... Sears Holdings—which owns Kmart—said in March that there's \"substantial doubt\" it can stay in business altogether, and\nwill close 300 stores this year. So far this year, nine national retail chains have filed for bankruptcy.\nLocal jobs are a major casualty of what analysts are calling, with only a hint of hyperbole, the retail apocalypse. Since 2002,\ndepartment stores have lost 448,000 jobs, a 25% decline, while the number of store closures this year is on pace to surpass the\nworst depths of the Great Recession. The growth of online retailers, meanwhile, has failed to offset those losses, with the e-\ncommerce sector adding just 178,000 jobs over the past 15 years. Some of those jobs can be found in the massive distribution\ncenters Amazon has opened across the country, often not too far from malls the company helped shutter.\nBut those are workplaces, not gathering places. The mall is both. And in the 61 years since the first enclosed one opened in\nsuburban Minneapolis, the shopping mall has been where a huge swath of middle-class America went for far more than\nshopping. It was the home of first jobs and blind dates, the place for family photos and ear piercings, where goths and\ngrandmothers could somehow walk through the same doors and find something they all liked. Sure, the food was lousy for you\nand the oceans of parking lots encouraged car-heavy development, something now scorned by contemporary planners. But for\nbetter or worse, the mall has been America's public square for the last 60 years.\nSo what happens when it disappears?",
+          "passage_group": 3,
+          "question": "In paragraph 1, the phrase \"real estate developers once stumbled over themselves to court\" suggests that they",
+          "options": {
+            "A": "took brand-name anchor outlets to court",
+            "B": "no longer pursue brand name hanger outlets",
+            "C": "malls are closing down because people have found alternate ways to shop.",
+            "D": "collaborated with one another to get brand-name anchor outlets"
+          },
+          "correct_answer": "B",
+          "explanation": "To \"court\" is to pay special attention to someone in an attempt to win his/ her support or favour. The sentence, thus, suggests that real estate developers were pursuing brand-name anchor outlets once upon a time in the past ; note the word \"once\". Clearly, real estate developers are no longer pursuing brand-name anchor outlets."
+        },
+        {
+          "id": "cat-2017-slot1-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "This year alone, more than 8,600 stores could close, according to industry estimates, many of them the brand -name anchor\noutlets that real estate developers once stumbled over themselves to court. Already there have been 5,300 retail closings this\nyear... Sears Holdings—which owns Kmart—said in March that there's \"substantial doubt\" it can stay in business altogether, and\nwill close 300 stores this year. So far this year, nine national retail chains have filed for bankruptcy.\nLocal jobs are a major casualty of what analysts are calling, with only a hint of hyperbole, the retail apocalypse. Since 2002,\ndepartment stores have lost 448,000 jobs, a 25% decline, while the number of store closures this year is on pace to surpass the\nworst depths of the Great Recession. The growth of online retailers, meanwhile, has failed to offset those losses, with the e-\ncommerce sector adding just 178,000 jobs over the past 15 years. Some of those jobs can be found in the massive distribution\ncenters Amazon has opened across the country, often not too far from malls the company helped shutter.\nBut those are workplaces, not gathering places. The mall is both. And in the 61 years since the first enclosed one opened in\nsuburban Minneapolis, the shopping mall has been where a huge swath of middle-class America went for far more than\nshopping. It was the home of first jobs and blind dates, the place for family photos and ear piercings, where goths and\ngrandmothers could somehow walk through the same doors and find something they all liked. Sure, the food was lousy for you\nand the oceans of parking lots encouraged car-heavy development, something now scorned by contemporary planners. But for\nbetter or worse, the mall has been America's public square for the last 60 years.\nSo what happens when it disappears?",
+          "passage_group": 3,
+          "question": "The author calls the mall an ecosystem unto itself because",
+          "options": {
+            "A": "people of all ages and from all walks of life went there",
+            "B": "people could shop as well as eat in one place",
+            "C": "it was a commercial space as well as a gathering place.",
+            "D": "it sold things that were needed as well as those that were not."
+          },
+          "correct_answer": "C",
+          "explanation": "The mall as an ecosystem is qualified in the passage as a combination of community and commercialism, so there is no need to look beyond (3). (1) skips the commercial aspect. (2) is on track, but though it mentions 'eat', it does not mention 'meet'. Nor does (4) touch upon the community aspect."
+        },
+        {
+          "id": "cat-2017-slot1-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "This year alone, more than 8,600 stores could close, according to industry estimates, many of them the brand -name anchor\noutlets that real estate developers once stumbled over themselves to court. Already there have been 5,300 retail closings this\nyear... Sears Holdings—which owns Kmart—said in March that there's \"substantial doubt\" it can stay in business altogether, and\nwill close 300 stores this year. So far this year, nine national retail chains have filed for bankruptcy.\nLocal jobs are a major casualty of what analysts are calling, with only a hint of hyperbole, the retail apocalypse. Since 2002,\ndepartment stores have lost 448,000 jobs, a 25% decline, while the number of store closures this year is on pace to surpass the\nworst depths of the Great Recession. The growth of online retailers, meanwhile, has failed to offset those losses, with the e-\ncommerce sector adding just 178,000 jobs over the past 15 years. Some of those jobs can be found in the massive distribution\ncenters Amazon has opened across the country, often not too far from malls the company helped shutter.\nBut those are workplaces, not gathering places. The mall is both. And in the 61 years since the first enclosed one opened in\nsuburban Minneapolis, the shopping mall has been where a huge swath of middle-class America went for far more than\nshopping. It was the home of first jobs and blind dates, the place for family photos and ear piercings, where goths and\ngrandmothers could somehow walk through the same doors and find something they all liked. Sure, the food was lousy for you\nand the oceans of parking lots encouraged car-heavy development, something now scorned by contemporary planners. But for\nbetter or worse, the mall has been America's public square for the last 60 years.\nSo what happens when it disappears?",
+          "passage_group": 3,
+          "question": "Why does the author say that the mall has been America's public square?",
+          "options": {
+            "A": "Malls did not bar anybody from entering the space",
+            "B": "Mails were a great place to shop for a huge section of the middle class",
+            "C": "Malls were a hangout place where families grew close to each other",
+            "D": "Malls were a great place for everyone to gather and interact."
+          },
+          "correct_answer": "D",
+          "explanation": "The passage signifies malls as gathering places, and adds that “societies have congregated around a central marketplace”. That being the case, (4) is the answer. The restrictions in (1) are not mentioned in the passage. (2) is straightaway rejected, given in the third paragraph that “America went for far more than shopping”. (3) is maudlin, given that families only get a passing mention as “family photos” in the third paragraph."
+        },
+        {
+          "id": "cat-2017-slot1-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "This year alone, more than 8,600 stores could close, according to industry estimates, many of them the brand -name anchor\noutlets that real estate developers once stumbled over themselves to court. Already there have been 5,300 retail closings this\nyear... Sears Holdings—which owns Kmart—said in March that there's \"substantial doubt\" it can stay in business altogether, and\nwill close 300 stores this year. So far this year, nine national retail chains have filed for bankruptcy.\nLocal jobs are a major casualty of what analysts are calling, with only a hint of hyperbole, the retail apocalypse. Since 2002,\ndepartment stores have lost 448,000 jobs, a 25% decline, while the number of store closures this year is on pace to surpass the\nworst depths of the Great Recession. The growth of online retailers, meanwhile, has failed to offset those losses, with the e-\ncommerce sector adding just 178,000 jobs over the past 15 years. Some of those jobs can be found in the massive distribution\ncenters Amazon has opened across the country, often not too far from malls the company helped shutter.\nBut those are workplaces, not gathering places. The mall is both. And in the 61 years since the first enclosed one opened in\nsuburban Minneapolis, the shopping mall has been where a huge swath of middle-class America went for far more than\nshopping. It was the home of first jobs and blind dates, the place for family photos and ear piercings, where goths and\ngrandmothers could somehow walk through the same doors and find something they all liked. Sure, the food was lousy for you\nand the oceans of parking lots encouraged car-heavy development, something now scorned by contemporary planners. But for\nbetter or worse, the mall has been America's public square for the last 60 years.\nSo what happens when it disappears?",
+          "passage_group": 3,
+          "question": "The author describes 'Perfume clouds in the department stores' in order to",
+          "options": {
+            "A": "evoke memories by painting a. picture of mails",
+            "B": "describe the smells and sights of mails",
+            "C": "emphasise that all brands were available under one roof.",
+            "D": "show that malls smelt good because of the various stores and food court."
+          },
+          "correct_answer": "A",
+          "explanation": "We have to link the given quote to “Think of your mall. Or think of the one you went to as a kid”. These sentences open the floodgates of memory. So (1) is the answer. (2) misses the point that malls are disappearing, hence the sense of urgency for the nostalgia trip down memory lane. (3) makes light of the ambience of malls - “fountains splashing below the skylights” and thus can be ruled out. The case in (4) – the smell of malls, and what contributes to the same, is beside the point."
+        },
+        {
+          "id": "cat-2017-slot1-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Scientists have long recognised the incredible diversity within a species. But they thought it reflected evolutionary changes that\nunfolded imperceptibly, over millions of years. That divergence between populations within a species was enforced, according\nto Ernst Mayr, the great evolutionary biologist of the 1940s, when a population was separated from the rest of the species by a\nmountain range or a desert, preventing breeding across the divide over geologic scales of time. Without the separation, gene\nflow was relentless. But as the separation persisted, the isolated population grew apart and speciation occurred.\nIn the mid-1960s, the biologist Paul Ehrlich - author of The Population Bomb (1968) - and his Stanford University colleague\nPeter Raven challenged Mayr's ideas about speciation. They had studied checkerspot butterflies living in the Jasper Ridge\nBiological Preserve in California, and it soon became clear that they were not examining a single population. Through years of\ncapturing, marking and then recapturing the butterflies, they were able to prove that within the population, spread over just 50\nacres of suitable checkerspot habitat, there were three groups that rarely interacted despite their very close proximity.\nAmong other ideas, Ehrlich and Raven argued in a now classic paper from 1969 that gene flow was not as predictable and\nubiquitous as Mayr and his cohort maintained, and thus evolutionary divergence between neighbouring groups in a population\nwas probably common. They also asserted that isolation and gene flow were less important to evolutionary divergence than\nnatural selection (when factors such as mate choice, weather, disease or predation cause better-adapted individuals to survive\nand pass on their successful genetic traits). For example, Ehrlich and Raven suggested that, without the force of natural\nselection, an isolated population would remain unchanged and that, in other scenarios, natural selection could be strong\nenough to overpower gene flow...\nWhich of the following best sums up Ehrlich and Raven's argument in their classic 1969 paper?",
+          "options": {
+            "A": "Ernst Mayr was wrong in identifying physical separation as the cause of species diversity",
+            "B": "Checkerspot butterflies in the 50-acre Jasper Ridge Preserve formed three groups that rarely interacted with each other",
+            "C": "While a factor, isolation was not as important to speciation as natural selection",
+            "D": "Gene flow is less common and more erratic than Mayr and his colleagues claimed."
+          },
+          "correct_answer": "C",
+          "explanation": "(1) is tricky, as it does not come to the point – if Mayr was wrong, what was 'right'? What is Ehrich and Raven's case? Likewise (2) is evidence, where is the thesis? State your point of view on the topic directly and in one sentence! (4) gets close, refer to “gene flow was not as predictable and ubiquitous as Mayr … maintained....”. So? The answer is (3) – refer to the third paragraph again - “isolation and gene flow were less important to evolutionary divergence than natural selection”. And the answer is (3)."
+        },
+        {
+          "id": "cat-2017-slot1-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All of the following statements are true according to the passage EXCEPT",
+          "options": {
+            "A": "Gene flow contributes to evolutionary divergence.",
+            "B": "The Population Bomb questioned dominant ideas about species diversity",
+            "C": "Evolutionary changes unfold imperceptibly over time.",
+            "D": "Checkerspot butterflies are known to exhibit speciation while living in close proximity"
+          },
+          "correct_answer": "B",
+          "explanation": "That gene flow contributes to evolutionary divergence is acknowledged by Ehrlich and Raven in the third paragraph – refer to “isolationand gene flow were less important to evolutionary divergence than natural selection”, which admits that isolation and gene flow is important to evolutionary divergence to some extent. This point is also reiterated in the last sentence of the passage. Hence, (2) is correct. (3) is supported by information in the first paragraph “when a population was separated … over geologic scales of time”. (4) is supported by information in the second paragraph - “there were three groups that rarely interacted despite their very close proximity”."
+        },
+        {
+          "id": "cat-2017-slot1-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author discusses Mayr, Ehrlich and Raven to demonstrate that",
+          "options": {
+            "A": "Evolution is a sensitive and controversial topic",
+            "B": "Ehrlich and Raven's ideas about evolutionary divergence are widely accepted by scientists.",
+            "C": "The causes of speciation are debated by scientists",
+            "D": "Checkerspot butterflies offer the best example of Ehrlich and Raven's ideas about speciation"
+          },
+          "correct_answer": "C",
+          "explanation": "Nowhere in the passage is it suggested that evolution is a sensitive or controversial topic, so (1) is ruled out. Whether Ehrlich and Raven's thesis superceded Mayr's is not determined in the passage, so (2) is also ruled out. The merits or otherwise, of checkerspot butterflies, cannot be determined from the passage, so (4) is also ruled out. The passage mentions Mayr, Ehrlich and Raven in the context of the theories of speciation, so (3) is the answer."
+        },
+        {
+          "id": "cat-2017-slot1-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Do sports mega events like the summer Olympic Games benefit the host city economically? It depends, but the prospects are\nless than rosy. The trick is converting...several billion dollars in operating costs during the 17-day fiesta of the Games into a\nbasis for long-term economic returns. These days, the summer Olympic Games themselves generate total revenue of $4 billion\nto $5 billion, but the lion's share of this goes to the International Olympics Committee, the National Olympics Committees and\nthe International Sports Federations. Any economic benefit would have to flow from the value of the Games as an\nadvertisement for the city, the new transportation and communications infrastructure that was created for the Games, or the\nongoing use of the new facilities.\nEvidence suggests that the advertising effect is far from certain. The infrastructure benefit depends on the initial condition of\nthe city and the effectiveness of the planning. The facilities benefit is dubious at best for buildings such as velodromes or\nnatatoriums and problematic for 100,000-seat Olympic stadiums. The latter require a conversion plan for future use, the former\nare usually doomed to near vacancy. Hosting the summer Games generally requires 30-plus sports venues and dozens of",
+          "passage_group": 5,
+          "question": "training centers. Today, the Bird's Nest in Beijing sits virtually empty, while the Olympic Stadium in Sydney costs some $30\nmillion a year to operate.\nPart of the problem is that Olympics planning takes place in a frenzied and time-pressured atmosphere of intense competition\nwith the other prospective host cities — not optimal conditions for contemplating the future shape of an urban landscape.\nAnother part of the problem is that urban land is generally scarce and growing scarcer. The new facilities often stand for\ndecades or longer. Even if they have future use, are they the best use of precious urban real estate?\nFurther, cities must consider the human cost. Residential areas often are razed and citizens relocated (without adequate\npreparation or compensation). Life is made more hectic and congested. There are, after all, other productive uses that can be\nmade of vanishing fiscal resources.\nThe central point in the first paragraph is that the economic benefits of the Olympic Games",
+          "options": {
+            "A": "are shared equally among the three organising committees",
+            "B": "accrue mostly through revenue from advertisements and ticket sales",
+            "C": "accrue to host cities, if at all, only in the long term",
+            "D": "are usually eroded by expenditure incurred by the host city"
+          },
+          "correct_answer": "C",
+          "explanation": "Whether the “lion's share” mentioned in the first paragraph is divided equally among the three organising committees or not is beside the point as far as the passage is concerned, so (1) is ruled out. Sources of revenue, whether from 'ticket sales' or “advertisements” or both, are not even mentioned in the first paragraph, so (2) is also ruled out. The discouraging view in (4) is not reflected in the first paragraph. The passage mentions that “The trick is converting … a basis for long-term economic returns”, which is specifically found in (3)."
+        },
+        {
+          "id": "cat-2017-slot1-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Do sports mega events like the summer Olympic Games benefit the host city economically? It depends, but the prospects are\nless than rosy. The trick is converting...several billion dollars in operating costs during the 17-day fiesta of the Games into a\nbasis for long-term economic returns. These days, the summer Olympic Games themselves generate total revenue of $4 billion\nto $5 billion, but the lion's share of this goes to the International Olympics Committee, the National Olympics Committees and\nthe International Sports Federations. Any economic benefit would have to flow from the value of the Games as an\nadvertisement for the city, the new transportation and communications infrastructure that was created for the Games, or the\nongoing use of the new facilities.\nEvidence suggests that the advertising effect is far from certain. The infrastructure benefit depends on the initial condition of\nthe city and the effectiveness of the planning. The facilities benefit is dubious at best for buildings such as velodromes or\nnatatoriums and problematic for 100,000-seat Olympic stadiums. The latter require a conversion plan for future use, the former\nare usually doomed to near vacancy. Hosting the summer Games generally requires 30-plus sports venues and dozens of",
+          "passage_group": 5,
+          "question": "Sports facilities built for the Olympics are not fully utilised after the Games are over because",
+          "options": {
+            "A": "their scale and the costs of operating them are large",
+            "B": "their location away from the city centre usually limits easy access.",
+            "C": "the authorities do not adapt them to local conditions.",
+            "D": "they become outdated having being built with little planning and under time pressure"
+          },
+          "correct_answer": "A",
+          "explanation": "(2) is suspect, because nowhere is it mentioned that the sports facilities in question are located away from the city centre. Indifference on the part of authorities, as suggested by (2), is not reflected in the passage, so (3) is also ruled out. The passage also does not mention that the sports facilities get outdated due to poor planning, so (4) is ruled out. The passage mentions the sports facilities in Beijing and Sydney in the context of the large scale of an Olympic stadium and the huge operating costs to maintain it. Thus, (1) is the answer. Choice (1)"
+        },
+        {
+          "id": "cat-2017-slot1-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Read the passage and answer the question based on it.",
+          "passage": "Do sports mega events like the summer Olympic Games benefit the host city economically? It depends, but the prospects are\nless than rosy. The trick is converting...several billion dollars in operating costs during the 17-day fiesta of the Games into a\nbasis for long-term economic returns. These days, the summer Olympic Games themselves generate total revenue of $4 billion\nto $5 billion, but the lion's share of this goes to the International Olympics Committee, the National Olympics Committees and\nthe International Sports Federations. Any economic benefit would have to flow from the value of the Games as an\nadvertisement for the city, the new transportation and communications infrastructure that was created for the Games, or the\nongoing use of the new facilities.\nEvidence suggests that the advertising effect is far from certain. The infrastructure benefit depends on the initial condition of\nthe city and the effectiveness of the planning. The facilities benefit is dubious at best for buildings such as velodromes or\nnatatoriums and problematic for 100,000-seat Olympic stadiums. The latter require a conversion plan for future use, the former\nare usually doomed to near vacancy. Hosting the summer Games generally requires 30-plus sports venues and dozens of",
+          "passage_group": 5,
+          "question": "The author feels that the Games place a burden on the host city for all of the following reasons EXCEPT that",
+          "options": {
+            "A": "they divert scarce urban land from more productive uses",
+            "B": "they involve the demolition of residential structures to accommodate sports facilities and infrastructure",
+            "C": "the finances used to fund the Games could be better used for other purposes.",
+            "D": "the influx of visitors during the Games places a huge strain on the urban infrastructure."
+          },
+          "correct_answer": "D",
+          "explanation": "(1) is mentioned in the third paragraph - “Even if they have future use, are they the best use of precious urban real estate?”. (2) is explicitly mentioned in the fourth paragraph - “Residential areas often are razed … citizens relocated”. (3) is implied in the last sentence of the passage - “other productive uses that can be made of vanishing fiscal resources”. But visitors have not been cited as an Olympic headache as such in the passage, so (4) is the answer. Choice (4)"
+        },
+        {
+          "id": "cat-2017-slot1-varc-25",
+          "number": 25,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "To me, a \"classic\" means precisely the opposite of what my predecessors understood: a work is classical by reason of its\nresistance to contemporaneity and supposed universality, by reason of its capacity to indicate human particularity and\ndifference in that past epoch. The classic is not what tells me about shared humanity—or, more truthfully put, what lets me\nrecognize myself as already present in the past, what nourishes in me the illusion that everything has been like me and has\nexisted only to prepare the way for me. Instead, the classic is what gives access to radically different forms of human\nconsciousness for any given generation of readers, and thereby expands for them the range of possibilities of what it means to\nbe a human being.",
+          "options": {
+            "A": "A classic is able to focus on the contemporary human condition and a unified experience of human consciousness.",
+            "B": "A classical work seeks to resist particularity and temporal difference even as it focuses on a common humanity",
+            "C": "A classic is a work exploring the new., going beyond the universal, the contemporary, and the notion of a unified human consciousness",
+            "D": "A classic is a work that provides access to a universal experience of the human race as opposed to radically different forms of human consciousness"
+          },
+          "correct_answer": "C",
+          "explanation": "The author of the paragraph defines a classic as giving access to very different forms of human consciousness for any reader at any time, enabling them to experience the different possibilities of being a human being. That being the case, (1) and (4) which advocate a unified experience of human consciousness are ruled out. Even (2) which refers to a common humanity is thus ruled out. Only (3) faithfully sticks to the classical experience going beyond the notion of a unified human consciousness to give access to different forms of human consciousness."
+        },
+        {
+          "id": "cat-2017-slot1-varc-26",
+          "number": 26,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A translator of literary works needs a secure hold upon the two languages involved, supported by a good measure of familiarity\nwith the two cultures. For an Indian translating works in an Indian language into English, finding satisfactory equivalents in a\ngeneralized western culture of practices and symbols in the original would be less difficult than gaining fluent control of\ncontemporary English. When a westerner works on texts in Indian languages the interpretation of cultural elements will be the\n\nmajor challenge, rather than control over the grammar and essential vocabulary of the language concerned. It is much easier to\nremedy lapses in language in a text translated into English, than flaws of content. Since it is easier for an Indian to learn the\nEnglish language than it is for a Briton or American to comprehend Indian culture, translations of Indian texts is better left to\nIndians.",
+          "options": {
+            "A": "While translating, the Indian and the westerner face the same challenges but they have different skill profiles and the former has the advantage.",
+            "B": "As preserving cultural meanings is the essence of literary translation Indians' knowledge of the local culture outweighs the initial disadvantage of lower fluency in English.",
+            "C": "Indian translators should translate Indian texts into English as their work is less likely to pose cultural problems which are harder to address than the quality of language.",
+            "D": "Westerners might be good at gaining reasonable fluency in new languages, but as understanding the culture reflected in literature is crucial, Indians remain better placed."
+          },
+          "correct_answer": "C",
+          "explanation": "The paragraph essentially reveals that an Indian translating works in an Indian language to English would find cultural equivalents in the western world easily, whereas a Westerner would find it very difficult to interpret cultural elements into English. Hence, it is better if an Indian translates Indian texts into English, as lapses in language are easily addressed, whereas flaws of content are a strict no-no! (4) does not mention translation at all and is thus found wanting. (3) does not explicitly recommend that Indians do the said translation either, hence it is also found wanting. (1) also does not sufficiently press that Indians translate Indian texts. (3) comprehensively reframes the paragraph."
+        },
+        {
+          "id": "cat-2017-slot1-varc-27",
+          "number": 27,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Identify the most appropriate summary for the paragraph.",
+          "passage": "",
+          "passage_group": null,
+          "question": "For each of the past three years, temperatures have hit peaks not seen since the birth of meteorology, and probably not for\nmore than 110,000 years. The amount of carbon dioxide in the air is at its highest level in 4 million years. This does not cause\nstorms like Harvey - there have always been storms and hurricanes along the Gulf of Mexico - but it makes them wetter and\nmore powerful. As the seas warm, they evaporate more easily and provide energy to storm fronts. As the air above them warms,\nit holds more water vapour. For every half a degree Celsius in warming, there is about a 3% increase in atmospheric moisture\ncontent. Scientists call this the Clausius-Clapeyron equation. This means the skies fill more quickly and have more to dump. The\nstorm surge was greater because sea levels have risen 20 cm as a result of more than 100 years of human -related global\nwarming which has melted glaciers and thermally expanded the volume of sea water.",
+          "options": {
+            "A": "The storm Harvey is one of the regular., annual ones from the Gulf of Mexico; global warming and Harvey are unrelated phenomena.",
+            "B": "Global warming does not breed storms but makes them more destructive; the Clausius-Clapeyron equation, though it predicts potential increase in atmospheric moisture content, cannot predict the scale of damage storms might wreck.",
+            "C": "Global warming melts glaciers, resulting in sea water volume expansion; this enables more water vapour to fill the air above faster. Thus, modern storms contain more destructive energy.",
+            "D": "It is naive to think that rising sea levels and the force of tropical storms are unrelated; Harvey was destructive as global warming has armed it with more moisture content, but this may not be true of all storms."
+          },
+          "correct_answer": "C",
+          "explanation": "The paragraph argues that global warming causes sea levels to rise and fill the skies with water vapour, thus leading to wetter and more damaging storms and hurricanes. (1) contradicts received wisdom by stating that global warming and rampaging storms are unrelated. (2) focuses on the downsides of the Clausius-Clapeyron equation, which are not mentioned in the paragraph at all. (4) is verbose, refer to 'but this may not be true of all storms', an uncertain statement anyway from the paragraph point of view. (3) faithfully captures the essence of the paragraph."
+        },
+        {
+          "id": "cat-2017-slot1-varc-28",
+          "number": 28,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The process of handing down implies not a passive transfer, but some contestation in defining what exactly is to be handed\ndown.\n2. Wherever Western scholars have worked on the Indian past, the selection is even more apparent and the inventing of a\ntradition much more recognizable.\n3. Every generation selects what it requires from the past and makes its innovations, some more than others.\n4. It is now a truism to say that traditions are not handed down unchanged, but are invented.\n5. Just as life has death as its opposite, so is tradition by default the opposite of innovation.",
+          "options": {
+            "A": "54132",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "54132",
+          "explanation": "Statement 5 introduces the paragraph stating that tradition is by default the opposite of innovation. 4 contradicts what is stated in 5 saying that it is now axiomatic to say that traditions are not handed down unchanged, but are invented. 1 follows 4 explaining what handing down means – it does not imply a passive transfer but some contention on what exactly needs to be handed down. 3 elaborates on the “contestation” on what exactly needs to be handed down, saying that every generation selects what it requires from the past and makes its innovations. 2, which says that the selection is even more apparent wherever Western scholars have worked on the Indian past, is the concluding statement. Therefore, the logical sequence is 54132."
+        },
+        {
+          "id": "cat-2017-slot1-varc-29",
+          "number": 29,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Scientists have for the first time managed to edit genes in a human embryo to repair a genetic mutation, fuelling hopes that\nsuch procedures may one day be available outside laboratory conditions.\n\n2.The cardiac disease causes sudden death in otherwise healthy young athletes and affects about one in 500 people overall.\n3. Correcting the mutation in the gene would not only ensure that the child is healthy but also prevents transmission of the\nmutation to future generations.\n4. It is caused by a mutation in a particular gene and a child will suffer from the condition even if it inherits only one copy of the\nmutated gene.\n5. In results announced in Nature this week, scientists fixed a mutation that thickens the heart muscle, a condition called\nhypertrophic cardiomyopathy.",
+          "options": {
+            "A": "15243",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "15243",
+          "explanation": "Statement 1 introduces the paragraph describing the achievement made by the scientists in editing genes in a human embryo to repair a genetic mutation. 1 follows 5 explaining how the mutation, which results in hypertrophic cardio myopathy, was corrected. 2 follows 5 describing the consequences of cardio myopathy. 4 follows 2 explaining how cardio myopathy is caused – bya mutation in a particular gene which will cause a child to suffer even it inherits only one copy of the mutated gene. 3 concludes the paragraph with the reassuring statement that if the mutation in the gene is corrected the child can lead a healthy life and it also prevents the transmission of the gene to the future generations. Statements 15243 form a coherent paragraph."
+        },
+        {
+          "id": "cat-2017-slot1-varc-30",
+          "number": 30,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The study suggests that the disease did not spread with such intensity, but that it may have driven human migrations across\nEurope and Asia.\n2. The oldest sample came from an individual who lived in southeast Russia about 5,000 years ago.\n3. The ages of the skeletons correspond to a time of mass exodus from today's Russia and Ukraine into western Europe and\ncentral Asia, suggesting that a pandemic could have driven these migrations.\n4. In the analysis of fragments of DNA from 101 Bronze Age skeletons for sequences from Yersinia pestis, the bacterium that\ncauses the disease, seven tested positive.\n5. DNA from Bronze Age human skeletons indicate that the black plague could have emerged as early as 3,000 BCE, long\nbefore the epidemic that swept through Europe in the mid-1300s.",
+          "options": {
+            "A": "54123",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "54123",
+          "explanation": "The opener is this case will be 5 as it introduces the topic of the discussion i.e. when black plague emerged. After this 4 will come as it furthers the result of the examination of DNA fragments. After this 1 will come as it adds to 4. After this 2 will come as it gives the evidence of what is stated in 1.3 will conclude the story as the word 'migration' can be linked togather."
+        },
+        {
+          "id": "cat-2017-slot1-varc-31",
+          "number": 31,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The five sentences (labelled 1,2,3,4, and 5) given in this question, when properly sequenced,\nform a coherent paragraph. Decide on the proper order for the sentence and key in this sequence of five numbers as your\nanswer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. This visual turn in social media has merely accentuated this announcing instinct of ours, enabling us with easy-to-create,\neasy-to-share, easy-to-store and easy-to-consume platforms, gadgets and apps.\n2. There is absolutely nothing new about us framing the vision of who we are or what we want, visually or otherwise, in our\nFacebook page, for example.\n3. Turning the pages of most family albums, which belong to a period well before the digital dissemination of self-created and\nself-curated moments and images, would reconfirm the basic instinct of documenting our presence in a particular space, on a\nsignificant occasion, with others who matter.\n4. We are empowered to book our faces and act as celebrities within the confinement of our respective friend lists, and\ncommunicate our activities, companionship and locations with minimal clicks and touches.\n5. What is unprecedented is not the desire to put out news feeds related to the self, but the ease with which this broadcast\noperation can now be executed, often provoking (un)anticipated responses from beyond one's immediate location.",
+          "options": {
+            "A": "32145",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "32145",
+          "explanation": "3 begins the paragraph stating that turning the pages of family albums, which belonged to the pre-digital era, would reconfirm our basic instinct of documenting our presence in a particular scene on an important occasion, with those who matter to us. 2 follows 3 stating that there is nothing new in framing the vision of who we are, visually or otherwise, on social media such as our Facebook page. “This visual turn” in 1 refers to “framing the vision in our Facebook page”. Therefore, 1 follows 2 stating that “this visual turn” has accentuated “the announcing instinct of ours”. 4 carries forward the paragraph stating that framing the vision on social media empowers us to act as celebrities within the confinement of our respective friend lists. 5 concludes the paragraph talking about the ease with which the broadcast operation can be executed and how this often provokes (un)anticipated responses from beyond one's location. Therefore, statements 3, 2, 1, 4, 5 form an appropriate sequence. Ans: (32145)"
+        },
+        {
+          "id": "cat-2017-slot1-varc-32",
+          "number": 32,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. People who study children's language spend a lot of time watching how babies react to the speech they hear around them.\n2. They make films of adults and babies interacting, and examine them very carefully to see whether the babies show any signs\nof understanding what the adults say.\n3. They believe that babies begin to react to language from the very moment they are born.\n4. Sometimes the signs are very subtle - slight movements of the baby's eyes or the head or the hands.\n5. You'd never notice them if you were just sitting with the child, but by watching a recording over and over, you can spot them.",
+          "options": {
+            "A": "3",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "3",
+          "explanation": "Only statement 1 can begin the paragraph as all the other statements have cross references and cannot, therefore, make sense as opening statements. 2 follows 1 describing how “they” (meaning the people who study children's language) make films and examine them carefully to see whether the babies show any signs of understanding what the adults say. 4, which says that sometimes the signs are subtle, is a continuation of 2. 5 concludes the paragraph elaborating on the “subtle signs”. Therefore, statements 1, 2, 4 and 5 form a sequence and 3, which says that babies begin to react to language from the moment they are born, does not form a part of this sequence and is, therefore, the odd man out."
+        },
+        {
+          "id": "cat-2017-slot1-varc-33",
+          "number": 33,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. Neuroscientists have just begun studying exercise's impact within brain cells — on the genes themselves.\n2. Even there, in the roots of our biology, they've found signs of the body's influence on the mind.\n3. It turns out that moving our muscles produces proteins that travel through the bloodstream and into the brain, where they\nplay pivotal roles in the mechanisms of our highest thought processes.\n4. In today's technology-driven, plasma-screened-in world, it's easy to forget that we are born movers — animals, in fact —\nbecause we've engineered movement right out of our lives.\n5. It's only in the past few years that neuroscientists have begun to describe these factors and how they work, and each new\ndiscovery adds awe-inspiring depth to the picture",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "1 begins the paragraph stating that neuroscientists have begun to study the impact of exercise within brain cells. 2 follows 1 reporting the findings. 3 follows 2 elaborating on the signs of the body's influence on the mind. 5, which states that each new discovery – made by the neuroscientists – adds awe-inspiring depth to the picture, forms an ideal conclusion to the paragraph. Statement 4, which is a very generalized statement conveys a different idea and does not form a part of the sequence 1, 2, 3, 5. Hence, 4 is the odd man out. Ans: (4)"
+        },
+        {
+          "id": "cat-2017-slot1-varc-34",
+          "number": 34,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "Five sentences related to a topic are given below. Four of them can be put together to form a\nmeaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The water that made up ancient lakes and perhaps an ocean was lost.\n2. Particles from the Sun collided with molecules in the atmosphere, knocking them into space or giving them an electric charge\nthat caused them to be swept away by the solar wind.\n3. Most of the planet's remaining water is now frozen or buried, but clues over the past decade suggested that some liquid\nwater, a presumed necessity for life, might survive in underground aquifers.\n4. Data from NASA's MAVEN orbiter show that solar storms stripped away most of Mars's once-thick atmosphere.\n5. A recent study reveals how Mars lost much of its early water, while another indicates that some liquid water remains.",
+          "options": {
+            "A": "1",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1",
+          "explanation": "The opener in this case will be 4 as it some solar storm swept the atmoshere away from the mars. After this 2 will come as it explains how the event described in 4, happened. After this 5 (chrono-pairing) will come as it talks about the recent study on presence of water on mars. After this 3 will come as it tells about the status of remaining water. 1 is odd one as it gives examples of the water resources (specific)."
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2017-slot1-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Healthy Bites is a fast food joint serving three items: burgers, fries and ice cream. It has two employees Anish and Bani who\nprepare the items ordered by the clients. Preparation time is 10 minutes for a burger and 2 minutes for an order of ice cream.\nAn employee can prepare only one of these items at a time. The fries are prepared in an automatic fryer which can prepare up\nto 3 portions of fires at a time, and takes 5 minutes irrespective of the number of portions. The fryer does not need an\nemployee to constantly attend to it, and we can ignore the time taken by an employee to start and stop the fryer; thus, an\nemployee can be engaged in preparing other items while the frying is on. However fries cannot be prepared in anticipation of\nfuture orders.\n\nHealthy Bites wishes to serve the orders as early as possible. The individual items in any order are served as and when ready;\nhowever, the order is considered to be completely served only when all the items of that order are served.\nThe table below gives the orders of three clients and the times at which they placed their oders;\nClient No. Time Order\n1 burger, 3 portions of fries, 1 order of ice\n1 10:00\ncream\n2 10:05 2 portions of fries, 1 order of ice cream\n3 10:07 1 burger, 1 portion of fires\nAssume that only one client's order can be processed at any given point of time. So, Anish or Bani cannot start preparing a new\norder while a previous order is being prepared.\nAt what time is the order placed by Client 1 completely served?",
+          "options": {
+            "A": "10:17",
+            "B": "10:10",
+            "C": "10:15",
+            "D": "10:20"
+          },
+          "correct_answer": "B",
+          "explanation": "As the item which take the maximum time is burger, client 1 will be completely served by 10.00 + 10 minutes = 10.10"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Assume that only one client's order can be processed at any given point of time. So, Anish or Bani cannot start preparing a new\norder while a previous order is being prepared.\nAt what time is the order placed by Client 3 completely served?",
+          "options": {
+            "A": "10:35",
+            "B": "10:22",
+            "C": "10:25",
+            "D": "10:17"
+          },
+          "correct_answer": "C",
+          "explanation": "The time taken for the different clients are Client 1 – 10.00 – 10.10 (burger) Client 2 – 10.10 – 10.15 (fries) Client 3 – 10.15 – 10.25 (burger)"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose the employees are allowed to process multiple orders at a time, but the preference would be to finish orders of clients who placed\ntheir orders earlier.\nAt what time is the order placed by Client 2 completely served?",
+          "options": {
+            "A": "10:10",
+            "B": "10:12",
+            "C": "10:15",
+            "D": "10:17"
+          },
+          "correct_answer": "A",
+          "explanation": "When they are allowed to process multiple orders, the time taken would be Client 1 – 10.00 – 10.10 (Anish) Client 2 – 10.05 – 10.10 (Bani) The second client can be served by 10.10"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose the employees are allowed to process multiple orders at a time, but the preference would be to finish orders of clients who placed\ntheir orders earlier.\nAlso assume that the fourth client came in only at 10:35. Between 10:00 and 10:30, for how many minutes is exactly one of the\nemployees idle?",
+          "options": {
+            "A": "7",
+            "B": "10",
+            "C": "15",
+            "D": "23"
+          },
+          "correct_answer": "B",
+          "explanation": "The time for which exactly one employee would be free would be 10.02 – 10.05 – (Bani) – 3 Minutes. 10.10 – 10.17 (Anish/Bani) – 7 minutes (depending on who prepares the order for client 3. After 10.17 both of them would be free. ∴ One of them would be free for 3 + 7 = 10 minutes."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following Graph & table given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A study to look at the early teaming of rural kids was carried out in a number of villages spanning three states, chosen from the\nNorth East (NE), the West (W) and the South (S). 50 four-year old kids each were sampled from each of the 150 villages from\nNE, 250 villages from W arid 200 villages from S. It was found that of the 30000 surveyed feds 55% studied in primary schools\nrun by government (G), 37% in private schools (P) white the remaining 8% did not go to school (O).\nThe kids surveyed were further divided into two groups based on whether their mothers dropped out of school before\ncompleting primary education or not. The table below gives the number of kids in different types of schools for mothers who\ndropped out- of school before completing primary education:\nG P O Total\nNE 4200 500 300 5000\nW 4200 1900 1200 7300\n\nS 5100 300 300 5700\nTotal 13500 2700 1800 18000\nIt is also known that:\n1. In S, 60% of the surveyed kids were m G. Moreover, in S, all surveyed kids whose mothers had completed primary education\nwere in school.\n2. In NE, among the O kids, 50% had mothers who had dropped out before completing primary education.\n3. The number of kids in G in NE was the same as the number of kids in G in W.\nWhat percentage of kids from S were studying in P?",
+          "options": {
+            "A": "37%",
+            "B": "6%",
+            "C": "79%",
+            "D": "56%"
+          },
+          "correct_answer": "A",
+          "explanation": "With the table given for kids in different schools whose mothers had dropped out of school we will be adding another value for each value already present and the new value will represent the number of kids in different types of schools for kids whose mothers completed primary education. G P O Total Dropped Dropped Dropped Completed Completed Completed out out out NE 4200 1050 500 1150 300 300 7500 W 4200 1050 1900 3850 1200 300 12500 S 5100 900 300 3400 300 0 10000 Total 13,500 3000 2700 8400 1800 600 30000 300 + 3400 = 3700 students out of 10,000 from S were studying in P, i.e., 37%"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following Graph & table given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Among the kids in W whose mothers had completed primary education, how many were not in school?",
+          "options": {
+            "A": "300",
+            "B": "1200",
+            "C": "1050",
+            "D": "1500"
+          },
+          "correct_answer": "A",
+          "explanation": "With the table given for kids in different schools whose mothers had dropped out of school we will be adding another value for each value already present and the new value will represent the number of kids in different types of schools for kids whose mothers completed primary education. G P O Total Dropped Dropped Dropped Completed Completed Completed out out out NE 4200 1050 500 1150 300 300 7500 W 4200 1050 1900 3850 1200 300 12500 S 5100 900 300 3400 300 0 10000 Total 13,500 3000 2700 8400 1800 600 30000 In W, 300 kids whose mothers had completed primary education were not in school."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following Graph & table given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a follow up survey of the same kids two years later, it was found that all the kids were now in school. Of the kids who were\nnot in school earlier, in one region, 25% were in G now, whereas the rest were enrolled in P; in the second region, all such kids\nwere in G now; while in the third region, 50% of such kids had now joined G while the rest had joined P. As a result, in all three\nregions put together, 50% of the kids who were earlier out of school had joined G. It was also seen that no surveyed kid had\nchanged schools.\nWhat number of the surveyed kids now were in G in W?",
+          "options": {
+            "A": "6000",
+            "B": "5250",
+            "C": "6750",
+            "D": "6300"
+          },
+          "correct_answer": "A",
+          "explanation": "With the table given for kids in different schools whose mothers had dropped out of school we will be adding another value for each value already present and the new value will represent the number of kids in different types of schools for kids whose mothers completed primary education. G P O Total Dropped Dropped Dropped Completed Completed Completed out out out NE 4200 1050 500 1150 300 300 7500 W 4200 1050 1900 3850 1200 300 12500 S 5100 900 300 3400 300 0 10000 Total 13,500 3000 2700 8400 1800 600 30000 As there were initially 2400 students who were not in school and now 1200 of them are in G, with the mentioned percentages the only possibility is 50% of students in W, 25% of students in NE and 100% of students in S who were not going to school shifted to G. ∴ 50% of W = 50% of 1500 = 750 25% of NE = 25% of 600 = 150 100% of S = 100% of 300 = 300 Total = 1200 ∴ now 4200 + 1050 + 750 = 6000 students were in G is W."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Study the following Graph & table given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a follow up survey of the same kids two years later, it was found that all the kids were now in school. Of the kids who were\nnot in school earlier, in one region, 25% were in G now, whereas the rest were enrolled in P; in the second region, all such kids\nwere in G now; while in the third region, 50% of such kids had now joined G while the rest had joined P. As a result, in all three\nregions put together, 50% of the kids who were earlier out of school had joined G. It was also seen that no surveyed kid had\nchanged schools.\nWhat percentage of the surveyed kids in S, whose mothers had dropped out before completing primary education, were in G\nnow?",
+          "options": {
+            "A": "94.7%",
+            "B": "89.5%",
+            "C": "93.4%",
+            "D": "Cannot be determined from the given information"
+          },
+          "correct_answer": "A",
+          "explanation": "With the table given for kids in different schools whose mothers had dropped out of school we will be adding another value for each value already present and the new value will represent the number of kids in different types of schools for kids whose mothers completed primary education. G P O Total Dropped Dropped Dropped Completed Completed Completed out out out NE 4200 1050 500 1150 300 300 7500 W 4200 1050 1900 3850 1200 300 12500 S 5100 900 300 3400 300 0 10000 Total 13,500 3000 2700 8400 1800 600 30000 As explained in the previous question, all 300 in S who were not going to school, now shifted to G. Now of the 5700 students whose mothers had dropped out in S regions, 5400 are in G."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Applicants for the doctoral programmes of Ambi Institute of Engineering (AIE) and Bambi Institute of Engineering (BIE) have to\nappear for a Common Entrance Test (CET). The test has three sections: Physics (P), Chemistry (C), and Maths (M). Among those\nappearing for CET, those at or above the 80th percentile in at least two sections, and at or above the 90th percentile overall, are\nselected for Advanced Entrance Test (AET) conducted by AIE. AET is used by AIE for final selection.\nFor the 200 candidates who are at or above the 90th percentile overall based on CET, the following are known about their\nperformance in CET:\n1. No one is below the 80th percentile in all 3 sections.\n2. 150 are at or above the 80th percentile in exactly two sections.\n3. The number of candidates at or above the 80th percentile only in P is the same as the number of candidates at or above\nthe 80th percentile only in C. The same is the number of candidates at or above the 80th percentile only in M.\n4. Number of candidates below 80th percentile in P: Number of candidates below 80th percentile in C: Number of\ncandidates below 80th percentile in M = 4:2:1.\n\nBIE uses a different process for selection. If any candidate is appearing in the AET by AIE, BIE considers their AET score for final\nselection provided the candidate is at or above the 80th percentile in P. Any other candidate at or above the 80th percentile in\nP in CET, but who is not eligible for the AET, is required to appear in a separate test to be conducted by BIE for being\nconsidered for final selection. Altogether, there are 400 candidates this year who are at or above the 80th percentile in P.\nWhat best can be concluded about the number of candidates sitting for the separate test for BIE who were at or above the 90th\npercentile overall in CET?",
+          "options": {
+            "A": "3 or 10",
+            "B": "10",
+            "C": "5",
+            "D": "7 or 10"
+          },
+          "correct_answer": "A",
+          "explanation": "It is given that 200 candidates scored above 90th percentile overall in CET. Let the following Venn diagram represent the number of persons who scored above 80 percentile in CET in each of the three sections: From 1, h = 0. From 2, d + e + f = 150 From 3, a = b = c Since there are a total of 200 candidates, 3a + g = 200 – 150 = 50 From 4, (2a + f) : (2a + e) : (2a + d) = 4 : 2 : 1 Therefore, 6a + (d + e + f) is divisible by 4 + 2 + 1 = 7. Since d + e + f = 150, 6a + 150 is divisible by 7, i.e., 6a + 3 is divisible by 7. Hence, a = 3, 10, 17, . . . Further, since 3a + g = 50, a must be less than 17. Therefore, only two cases are possible for the value of a, i.e., 3 or 10. We can calculate the values of the other variables for the two cases. a = 3 or 10 d = 18 or 10 e = 42 or 40 f = 90 or 100 g = 41 or 20 Among the candidates who are at or above 90th percentile, the candidates who are at or above 80th percentile in at least two sections are selected for AET. Hence, the candidates represented by d, e, f and g are selected for AET. BIE will consider the candidates who are appearing for AET and are at or above 80th percentile in P. Hence, BIE will consider the candidates represented by d, e and g, which can be 104 or 80. BIE will conduct a separate test for the other students who are at or above 80th percentile in P. Given that there are a total of 400 candidates at or above 80th percentile in P, and since there are 104 or 80 candidates at or above 80th percentile in P and are at or above 90th percentile overall, there must be 296 or 320 candidates at or above 80th percentile in P who scored less than 90th percentile overall. The number of candidates sitting for separate test for BIE who were at or above 90th percentile in CET (a) is either 3 or 10."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the number of candidates who are at or above the 90th percentile overall and also at or above the 80th percentile in all three\nsections in CET is actually a multiple of 5, what is the number of candidates who are at or above the 90th percentile overall and\nat or above the 80th percentile in both P and M in CET?",
+          "options": {
+            "A": "60",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "60",
+          "explanation": "It is given that 200 candidates scored above 90th percentile overall in CET. Let the following Venn diagram represent the number of persons who scored above 80 percentile in CET in each of the three sections: From 1, h = 0. From 2, d + e + f = 150 From 3, a = b = c Since there are a total of 200 candidates, 3a + g = 200 – 150 = 50 From 4, (2a + f) : (2a + e) : (2a + d) = 4 : 2 : 1 Therefore, 6a + (d + e + f) is divisible by 4 + 2 + 1 = 7. Since d + e + f = 150, 6a + 150 is divisible by 7, i.e., 6a + 3 is divisible by 7. Hence, a = 3, 10, 17, . . . Further, since 3a + g = 50, a must be less than 17. Therefore, only two cases are possible for the value of a, i.e., 3 or 10. We can calculate the values of the other variables for the two cases. a = 3 or 10 d = 18 or 10 e = 42 or 40 f = 90 or 100 g = 41 or 20 Among the candidates who are at or above 90th percentile, the candidates who are at or above 80th percentile in at least two sections are selected for AET. Hence, the candidates represented by d, e, f and g are selected for AET. BIE will consider the candidates who are appearing for AET and are at or above 80th percentile in P. Hence, BIE will consider the candidates represented by d, e and g, which can be 104 or 80. BIE will conduct a separate test for the other students who are at or above 80th percentile in P. Given that there are a total of 400 candidates at or above 80th percentile in P, and since there are 104 or 80 candidates at or above 80th percentile in P and are at or above 90th percentile overall, there must be 296 or 320 candidates at or above 80th percentile in P who scored less than 90th percentile overall. From the given condition, g is a multiple of 5. Hence, g = 20. The number of candidates at or above 90th percentile overall and at or above 80th percentile in both P and M = e + g = 60."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-45",
+          "number": 45,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the number of candidates who are at or above the 90th percentile overall and also at or above the 80th percentile in all three sections in\nCET is actually a multiple of 5, then how many candidates were shortlisted for the AET for AIE?",
+          "options": {
+            "A": "170",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "170",
+          "explanation": "It is given that 200 candidates scored above 90th percentile overall in CET. Let the following Venn diagram represent the number of persons who scored above 80 percentile in CET in each of the three sections: From 1, h = 0. From 2, d + e + f = 150 From 3, a = b = c Since there are a total of 200 candidates, 3a + g = 200 – 150 = 50 From 4, (2a + f) : (2a + e) : (2a + d) = 4 : 2 : 1 Therefore, 6a + (d + e + f) is divisible by 4 + 2 + 1 = 7. Since d + e + f = 150, 6a + 150 is divisible by 7, i.e., 6a + 3 is divisible by 7. Hence, a = 3, 10, 17, . . . Further, since 3a + g = 50, a must be less than 17. Therefore, only two cases are possible for the value of a, i.e., 3 or 10. We can calculate the values of the other variables for the two cases. a = 3 or 10 d = 18 or 10 e = 42 or 40 f = 90 or 100 g = 41 or 20 Among the candidates who are at or above 90th percentile, the candidates who are at or above 80th percentile in at least two sections are selected for AET. Hence, the candidates represented by d, e, f and g are selected for AET. BIE will consider the candidates who are appearing for AET and are at or above 80th percentile in P. Hence, BIE will consider the candidates represented by d, e and g, which can be 104 or 80. BIE will conduct a separate test for the other students who are at or above 80th percentile in P. Given that there are a total of 400 candidates at or above 80th percentile in P, and since there are 104 or 80 candidates at or above 80th percentile in P and are at or above 90th percentile overall, there must be 296 or 320 candidates at or above 80th percentile in P who scored less than 90th percentile overall. In this case, g = 20. Number of candidates shortlisted for AET = d + e + f + g = 10 + 40 + 100 + 20 = 170"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-46",
+          "number": 46,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the number of candidates who are at or above the 90th percentile overall and also are at or above the 80th percentile in P in\nCET, is more than 100, how many candidates had to sit for the separate test for BIE?",
+          "options": {
+            "A": "299",
+            "B": "310",
+            "C": "321",
+            "D": "330"
+          },
+          "correct_answer": "A",
+          "explanation": "It is given that 200 candidates scored above 90th percentile overall in CET. Let the following Venn diagram represent the number of persons who scored above 80 percentile in CET in each of the three sections: From 1, h = 0. From 2, d + e + f = 150 From 3, a = b = c Since there are a total of 200 candidates, 3a + g = 200 – 150 = 50 From 4, (2a + f) : (2a + e) : (2a + d) = 4 : 2 : 1 Therefore, 6a + (d + e + f) is divisible by 4 + 2 + 1 = 7. Since d + e + f = 150, 6a + 150 is divisible by 7, i.e., 6a + 3 is divisible by 7. Hence, a = 3, 10, 17, . . . Further, since 3a + g = 50, a must be less than 17. Therefore, only two cases are possible for the value of a, i.e., 3 or 10. We can calculate the values of the other variables for the two cases. a = 3 or 10 d = 18 or 10 e = 42 or 40 f = 90 or 100 g = 41 or 20 Among the candidates who are at or above 90th percentile, the candidates who are at or above 80th percentile in at least two sections are selected for AET. Hence, the candidates represented by d, e, f and g are selected for AET. BIE will consider the candidates who are appearing for AET and are at or above 80th percentile in P. Hence, BIE will consider the candidates represented by d, e and g, which can be 104 or 80. BIE will conduct a separate test for the other students who are at or above 80th percentile in P. Given that there are a total of 400 candidates at or above 80th percentile in P, and since there are 104 or 80 candidates at or above 80th percentile in P and are at or above 90th percentile overall, there must be 296 or 320 candidates at or above 80th percentile in P who scored less than 90th percentile overall. From the given condition, the number of candidates at or above 90th percentile overall and at or above 80th percentile in P in CET = 104. The number of candidates who have to sit for separate test = 296 + 3 = 299"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-47",
+          "number": 47,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Simple Happiness index (SHI) of a country is computed on the basis of three parameters: social support (S), freedom to life\nchoices (F) and corruption perception (C). Each of these three parameters is measured on a scale of 0 to 8 (integers only). A\ncountry is then categorized based on the total score obtained by summing the scores of ail the three parameters, as shown in\nthe following table:\nTotal Score 0-4 5-8 9-13 14-19 20-24\nCategory Very Unhappy Unhappy Neutral Happy Very Happy\nFollowing diagram depicts the frequency distribution of the scores in S, F and C of 10 countries - Amda, Benga, Calla, Delma,\nEppa, Varsa, Wanna, Xanda, Yanga and Zoorna;\n\nFurther, the following are known:\n1. Amda and Calls jointly have the lowest total score, 7, with identical scores in all the three parameters.\n2. Zooma has a total score of 17.\n3. All the 3 countries, which are categorised as happy, have the highest score in exactly one parameter.\nWhat is Amda's score in F?",
+          "options": {
+            "A": "1",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "1",
+          "explanation": "The given data can be represented in a table as follows. Scores S F C 1 2 1 2 1 3 3 3 2 4 4 3 1 1 5 2 3 6 1 1 7 1 1 Total 10 10 10 A and C had a total score of 7, with identical scores in all these parameters. So it can only be 1, 2 and 4 or 3, 3 and 1. As Zooma has a score of 17, and all three countries in the happy category had the highest score in exactly one parameter, he can only have a 7 in F, 6 in S and 4 in C as a score of 7 in S and 6 in C would be the scores of the other two countries and he cannot have a 7, 7 and 5 as there is no country which scored a 5 in C. Amda can have a distribution of 3, 3, 1 or 4, 2, 1. In either case the only possible score of F is 1 as no other parameter has a score of 1 for two countries."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-48",
+          "number": 48,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What is Zooma's score in S?",
+          "options": {
+            "A": "6",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "6",
+          "explanation": "The given data can be represented in a table as follows. Scores S F C 1 2 1 2 1 3 3 3 2 4 4 3 1 1 5 2 3 6 1 1 7 1 1 Total 10 10 10 A and C had a total score of 7, with identical scores in all these parameters. So it can only be 1, 2 and 4 or 3, 3 and 1. As Zooma has a score of 17, and all three countries in the happy category had the highest score in exactly one parameter, he can only have a 7 in F, 6 in S and 4 in C as a score of 7 in S and 6 in C would be the scores of the other two countries and he cannot have a 7, 7 and 5 as there is no country which scored a 5 in C. As explained before Zooma’s score in C has to be 6."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-49",
+          "number": 49,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Benga and Delma, two countries categorized as happy, are tied with the same total score. What is the maximum score they can\nhave?",
+          "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "17"
+          },
+          "correct_answer": "B",
+          "explanation": "The given data can be represented in a table as follows. Scores S F C 1 2 1 2 1 3 3 3 2 4 4 3 1 1 5 2 3 6 1 1 7 1 1 Total 10 10 10 A and C had a total score of 7, with identical scores in all these parameters. So it can only be 1, 2 and 4 or 3, 3 and 1. As Zooma has a score of 17, and all three countries in the happy category had the highest score in exactly one parameter, he can only have a 7 in F, 6 in S and 4 in C as a score of 7 in S and 6 in C would be the scores of the other two countries and he cannot have a 7, 7 and 5 as there is no country which scored a 5 in C. In the table given, among the highest scores, a score of 7 in F, 6 in S and 4 in S were the score of Zoom. The best possible scores remaining for Benga and Dalma would be Benga Dalma S – 5 S – 7 C – 6 C – 3 F – 5 F – 5 16 15 As it is given that both had the some total score it can only be 15 for both , i.e. Benga’s score in S or F was one less than the maximum possible."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-50",
+          "number": 50,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Analyse the graph/s given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Benga scores 16 and Delma scores 15, then what is the maximum number of countries with a score of 13?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "correct_answer": "B",
+          "explanation": "The given data can be represented in a table as follows. Scores S F C 1 2 1 2 1 3 3 3 2 4 4 3 1 1 5 2 3 6 1 1 7 1 1 Total 10 10 10 A and C had a total score of 7, with identical scores in all these parameters. So it can only be 1, 2 and 4 or 3, 3 and 1. As Zooma has a score of 17, and all three countries in the happy category had the highest score in exactly one parameter, he can only have a 7 in F, 6 in S and 4 in C as a score of 7 in S and 6 in C would be the scores of the other two countries and he cannot have a 7, 7 and 5 as there is no country which scored a 5 in C. Considering the score of Zoom, Benga and Delma as 17, 16 and 15, we get S F C Total Zoom 6 7 4 17 Benga 5 5 6 16 Delma 7 5 3 15 If Benga score 16 and Dalma score 15 (as illustrated in the previous solution) the maximum possible values remaining are Score S F C 3 3 2 3 4 3 1 0 5 1 1 0"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-51",
+          "number": 51,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are 21 employees working in a division, out of whom 10 are special-skilled employees (SE) and the remaining are regular-\nskilled employees (RE). During the next five months, the division has to complete five projects every month. Out of the 25\nprojects, 5 projects are \"challenging\", while the remaining ones are \"standard\". Each of the challenging projects has to be\ncompleted in different months. Every month, five teams - T1, T2, T3, T4 and T5, work on one project each. T1, T2, T3, T4 and T5\nare allotted the challenging project in the first, second, third, fourth and fifth month, respectively. The team assigned the\nchallenging project has one more employee than the rest.\nIn the first month, T1 has one more SE than T2, T2 has one more SE than T3, T3 has one more SE than T4, and T4 has one more\nSE than T5. Between two successive months, the composition of the teams changes as follows:\na. The team allotted the challenging project, gets two SE from the team which was allotted the challenging project in the\nprevious month. In exchange, one RE is shifted from the former team to the latter team.\nb. After the above exchange, if T1 has any SE and T5 has any RE, then one SE is shifted from T1 to T5, and one RE is shifted\nfrom T 5 to T1. Also, if T2 has any SE and T4 has any RE, then one SE is shifted from T2 to T4, and one RE is shifted from T 4 to\nT2.\nEach standard project has a total of 100 credit points, while each challenging project has 200 credit points. The credit points are\nequally shared between the employees included in that team.\nThe number of times in which the composition of team T 2 and the number of times in which composition of team T 4\nremained unchanged in two successive months are:",
+          "options": {
+            "A": "(2, 1)",
+            "B": "(1, 0)",
+            "C": "(0, 0)",
+            "D": "(1, 1)"
+          },
+          "correct_answer": "B",
+          "explanation": "Given that there are 10 SE and 11 RE. In the first month, since T1 has one more SE than T2, who in turn has one more SE than T3, … till T5, the number of SEs in T1, T2, T3, T4 and T5 must be 4, 3, 2, 1 and 0. Also, the team that is assigned the challenging project has one more employee than the rest. Hence, the team that is assigned the challenging project will have 5 employees, while the other teams will have 4 employees. Since T1 is assigned the Challenging project in the first month, T1 will have 5 employees, and the other teams will have 4 employees each. The following table provides the composition of the teams in the first month: Team SE RE Total T1 4 1 5 T2 3 1 4 T3 2 2 4 T4 1 3 4 T5 0 4 4 In the second month, T2 will be allotted the challenging project. From a, two SEs will be transferred from T1 to T2. One RE is transferred from T2 to T1. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Similar transfers will happen between T2 and T4. The following table provides the number of employees in each team in the second month: Team SE RE Total T1 1 3 4 T2 4 1 5 T3 2 2 4 T4 2 2 4 T5 1 3 4 In the third month, T3 will be allotted the challenging project. From a, two SEs will be transferred from T2 to T3. One RE is transferred from T3 to T2. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the third month: Team SE RE Total T1 0 4 4 T2 1 3 4 T3 4 1 5 T4 3 1 4 T5 2 2 4 In the fourth month, T4 will be allotted the challenging project. From a, two SEs will be transferred from T3 to T4. One RE is transferred from T4 to T3. Team SE RE Total T1 0 4 4 T2 1 3 4 T3 2 2 4 T4 5 0 5 T5 2 2 4 From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE must be transferred from T2 to T4 and one RE must be transferred from T4 to T2. However, there are no REs in T4. Hence, this transfer will not happen. The following table provides the number of employees in each team in the fourth month: In the fifth month, T5 will be allotted the challenging project. From a, two SEs will be transferred from T4 to T5. One RE is transferred from T5 to T4. From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the fifth month: Team SE RE Total T1 0 4 4 T2 0 4 4 T3 2 2 4 T4 4 0 4 T5 4 1 5 The composition of T2 did not change once between the third and the fourth months. The composition of T4 changed between any two successive months. Hence, the answer is (1, 0)."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-52",
+          "number": 52,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of SE in T1 and T5 for the projects in the third month are, respectively:",
+          "options": {
+            "A": "(0, 2)",
+            "B": "(0, 3)",
+            "C": "(1, 2)",
+            "D": "(1, 3)"
+          },
+          "correct_answer": "A",
+          "explanation": "Given that there are 10 SE and 11 RE. In the first month, since T1 has one more SE than T2, who in turn has one more SE than T3, … till T5, the number of SEs in T1, T2, T3, T4 and T5 must be 4, 3, 2, 1 and 0. Also, the team that is assigned the challenging project has one more employee than the rest. Hence, the team that is assigned the challenging project will have 5 employees, while the other teams will have 4 employees. Since T1 is assigned the Challenging project in the first month, T1 will have 5 employees, and the other teams will have 4 employees each. The following table provides the composition of the teams in the first month: Team SE RE Total T1 4 1 5 T2 3 1 4 T3 2 2 4 T4 1 3 4 T5 0 4 4 In the second month, T2 will be allotted the challenging project. From a, two SEs will be transferred from T1 to T2. One RE is transferred from T2 to T1. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Similar transfers will happen between T2 and T4. The following table provides the number of employees in each team in the second month: Team SE RE Total T1 1 3 4 T2 4 1 5 T3 2 2 4 T4 2 2 4 T5 1 3 4 In the third month, T3 will be allotted the challenging project. From a, two SEs will be transferred from T2 to T3. One RE is transferred from T3 to T2. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the third month: Team SE RE Total T1 0 4 4 T2 1 3 4 T3 4 1 5 T4 3 1 4 T5 2 2 4 In the fourth month, T4 will be allotted the challenging project. From a, two SEs will be transferred from T3 to T4. One RE is transferred from T4 to T3. Team SE RE Total T1 0 4 4 T2 1 3 4 T3 2 2 4 T4 5 0 5 T5 2 2 4 From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE must be transferred from T2 to T4 and one RE must be transferred from T4 to T2. However, there are no REs in T4. Hence, this transfer will not happen. The following table provides the number of employees in each team in the fourth month: In the fifth month, T5 will be allotted the challenging project. From a, two SEs will be transferred from T4 to T5. One RE is transferred from T5 to T4. From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the fifth month: Team SE RE Total T1 0 4 4 T2 0 4 4 T3 2 2 4 T4 4 0 4 T5 4 1 5 Number of SE in T1 in third month = 0 Number of SE in T5 in third month = 2. Hence, the answer is (0, 2)"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-53",
+          "number": 53,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following CANNOT be the total credit points earned by any employee from the projects?",
+          "options": {
+            "A": "140",
+            "B": "150",
+            "C": "170",
+            "D": "200"
+          },
+          "correct_answer": "B",
+          "explanation": "Given that there are 10 SE and 11 RE. In the first month, since T1 has one more SE than T2, who in turn has one more SE than T3, … till T5, the number of SEs in T1, T2, T3, T4 and T5 must be 4, 3, 2, 1 and 0. Also, the team that is assigned the challenging project has one more employee than the rest. Hence, the team that is assigned the challenging project will have 5 employees, while the other teams will have 4 employees. Since T1 is assigned the Challenging project in the first month, T1 will have 5 employees, and the other teams will have 4 employees each. The following table provides the composition of the teams in the first month: Team SE RE Total T1 4 1 5 T2 3 1 4 T3 2 2 4 T4 1 3 4 T5 0 4 4 In the second month, T2 will be allotted the challenging project. From a, two SEs will be transferred from T1 to T2. One RE is transferred from T2 to T1. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Similar transfers will happen between T2 and T4. The following table provides the number of employees in each team in the second month: Team SE RE Total T1 1 3 4 T2 4 1 5 T3 2 2 4 T4 2 2 4 T5 1 3 4 In the third month, T3 will be allotted the challenging project. From a, two SEs will be transferred from T2 to T3. One RE is transferred from T3 to T2. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the third month: Team SE RE Total T1 0 4 4 T2 1 3 4 T3 4 1 5 T4 3 1 4 T5 2 2 4 In the fourth month, T4 will be allotted the challenging project. From a, two SEs will be transferred from T3 to T4. One RE is transferred from T4 to T3. Team SE RE Total T1 0 4 4 T2 1 3 4 T3 2 2 4 T4 5 0 5 T5 2 2 4 From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE must be transferred from T2 to T4 and one RE must be transferred from T4 to T2. However, there are no REs in T4. Hence, this transfer will not happen. The following table provides the number of employees in each team in the fourth month: In the fifth month, T5 will be allotted the challenging project. From a, two SEs will be transferred from T4 to T5. One RE is transferred from T5 to T4. From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the fifth month: Team SE RE Total T1 0 4 4 T2 0 4 4 T3 2 2 4 T4 4 0 4 T5 4 1 5 Given that challenging projects has 200 credits and standard projects have 100 credits. In each type of project, the credits are equally shared by the employees in the team. Hence, for a challenging project an employee earns 200/5 = 40 credits For a standard project, an employee earns 100/4 = 25 credits. For the five months, an employee can work in five challenging projects OR four challenging projects and one standard project OR three challenging projects and two standard projects OR two challenging projects and three challenging projects OR one challenging project and four standard projects OR five standard projects. In each case, an employee will earn 200 or 185 or 170 or 155 or 140 or 125 credits. Hence, it is not possible for an employee to earn 150 credits."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-54",
+          "number": 54,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "One of the employees named Aneek scored 185 points. Which of the following CANNOT be true?",
+          "options": {
+            "A": "Aneek worked only in teams T1, T2, T3, and T4",
+            "B": "Aneek worked only in teams T1, T2, T4, and T5",
+            "C": "Aneek worked only in teams T2, T3, T4, and T5",
+            "D": "Aneek worked only in teams T1, T3, T4, and T5"
+          },
+          "correct_answer": "D",
+          "explanation": "Given that there are 10 SE and 11 RE. In the first month, since T1 has one more SE than T2, who in turn has one more SE than T3, … till T5, the number of SEs in T1, T2, T3, T4 and T5 must be 4, 3, 2, 1 and 0. Also, the team that is assigned the challenging project has one more employee than the rest. Hence, the team that is assigned the challenging project will have 5 employees, while the other teams will have 4 employees. Since T1 is assigned the Challenging project in the first month, T1 will have 5 employees, and the other teams will have 4 employees each. The following table provides the composition of the teams in the first month: Team SE RE Total T1 4 1 5 T2 3 1 4 T3 2 2 4 T4 1 3 4 T5 0 4 4 In the second month, T2 will be allotted the challenging project. From a, two SEs will be transferred from T1 to T2. One RE is transferred from T2 to T1. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Similar transfers will happen between T2 and T4. The following table provides the number of employees in each team in the second month: Team SE RE Total T1 1 3 4 T2 4 1 5 T3 2 2 4 T4 2 2 4 T5 1 3 4 In the third month, T3 will be allotted the challenging project. From a, two SEs will be transferred from T2 to T3. One RE is transferred from T3 to T2. From b, one SE will be transferred from T1 to T5, one RE will be transferred from T5 to T1. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the third month: Team SE RE Total T1 0 4 4 T2 1 3 4 T3 4 1 5 T4 3 1 4 T5 2 2 4 In the fourth month, T4 will be allotted the challenging project. From a, two SEs will be transferred from T3 to T4. One RE is transferred from T4 to T3. Team SE RE Total T1 0 4 4 T2 1 3 4 T3 2 2 4 T4 5 0 5 T5 2 2 4 From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE must be transferred from T2 to T4 and one RE must be transferred from T4 to T2. However, there are no REs in T4. Hence, this transfer will not happen. The following table provides the number of employees in each team in the fourth month: In the fifth month, T5 will be allotted the challenging project. From a, two SEs will be transferred from T4 to T5. One RE is transferred from T5 to T4. From b, one SE must be transferred from T1 to T5. However, since there are no SEs in T1, this will not happen. Also, one SE will be transferred from T2 to T4 and one RE will be transferred from T4 to T2. The following table provides the number of employees in each team in the fifth month: Team SE RE Total T1 0 4 4 T2 0 4 4 T3 2 2 4 T4 4 0 4 T5 4 1 5 Since Aneek secured 185 credits, he worked in four challenging projects and one standard project. Option A: Aneek could have worked in T1 in first month (in challenging project), T2 in second month (in challenging project), T3 in third month (in challenging project), T4 in fourth month (in challenging project) and fifth month (in standard project). Hence, this is possible. Option B: Aneek could have worked in T1 in first month (in challenging project), T2 in second month (in challenging project), T4 in third month (in standard project), T4 in fourth month (in challenging project) and T5 in fifth month (in challenging project). Hence, this is possible. Option C: Aneek could have worked in T2 in first month (in standard project), T2 in second month (in challenging project), T3 in third month (in challenging project), T4 in fourth month (in challenging project) and T5 in fifth month (in challenging project). Hence, this is possible. Option D: Aneek could have worked in T1 in first month (in challenging project). He can work in T1 or T5 in the second month. In either case, he cannot work in T3 without working in T2 first. If we assume, he worked in T3 in the first month, he could not have worked in four teams in the five months. Similarly, we can rule out the other possibilities for this option. Hence, this is the answer."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-55",
+          "number": 55,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a square layout of size 5m × 5m, 25 equal sized square platforms of different heights are built. The heights (in metres) of\nindividual platforms are as shown below:\n6 1 2 4 3\n9 5 3 2 8\n7 8 4 6 5\n3 9 5 1 2\n1 7 6 3 9\nIndividuals (all of same height) are seated on these platforms. We say an individual A can reach art individual B if all the three\nfollowing conditions are met:\n(i) A and B are In the same row or column\n(ii) A is at a lower height than B\n(iii) If there is/are any individuals (s) between A and B, such individual(s) must be at a height tower\nthan that of A.\nThus in the table given above, consider the Individual seated at height 8 on 3rd row and 2nd column. He can be reached by\nfour individuals. He can be reached by the individual on his left at height 7, by the two individuals on his right at heights of 4\nand 6 and by the individual above at height 5.\nRows in the layout are numbered from top to bottom and columns are numbered from left to right.\nHow many individuals in this layout can be reached by just one individual?",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "C",
+          "explanation": "The heights of the platforms given is as below 6 1 2 4 3 9 5 3 2 8 7 8 4 6 5 3 9 5 1 2 1 7 6 3 9 The number of persons who can be reached by just one individual is circled A total of 7 persons can be reached by just one individual."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-56",
+          "number": 56,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following is true for any individual at a platform of height 1 m in this layout?",
+          "options": {
+            "A": "They can be reached by all the individuals in their own row and column",
+            "B": "They can be reached by at least 4 individuals",
+            "C": "They can be reached by at least one individual",
+            "D": "They cannot be reached by anyone"
+          },
+          "correct_answer": "D",
+          "explanation": "The heights of the platforms given is as below 6 1 2 4 3 9 5 3 2 8 7 8 4 6 5 3 9 5 1 2 1 7 6 3 9 For individual at a platform of height 1, they cannot be reached by anyone as condition (II) will be violated."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-57",
+          "number": 57,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "We can find two individuals who cannot be reached by anyone in",
+          "options": {
+            "A": "the last row",
+            "B": "the fourth row",
+            "C": "the fourth column",
+            "D": "the middle column"
+          },
+          "correct_answer": "C",
+          "explanation": "The heights of the platforms given is as below 6 1 2 4 3 9 5 3 2 8 7 8 4 6 5 3 9 5 1 2 1 7 6 3 9 Only in the fourth column can we find two individuals who cannot be reached by anyone. In the fourth column the individual at height 2 and the individual at height 1 cannot be reached by anyone."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-58",
+          "number": 58,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following statements is true about this layout?",
+          "options": {
+            "A": "Each row has an individual who can be reached by 5 or more individuals",
+            "B": "Each row has an individual who cannot be reached by anyone",
+            "C": "Each row has at least two individuals who can be reached by an equal number of individuals",
+            "D": "All individuals at the height of 9 m can be reached by at least 5 individuals"
+          },
+          "correct_answer": "C",
+          "explanation": "The heights of the platforms given is as below 6 1 2 4 3 9 5 3 2 8 7 8 4 6 5 3 9 5 1 2 1 7 6 3 9 Statement 1 is wrong as no individual in row 1 can be reached by 5 or more individuals. Statement 2 is wrong as row 3 has no individual who cannot be reached by anyone. Statement 4 is wrong as the individual at height 9 in column 1 can be reached by only 4 individuals. ∴ Only statement 3 is correct."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-59",
+          "number": 59,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A new airlines company is planning to start operations in a country. The company has identified ten different cities which they\nplan to connect through their network to start with. The flight duration between any pair of cities will be less than one hour. To\nstart operations, the company has to decide on a daily schedule.\nThe underlying principle that they are working on is the following:\nAny person staying in any of these 10 cities should be able to make a trip to any other city in the morning and should be able\nto return by the evening of the same day.\nIf the underlying principle is to be satisfied in such a way that the journey between any two cities can be performed using only\ndirect (non-stop) flights, then the minimum number of direct flights to be scheduled is:",
+          "options": {
+            "A": "45",
+            "B": "90",
+            "C": "180",
+            "D": "135"
+          },
+          "correct_answer": "C",
+          "explanation": "For any pair of cities, say A and B, to satisfy the underlying principle, there must be a morning flight from A to B, an evening flight from B to A and a morning flight from B to A and an evening flight from A to B. Only then can a person from A or B travel to B or A and return the same day. Hence, there must be four flights between any pair of cities. Number of ways of selecting two cities from ten cities Hence, the minimum number of flights that must be scheduled = 45 ×4 = 180."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-60",
+          "number": 60,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A new airlines company is planning to start operations in a country. The company has identified ten different cities which they\nplan to connect through their network to start with. The flight duration between any pair of cities will be less than one hour. To\nstart operations, the company has to decide on a daily schedule.\nThe underlying principle that they are working on is the following:\nAny person staying in any of these 10 cities should be able to make a trip to any other city in the morning and should be able\nto return by the evening of the same day.\nSuppose three of the ten cities are to be developed as hubs. A hub is a city which is connected with every other city by direct\nflights each way, both in the morning as well as in the evening. The only direct flights which will be scheduled are originating\nand/or terminating in one of the hubs. Then the minimum number of direct flights that need to be scheduled so that the\nunderlying principle of the airline to serve all the ten cities is met without visiting more than one hub during one trip is:",
+          "options": {
+            "A": "54",
+            "B": "120",
+            "C": "96",
+            "D": "60"
+          },
+          "correct_answer": "C",
+          "explanation": "Let the ten cities be represented by A through J. Among these ten cities, consider A, B and C to be hubs and the other seven cities to be non-hub cities. It is given that any direct flight should originate and/or terminate at a hub. Consider city D, which not a hub. D should be connected to each of A, B and C. Between D and each of A, B and C, there must be four flights (from the above solution). Hence, from D, there must be 4 × 3 = 12 flights to the three hubs, A, B and C. Similarly, for each of the other six non-hub cities, there must be 12 flights connecting each non-hub city with the three hubs. Hence, a total of 12 ×7 = 84 flights will connect a non-hub city with a hub. In addition to this, the three hubs must be connected amongst themselves. Since there must be four flights between any pair of cities, there must be a total of 4 × 3 = 12 flights connecting any pair of hubs. Hence, the total minimum number of flights that should be scheduled = 84 + 12 = 96."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-61",
+          "number": 61,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A new airlines company is planning to start operations in a country. The company has identified ten different cities which they\nplan to connect through their network to start with. The flight duration between any pair of cities will be less than one hour. To\nstart operations, the company has to decide on a daily schedule.\nThe underlying principle that they are working on is the following:\nAny person staying in any of these 10 cities should be able to make a trip to any other city in the morning and should be able\nto return by the evening of the same day.\nSuppose the 10 cities are divided into 4 distinct groups 01,02,03,04 having 3, 3, 2 and 2 cities respectively and that G1 consists\nof cities named A, B and C. Further, suppose that direct flights are allowed only between two cities satisfying one of the\nfollowing:\n1. Both cities are in G1\n2. Between A and any city in G2\n3. Between B and any city in G3\n4. Between C and any city in G4\nThen the minimum number of direct flights that satisfies the underlying principle of the airline is:",
+          "options": {
+            "A": "40",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "40",
+          "explanation": "Given that G1 has the cities A, B and C. G2, G3 and G4 have 3, 2 and 2 cities respectively. From the given conditions, we can see that a city in G2 cannot be connected by a direct flight to a city in G3 or G4. Hence, for a person to travel from a city in G2 to a city in G3 or G4, all the cities in G2 must be connected to A and from A, he can travel to B or C to travel to a city G3 or G4 respectively. Hence, the 3 cities in G2 must be connected to A. Between each pair of cities there must be four flights. Hence, there must be 4 × 3 = 12 flights between cities in G2 and A. Since there are 2 cities in G3, there must be 2 × 4 = 8 flights between cities in G3 and B. Since there are 2 cities in G4, there must be 2 × 4 = 8 flights between cities in G4 and C. Also, the cities in G1, i.e., A, B and C must be connected to each other. Hence, there must be an additional 4 × 3 = 12 flights between these three cities. Therefore, the total minimum number of direct flights that must be scheduled = 12 + 8 + 8 + 12 = 40"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-62",
+          "number": 62,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A new airlines company is planning to start operations in a country. The company has identified ten different cities which they\nplan to connect through their network to start with. The flight duration between any pair of cities will be less than one hour. To\nstart operations, the company has to decide on a daily schedule.\nThe underlying principle that they are working on is the following:\nAny person staying in any of these 10 cities should be able to make a trip to any other city in the morning and should be able\nto return by the evening of the same day.\nSuppose the 10 cities are divided into 4 distinct groups G1, G2, G3, G4 having 3, 3, 2 and 2 cities respectively and that G1\nconsists of cities named A, B and C. Further, suppose that direct flights are allowed only between two cities satisfying one of the\nfollowing:\n1. Both cities are in G1\n2. Between A and any city in G2\n3. Between B and any city in G3\n4. Between C and any city in G4\nHowever, due to operational difficulties at A, it was later decided that the only flights that would operate at A would be those\nto and from B. Cities in G2 would have to be assigned to G3 or to G4.\nWhat would be the maximum reduction in the number of direct flights as compared to the situation before the operational\ndifficulties arose?",
+          "options": {
+            "A": "4",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "4",
+          "explanation": "It is given that the cities in G2 will be assigned to G3 or G4. However, this, by itself, will not result in any reduction in the number of flights because the cities in G2 will still have to be connected to either B or C. However, it is also given that there are now no flights between A and C. Hence, the 4 flights that would have been scheduled in the previous case, will now not be scheduled. Hence, the reduction in the number of flights can be a maximum of 4."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-63",
+          "number": 63,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Four cars need to travel from Akala (A) to Bakala (B). Two routes are available, one via Mamur (M) and the other via Nanur (N).\nThe roads from A to M, and from N to B, are both short and narrow. In each case, one car takes 6 minutes to cover the distance,\nand each additional car increases the travel time per car by 3 minutes because of congestion. (For example, if only two cars\ndrive from A to M, each car takes 9 minutes.) On the road from A to N, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 1 minute. On the road from M to B, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 0.9 minute.\nThe police department orders each car to take a particular route in such a manner that it is not possible for any car to reduce its\ntravel time by not following the order, while the other cars are following the order.\nHow many cars would be asked to take the route A-N-B, that is Akala-Nanur-Bakala route, by the police department?",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "As there are four cars and as the time through each route is nearly the same, two cars should go through A-M-B and the other two through A-N-B. In case three cars are directed to go through any of the routes, one of the three cars can break the police order and reduce its travel time."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-64",
+          "number": 64,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Four cars need to travel from Akala (A) to Bakala (B). Two routes are available, one via Mamur (M) and the other via Nanur (N).\nThe roads from A to M, and from N to B, are both short and narrow. In each case, one car takes 6 minutes to cover the distance,\nand each additional car increases the travel time per car by 3 minutes because of congestion. (For example, if only two cars\ndrive from A to M, each car takes 9 minutes.) On the road from A to N, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 1 minute. On the road from M to B, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 0.9 minute.\nThe police department orders each car to take a particular route in such a manner that it is not possible for any car to reduce its\ntravel time by not following the order, while the other cars are following the order.\n\nIf all the cars follow the police order, what is the difference in travel time (in minutes) between a car which takes the route A-N-\nB and a car that takes the route A-M-B?",
+          "options": {
+            "A": "1",
+            "B": "0.1",
+            "C": "0.2",
+            "D": "0.9"
+          },
+          "correct_answer": "B",
+          "explanation": "According to the police order 2 cars each would pass through A – M – B and A – N – B. Then time taken through A – M – B = 29.9 and time taken through A – N – B = 30.0 ∴ Difference = 0.1"
+        },
+        {
+          "id": "cat-2017-slot1-dilr-65",
+          "number": 65,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Four cars need to travel from Akala (A) to Bakala (B). Two routes are available, one via Mamur (M) and the other via Nanur (N).\nThe roads from A to M, and from N to B, are both short and narrow. In each case, one car takes 6 minutes to cover the distance,\nand each additional car increases the travel time per car by 3 minutes because of congestion. (For example, if only two cars\ndrive from A to M, each car takes 9 minutes.) On the road from A to N, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 1 minute. On the road from M to B, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 0.9 minute.\nThe police department orders each car to take a particular route in such a manner that it is not possible for any car to reduce its\ntravel time by not following the order, while the other cars are following the order.\nA new one-way road is built from M to N. Each car now has three possible routes to travel from A to B: A-M-B, A-N-B and A-M-\nN-B. On the road from M to N, one car takes 7 minutes and each additional car increases the travel time per car by 1 minute.\nAssume that any car taking the A-M-N-B route travels the A-M portion at the same time as other cars taking the A-M-B route,\nand the N-B portion at the same time as other cars taking the A-N-B route.\nHow many cars would the police department order to take the A-M-N-B route so that it is not possible for any car to reduce its\ntravel time by not following the order while the other cars follow the order? (Assume that the police department would never\norder all the cars to take the same route.)",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "No car should be able to reduce its travel time by not following the order and all the cars cannot take the same route. So either two or three cars should go through A-M. If two cars go through M-B, one car can break the police order and go through M-N and reach B in 9 + 7 + 12 = 28 minutes as compared to 29.9 minutes had both gone through A-M-B. If two cars go through A-M and one is directed to go through M-N, one of the cars which was directed to go through A-N can break the police order and go through A-M-B and save time as follows: Original time (A-N-B) = 21 + 12 = (three cars) = 33 New time = 12 (3 cars) + 20 .9 = 32.9 The police department cannot direct both cars to go through M-N as in that case all four cars would go through N-B In case three cars are directed to go through A-M, either one car can be directed through M-N or two cars can be directed through M-N. If one car is directed through M-N, one of the two cars directed through M-B, can break the police order and go through M-N, and save time as shown. Original time (A-M-B) = 12 (3 cars) + 20.9 = 32.9 New time (A-M-N-B) = 12 + 8 + 12 = 32 minutes. ∴ two cars must be directed through M-N such that any car breaking the police order cannot reduce the travel time."
+        },
+        {
+          "id": "cat-2017-slot1-dilr-66",
+          "number": 66,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Four cars need to travel from Akala (A) to Bakala (B). Two routes are available, one via Mamur (M) and the other via Nanur (N).\nThe roads from A to M, and from N to B, are both short and narrow. In each case, one car takes 6 minutes to cover the distance,\nand each additional car increases the travel time per car by 3 minutes because of congestion. (For example, if only two cars\ndrive from A to M, each car takes 9 minutes.) On the road from A to N, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 1 minute. On the road from M to B, one car takes 20 minutes, and each additional car\nincreases the travel time per car by 0.9 minute.\nThe police department orders each car to take a particular route in such a manner that it is not possible for any car to reduce its\ntravel time by not following the order, while the other cars are following the order.\nA new one-way road is built from M to N. Each car now has three possible routes to travel from A to B: A-M-B, A-N-B and A-M-\nN-B. On the road from M to N, one car takes 7 minutes and each additional car increases the travel time per car by 1 minute.\nAssume that any car taking the A-M-N-B route travels the A-M portion at the same time as other cars taking the A-M-B route,\nand the N-B portion at the same time as other cars taking the - A-N-B route.\nIf all the cars follow the police order, what is the minimum travel time (in minutes) from A to B? (Assume that the police\ndepartment would never order all the cars to take the same route.)",
+          "options": {
+            "A": "26",
+            "B": "32",
+            "C": "29.9",
+            "D": "30"
+          },
+          "correct_answer": "B",
+          "explanation": "When all cars follow the police order the time taken would be A-M-B (1 car) = 12 + 20 = 32 minutes. A-M-N-B (2cars) = 12 + 8 + 12 = 32 minutes. A-N-B (1 car) = 20 + 12 =32 minutes."
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2017-slot1-qa-67",
+          "number": 67,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Arun's present age in years is 40% of Barun's. In another few years, Arun's age will be half of Barun's. By what percentage will\nBarun's age increase during this period?",
+          "options": {
+            "A": "20",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "20",
+          "explanation": "Let Barun’s age be 10x. Arun’s age is 4x. The difference of these ages in 6x, a constant. When Arun’s age is 50% of Barun’s age, this difference also would be 50% ie Barun’s age, at that stage would be 12x. It would be increase by 20%."
+        },
+        {
+          "id": "cat-2017-slot1-qa-68",
+          "number": 68,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can\ncomplete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new\nperson with the same efficiency joins the work. How many days are required to complete the job?",
+          "options": {
+            "A": "15",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "15",
+          "explanation": "Let the number of days required to complete the job be n. 1 person works on day 1, 2 on day 2, 3 on day 3, …. n on day n. Each person has the same efficiency."
+        },
+        {
+          "id": "cat-2017-slot1-qa-69",
+          "number": 69,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "An elevator has a weight limit of 630 kg. It is carrying a group of people of whom the heaviest weighs 57 kg and the lightest\nweighs 53 kg. What is the maximum possible number of people in the group?",
+          "options": {
+            "A": "11",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "11",
+          "explanation": "Maximum possible number of people in the group = 11."
+        },
+        {
+          "id": "cat-2017-slot1-qa-70",
+          "number": 70,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A man leaves his home and walks at a speed of 12 km per hour, reaching the railway station 10 minutes after the train had\ndeparted. If instead he had walked at a speed of 15 km per hour, he would have reached the station 10 minutes before the\ntrain's departure. The distance (in km) from his home to the railway station is",
+          "options": {
+            "A": "20",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "20",
+          "explanation": "The speed in the second case is 5/4 times the speed in the first case. Therefore, the time would be 4/5 times the time, i.e., 1/5 less. This one fifth is 20 min. Therefore, the time taken in the first case is 100 min."
+        },
+        {
+          "id": "cat-2017-slot1-qa-71",
+          "number": 71,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Ravi invests 50% of his monthly savings in fixed deposits. Thirty percent of the rest of his savings is invested in stocks and the\nrest goes into Ravi's savings bank account. If the total amount deposited by him in the bank (for savings account and fixed\ndeposits) is Rs 59500, then Ravi's total monthly savings (in Rs) is",
+          "options": {
+            "A": "70000",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "70000",
+          "explanation": "Let the total monthly savings be S. S = 70000"
+        },
+        {
+          "id": "cat-2017-slot1-qa-72",
+          "number": 72,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a seller gives a discount of 15% on retail price, she still makes a profit of 2%. Which of the following ensures that she makes a\nprofit of 20%?",
+          "options": {
+            "A": "Give a discount of 5% on retail price",
+            "B": "Give a discount of 2% on retail price",
+            "C": "Increase the retail price by 2%",
+            "D": "Sell at retail price"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the retail price be 100. Discount = 15 Selling price = 85 In order to make a profit of 20%, the selling price The seller must sell at the retail price"
+        },
+        {
+          "id": "cat-2017-slot1-qa-73",
+          "number": 73,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A man travels by a motor boat down a river to his office and back. With the speed of the river unchanged, if he doubles the\nspeed of his motor boat, then his total travel time gets reduced by 75%. The ratio of the original speed of the motor boat to the\nspeed of the river is",
+          "options": {
+            "A": "B)",
+            "C": "D) 3: 2"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the speed of the boat in still water and the speed of the river be u and v respectively."
+        },
+        {
+          "id": "cat-2017-slot1-qa-74",
+          "number": 74,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose, C1, C2, C3, C4, and C5 are five companies. The profits made by C1, C2, and C3 are in the ratio 9 : 10 : 8 while the\nprofits made by C2, C4, and C5 are in the ratio 18 : 19 : 20. If C5 has made a profit of Rs 19 crore more than C1, then the total\nprofit (in Rs) made by all five companies is",
+          "options": {
+            "A": "438 crore",
+            "B": "435 crore",
+            "C": "348 crore",
+            "D": "345 crore"
+          },
+          "correct_answer": "A",
+          "explanation": "The data is given below C1 C2 C3 C4 C5 9 10 8 18 19 20 81 90 72 95 100 C5 – C1 = 19. The numbers above are the actual profits (and not just the ratio). The total profit = 438 crore."
+        },
+        {
+          "id": "cat-2017-slot1-qa-75",
+          "number": 75,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of girls appearing for an admission test is twice the number of boys. If 30% of the girls and 45% of the boys get\nadmission, the percentage of candidates who do not get admission is",
+          "options": {
+            "A": "35",
+            "B": "50",
+            "C": "60",
+            "D": "65"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the number of boys appearing for the admission test be b. Percentage of candidates who get admission = 65% of the candidates do not get admission."
+        },
+        {
+          "id": "cat-2017-slot1-qa-76",
+          "number": 76,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A stall sells popcorn and chips in packets of three sizes: large, super, and jumbo. The numbers of large, super, and jumbo\npackets in its stock are in the ratio 7 : 17 : 16 for popcorn and 6 : 15 : 14 for chips. If the total number of popcorn packets in its\nstock is the same as that of chips packets, then the numbers of jumbo popcorn packets and jumbo chips packets are in the\nratio",
+          "options": {
+            "A": "1: 1",
+            "B": "8: 7",
+            "C": "4: 3",
+            "D": "6: 5"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the total number of popcorn packets in stock be T. Total number of chips packets in stock = T"
+        },
+        {
+          "id": "cat-2017-slot1-qa-77",
+          "number": 77,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a market, the price of medium quality mangoes is half that of good mangoes. A shopkeeper buys 80 kg good mangoes and\n40 kg medium quality mangoes from the market and then sells all these at a common price which is 10% less than the price at\nwhich he bought the good ones. His overall profit is",
+          "options": {
+            "A": "6%",
+            "B": "8%",
+            "C": "10%",
+            "D": "12%"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the price of each good mango be g. Price of each medium quality mango Total selling price = 120(0.9g) = 108g Overall profit = 8%"
+        },
+        {
+          "id": "cat-2017-slot1-qa-78",
+          "number": 78,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If Fatima sells 60 identical toys at a 40% discount on the printed price, then she makes 20% profit. Ten of these toys are\ndestroyed in fire. While selling the rest, how much discount should be given on the printed price so that she can make the same\namount of profit?",
+          "options": {
+            "A": "30%",
+            "B": "25%",
+            "C": "24%",
+            "D": "28%"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the printed price be p. If 40% discount is given, selling price = 0.6(60p) =36p As profit is 20%, the CP = 36p/1.2 = 30p Ten toys are destroyed in the fire. The remaining toys are sold at a price such that the same amount of profit is made as in the first case. Profit made on remaining toys = 6p Total selling price of remaining toys = 36p Discount that should be given = 50p – 36p = 14p Discount% =14p/50p × 100 = 28%"
+        },
+        {
+          "id": "cat-2017-slot1-qa-79",
+          "number": 79,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a and b are integers of opposite signs such that (a + 3)2 : b2 = 9 : 1 and (a - 1)2 : (b - 1)2 = 4 : 1, then the ratio a : b is",
+          "options": {
+            "A": "9:4",
+            "B": "81:4",
+            "C": "1: 4",
+            "D": "25: 4"
+          },
+          "correct_answer": "D",
+          "explanation": "We get 4 cases a +3 = 3b a + 3 = 3b a – 1 = –2b + 2 a – 1 = 2b – 2 a+3 = –3b a + 3 = –3b a – 1 = 2b – 2 a – 1 = –2b + 2 Subtracting the second equation from the first we get, I II III IV 4 b+2 5b-2 -5b+2 -b – 2 I ⇒ b = 2, a = 3 Rejected II, III ⇒ b is not an integer. Rejected IV ⇒ b = –6 , a = 15"
+        },
+        {
+          "id": "cat-2017-slot1-qa-80",
+          "number": 80,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A class consists of 20 boys and 30 girls. In the mid-semester examination, the average score of the girls was 5 higher than that\nof the boys. In the final exam, however, the average score of the girls dropped by 3 while the average score of the entire class\nincreased by 2. The increase in the average score of the boys is",
+          "options": {
+            "A": "9.5",
+            "B": "10",
+            "C": "4.5",
+            "D": "6"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the average score of the boys in the midsemester examination be b. Average score of the girls = b + 5 In the final exam, average score of the girls = b + 5 – 3 = b + 2. Average score of the entire class increased by 2 and is hence Average score of the boys Increases in the average of boys is 9.5."
+        },
+        {
+          "id": "cat-2017-slot1-qa-81",
+          "number": 81,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "The area of the closed region bounded by the equation | x | + | y | = 2 in the two-dimensional plane is",
+          "options": {
+            "A": "4π",
+            "B": "4",
+            "C": "8",
+            "D": "2π"
+          },
+          "correct_answer": "C",
+          "explanation": "The closed region bounded by |ax| + |by| = c in the two- dimensional plane has x-intercepts of and y- intercepts of This is in general a rhombus. In the given question, we have a square which has each of its diagonals as 4."
+        },
+        {
+          "id": "cat-2017-slot1-qa-82",
+          "number": 82,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "From a triangle ABC with sides of lengths 40 ft, 25 ft and 35 ft, a triangular portion GBC is cut off where G is the centroid of\nABC. The area, in sq ft, of the remaining portion of triangle ABC is",
+          "options": {
+            "A": "B)",
+            "C": "D) 500 / √3 275 / √3 250 / √3"
+          },
+          "correct_answer": "B",
+          "explanation": "The medians of a triangle divide the triangle into six parts of equal area."
+        },
+        {
+          "id": "cat-2017-slot1-qa-83",
+          "number": 83,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let ABC be a right-angled isosceles triangle with hypotenuse BC. Let BQC be a semi-circle, away from A, with diameter BC. Let\nBPC be an arc of a circle centered at A and lying between BC and BQC. If AB has length 6 cm then the area, in sq cm, of the\nregion enclosed by BPC and BQC is",
+          "options": {
+            "A": "9π - 18",
+            "B": "18",
+            "C": "9π",
+            "D": "9"
+          },
+          "correct_answer": "B",
+          "explanation": "Let AB = a (a = 6) CQB is a semicircle of radius CPB is a quarter circle (quadrant) of radius a ∴ Area of semicircle = Area of quadrant = ∴ Area of region enclosed by BPC, BQC = Area of ∆ABC = 18."
+        },
+        {
+          "id": "cat-2017-slot1-qa-84",
+          "number": 84,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A solid metallic cube is melted to form five solid cubes whose volumes are in the ratio 1 : 1 : 8: 27: 27. The percentage by which\nthe sum of the surface areas of these five cubes exceeds the surface area of the original cube is nearest to",
+          "options": {
+            "A": "10",
+            "B": "50",
+            "C": "60",
+            "D": "20"
+          },
+          "correct_answer": "B",
+          "explanation": "The volumes of the 5 smaller cubes and the original big one are in the ratio 1 : 1 : 8 : 27 : 27 : 64. Therefore, the sides are in the ratio 1 : 1 : 2 : 3 : 3 : 4 while the areas are in the ratio 1 : 1 : 4 : 9 : 9 : 16. The sum of the areas of the 5 smaller cubes is 24 parts while that of the big cube is 16 parts. The sum is 50% greater."
+        },
+        {
+          "id": "cat-2017-slot1-qa-85",
+          "number": 85,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "A ball of diameter 4 cm is kept on top of a hollow cylinder standing vertically. The height of the cylinder is 3 cm, while its\nvolume is 9 π cm3. Then the vertical distance, in cm, of the topmost point of the ball from the base of the cylinder is",
+          "options": {
+            "A": "6",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "6",
+          "explanation": "The height of the cylinder (h) = 3 The volume = 9π πr2h = 9π ⇒ r = √3 The radius of the ball (R) = 2 The height of O, the centre of the ball, above the line representing the top of the cylinder is say a. (a = 1) ∴ The height of the topmost point of the ball from the base of the cylinder is h + a +R = 3 + 1 + 2 = 6"
+        },
+        {
+          "id": "cat-2017-slot1-qa-86",
+          "number": 86,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let ABC be a right-angled triangle with BC as the hypotenuse. Lengths of AB and AC are 15 km and 20 krn, respectively. The\nminimum possible time, in minutes, required to reach the hypotenuse from A at a speed of 30 km per hour is",
+          "options": {
+            "A": "24",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "24",
+          "explanation": "In a 3, 4, 5 triangle, the length of the altitude to the hypotenuse = 3(4)/5 = 2.4. Therefore, in a 15, 20, 25 triangle, it is 12. This is the shortest distance from A to BC. At 60 km/hr, i.e., 1 km/min, it would take 24 min to cover 24 km."
+        },
+        {
+          "id": "cat-2017-slot1-qa-87",
+          "number": 87,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose, log x = log y = a, where x, y are positive numbers. If G is the geometric mean of x and y, and log G is equal to\n3 12 6",
+          "options": {
+            "A": "B) 2a",
+            "C": "a/2",
+            "D": "a"
+          },
+          "correct_answer": "D",
+          "explanation": "log x = a ⇒ x = 3a log y = a ⇒ y = 12a ∴ xy = 36a and xy = G = 6a ∴ log G = a"
+        },
+        {
+          "id": "cat-2017-slot1-qa-88",
+          "number": 88,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If x + 1 = x2 and x > 0, then 2x4 is",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "D",
+          "explanation": "x + 1 = x2 ⇒ x2 – x – 1 = 0 ⇒ x = Also, x2 = x + 1 ⇒ x4 =x2 + 2x + 1 = 3x + 2 ⇒ 2x4 = 6x + 4 = 3 +"
+        },
+        {
+          "id": "cat-2017-slot1-qa-89",
+          "number": 89,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "B)",
+            "C": "D)"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2017-slot1-qa-90",
+          "number": 90,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If 92x – 1 – 81x-1 = 1944, then x is",
+          "options": {
+            "A": "3",
+            "B": "9/4",
+            "C": "4/9",
+            "D": "1/3"
+          },
+          "correct_answer": "B",
+          "explanation": "92x – 1– 92x – 2 = 92x – 2(9 – 1) = 1944 = 8(243) = 8(92.5)"
+        },
+        {
+          "id": "cat-2017-slot1-qa-91",
+          "number": 91,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "The number of solutions (x, y, z) to the equation x – y – z = 25, where x, y, and z are positive integers such that x ≤ 40, y ≤ 12,\nand z ≤ 12 is",
+          "options": {
+            "A": "101",
+            "B": "99",
+            "C": "87",
+            "D": "105"
+          },
+          "correct_answer": "B",
+          "explanation": "x = 25 + y + z. The possible values of x, y, z and the corresponding number of values of y, z are tabulated below (x, y, z are positive integers). We see that 27 ≤ x ≤ 40 No of x y z values of (x, y) 27 1 1 1 28 1,2 2,1 2 - - - - 38 1, …. 2 12, … 1 12 39 2, …. 12, 12, … 2 11 40 3, …. 12 12, …. 3 10 The number of solutions is 1 + 2 + …… + 12 + 11 + 10 = 78 + 21 = 99"
+        },
+        {
+          "id": "cat-2017-slot1-qa-92",
+          "number": 92,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "For how many integers n, will the inequality (n – 5) (n – 10) – 3(n – 2) ≤ 0 be satisfied?",
+          "options": {
+            "A": "11",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "11",
+          "explanation": "(n – 5) (n – 10) – 3(n – 2) ≤ 0 ⇒ n2 – 18n + 56 ≤ 0 ⇒ (n – 4) (n – 14) ≤ 0 As n is an integer, n can be 4, 5, 6 ……14, i.e. it can have 11 values."
+        },
+        {
+          "id": "cat-2017-slot1-qa-93",
+          "number": 93,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If f (x) = x2 + 11x + n and f (x) = x, then the largest positive integer n for which the equation f (x) = f (x) has two distinct real\n1 2 1 2\nroots, is",
+          "options": {
+            "A": "24",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "24",
+          "explanation": "x2 + 11x + n = x ⇒ x2 + 10x + n = 0 Since the roots of this equation are real and distinct, b2 – 4ac > 0 so 100 – 4n > 0 ⇒ n < 25 The maximum value of n for which the equation has two distinct real roots is 24."
+        },
+        {
+          "id": "cat-2017-slot1-qa-94",
+          "number": 94,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If a, b, c, and d are integers such that a + b + c + d = 30, then the minimum possible value of (a - b)2 + (a - c)2 + (a - d)2 is",
+          "options": {
+            "A": "2",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "2",
+          "explanation": "a + b + c + d = 30, a, b, c, d are integers. (a – b)2 + (a – c)2 + (a – d)2 would have its maximum value when each bracket has the least possible value. Let (a, b, c, d) = (8, 8, 7, 7) The given expression would be 2. It cannot have a smaller value."
+        },
+        {
+          "id": "cat-2017-slot1-qa-95",
+          "number": 95,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let AB, CD, EF, GH, and JK be five diameters of a circle with center at O. In how many ways can three points be chosen out of A,\nB, C, D, E, F, G, H, J, K, and O so as to form a triangle?",
+          "options": {
+            "A": "160",
+            "B": "C)",
+            "D": ""
+          },
+          "correct_answer": "160",
+          "explanation": "There are 5 pairs of diametrically opposite points and the centre O. If O is not selected, the number of triangles = 10C = 120. If O is selected, the other two points can be selected in 10(8)/2, i.e., 40 ways. The number of triangles is 160."
+        },
+        {
+          "id": "cat-2017-slot1-qa-96",
+          "number": 96,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "The shortest distance of the point from the curve y = |x -1| + |x + 1| is",
+          "options": {
+            "A": "1",
+            "B": "0",
+            "C": "D)"
+          },
+          "correct_answer": "A",
+          "explanation": "The graph of y = |x – 1| + |x + 1| is shown above. The shortest distance of from the graph is 1."
+        },
+        {
+          "id": "cat-2017-slot1-qa-97",
+          "number": 97,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "If the square of the 7th term of an arithmetic progression with positive common difference equals the product of the 3rd and\n17th terms, then the ratio of the first term to the common difference is",
+          "options": {
+            "A": "2: 3",
+            "B": "3 : 2",
+            "C": "3: 4",
+            "D": "4: 3"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the first term be a and the common difference be d. (a + 6d)2 = (a + 2d) (a + 16d) ⇒ a2 + 12ad + 36d2 = a2 + 18ad + 32d2 ⇒ 4d2 = 6ad"
+        },
+        {
+          "id": "cat-2017-slot1-qa-98",
+          "number": 98,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "In how many ways can 7 identical erasers be distributed among 4 kids in such a way that each kid gets at least one eraser but\nnobody gets more than 3 erasers?",
+          "options": {
+            "A": "16",
+            "B": "20",
+            "C": "14",
+            "D": "15"
+          },
+          "correct_answer": "A",
+          "explanation": "After giving one eraser to each of the 4 kids, there are 3 left. They can split 2, 1 or 1, 1, 1. (No kid can get 4) There are 4P + 4C , i.e., 16 ways of distributing the erasers. 2 3"
+        },
+        {
+          "id": "cat-2017-slot1-qa-99",
+          "number": 99,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "2",
+            "B": "C) 6",
+            "D": ""
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2017-slot1-qa-100",
+          "number": 100,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "",
+          "passage": "",
+          "passage_group": null,
+          "question": "Let a , a ,……..a be an arithmetic progression with a = 3 and a = 7. If a + a + ….+a = 1830, then what is the smallest\n1 2 3n 1 2 1 2 3n\npositive integer m such that m (a + a + …. + a ) > 1830?\n1 2 n",
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+          },
+          "correct_answer": "B",
+          "explanation": "a = 3, a = 7, ….. a = 4n – 1, …. a = 4(3n) – 1 1 2 n 3n ⇒ n(6n + 1) = 610 ⇒ 6n2 + n – 610 = 0 ⇒ (6n + 61) (n – 10) = 0 ⇒ n = 10 (∵ n is an integer) Now m (a + a + …. + a ) > 1830 1 2 n ⇒ 210m > 1830 ⇒ m > 1830/210 = 8.7 The minimum integral value of m is 9"
+        }
+      ]
+    }
+  }
+}

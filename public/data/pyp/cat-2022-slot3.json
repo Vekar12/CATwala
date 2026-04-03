@@ -1,0 +1,1131 @@
+{
+  "id": "cat-2022-slot3",
+  "year": 2022,
+  "slot": 3,
+  "title": "CAT 2022 Slot III",
+  "has_solutions": true,
+  "total_questions": 66,
+  "duration_minutes": 120,
+  "sections": {
+    "VARC": {
+      "name": "Verbal Ability & Reading Comprehension",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2022-slot3-varc-1",
+          "number": 1,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sociologists working in the Chicago School tradition have focused on how rapid or dramatic social change causes increases in\ncrime. Just as Durkheim, Marx, Toennies, and other European sociologists thought that the rapid changes produced by\nindustrialization and urbanization produced crime and disorder, so too did the Chicago School theorists. The location of the\nUniversity of Chicago provided an excellent opportunity for Park, Burgess, and McKenzie to study the social ecology of the city.\nShaw and McKay found . . . that areas of the city characterized by high levels of social disorganization had higher rates of crime\nand delinquency.\nIn the 1920s and 1930s Chicago, like many American cities, experienced considerable immigration. Rapid population growth is\na disorganizing influence, but growth resulting from in-migration of very different people is particularly disruptive. Chicago’s in-\nmigrants were both native-born whites and blacks from rural areas and small towns, and foreign immigrants. The heavy\nindustry of cities like Chicago, Detroit, and Pittsburgh drew those seeking opportunities and new lives. Farmers and villagers\nfrom America’s hinterland, like their European cousins of whom Durkheim wrote, moved in large numbers into cities. At the\nstart of the twentieth century, Americans were predominately a rural population, but by the century’s mid-point most lived in\nurban areas. The social lives of these migrants, as well as those already living in the cities they moved to, were disrupted by the\ndifferences between urban and rural life.\nAccording to social disorganization theory, until the social ecology of the ‘‘new place’’ can adapt, this rapid change is a\ncriminogenic influence. But most rural migrants, and even many of the foreign immigrants to the city, looked like and\neventually spoke the same language as the natives of the cities into which they moved. These similarities allowed for more\nrapid social integration for these migrants than was the case for African Americans and most foreign immigrants.\nIn these same decades America experienced what has been called ‘‘the great migration’’: the massive movement of African\nAmericans out of the rural South and into northern (and some southern) cities. The scale of this migration is one of the most\ndramatic in human history.\nThese migrants, unlike their white counterparts, were not integrated into the cities they now called home. In fact, most\nAmerican cities at the end of the twentieth century were characterized by high levels of racial residential segregation... Failure to\nintegrate these migrants, coupled with other forces of social disorganization such as crowding, poverty, and illness, caused\ncrime rates to climb in the cities, particularly in the segregated wards and neighborhoods where the migrants were forced to\nlive.\nForeign immigrants during this period did not look as dramatically different from the rest of the population as blacks did, but\nthe migrants from eastern and southern Europe who came to American cities did not speak English, and were frequently\nCatholic, while the native born were mostly Protestant. The combination of rapid population growth with the diversity of those\nmoving into the cities created what the Chicago School sociologists called social disorganization.\nWhich one of the following is not a valid inference from the passage?",
+          "options": {
+            "A": "The differences between urban and rural lifestyles were crucial factors in the disruption experienced by migrants to American cities.",
+            "B": "The failure to integrate in-migrants, along with social problems like poverty, was a significant reason for the rise in crime in American cities.",
+            "C": "According to social disorganisation theory, fast-paced social change provides fertile ground for the rapid growth of crime.",
+            "D": "According to social disorganisation theory, the social integration of African American migrants into Chicago was slower because they were less organised."
+          },
+          "correct_answer": "D",
+          "explanation": "The answer can be drawn from lines \"these similarities allowed for more rapid..............African American and most foreign immigrants.\" which clearly contrasts the idea taken from the passage. Therefore option 4 is right answer."
+        },
+        {
+          "id": "cat-2022-slot3-varc-2",
+          "number": 2,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following sets of words/phrases best encapsulates the issues discussed in the passage?",
+          "options": {
+            "A": "Chicago School; Native-born Whites; European immigrants; Poverty",
+            "B": "Durkheim; Marx; Toennies; Shaw",
+            "C": "Rapid population growth; Heavy industry; Segregation; Crime",
+            "D": "Chicago School; Social organisation; Migration; Crime"
+          },
+          "correct_answer": "D",
+          "explanation": "option 4 is correct as it has all the important words/phrases. option 1 misses Social Organisation option 2 misses Chicago School option 3 misses Migration"
+        },
+        {
+          "id": "cat-2022-slot3-varc-3",
+          "number": 3,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author notes that, “At the start of the twentieth century, Americans were predominately a rural population, but by the\ncentury’s mid-point most lived in urban areas.” Which one of the following statements, if true, does not contradict this\nstatement?",
+          "options": {
+            "A": "Demographic transition in America in the twentieth century is strongly marked by an out-migration from rural areas.",
+            "B": "Economists have found that throughout the twentieth century, the size of the labour force in America has always been largest in rural areas.",
+            "C": "A population census conducted in 1952 showed that more Americans lived in rural areas than in urban ones.",
+            "D": "The estimation of per capita income in America in the mid-twentieth century primarily required data from rural areas."
+          },
+          "correct_answer": "A",
+          "explanation": "Acoording to the question we need to select an option which supports the authors note i.e. out - migration from rural to urban therefore : option 1 is correct Rest of the options support the idea that there were more population in rural than in urban which contradicts the the out -migration"
+        },
+        {
+          "id": "cat-2022-slot3-varc-4",
+          "number": 4,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A fundamental conclusion by the author is that:",
+          "options": {
+            "A": "the best circumstances for crime to flourish are when there are severe racial disparities.",
+            "B": "to prevent crime, it is important to maintain social order through maintaining social segregation.",
+            "C": "according to European sociologists, crime in America is mainly in Chicago.",
+            "D": "rapid population growth and demographic diversity give rise to social disorganisation that can feed the growth of crime"
+          },
+          "correct_answer": "D",
+          "explanation": "according to the passage 'social disorganisation' is the key term predominantly present in all the pragraphs hence must be the of fundamental conclusion by the author therefore: option 4 is the correct option"
+        },
+        {
+          "id": "cat-2022-slot3-varc-5",
+          "number": 5,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "As software improves, the people using it become less likely to sharpen their own know-how. Applications that offer lots of\nprompts and tips are often to blame; simpler, less solicitous programs push people harder to think, act and learn.\nTen years ago, information scientists at Utrecht University in the Netherlands had a group of people carry out complicated\nanalytical and planning tasks using either rudimentary software that provided no assistance or sophisticated software that\noffered a great deal of aid. The researchers found that the people using the simple software developed better strategies, made\nfewer mistakes and developed a deeper aptitude for the work. The people using the more advanced software, meanwhile,\nwould often “aimlessly click around” when confronted with a tricky problem. The supposedly helpful software actually short-\ncircuited their thinking and learning.\n[According to] philosopher Hubert Dreyfus…… our skills get sharper only through practice, when we use them regularly to\novercome different sorts of difficult challenges. The goal of modern software, by contrast, is to ease our way through such\nchallenges. Arduous, painstaking work is exactly what programmers are most eager to automate—after all, that is where the\nimmediate efficiency gains tend to lie. In other words, a fundamental tension ripples between the interests of the people doing\nthe automation and the interests of the people doing the work.\nNevertheless, automation’s scope continues to widen. With the rise of electronic health records, physicians increasingly rely on\nsoftware templates to guide them through patient exams. The programs incorporate valuable checklists and alerts, but they\nalso make medicine more routinized and formulaic—and distance doctors from their patients…… Harvard Medical School\nprofessor Beth Lown, in a 2012 journal article…..warned that when doctors become “screen-driven,” following a computer’s\nprompts rather than “the patient’s narrative thread,” their thinking can become constricted. In the worst cases, they may miss\nimportant diagnostic signals. . . .\nIn a recent paper published in the journal Diagnosis, three medical researchers examined the misdiagnosis of Thomas Eric\nDuncan, the first person to die of Ebola in the U.S., at Texas Health Presbyterian Hospital Dallas. They argue that the digital\ntemplates used by the hospital’s clinicians to record patient information probably helped to induce a kind of tunnel vision.\n“These highly constrained tools,” the researchers write, “are optimized for data capture but at the expense of sacrificing their\nutility for appropriate triage and diagnosis, leading users to miss the forest for the trees.” Medical software, they write, is no\n“replacement for basic history-taking, examination skills, and critical thinking.” . . .\nThere is an alternative. In “human-centered automation,” the talents of people take precedence……. In this model, software\nplays an essential but secondary role. It takes over routine functions that a human operator has already mastered, issues alerts\nwhen unexpected situations arise, provides fresh information that expands the operator’s perspective and counters the biases\nthat often distort human thinking. The technology becomes the expert’s partner, not the expert’s replacement.\nIn the Ebola misdiagnosis case, we can infer that doctors probably missed the forest for the trees because:",
+          "options": {
+            "A": "they were led by the data processed by digital templates.",
+            "B": "the digital templates forced them to acquire tunnel vision.",
+            "C": "the data collected were not sufficient for appropriate triage.",
+            "D": "they used the wrong type of digital templates for the case."
+          },
+          "correct_answer": "A",
+          "explanation": "option 1 is the most appropriately infered from the passage. option 2 is an extreme option because of '.......forced them.......' therefore cannot be an answer. option 3 is taken from the passage's paragraph 5 hence can not be an inference. option 4 there is no information shared related to 'type of digital template' in the passage therefore cannot be an inference."
+        },
+        {
+          "id": "cat-2022-slot3-varc-6",
+          "number": 6,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It can be inferred that in the Utrecht University experiment, one group of people was “aimlessly clicking around” because:",
+          "options": {
+            "A": "they wanted to avoid making mistakes.",
+            "B": "they did not have the skill-set to address complicated tasks.",
+            "C": "they were hoping that the software would help carry out the tasks.",
+            "D": "the other group was carrying out the tasks more efficiently."
+          },
+          "correct_answer": "C",
+          "explanation": "The inference can be drawn from the 2nd paragraph which highlights that the people using simple software developed better strategies and made fewer mistakes whereas people having access to the advanced software short-circuited their thinking and learning. Therefo option C is appropriate. Here 'aimlessly click around' means looking for solutions of tricky situation unsuccessfully."
+        },
+        {
+          "id": "cat-2022-slot3-varc-7",
+          "number": 7,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "From the passage, we can infer that the author is apprehensive about the use of sophisticated automation for all of the\nfollowing reasons EXCEPT that:",
+          "options": {
+            "A": "it could mislead people.",
+            "B": "it stunts the development of its users.",
+            "C": "it stops users from exercising their minds.",
+            "D": "computers could replace humans."
+          },
+          "correct_answer": "D",
+          "explanation": "We can infer all the given options except D as the author nowhere in the passage supported the view that computers or technol can be an appropriate replacement of humans. the passage is an argumentative writing which is biased towards human skills there option A, B and c can be infered easily."
+        },
+        {
+          "id": "cat-2022-slot3-varc-8",
+          "number": 8,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the context of the passage, all of the following can be considered examples of human-centered automation EXCEPT:",
+          "options": {
+            "A": "a smart-home system that changes the temperature as instructed by the resident.",
+            "B": "software that auto-completes text when the user writes an email.",
+            "C": "medical software that provides optional feedback on the doctor’s analysis of the medical situation.",
+            "D": "software that offers interpretations when requested by the human operator."
+          },
+          "correct_answer": "B",
+          "explanation": "Option B is correct answer because in this option, the automation is helping a software hence being a machine-centric. Option A,C and D are examples of human-centric because the automation involved helps the human directly."
+        },
+        {
+          "id": "cat-2022-slot3-varc-9",
+          "number": 9,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Nature has all along yielded her flesh to humans. First, we took nature’s materials as food, fibers, and shelter. Then we learned\nto extract raw materials from her biosphere to create our own new synthetic materials. Now Bios is yielding us her mind—we\nare taking her logic.\nClockwork logic—the logic of the machines—will only build simple contraptions. Truly complex systems such as a cell, a\nmeadow, an economy, or a brain (natural or artificial) require a rigorous nontechnological logic. We now see that no logic\nexcept bio-logic can assemble a thinking device, or even a workable system of any magnitude.\nIt is an astounding discovery that one can extract the logic of Bios out of biology and have something useful. Although many\nphilosophers in the past have suspected one could abstract the laws of life and apply them elsewhere, it wasn’t until the\ncomplexity of computers and human-made systems became as complicated as living things, that it was possible to prove this.\nIt’s eerie how much of life can be transferred. So far, some of the traits of the living that have successfully been transported to\nmechanical systems are: self-replication, self- governance, limited self-repair, mild evolution, and partial learning.\nWe have reason to believe yet more can be synthesized and made into something new. Yet at the same time that the logic of\nBios is being imported into machines, the logic of Technos is being imported into life. The root of bioengineering is the desire\nto control the organic long enough to improve it. Domesticated plants and animals are examples of technos-logic applied to\nlife. The wild aromatic root of the Queen Anne’s lace weed has been fine-tuned over generations by selective herb gatherers\nuntil it has evolved into a sweet carrot of the garden; the udders of wild bovines have been selectively enlarged in a “unnatural”\nway to satisfy humans rather than calves. Milk cows and carrots, therefore, are human inventions as much as steam engines and\ngunpowder are. But milk cows and carrots are more indicative of the kind of inventions humans will make in the future:\nproducts that are grown rather than manufactured.\nGenetic engineering is precisely what cattle breeders do when they select better strains of Holsteins, only bioengineers employ\nmore precise and powerful control. While carrot and milk cow breeders had to rely on diffuse organic evolution, modern\ngenetic engineers can use directed artificial evolution—purposeful design—which greatly accelerates improvements.\nThe overlap of the mechanical and the lifelike increases year by year. Part of this bionic convergence is a matter of words. The\nmeanings of “mechanical” and “life” are both stretching until all complicated things can be perceived as machines, and all self-\nsustaining machines can be perceived as alive. Yet beyond semantics, two concrete trends are happening: (1) Human-made\n\nthings are behaving more lifelike, and (2) Life is becoming more engineered. The apparent veil between the organic and the\nmanufactured has crumpled to reveal that the two really are, and have always been, of one being.\nThe author claims that, “The apparent veil between the organic and the manufactured has crumpled to reveal that the two\nreally are, and have always been, of one being.” Which one of the following statements best expresses the point being made by\nthe author here?",
+          "options": {
+            "A": "Scientific advances are making it increasingly difficult to distinguish between organic reality and manufactured reality.",
+            "B": "The crumpling of the organic veil between apparent and manufactured reality reveals them to have the same being.",
+            "C": "Organic reality has crumpled under the veil of manufacturing, rendering the apparent and the real as the same being.",
+            "D": "Apparent reality and organic reality are distinguished by the fact that the former is manufactured."
+          },
+          "correct_answer": "A",
+          "explanation": "Refer to the second line of last paragraph- 'The meanings of the \"mechanical\" ............ percieved as alive.' Author here most likely suggests that meanings of \"machanical\" and \"life\" have stretched to such extent that any difference between the two is blurred now. Living things have been endowed with technological advancements. Similarly there has been a contant effort to sensitivize the machines to make it loo more natural. Rest all other options are wrong or ambiguous interpretations of the given statement."
+        },
+        {
+          "id": "cat-2022-slot3-varc-10",
+          "number": 10,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "None of the following statements is implied by the arguments of the passage, EXCEPT:",
+          "options": {
+            "A": "purposeful design represents the pinnacle of scientific expertise in the service of human betterment and civilisational progress.",
+            "B": "genetic engineers and bioengineers are the same insofar as they both seek to force evolution in an artificial way.",
+            "C": "the biological realm is as complex as the mechanical one; which is why the logic of Bios is being imported into machines.",
+            "D": "historically, philosophers have known that the laws of life can be abstracted and applied elsewhere."
+          },
+          "correct_answer": "B",
+          "explanation": "Throughout the passage the author tried to imply that there is almost negligible difference between genetic engineers and bioengineers; earlier ones have been trying to alter with genetic makeup for its advancement and the later ones have been trying to sensitivize machines with human qualities. So the answer that should follow is option 2. Rest of the options can't be deduced from the passage."
+        },
+        {
+          "id": "cat-2022-slot3-varc-11",
+          "number": 11,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following sets of words/phrases best serves as keywords to the passage?",
+          "options": {
+            "A": "Nature; Computers; Carrots; Milk cows; Genetic engineering",
+            "B": "Complex systems; Carrots; Milk cows; Convergence; Technos-logic",
+            "C": "Complex systems; Bio-logic; Bioengineering; Technos-logic; Convergence",
+            "D": "Nature; Bios; Technos; Self-repair; Holsteins"
+          },
+          "correct_answer": "C",
+          "explanation": "In the begining of the passage (second paragraph), author suggests how complex the nature around us is (a cell, a meadow, an economy or human brain). Then he moves on to propound that we borrowed a lot from nature, including her logic too. It is followed by explanation of bio-engineering and technological advancement and how they are converging into being one and the same. So the right answer option 3. No other options include all of these aspects."
+        },
+        {
+          "id": "cat-2022-slot3-varc-12",
+          "number": 12,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The author claims that, “Part of this bionic convergence is a matter of words”. Which one of the following statements best\nexpresses the point being made by the author?",
+          "options": {
+            "A": "“Mechanical” and “life” were earlier seen as opposite in meaning, but the difference between the two is increasingly blurred.",
+            "B": "“Mechanical” and “life” are words from different logical systems and are, therefore, fundamentally incompatible in meaning.",
+            "C": "“Bios” and “Technos” are both convergent forms of logic, but they generate meanings about the world that are mutually exclusive.",
+            "D": "A bionic convergence indicates the meeting ground of genetic engineering and artificial intelligence."
+          },
+          "correct_answer": "A",
+          "explanation": "In the last paragraph, author concludes that the machines and the humans have more or less become the same. Not just have th scientists endowed the humans with technology, but they have tried to make the machines more realistic like humans. So the right option is 1. Rest all other options are strayed from the correct iterpretation of the given statement."
+        },
+        {
+          "id": "cat-2022-slot3-varc-13",
+          "number": 13,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Interpretations of the Indian past . . . were inevitably influenced by colonial concerns and interests, and also by prevalent\nEuropean ideas about history, civilization and the Orient. Orientalist scholars studied the languages and the texts with selected\nIndian scholars, but made little attempt to understand the world-view of those who were teaching them. The readings therefore\nare something of a disjuncture from the traditional ways of looking at the Indian past. . . .\nOrientalism [which we can understand broadly as Western perceptions of the Orient] fuelled the fantasy and the freedom\nsought by European Romanticism, particularly in its opposition to the more disciplined Neo-Classicism. The cultures of Asia\nwere seen as bringing a new Romantic paradigm. Another Renaissance was anticipated through an acquaintance with the\nOrient, and this, it was thought, would be different from the earlier Greek Renaissance. It was believed that this Oriental\nRenaissance would liberate European thought and literature from the increasing focus on discipline and rationality that had\nfollowed from the earlier Enlightenment…….. [The Romantic English poets, Wordsworth and Coleridge,] were apprehensive of\nthe changes introduced by industrialization and turned to nature and to fantasies of the Orient.\nHowever, this enthusiasm gradually changed, to conform with the emphasis later in the nineteenth century on the innate\nsuperiority of European civilization. Oriental civilizations were now seen as having once been great but currently in decline. The\nvarious phases of Orientalism tended to mould European understanding of the Indian past into a particular pattern…… There\n\nwas an attempt to formulate Indian culture as uniform, such formulations being derived from texts that were given priority. The\nso-called ‘discovery’ of India was largely through selected literature in Sanskrit. This interpretation tended to emphasize non-\nhistorical aspects of Indian culture, for example the idea of an unchanging continuity of society and religion over 3,000 years;\nand it was believed that the Indian pattern of life was so concerned with metaphysics and the subtleties of religious belief that\nlittle attention was given to the more tangible aspects.\nGerman Romanticism endorsed this image of India, and it became the mystic land for many Europeans, where even the most\nordinary actions were imbued with a complex symbolism. This was the genesis of the idea of the spiritual east, and also,\nincidentally, the refuge of European intellectuals seeking to distance themselves from the changing patterns of their own\nsocieties. A dichotomy in values was maintained, Indian values being described as ‘spiritual’ and European values as\n‘materialistic’, with little attempt to juxtapose these values with the reality of Indian society. This theme has been even more\nfirmly endorsed by a section of Indian opinion during the last hundred years.\nIt was a consolation to the Indian intelligentsia for its perceived inability to counter the technical superiority of the west, a\nsuperiority viewed as having enabled Europe to colonize Asia and other parts of the world. At the height of anti-colonial\nnationalism it acted as a salve for having been made a colony of Britain.\nIn the context of the passage, all of the following statements are true EXCEPT:",
+          "options": {
+            "A": "India’s spiritualism served as a salve for European colonisers.",
+            "B": "Orientalists’ understanding of Indian history was linked to colonial concerns.",
+            "C": "Indian texts influenced Orientalist scholars.",
+            "D": "Orientalist scholarship influenced Indians."
+          },
+          "correct_answer": "A",
+          "explanation": "Option A is correct answer because the author did not talk about European colonisers in particular but British in the last line of t passage. The meaning of 'salve' is to promote healing. Otion B, C and D can be traced in the passage easily."
+        },
+        {
+          "id": "cat-2022-slot3-varc-14",
+          "number": 14,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It can be inferred from the passage that the author is not likely to support the view that:",
+          "options": {
+            "A": "India’s culture has evolved over the centuries.",
+            "B": "the Orientalist view of Asia fired the imagination of some Western poets.",
+            "C": "Indian culture acknowledges the material aspects of life.",
+            "D": "India became a colony although it matched the technical knowledge of the West."
+          },
+          "correct_answer": "D",
+          "explanation": "Option D is correct because throughout the passage the author highlighted that India did not match the technical knowlege of t West. ......\"little attention was given to the more tangible aspects.\" Option A, B, and C goes well with the author's point of view."
+        },
+        {
+          "id": "cat-2022-slot3-varc-15",
+          "number": 15,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which one of the following styles of research is most similar to the Orientalist scholars’ method of understanding Indian history\nand culture?",
+          "options": {
+            "A": "Reading 18th century accounts by travellers to India to see how they viewed Indian life and culture of the time.",
+            "B": "Studying artefacts excavated at a palace to understand the lifestyle of those who lived there.",
+            "C": "Reading about the life of early American settlers and later waves of migration to understand the evolution of American culture.",
+            "D": "Analysing Hollywood action movies that depict violence and sex to understand contemporary America."
+          },
+          "correct_answer": "D",
+          "explanation": "Option D is correct beacuse according to the passage, the style of research taken by the Orientalist scholars' involved a very superficial approach and did not bother to read any authentic literature, accounts or study any artifacts which is there in Options A, B, and C therefore making D as the correct option."
+        },
+        {
+          "id": "cat-2022-slot3-varc-16",
+          "number": 16,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage below is accompanied by a set of questions. Choose the best answer to each question.",
+          "passage": "",
+          "passage_group": null,
+          "question": "It can be inferred from the passage that to gain a more accurate view of a nation’s history and culture, scholars should do all of\nthe following EXCEPT:",
+          "options": {
+            "A": "examine the complex reality of that nation’s society.",
+            "B": "develop an oppositional framework to grasp cultural differences.",
+            "C": "read widely in the country’s literature.",
+            "D": "examine their own beliefs and biases."
+          },
+          "correct_answer": "B",
+          "explanation": "Option B is correct because developing an oppositional framework only introduces a segregation and division in the society, it doesn't help in gain a more accurate view of a nation's history and culture therefore scholars should not follow the same. to attempt this question one must know the meaning of 'oppositional framework' in context to te passage."
+        },
+        {
+          "id": "cat-2022-slot3-varc-17",
+          "number": 17,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. If I wanted to sit indoors and read, or play Sonic the Hedgehog on a red-hot Sega Mega Drive, I would often be made to feel\nguilty about not going outside to “enjoy it while it lasts”.\n2. My mum, quite reasonably, wanted me and my sister out of the house, in the sun.\n3. Tales of my mum’s idyllic-sounding childhood in the Sussex countryside, where trees were climbed by 8 am and streams\nnavigated by lunchtime, were passed down to us like folklore.\n4. To an introverted kid, that felt like a threat – and the feeling has stayed with me.",
+          "options": {},
+          "correct_answer": "2314",
+          "explanation": "The opening sentence is 2 because it introduces the subject of the conversation, i.e. the narrator's mum, the narrator, and her sis Further, 2-3 is a pair : \"Me and my sister\" mentioned in 2, are referred to as \"us\" in 3. Also, 3-1 is a pair as the trees and the streams mentioned i have been referenced further in 1 with the phrase \"going outside to \"enjoy it while it lasts\". The final sentence is 4 because the \"threat\" being referred to in the given sentence, is mentioned in the previous sentence, \"made to feel guilty about not going outside\". The right sequence is thus 2314."
+        },
+        {
+          "id": "cat-2022-slot3-varc-18",
+          "number": 18,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "To defend the sequence of alphabetisation may seem bizarre, so obvious is its application that it is hard to imagine a reference,\ncatalogue or listing without it. But alphabetical order was not an immediate consequence of the alphabet itself. In the Middle\nAges, deference for ecclesiastical tradition left scholars reluctant to categorise things according to the alphabet - to do so\nwould be a rejection of the divine order. The rediscovery of the ancient Greek and Roman classics necessitated more efficient\nways of ordering, searching and referencing texts. Government bureaucracy in the 16th and 17th centuries quickened the\nadvance of alphabetical order, bringing with it pigeonholes, notebooks and card indexes.",
+          "options": {
+            "A": "The alphabetic order took several centuries to gain common currency because of religious beliefs and a lack of appreciation of its efficacy in the ordering of things.",
+            "B": "Unlike the alphabet, once the efficacy of the alphabetic sequence became apparent to scholars and administrators, its use became widespread.",
+            "C": "The ban on the use by scholars of any form of categorisation - but the divinely ordained one - delayed the adoption of the alphabetic sequence by several centuries.",
+            "D": "While adoption of the written alphabet was easily accomplished, it took scholars several centuries to accept the alphabetic sequence as a useful tool in their work."
+          },
+          "correct_answer": "A",
+          "explanation": "The paragraph above says claims that alphabetical order was not an immediate consequence of the alphabet itself. The Middle Ages s the rejection of alphabetical order due to religious beliefs, and it wasn't until the 16th and 17th centuries, when there was a need for more effect methods of organising and referencing texts as well as a need to deal with government bureaucracy, that alphabetical order began to gain popularity. The paragraph is effectively summarised and all the major points are covered in Option A."
+        },
+        {
+          "id": "cat-2022-slot3-varc-19",
+          "number": 19,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "“It does seem to me that the job of comedy is to offend, or have the potential to offend, and it cannot be drained of that\npotential,” Rowan Atkinson said of cancel culture. “Every joke has a victim. That’s the definition of a joke. Someone or\nsomething or an idea is made to look ridiculous.” The Netflix star continued, “I think you’ve got to be very, very careful about\nsaying what you’re allowed to make jokes about. You’ve always got to kick up? Really?” He added, “There are lots of extremely\nsmug and self- satisfied people in what would be deemed lower down in society, who also deserve to be pulled up. In a proper\nfree society, you should be allowed to make jokes about absolutely anything.”",
+          "options": {
+            "A": "Victims of jokes must not only be politicians and royalty, but also arrogant people from lower classes should be mentioned by comedians.",
+            "B": "Every joke needs a victim and one needs to include people from lower down the society and not just the upper class.",
+            "C": "Cancel culture does not understand the role and duty of comedians, which is to deride and mock everyone.",
+            "D": "All jokes target someone and one should be able to joke about anyone in the society, which is inconsistent with cancel culture."
+          },
+          "correct_answer": "D",
+          "explanation": "In relation to cancel culture, Rowan Atkinson claims that every joke offends someone or something; therefore, jokes about anyth should be permitted in a proper free society. Option D effectively sums up the paragraph."
+        },
+        {
+          "id": "cat-2022-slot3-varc-20",
+          "number": 20,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide in\nwhich blank (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: When people socially learn from each other, they often learn without understanding why what they’re copying—the\nbeliefs and behaviours and technologies and know-how—works.\nParagraph: _____ (1) _______. The dual-inheritance theory ….says….. that inheritance is itself an evolutionary system. It has\nvariation. What makes us a new kind of animal, and so different and successful as a species, is we rely heavily on social learning,\nto the point where socially acquired information is effectively a second line of inheritance, the first being our genes…._____ (2)\n_______. People tend to home in on who seems to be the smartest or most successful person around, as well as what\neverybody seems to be doing—the majority of people have something worth learning. _____(3) _______. When you repeat this\nprocess over time, you can get, around the world, cultural packages— beliefs or behaviours or technology or other solutions—\nthat are adapted to the local conditions. People have different psychologies, effectively. _____ (4) ______.",
+          "options": {
+            "A": "Option 1",
+            "B": "Option 2",
+            "C": "Option 3",
+            "D": "Option 4"
+          },
+          "correct_answer": "B",
+          "explanation": "As we read the given text, it becomes clear that the missing sentence is neither a strong introduction nor a fitting end. Therefore, we can quickly eliminate choices 1 and 4. In the case of option 3, the thoughts are already flowing easily. Most people may benefit from learning something new from those around them and by repeatedly engaging in this learning process over time, you can develop cultural packages that are adapted to the needs of the local reg Option 2 appears to fit the given sentence the most effectively. The phrase \"socially acquired information\" was used in the previous sentence. Th above line shows how people in society learn from one another. The next phrase strengthens the notion that we can learn from those around us Therefore, option 2 is the best one."
+        },
+        {
+          "id": "cat-2022-slot3-varc-21",
+          "number": 21,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide in\nwhich blank (option 1, 2, 3, or 4) the following sentence would best fit.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Sentence: This has meant a lot of uncertainty around what a wide-scale return to office might look like in practice.\nParagraph: Bringing workers back to their desks has been a rocky road for employers and employees alike. The evolution of\nthe pandemic has meant that best laid plans have often not materialised._____ (1) _______. The flow of workers back into offices\nhas been more of a trickle than a steady stream. _____ (2) _______. Yet while plenty of companies are still working through their\nnew policies, some employees across the globe are now back at their desks, whether on a full-time or hybrid basis._____ (3)\n_______. That means we’re beginning to get some clarity on what return-to-office means – what’s working, as well as what has\nyet to be settled._____ (4) _______.",
+          "options": {
+            "A": "Option 1",
+            "B": "Option 2",
+            "C": "Option 3",
+            "D": "Option 4"
+          },
+          "correct_answer": "B",
+          "explanation": "This question can be solved by eliminating the wrong choices. We can eliminate option 4 since the previous sentence states that clarity is emerging, therefore the omitted sentence—which talks about uncertainty prevailing—will be a misfit. Option 3 can also be disregarded because the preceding line states that some workers are now returning to their desks. Here, the given sentence seems illogical. As \"this has meant a lot of uncertainty\" can fit in well with the sentence before either the options 1 and 2, so, both appear to be good alternative However, option 2 makes more sense given the subsequent line and the way the thoughts flow."
+        },
+        {
+          "id": "cat-2022-slot3-varc-22",
+          "number": 22,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1.Various industrial sectors including retail, transit systems, enterprises, educational institutions, event organizing, finance, travel\netc. have now started leveraging these beacons solutions to track and communicate with their customers.\n2. A beacon fixed on to a shop wall enables the retailer to assess the proximity of the customer, and come up with a much\ntargeted or personalized communication like offers, discounts and combos on products in each shelf.\n3. Smart phones or other mobile devices can capture the beacon signals, and distance can be estimated by measuring received\nsignal strength.\n4. Beacons are tiny and inexpensive, micro-location-based technology devices that can send radio frequency signals and notify\nnearby Bluetooth devices of their presence and transmit information.",
+          "options": {},
+          "correct_answer": "4312",
+          "explanation": "The most apt introductory sentence is 4 as it introduces the subject 'beacons'. 4-3 is a pair: 4 states that beacons send radio frequency signals; 3 further describes that smart phones and other mobile devices capture these signals. 1-2 is also a pair: 1 states that several industrial sectors have started using beacons for tracking and communicating with their customers; 2 further discusses how these beacons are employed to track this information. 4312 is hence the correct order."
+        },
+        {
+          "id": "cat-2022-slot3-varc-23",
+          "number": 23,
+          "section": "VARC",
+          "type": "TITA",
+          "directions": "The four sentences (labelled 1,2,3 and 4) given in this question, when properly sequenced, form\na coherent paragraph. Decide on the proper order for the sentence and key in this sequence of four numbers as your answer.",
+          "passage": "",
+          "passage_group": null,
+          "question": "1. The more we are able to accept that our achievements are largely out of our control, the easier it becomes to understand\nthat our failures, and those of others, are too.\n2. But the raft of recent books about the limits of merit is an important correction to the arrogance of contemporary\nentitlement and an opportunity to reassert the importance of luck, or grace, in our thinking.\n3. Meritocracy as an organising principle is an inevitable function of a free society, as we are designed to see our achievements\nas worthy of reward.\n4. And that in turn should increase our humility and the respect with which we treat our fellow citizens, helping ultimately to\nbuild a more compassionate society.",
+          "options": {},
+          "correct_answer": "3214",
+          "explanation": "The most suitable opening statement would be 3 as it is general and introduces the subject, i.e. Meritocracy. Further, 3-2 is a pai 3, it is mentioned that \"we are designed to see our achievements as worthy of reward\"; 2 discusses about \"the raft of recent books\" that sheds lig on the limitations of this line of thought. Moreover, 2-1 is also a pair as 1 elaborates on the argument stated in 2 about the limits of merit and h realising these limits might make us more tolerant. A more compassionate society will be created as a result, as stated in 4 which comes after 1. The right sequence is 3214."
+        },
+        {
+          "id": "cat-2022-slot3-varc-24",
+          "number": 24,
+          "section": "VARC",
+          "type": "MCQ",
+          "directions": "The passage given below is followed by four alternate summaries. Choose the option that best\ncaptures the essence of the passage.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Tamsin Blanchard, curator of Fashion Open Studio, an initiative by a campaign group showcasing the work of ethical designers\nsays, “We're all drawn to an exquisite piece of embroidery, a colourful textile or even a style of dressing that might have\noriginated from another heritage. [But] this magpie mentality, where all of culture and history is up for grabs as 'inspiration',\nhas accelerated since the proliferation of social media... Where once a fashion student might research the history and traditions\nof a particular item of clothing with care and respect, we now have a world where images are lifted from image libraries without\na care for their cultural significance. It's easier than ever to steal a motif or a craft technique and transfer it on to a piece of\nclothing that is either mass produced or appears on a runway without credit or compensation to their original communities.\"",
+          "options": {
+            "A": "Taking fashion ideas from any cultural group without their consent is a form of appropriation without giving due credit, compensation, and respect.",
+            "B": "Media has encouraged mass production; images are copied effortlessly without care or concern for the interests of ethnic communities.",
+            "C": "Cultural collaboration is the need of the hour. Beautiful design ideas of indigenous people need to be showcased and shared worldwide.",
+            "D": "Copying an embroidery design or pattern of textile from native communities who own them is tantamount to stealing and they need to be compensated."
+          },
+          "correct_answer": "A",
+          "explanation": "The key point made here is that the spread of social media has made it simple to access fashion ideas from different cultures, making it easier than ever to unethically use these concepts or methods without giving credit to or compensation to the original communities. T focus of the paragraph is best expressed in Option A. Section : DI & Reasoning"
+        }
+      ]
+    },
+    "DILR": {
+      "name": "Data Interpretation & Logical Reasoning",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2022-slot3-dilr-25",
+          "number": 25,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "All the first-year students in the computer science (CS) department in a university take both the courses (i) AI and (ii) ML.\nStudents from other departments (non-CS students) can also take one of these two courses, but not both. Students who fail in a\ncourse get an F grade; others pass and are awarded A or B or C grades depending on their performance. The following are\nsome additional facts about the number of students who took these two courses this year and the grades they obtained.\n1. The numbers of non-CS students who took AI and ML were in the ratio 2 : 5.\n2. The number of non-CS students who took either AI or ML was equal to the number of CS students.\n3. The numbers of non-CS students who failed in the two courses were the same and their total is equal to the number of CS\nstudents who got a C grade in ML.\n4. In both the courses, 50% of the students who passed got a B grade. But, while the numbers of students who got A and C\ngrades were the same for AI, they were in the ratio 3 : 2 for ML.\n5. No CS student failed in AI, while no non-CS student got an A grade in AI.\n6. The numbers of CS students who got A, B and C grades respectively in AI were in the ratio 3 : 5 : 2, while in ML the ratio was\n4 : 5 : 2.\n7. The ratio of the total number of non-CS students failing in one of the two courses to the number of CS students failing in\none of the two courses was 3 : 1.\n8. 30 students failed in ML.\nHow many students took AI?",
+          "options": {
+            "A": "210",
+            "B": "90",
+            "C": "60",
+            "D": "270"
+          },
+          "correct_answer": "D",
+          "explanation": "From directions 1, 2, 3, 5, 6; we can fill the table as below. A B C F CS 7k AI 3y 5y 2y 0 ML 4x 5x 2x z 2k AI 0 x NON CS 5k ML x From 7th direction, Total number of non CS students failing in one of the two courses : CS student failing in one of the two courses = 3:1 2x:z = 3:1 Z = 2x/3 From 8th direction, z + x =30 5x/3 = 80 X = 18 So, we can fill values in the table: A B C F CS 7k AI 3y 5y 2y 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 Also, every student take both the courses in CS. So, number of students in AI = number of students in ML = 210 So, total number of students in CS = 210 K = 30 So, in Non CS, AI students = 60, in Non CS, ML students = 150 Also, 3y + 5y + 2y =210 implies y = 21. So, we can put values for the first row. A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 By taking 4th direction, we can have the final table as below: A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 21 21 18 NON CS 5k ML 27 75 30 18 210 + 60 = 270 ans."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-26",
+          "number": 26,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many CS students failed in ML? (in numerical value)",
+          "options": {},
+          "correct_answer": "12",
+          "explanation": "From directions 1, 2, 3, 5, 6; we can fill the table as below. A B C F CS 7k AI 3y 5y 2y 0 ML 4x 5x 2x z 2k AI 0 x NON CS 5k ML x From 7th direction, Total number of non CS students failing in one of the two courses : CS student failing in one of the two courses = 3:1 2x:z = 3:1 Z = 2x/3 From 8th direction, z + x =30 5x/3 = 80 X = 18 So, we can fill values in the table: A B C F CS 7k AI 3y 5y 2y 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 Also, every student take both the courses in CS. So, number of students in AI = number of students in ML = 210 So, total number of students in CS = 210 K = 30 So, in Non CS, AI students = 60, in Non CS, ML students = 150 Also, 3y + 5y + 2y =210 implies y = 21. So, we can put values for the first row. CS 7k A B C F AI 63 105 42 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 By taking 4th direction, we can have the final table as below: A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 21 21 18 NON CS 5k ML 27 75 30 18 12 students failed in ML."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-27",
+          "number": 27,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many non-CS students got A grade in ML? (in numerical value)",
+          "options": {},
+          "correct_answer": "27",
+          "explanation": "From directions 1, 2, 3, 5, 6; we can fill the table as below. A B C F CS 7k AI 3y 5y 2y 0 ML 4x 5x 2x z 2k AI 0 x NON CS 5k ML x From 7th direction, Total number of non CS students failing in one of the two courses : CS student failing in one of the two courses = 3:1 2x:z = 3:1 Z = 2x/3 From 8th direction, z + x =30 5x/3 = 80 X = 18 So, we can fill values in the table: A B C F CS 7k AI 3y 5y 2y 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 Also, every student take both the courses in CS. So, number of students in AI = number of students in ML = 210 So, total number of students in CS = 210 K = 30 So, in Non CS, AI students = 60, in Non CS, ML students = 150 Also, 3y + 5y + 2y =210 implies y = 21. So, we can put values for the first row. A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 By taking 4th direction, we can have the final table as below: A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 21 21 18 NON CS 5k ML 27 75 30 18 27 non CS students got A grade in ML."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-28",
+          "number": 28,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many students got A grade in AI?",
+          "options": {
+            "A": "84",
+            "B": "42",
+            "C": "63",
+            "D": "99"
+          },
+          "correct_answer": "C",
+          "explanation": "From directions 1, 2, 3, 5, 6; we can fill the table as below. A B C F CS 7k AI 3y 5y 2y 0 ML 4x 5x 2x z 2k AI 0 x NON CS 5k ML x From 7th direction, Total number of non CS students failing in one of the two courses : CS student failing in one of the two courses = 3:1 2x:z = 3:1 Z = 2x/3 From 8th direction, z + x =30 5x/3 = 80 X = 18 So, we can fill values in the table: A B C F CS 7k AI 3y 5y 2y 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 Also, every student take both the courses in CS. So, number of students in AI = number of students in ML = 210 So, total number of students in CS = 210 K = 30 So, in Non CS, AI students = 60, in Non CS, ML students = 150 Also, 3y + 5y + 2y =210 implies y = 21. So, we can put values for the first row. A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 By taking 4th direction, we can have the final table as below: A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 21 21 18 NON CS 5k ML 27 75 30 18 63."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-29",
+          "number": 29,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many non-CS students got B grade in ML?",
+          "options": {
+            "A": "165",
+            "B": "25",
+            "C": "90",
+            "D": "75"
+          },
+          "correct_answer": "D",
+          "explanation": "From directions 1, 2, 3, 5, 6; we can fill the table as below. A B C F CS 7k AI 3y 5y 2y 0 ML 4x 5x 2x z 2k AI 0 x NON CS 5k ML x From 7th direction, Total number of non CS students failing in one of the two courses : CS student failing in one of the two courses = 3:1 2x:z = 3:1 Z = 2x/3 From 8th direction, z + x =30 5x/3 = 80 X = 18 So, we can fill values in the table: A B C F CS 7k AI 3y 5y 2y 0 ML 72 90 36 12 NON CS 2k AI 0 18 5k ML 18 Also, every student take both the courses in CS. So, number of students in AI = number of students in ML = 210 So, total number of students in CS = 210 K = 30 So, in Non CS, AI students = 60, in Non CS, ML students = 150 Also, 3y + 5y + 2y =210 implies y = 21. So, we can put values for the first row. A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 18 NON CS 5k ML 18 By taking 4th direction, we can have the final table as below: A B C F CS 7k AI 63 105 42 0 ML 72 90 36 12 2k AI 0 21 21 18 NON CS 5k ML 27 75 30 18 75"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-30",
+          "number": 30,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In the following, a year corresponds to 1st of January of that year.\nA study to determine the mortality rate for a disease began in 1980. The study chose 1000 males and 1000 females and\nfollowed them for forty years or until they died, whichever came first. The 1000 males chosen in 1980 consisted of 250 each of\nages 10 to less than 20, 20 to less than 30, 30 to less than 40, and 40 to less than 50. The 1000 females chosen in 1980 also\nconsisted of 250 each of ages 10 to less than 20, 20 to less than 30, 30 to less than 40, and 40 to less than 50.\nThe four figures below depict the age profile of those among the 2000 individuals who were still alive in 1990, 2000, 2010, and\n2020. The blue bars in each figure represent the number of males in each age group at that point in time, while the pink bars\nrepresent the number of females in each age group at that point in time. The numbers next to the bars give the exact numbers\nbeing represented by the bars. For example, we know that 230 males among those tracked and who were alive in 1990 were\naged between 20 and 30.\nIn 2000, what was the ratio of the number of dead males to dead females among those being tracked?",
+          "options": {
+            "A": "41 : 43",
+            "B": "71 : 69",
+            "C": "129 : 131",
+            "D": "109 : 107"
+          },
+          "correct_answer": "B",
+          "explanation": "We know that in 1980, total number of males = total number of females = 1000. Also, 1000 = Deaths + alive people So, number of deaths of males = 1000 - ( 180+205+160+100) = 355 Number of deaths of females = 1000 – (210 + 175+ 150 + 120) = 345 So, required ratio = 355:345 = 71:69 So, required ratio = 355:345 = 71:69"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-31",
+          "number": 31,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many people who were being tracked and who were between 30 and 40 years of age in 1980 survived until 2010?",
+          "options": {
+            "A": "190",
+            "B": "110",
+            "C": "310",
+            "D": "90"
+          },
+          "correct_answer": "A",
+          "explanation": "If a person falls in the age group (30-40), he/she should fall in (60-70) age group in 2010. So, in third graph, (90+100) = 190 wou be the answer."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-32",
+          "number": 32,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many individuals who were being tracked and who were less than 30 years of age in 1980 survived until 2020?",
+          "options": {
+            "A": "230",
+            "B": "580",
+            "C": "470",
+            "D": "240"
+          },
+          "correct_answer": "C",
+          "explanation": "Less than 30 years means, we need to take 10-20, 20-30 categories. In 2020, these people would fall in 50-60, 60-70 age group categories. So, answer = 140 + 125 + 50 + 100 + 105 + 60 = 470. Hence 3rd option."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-33",
+          "number": 33,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many of the males who were being tracked and who were between 20 and 30 years of age in 1980 died in the period 2000\nto 2010? (in numerical value)",
+          "options": {},
+          "correct_answer": "40",
+          "explanation": "In 2000, these people will fall in 40-50. In 2010, these people will fall in 50-60. In 2000, 205 male survivors were there. In 2010, 165 male survivors were there. That means 205-165 = 40 died in the given period."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-34",
+          "number": 34,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many of the females who were being tracked and who were between 20 and 30 years of age in 1980 died between the\nages of 50 and 60? (in numerical value)",
+          "options": {},
+          "correct_answer": "40",
+          "explanation": "In 1980, age (20-30) If age (50-60) then year must be 2010. From given bar graph, in 2010, 145 females were alive in the age group 50-60. But in 2020, 105 females were alive in the age group 60-70. i.e. 145-105 = 40 females died when they were of (50-60) age."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-35",
+          "number": 35,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "There are only four neighbourhoods in a city - Levmisto, Tyhrmisto, Pesmisto and Kitmisto. During the onset of a pandemic, the\nnumber of new cases of a disease in each of these neighbourhoods was recorded over a period of five days. On each day, the\nnumber of new cases recorded in any of the neighbourhoods was either 0, 1, 2 or 3.\nThe following facts are also known:\n1. There was at least one new case in every neighbourhood on Day 1.\n2. On each of the five days, there were more new cases in Kitmisto than in Pesmisto.\n3. The number of new cases in the city in a day kept increasing during the five-day period. The number of new cases on Day 3\nwas exactly one more than that on Day 2.\n4. The maximum number of new cases in a day in Pesmisto was 2, and this happened only once during the five-day period.\n5. Kitmisto is the only place to have 3 new cases on Day 2.\n6. The total numbers of new cases in Levmisto, Tyhrmisto, Pesmisto and Kitmisto over the five-day period were 12, 12, 5 and 14\nrespectively.\nWhat BEST can be concluded about the total number of new cases in the city on Day 2?",
+          "options": {
+            "A": "Exactly 7",
+            "B": "Either 6 or 7",
+            "C": "Either 7 or 8",
+            "D": "Exactly 8"
+          },
+          "correct_answer": "D",
+          "explanation": "Let the denotation for Levmisto = L, Tyhrmisto = T, Pesmisto = P and Kitmisto = K The total number of new cases in the city over five-day period = 12 + 12 + 5 + 14 = 43 Since the new cases in the city kept on increasing every day with Day 3 is exactly one more case than Day 2, the only possibility of new cases for Day 1 = 5, Day 2 = 8, Day 3 = 9, Day 4 = 10 and Day 5 = 11, Total = 43 Further, there is at least one new case on Day 1 Only possibility for Day 1, L = 1 case, T = 1 case, P = 1 case and K = 2 cases, Total = 5 cases Also, K is the only place to have 3 new cases on Day 2 And to have total of 12 cases in each L and T Day 2 = 2 cases, Day 3 = 3 cases, Day 4 = 3 cases and Day 5 = 3 cases The rest of given information can be gathered as follows- LevmistoTyhrmistoPesmistoKitmistoTotal Day 1 1 1 1 2 5 Day 2 2 2 1 3 8 Day 3 3 3 0 3 9 Day 4 3 3 1 3 10 Day 5 3 3 2 3 11 Total 12 12 5 14 43 Now we are ready to answer the questions. The total number of new cases in the city on Day 2 = exactly 8"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-36",
+          "number": 36,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be concluded about the number of new cases in Levmisto on Day 3?",
+          "options": {
+            "A": "Exactly 2",
+            "B": "Exactly 3",
+            "C": "Either 0 or 1",
+            "D": "Either 2 or 3"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the denotation for Levmisto = L, Tyhrmisto = T, Pesmisto = P and Kitmisto = K The total number of new cases in the city over five-day period = 12 + 12 + 5 + 14 = 43 Since the new cases in the city kept on increasing every day with Day 3 is exactly one more case than Day 2, the only possibility of new cases for Day 1 = 5, Day 2 = 8, Day 3 = 9, Day 4 = 10 and Day 5 = 11, Total = 43 Further, there is at least one new case on Day 1 Only possibility for Day 1, L = 1 case, T = 1 case, P = 1 case and K = 2 cases, Total = 5 cases Also, K is the only place to have 3 new cases on Day 2 And to have total of 12 cases in each L and T Day 2 = 2 cases, Day 3 = 3 cases, Day 4 = 3 cases and Day 5 = 3 cases The rest of given information can be gathered as follows- LevmistoTyhrmistoPesmistoKitmistoTotal Day 1 1 1 1 2 5 Day 2 2 2 1 3 8 Day 3 3 3 0 3 9 Day 4 3 3 1 3 10 Day 5 3 3 2 3 11 Total 12 12 5 14 43 Now we are ready to answer the questions. The number of new cases in Levmisto on Day 3 = exactly 3"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-37",
+          "number": 37,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On which day(s) did Pesmisto not have any new case?",
+          "options": {
+            "A": "Only Day 3",
+            "B": "Both Day 2 and Day 3",
+            "C": "Only Day 2",
+            "D": "Both Day 2 and Day 4"
+          },
+          "correct_answer": "A",
+          "explanation": "Let the denotation for Levmisto = L, Tyhrmisto = T, Pesmisto = P and Kitmisto = K The total number of new cases in the city over five-day period = 12 + 12 + 5 + 14 = 43 Since the new cases in the city kept on increasing every day with Day 3 is exactly one more case than Day 2, the only possibility of new cases for Day 1 = 5, Day 2 = 8, Day 3 = 9, Day 4 = 10 and Day 5 = 11, Total = 43 Further, there is at least one new case on Day 1 Only possibility for Day 1, L = 1 case, T = 1 case, P = 1 case and K = 2 cases, Total = 5 cases Also, K is the only place to have 3 new cases on Day 2 And to have total of 12 cases in each L and T Day 2 = 2 cases, Day 3 = 3 cases, Day 4 = 3 cases and Day 5 = 3 cases The rest of given information can be gathered as follows- LevmistoTyhrmistoPesmistoKitmistoTotal Day 1 1 1 1 2 5 Day 2 2 2 1 3 8 Day 3 3 3 0 3 9 Day 4 3 3 1 3 10 Day 5 3 3 2 3 11 Total 12 12 5 14 43 Now we are ready to answer the questions. Only on Day 3, Pesmisto did not have any new case"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-38",
+          "number": 38,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the two statements below is/are necessarily false? Statement A: There were 2 new cases in Tyhrmisto on Day 3.\nStatement B: There were no new cases in Pesmisto on Day 2.",
+          "options": {
+            "A": "Statement B only",
+            "B": "Both Statement A and Statement B",
+            "C": "Neither Statement A nor Statement B",
+            "D": "Statement A only"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the denotation for Levmisto = L, Tyhrmisto = T, Pesmisto = P and Kitmisto = K The total number of new cases in the city over five-day period = 12 + 12 + 5 + 14 = 43 Since the new cases in the city kept on increasing every day with Day 3 is exactly one more case than Day 2, the only possibility of new cases for Day 1 = 5, Day 2 = 8, Day 3 = 9, Day 4 = 10 and Day 5 = 11, Total = 43 Further, there is at least one new case on Day 1 Only possibility for Day 1, L = 1 case, T = 1 case, P = 1 case and K = 2 cases, Total = 5 cases Also, K is the only place to have 3 new cases on Day 2 And to have total of 12 cases in each L and T Day 2 = 2 cases, Day 3 = 3 cases, Day 4 = 3 cases and Day 5 = 3 cases The rest of given information can be gathered as follows- LevmistoTyhrmistoPesmistoKitmistoTotal Day 1 1 1 1 2 5 Day 2 2 2 1 3 8 Day 3 3 3 0 3 9 Day 4 3 3 1 3 10 Day 5 3 3 2 3 11 Total 12 12 5 14 43 Now we are ready to answer the questions. Statement A: There were 2 new cases in Tyhrmisto on Day 3 False Statement B: There were no new cases in Pesmisto on Day 2 False Hence, both Statement a and Statement b are false"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-39",
+          "number": 39,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "On how many days did Levmisto and Tyhrmisto have the same number of new cases?",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "B",
+          "explanation": "Let the denotation for Levmisto = L, Tyhrmisto = T, Pesmisto = P and Kitmisto = K The total number of new cases in the city over five-day period = 12 + 12 + 5 + 14 = 43 Since the new cases in the city kept on increasing every day with Day 3 is exactly one more case than Day 2, the only possibility of new cases for Day 1 = 5, Day 2 = 8, Day 3 = 9, Day 4 = 10 and Day 5 = 11, Total = 43 Further, there is at least one new case on Day 1 Only possibility for Day 1, L = 1 case, T = 1 case, P = 1 case and K = 2 cases, Total = 5 cases Also, K is the only place to have 3 new cases on Day 2 And to have total of 12 cases in each L and T Day 2 = 2 cases, Day 3 = 3 cases, Day 4 = 3 cases and Day 5 = 3 cases The rest of given information can be gathered as follows- LevmistoTyhrmistoPesmistoKitmistoTotal Day 1 1 1 1 2 5 Day 2 2 2 1 3 8 Day 3 3 3 0 3 9 Day 4 3 3 1 3 10 Day 5 3 3 2 3 11 Total 12 12 5 14 43 Now we are ready to answer the questions. On all 5 days Levmisto and Tyhrmisto have the same number of new cases"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-40",
+          "number": 40,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Pulak, Qasim, Ritesh, and Suresh participated in a tournament comprising of eight rounds. In each round, they formed two\npairs, with each of them being in exactly one pair. The only restriction in the pairing was that the pairs would change in\n\nsuccessive rounds. For example, if Pulak formed a pair with Qasim in the first round, then he would have to form a pair with\nRitesh or Suresh in the second round. He would be free to pair with Qasim again in the third round. In each round, each pair\ndecided whether to play the game in that round or not. If they decided not to play, then no money was exchanged between\nthem. If they decided to play, they had to bet either Rs.1 or Rs.2 in that round. For example, if they chose to bet Rs.2, then the\nplayer winning the game got Rs.2 from the one losing the game.\nAt the beginning of the tournament, the players had Rs.10 each. The following table shows partial information about the\namounts that the players had at the end of each of the eight rounds. It shows every time a player had Rs.10 at the end of a\nround, as well as every time, at the end of a round, a player had either the minimum or the maximum amount that he would\nhave had across the eight rounds. For example, Suresh had Rs.10 at the end of Rounds 1, 3, and 8 and not after any of the other\nrounds. The maximum amount that he had at the end of any round was Rs.13 (at the end of Round 5), and the minimum\namount he had at the end of any round was Rs.8 (at the end of Round 2). At the end of all other rounds, he must have had\neither Rs.9, Rs.11, or Rs.12.\nIt was also known that Pulak and Qasim had the same amount of money with them at the end of Round 4.\nPulak Qasim Ritesh Suresh\nRound 1 Rs.8 Rs.10 Rs.10\nRound 2 Rs.13 Rs.10 Rs.8\nRound 3 Rs.10\nRound 4\nRound 5 Rs.10 Rs.10 Rs.13\nRound 6\nRound 7 Rs.12 Rs.4\nRound 8 Rs.13 Rs.10\nWhat BEST can be said about the amount of money that Ritesh had with him at the end of Round 8?",
+          "options": {
+            "A": "Rs. 5 or Rs. 6",
+            "B": "Rs. 4 or Rs. 5",
+            "C": "Exactly Rs. 6",
+            "D": "Exactly Rs. 5"
+          },
+          "correct_answer": "C",
+          "explanation": "Since the total amount among them = Rs.40 Some of the values can be distributed as follows. PulakQasimRiteshSureshTotalPlayers Grouping BeginningRs.10Rs.10 Rs.10 Rs.10 Rs.40 + 2 - 2 0 0 P and Q R and S Round 1 Rs.12Rs.8 Rs.10 Rs.10 Rs.40 + 1 + 2 - 1 - 2 P and R Q and S Round 2 Rs.13 Rs.10 Rs.9 Rs.8 Rs.40 - 1 + 1 - 2 + 2 P and Q R and S Rs.12Rs.11 Rs.7 Rs.10 Rs.40 Round 3 - 2 + 1 - 1 + 2 P and S R and Q Rs.11Rs.11 Rs.8 Rs.10 Rs.40 0 0 - 2 + 2 P and Q R and S Round 4 Rs.11Rs.11 Rs.6 Rs.12 Rs.40 - 1 - 1 + 1 + 1 P and S Q and R Round 5 Rs.10 Rs.10 Rs.7 Rs.13 Rs.40 + 2 + 1 - 2 - 1 P and R Q and S Round 6 Rs.12Rs.11 Rs.5 Rs.12 Rs.40 0 + 1 - 1 0 P and S Q and R Round 7 Rs.12Rs.12 Rs.4 Rs.12 Rs.40 Round 8 + 1 - 1 + 2 - 2 P and Q R and S Rs.13 Rs.11 Rs.6 Rs.10 Rs.40 Now we can answer the questions. Rs.4 is the minimum amount Ritesh has in any round, so he must have won in Round 8 and gained Rs.2. hence, the amount of money that Ritesh had with him at the end of Round 8 = 4 + 2 = Rs.6"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-41",
+          "number": 41,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "What BEST can be said about the amount of money that Pulak had with him at the end of Round 6?",
+          "options": {
+            "A": "Rs. 11 or Rs. 12",
+            "B": "Rs. 12 or Rs. 13",
+            "C": "Exactly Rs. 11",
+            "D": "Exactly Rs. 12"
+          },
+          "correct_answer": "D",
+          "explanation": "Since the total amount among them = Rs.40 Some of the values can be distributed as follows. PulakQasimRiteshSureshTotalPlayers Grouping BeginningRs.10Rs.10 Rs.10 Rs.10 Rs.40 + 2 - 2 0 0 P and Q R and S Round 1 Rs.12Rs.8 Rs.10 Rs.10 Rs.40 + 1 + 2 - 1 - 2 P and R Q and S Round 2 Rs.13 Rs.10 Rs.9 Rs.8 Rs.40 - 1 + 1 - 2 + 2 P and Q R and S Rs.12Rs.11 Rs.7 Rs.10 Rs.40 Round 3 - 2 + 1 - 1 + 2 P and S R and Q Rs.11Rs.11 Rs.8 Rs.10 Rs.40 0 0 - 2 + 2 P and Q R and S Round 4 Rs.11Rs.11 Rs.6 Rs.12 Rs.40 - 1 - 1 + 1 + 1 P and S Q and R Round 5 Rs.10 Rs.10 Rs.7 Rs.13 Rs.40 + 2 + 1 - 2 - 1 P and R Q and S Round 6 Rs.12Rs.11 Rs.5 Rs.12 Rs.40 0 + 1 - 1 0 P and S Q and R Round 7 Rs.12Rs.12 Rs.4 Rs.12 Rs.40 Round 8 + 1 - 1 + 2 - 2 P and Q R and S Rs.13 Rs.11 Rs.6 Rs.10 Rs.40 Now we can answer the questions. The money Suresh had in Round 5 = Rs.13 (maximum) and in Round 7 = Rs.12 The only possible way to reach such value is by losing Rs.1 in Round 6 and gaining 0 in Round 7 Also, the money Ritesh had in Round 5 = Rs.7 and in Round 7 = Rs.4 The only possible way to reach such value is by losing Rs.2 in Round 6 and losing Rs.1 in Round 7 Considering that, the amount of money that Pulak had with him at the end of Round 6 = Rs.10 + 2 = Rs.12"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-42",
+          "number": 42,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How much money (in Rs.) did Ritesh have at the end of Round 4? (in numerical value)",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "Since the total amount among them = Rs.40 Some of the values can be distributed as follows. PulakQasimRiteshSureshTotalPlayers Grouping BeginningRs.10Rs.10 Rs.10 Rs.10 Rs.40 + 2 - 2 0 0 P and Q R and S Round 1 Rs.12Rs.8 Rs.10 Rs.10 Rs.40 + 1 + 2 - 1 - 2 P and R Q and S Round 2 Rs.13 Rs.10 Rs.9 Rs.8 Rs.40 Round 3 - 1 + 1 - 2 + 2 P and Q R and S Rs.12Rs.11 Rs.7 Rs.10 Rs.40 - 2 + 1 - 1 + 2 P and S R and Q Rs.11Rs.11 Rs.8 Rs.10 Rs.40 0 0 - 2 + 2 P and Q R and S Round 4 Rs.11Rs.11 Rs.6 Rs.12 Rs.40 - 1 - 1 + 1 + 1 P and S Q and R Round 5 Rs.10 Rs.10 Rs.7 Rs.13 Rs.40 + 2 + 1 - 2 - 1 P and R Q and S Round 6 Rs.12Rs.11 Rs.5 Rs.12 Rs.40 0 + 1 - 1 0 P and S Q and R Round 7 Rs.12Rs.12 Rs.4 Rs.12 Rs.40 Round 8 + 1 - 1 + 2 - 2 P and Q R and S Rs.13 Rs.11 Rs.6 Rs.10 Rs.40 Now we can answer the questions. The money (in Rs.) Ritesh had at the end of Round 4 = Rs.6"
+        },
+        {
+          "id": "cat-2022-slot3-dilr-43",
+          "number": 43,
+          "section": "DILR",
+          "type": "TITA",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "How many games were played with a bet of Rs. 2? (in numerical value)",
+          "options": {},
+          "correct_answer": "6",
+          "explanation": "Since the total amount among them = Rs.40 Some of the values can be distributed as follows. PulakQasimRiteshSureshTotalPlayers Grouping BeginningRs.10Rs.10 Rs.10 Rs.10 Rs.40 + 2 - 2 0 0 P and Q R and S Round 1 Rs.12Rs.8 Rs.10 Rs.10 Rs.40 + 1 + 2 - 1 - 2 P and R Q and S Round 2 Rs.13 Rs.10 Rs.9 Rs.8 Rs.40 - 1 + 1 - 2 + 2 P and Q R and S Rs.12Rs.11 Rs.7 Rs.10 Rs.40 Round 3 - 2 + 1 - 1 + 2 P and S R and Q Rs.11Rs.11 Rs.8 Rs.10 Rs.40 0 0 - 2 + 2 P and Q R and S Round 4 Rs.11Rs.11 Rs.6 Rs.12 Rs.40 - 1 - 1 + 1 + 1 P and S Q and R Round 5 Rs.10 Rs.10 Rs.7 Rs.13 Rs.40 + 2 + 1 - 2 - 1 P and R Q and S Round 6 Rs.12Rs.11 Rs.5 Rs.12 Rs.40 0 + 1 - 1 0 P and S Q and R Round 7 Rs.12Rs.12 Rs.4 Rs.12 Rs.40 Round 8 + 1 - 1 + 2 - 2 P and Q R and S Rs.13 Rs.11 Rs.6 Rs.10 Rs.40 Now we can answer the questions. 6 games were played with a bet of Rs.2."
+        },
+        {
+          "id": "cat-2022-slot3-dilr-44",
+          "number": 44,
+          "section": "DILR",
+          "type": "MCQ",
+          "directions": "Read the information given below and answer the question that follows.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Which of the following pairings was made in Round 5? (in numerical value)",
+          "options": {
+            "A": "Pulak and Suresh",
+            "B": "Qasim and Suresh",
+            "C": "Pulak and Qasim",
+            "D": "Pulak and Ritesh"
+          },
+          "correct_answer": "A",
+          "explanation": "Since the total amount among them = Rs.40 Some of the values can be distributed as follows. PulakQasimRiteshSureshTotalPlayers Grouping BeginningRs.10Rs.10 Rs.10 Rs.10 Rs.40 + 2 - 2 0 0 P and Q R and S Round 1 Rs.12Rs.8 Rs.10 Rs.10 Rs.40 + 1 + 2 - 1 - 2 P and R Q and S Round 2 Rs.13 Rs.10 Rs.9 Rs.8 Rs.40 - 1 + 1 - 2 + 2 P and Q R and S Rs.12Rs.11 Rs.7 Rs.10 Rs.40 Round 3 - 2 + 1 - 1 + 2 P and S R and Q Rs.11Rs.11 Rs.8 Rs.10 Rs.40 0 0 - 2 + 2 P and Q R and S Round 4 Rs.11Rs.11 Rs.6 Rs.12 Rs.40 - 1 - 1 + 1 + 1 P and S Q and R Round 5 Rs.10 Rs.10 Rs.7 Rs.13 Rs.40 + 2 + 1 - 2 - 1 P and R Q and S Round 6 Rs.12Rs.11 Rs.5 Rs.12 Rs.40 Round 7 0 + 1 - 1 0 P and S Q and R Rs.12Rs.12 Rs.4 Rs.12 Rs.40 Round 8 + 1 - 1 + 2 - 2 P and Q R and S Rs.13 Rs.11 Rs.6 Rs.10 Rs.40 Now we can answer the questions. Pulak and Suresh made a pair in round 5. Section : Quantitative Ability"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Quantitative Ability",
+      "duration_minutes": 40,
+      "questions": [
+        {
+          "id": "cat-2022-slot3-qa-45",
+          "number": 45,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A group of N people worked on a project. They finished 35% of the project by working 7 hours a day for 10 days. Thereafter, 10\npeople left the group and the remaining people finished the rest of the project in 14 days by working 10 hours a day. Then the\nvalue of N is",
+          "options": {
+            "A": "140",
+            "B": "36",
+            "C": "23",
+            "D": "150"
+          },
+          "correct_answer": "A",
+          "explanation": "Now, in given question, M = N M = N - 10 1 2 D = 10D = 14 1 2 H = 7 H = 10 1 2 W = 35W = 65 1 2"
+        },
+        {
+          "id": "cat-2022-slot3-qa-46",
+          "number": 46,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A donation box can receive only cheques of Rs.100, Rs.250, and Rs.500. On one good day, the donation box was found to\ncontain exactly 100 cheques amounting to a total sum of Rs.15250. Then, the maximum possible number of cheques of Rs.500\nthat the donation box may have contained, is (in numerical value)",
+          "options": {},
+          "correct_answer": "12",
+          "explanation": "Let us assume Given x + y + z = 100 ; 100x + 250y + 500z = 15250 Eliminating x, we get 3y + 8z = 105 We want to maximise z. If we take z = 12, y = 3 No other value of z which is greater than 12 will satisfy equation. So, answer is 12."
+        },
+        {
+          "id": "cat-2022-slot3-qa-47",
+          "number": 47,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The arithmetic mean of all the distinct numbers that can be obtained by rearranging the digits in 1421, including itself, is",
+          "options": {
+            "A": "2592",
+            "B": "2442",
+            "C": "3333",
+            "D": "2222"
+          },
+          "correct_answer": "D",
+          "explanation": "We know that if N is an n-digit number containing digit A (a times, say), B (b times, say) then"
+        },
+        {
+          "id": "cat-2022-slot3-qa-48",
+          "number": 48,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Moody takes 30 seconds to finish riding an escalator if he walks on it at his normal speed in the same direction. He takes 20\nseconds to finish riding the escalator if he walks at twice his normal speed in the same direction. If Moody decides to stand still\non the escalator, then the time, in seconds, needed to finish riding the escalator is (in numerical value)",
+          "options": {},
+          "correct_answer": "60",
+          "explanation": "Let S = steps taken by moody in a second when escalator is not moving’ m S = step taken by escalator in a second. e Let N = number of steps visible when escalator is not moving So, required time = 60 seconds"
+        },
+        {
+          "id": "cat-2022-slot3-qa-49",
+          "number": 49,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The lengths of all four sides of a quadrilateral are integer valued. If three of its sides are of length 1 cm, 2 cm and 4 cm, then the\ntotal number of possible lengths of the fourth side is",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "3"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum of the three sides of a quadrilateral is greater than the fourth side. Therefore, let the fourth side be 1 + 2 + 4 > x or x < 7 1 + 2 + x > 4 or x > 1 Possible values of d are 2, 3, 4, 5 and 6."
+        },
+        {
+          "id": "cat-2022-slot3-qa-50",
+          "number": 50,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "B) 2",
+            "C": "-2",
+            "D": ""
+          },
+          "correct_answer": "B",
+          "explanation": "So, Ans. is 2nd option i.e. 2"
+        },
+        {
+          "id": "cat-2022-slot3-qa-51",
+          "number": 51,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose the medians BD and CE of a triangle ABC intersect at a point O. If area of triangle ABC is 108 sq. cm., then, the area of\nthe triangle EOD, in sq. cm., is (in numerical value)",
+          "options": {},
+          "correct_answer": "9",
+          "explanation": "We know that median always divides the into two equal parts area wise. So, ∆ABD’s Area = If we consider ∆ABD, ED is median Since O is centroid and divides median in 2 : 1."
+        },
+        {
+          "id": "cat-2022-slot3-qa-52",
+          "number": 52,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Bob can finish a job in 40 days, if he works alone. Alex is twice as fast as Bob and thrice as fast as Cole in the same job. Suppose\nAlex and Bob work together on the first day, Bob and Cole work together on the second day, Cole and Alex work together on\nthe third day, and then, they continue the work by repeating this three- day roster, with Alex and Bob working together on the\nfourth day, and so on. Then, the total number of days Alex would have worked when the job gets finished, is (in numerical\nvalue)",
+          "options": {},
+          "correct_answer": "11",
+          "explanation": "B can finish job in 40 days. Since A is twice as fast as B. Since A can finish job in 20 days. Similarly C can finish job in 60 days. Let us assume total work is 120 unit So, A’s 1 day work = 6 u B’s 1 day work = 3 u C’s 1 day work = 2 u Order of their working is, AB, BC, CA, AB, BC, CA, ------------ In span of 3 days, work done = 2 (6 + 3 + 2) = 22 u. So, In span of 15 (i.e. 3 × 5) days, work done = 22 × 5 = 110 u. On 16th day, AB together will do 9 units of work. On 17th day, BC will work together to finish remaining 1 unit of work. So, in these 17 days, A will work for 2 × 5 + 1 = 11 days."
+        },
+        {
+          "id": "cat-2022-slot3-qa-53",
+          "number": 53,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Then, the equation f(x) = f(f(x)) holds for all real values of x where.",
+          "options": {
+            "A": "x ≤ r",
+            "B": "x ≥ r",
+            "C": "x ≠ r",
+            "D": "x > r"
+          },
+          "correct_answer": "A",
+          "explanation": "We will go by option: Let us check at x = r f (f(x)) = f (2x - r) (by definition) = f (2x - r) = f (r) = 2x - r = r = f (x) So, f (f(x)) = f (x) when x = r. So, option (3) & (4) are out. Now let us assume x < r f (f(x)) = f ® (by definition) = 2r - r (Since r = r) = r = f(x) So, option (1) is answer"
+        },
+        {
+          "id": "cat-2022-slot3-qa-54",
+          "number": 54,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In a triangle ABC, AB = AC = 8cm. A circle drawn with BC as diameter passes through A. Another circle drawn with center at A\npasses through B and C. Then the area, in sq. cm, of the overlapping region between the two circles is",
+          "options": {
+            "A": "32 (π - 1)",
+            "B": "32π",
+            "C": "16 (π - 1)",
+            "D": "16π"
+          },
+          "correct_answer": "A",
+          "explanation": "Since ABC is an isosceles Area of Semi - circle with Area of the segment BEOC = Area of sector - Area of ∆ ABC So, area of the overlapping region = 16π + 16π - 32 = 32 (π - 1)"
+        },
+        {
+          "id": "cat-2022-slot3-qa-55",
+          "number": 55,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A glass contains 500 cc of milk and a cup contains 500 cc of water. From the glass, 150 cc of milk is transferred to the cup and\nmixed thoroughly. Next, 150 cc of this mixture is transferred from the cup to the glass. Now, the amount of water in the glass\nand the amount of milk in the cup are in the ratio",
+          "options": {
+            "A": "10 : 3",
+            "B": "1 : 1",
+            "C": "3 : 10",
+            "D": "10 : 13"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2022-slot3-qa-56",
+          "number": 56,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "for all non-zero real values of a and b, then the value of x + y is (in numerical value)",
+          "options": {},
+          "correct_answer": "14",
+          "explanation": "If we compare alike bases, we get 6x - y = y - 6x ⇒ y = 6x. ---(2) Put (2) in (1), x = 2, y = 12. So, x + y = 14."
+        },
+        {
+          "id": "cat-2022-slot3-qa-57",
+          "number": 57,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "In an examination, the average marks of students in sections A and B are 32 and 60, respectively. The number of students in\nsection A is 10 less than that in section B. If the average marks of all the students across both the sections combined is an\ninteger, then the difference between the maximum and minimum possible number of students in section A is (in numerical\nvalue)",
+          "options": {},
+          "correct_answer": "63",
+          "explanation": "Given No. Avg. of students A 32 x B 60 x + 10 So, x + 5 is a factor of 70. x + 5 = 70 (Max), 7 (Min) x = 65 (Max), 2 (Min) Required difference = 65 - 2 = 63."
+        },
+        {
+          "id": "cat-2022-slot3-qa-58",
+          "number": 58,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Suppose k is any integer such that the equation 2x2 + kx + 5 = 0 has no real roots and the equation x2 + (k - 5) x + 1 = 0 has\ntwo distinct real roots for x. Then, the number of possible values of k is",
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "7",
+            "D": "13"
+          },
+          "correct_answer": "B",
+          "explanation": "2x2 + kx + 5 = 0 has no real roots. So, D < 0 ⇒ k2 - 40 < 0 ⇒ k2 40 ⇒ k ≤ 6 (∵ k is an integer) ---(1) Also, x2 + (k - 5) x + 1 = 0 has 2 distinct real roots. So, D > 0 ⇒ (k - 5)2 - 4 × 1 × 1 > 0 ⇒ k2 - 10 k + 21 > 0 ⇒ (k - 3) (k - 7) > 0 ⇒ k < 3 or k > 7 ---(2) So, k = 2, 1, 0, -1, -2, -3, -4, -5, -6 i.e. 9 values."
+        },
+        {
+          "id": "cat-2022-slot3-qa-59",
+          "number": 59,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two ships are approaching a port along straight routes at constant speeds. Initially, the two ships and the port formed an\nequilateral triangle with sides of length 24 km. When the slower ship travelled 8 km, the triangle formed by the new positions\nof the two ships and the port became right-angled. When the faster ship reaches the port, the distance, in km, between the\nother ship and the port will be",
+          "options": {
+            "A": "12",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "A",
+          "explanation": "Starting stage of ships = Let ship x is slower than ship Y When ship x has travelled 8 kms., P x‘y’ becomes right angled ∆. Of course, P X’ > P Y’ So, ∠P Y’X’ = 90° PY’ = 8 (By manipulating 30° - 60° - 90° combination) i.e. ship Y has covered 24 - 8 = 16 kms. So ratio of their speeds is 2 : 1 When ship Y will reach the port P (i.e. 8 kms); ship X must have covered 4 kms. So, remaining distance = 24 - (8 + 4) = 12 kms"
+        },
+        {
+          "id": "cat-2022-slot3-qa-60",
+          "number": 60,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "A school has less than 5000 students and if the students are divided equally into teams of either 9 or 10 or 12 or 25 each,\nexactly 4 are always left out. However, if they are divided into teams of 11 each, no one is left out. The maximum number of\nteams of 12 each that can be formed out of the students in the school is (in numerical value)",
+          "options": {},
+          "correct_answer": "150",
+          "explanation": "By looking at the first line of the question, we can say number of students should be of type 9k + 4, 10m + 4, 12l + 4, 25 s + 4 & 11 t. So, let us try to find the number which when divided by 9, 10, 12 or 25 is leaving remainder 4. i.e. number should be of type p (LCM (9, 10, 12, 25)) + 4 = 900 p + 4 = 891 p + (9p + 4) i.e. 9p + 4 should be divisible by 11. ⇒ p = 2, 13, 24, ----------------- The greatest number of student is 1804. So at the most 15 teams can be made."
+        },
+        {
+          "id": "cat-2022-slot3-qa-61",
+          "number": 61,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Two cars travel from different locations at constant speeds. To meet each other after starting at the same time, they take 1.5\nhours if they travel towards each other, but 10.5 hours if they travel in the same direction. If the speed of the slower car is 60\nkm/hr, then the distance traveled, in km, by the slower car when it meets the other car while traveling towards each other, is",
+          "options": {
+            "A": "90",
+            "B": "100",
+            "C": "150",
+            "D": "120"
+          },
+          "correct_answer": "A",
+          "explanation": "Given speed of slower car = 60 kmph. It is given that both cars took 1.5 hours to meet if travelling towards each other. So, Required distance = 60 × 1.5 = 90 kms."
+        },
+        {
+          "id": "cat-2022-slot3-qa-62",
+          "number": 62,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Consider six distinct natural numbers such that the average of the two smallest numbers is 14, and the average of the two\nlargest numbers is 28. Then, the maximum possible value of the average of these six numbers is",
+          "options": {
+            "A": "22.5",
+            "B": "24",
+            "C": "23",
+            "D": "23.5"
+          },
+          "correct_answer": "A",
+          "explanation": "Let a < b < c < d < e < f be 6 distinct natural numbers. Given e + f = 56, a + b = 28 If average of all 6 numbers to be maximised, c & d has to be maximum i.e. ‘e’ has to be maximum. So, e = 27, f = 29. Therefore, we can take d = 26, 25 = c"
+        },
+        {
+          "id": "cat-2022-slot3-qa-63",
+          "number": 63,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "for some non-zero real numbers x and y, then c cannot take the value",
+          "options": {
+            "A": "-70",
+            "B": "60",
+            "C": "-50",
+            "D": "-60"
+          },
+          "correct_answer": "C",
+          "explanation": "So, equation becomes, 16s2 - & C + 49 = 0 Since x & y are real & non - zero, is also Real D = b2 - 4ac ≥ 0 ⇒ C2 - 4 × 16 × 49 ≥ 0 ⇒ C2 ≥ (2 × 4 × 7)2 ⇒ C ≤ - 56 or C ≥ 56 So, - 50 is not possible option 3 is the answer"
+        },
+        {
+          "id": "cat-2022-slot3-qa-64",
+          "number": 64,
+          "section": "QA",
+          "type": "TITA",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "The average of all 3-digit terms in the arithmetic progression 38, 55, 72, ..., is (in numerical value)",
+          "options": {},
+          "correct_answer": "548",
+          "explanation": "All the terms in given A.P are of the form (17 k + 4) where k = 2, 3, 4 ………. We can observe k = 16 will give first 3 digited term of the given AP. So, 106 will be the first term. Let us find greatest 3 digit term of the given A.P 999 when divided by 17 gives remainder 13. So, 986 is the greatest 3 digit number which is divisible by 17. i.e. 986 + 4 = 990 is the required number. So, said sum will be the A.P 106, 123, ………, 990"
+        },
+        {
+          "id": "cat-2022-slot3-qa-65",
+          "number": 65,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "",
+          "options": {
+            "A": "1",
+            "B": "3",
+            "C": "0",
+            "D": "4"
+          },
+          "correct_answer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "cat-2022-slot3-qa-66",
+          "number": 66,
+          "section": "QA",
+          "type": "MCQ",
+          "directions": "Solve the following question and mark the best possible option.",
+          "passage": "",
+          "passage_group": null,
+          "question": "Nitu has an initial capital of Rs. 20,000. Out of this, she invests Rs. 8,000 at 5.5% in bank A, Rs. 5,000 at 5.6% in bank B and the\nremaining amount at x% in bank C, each rate being simple interest per annum. Her combined annual interest income from\nthese investments is equal to 5% of the initial capital. If she had invested her entire initial capital in back C alone, then her\nannual interest income, in rupees, would have been",
+          "options": {
+            "A": "800",
+            "B": "700",
+            "C": "1000",
+            "D": "900"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        }
+      ]
+    }
+  }
+}
